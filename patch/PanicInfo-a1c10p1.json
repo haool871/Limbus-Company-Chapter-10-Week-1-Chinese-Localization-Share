@@ -1,0 +1,46 @@
+{
+  "dataList": [
+    {
+      "id": 1098,
+      "panicName": "蜕下这层皮！",
+      "lowMoraleDescription": "防御等级-3，攻击等级+1",
+      "panicDescription": "防御等级-5，攻击等级+2"
+    },
+    {
+      "id": 1099,
+      "panicName": "缩回壳里……",
+      "lowMoraleDescription": "最大速度值-1，防御等级+1",
+      "panicDescription": "最大速度值-5，防御等级+3"
+    },
+    {
+      "id": 1102,
+      "panicName": "向往烹饪",
+      "lowMoraleDescription": "每带有1层自身的[SapsareeHungry]，使自身的攻击等级+1且受到的伤害+3%",
+      "panicDescription": "每带有1层自身的[SapsareeHungry]，使自身的攻击等级+2且受到的伤害+5%"
+    },
+    {
+      "id": 1104,
+      "panicName": "FOMO",
+      "lowMoraleDescription": "每失去自身的20%体力，使自身的攻击等级+1(最多+2)\n使自身获得1层[Vulnerable]",
+      "panicDescription": "每失去自身的20%体力，使自身的攻击等级+1(最多+2)\n使自身获得1层[Vulnerable]"
+    },
+    {
+      "id": 1105,
+      "panicName": "凌乱的缝线",
+      "lowMoraleDescription": "回合开始时，使自身获得1层[Reduction]",
+      "panicDescription": "回合开始时，使自身获得1层[Reduction]与1层[AttackDmgDown]"
+    },
+    {
+      "id": 1109,
+      "panicName": "死亡循环",
+      "lowMoraleDescription": "使自身获得3层[Protection]",
+      "panicDescription": "使自身获得5层[Protection]"
+    },
+    {
+      "id": 1121,
+      "panicName": "内在分裂",
+      "lowMoraleDescription": "防御等级-3，攻击等级+3\n与带有5层[BloodyMucus]的目标拼点时，拼点威力+2",
+      "panicDescription": "防御等级-5，攻击等级+3\n使自身造成的伤害+10%\n与带有不低于3层[BloodyMucus]的目标拼点时，拼点威力+3"
+    }
+  ]
+}

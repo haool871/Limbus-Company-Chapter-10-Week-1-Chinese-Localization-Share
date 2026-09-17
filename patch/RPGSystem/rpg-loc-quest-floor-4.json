@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "key": "Q4001",
+      "title": "前往4F",
+      "description": "多亏3F的Le Noir们，我们拿到了正品认证书。他们说，其他Le Noir也会像对待他们一样热情地招待我们——据说还是那种奢华款待。但愿这能让我们在百货店里走动时方便一些。\n\n现在，上楼去4F吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "乘自动扶梯前往4F"
+        }
+      ]
+    },
+    {
+      "key": "Q4002",
+      "title": "探索4F",
+      "description": "我们来到了4F。这里会有什么稀奇古怪的店呢？先从右侧走廊那边看起吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "探索4F"
+        }
+      ]
+    },
+    {
+      "key": "Q4003",
+      "title": "探索4F（2）",
+      "description": "Le Noir鞋履馆的店员单足，跟我们讲了一把能撕裂一切面料的传说武器。\n总之，先离开Le Noir鞋履馆，把4F剩下的地方探索完。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与单足谈完话"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "探索4F",
+          "goalDescription2": "与弧形落地灯交谈"
+        }
+      ]
+    },
+    {
+      "key": "Q4004",
+      "title": "见见家具馆的主人",
+      "description": "这里就是“家具馆”啊。\n我们搭过话的那盏弧形落地灯，请求我们给它带来一套“最时髦、最合身”的衣服。去见见家具馆的主人吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与家具馆的主人交谈"
+        }
+      ]
+    },
+    {
+      "key": "Q4005",
+      "title": "把新衣服交给弧形落地灯",
+      "description": "家具馆的主人“幸福衣柜”敞开自己，让我们看到从它体内垂下的几件物件。我们挑了一套看起来还算合适的——现在，把这带给弧形落地灯吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "把新衣服带给弧形落地灯"
+        }
+      ]
+    },
+    {
+      "key": "Q4006",
+      "title": "从幸福衣柜再取些衣服",
+      "description": "看到弧形落地灯得到了一件衣服，其他家具可不太高兴。回幸福衣柜去，给剩下的家具也各挑一件衣服吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "从幸福衣柜再取几件衣服"
+        }
+      ]
+    },
+    {
+      "key": "Q4007",
+      "title": "把衣服交给各件家具",
+      "description": "从幸福衣柜挑好了几件衣服。接下来，把它们送到各件家具那里。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "送给挂骨架",
+          "goalDescription2": "送给柔软皮床",
+          "goalDescription3": "送给剥制皮革窗帘",
+          "goalDescription4": "送给红垫凳",
+          "goalDescription5": "送给皮肉沙发",
+          "goalDescription6": "送给双生灯"
+        }
+      ]
+    },
+    {
+      "key": "Q4008",
+      "title": "回到幸福衣柜",
+      "description": "确认了每件怒气冲冲的家具都拿到了自己的衣服。该回幸福衣柜去了。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "回到幸福衣柜"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "家具们正在把幸福衣柜撕成碎片。"
+        }
+      ]
+    },
+    {
+      "key": "Q4013",
+      "title": "与弧形落地灯交谈",
+      "description": "幸福衣柜连心都被掏了出来，彻底静止不动了。离开家具馆之前，或许该先跟弧形落地灯谈谈。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与弧形落地灯交谈"
+        }
+      ]
+    },
+    {
+      "key": "Q4009",
+      "title": "前往地下楼层",
+      "description": "按照我们弄到的配方，得先取得这个“黄金茧”，才能进而拿到黄金线。\n\n前往B1F取得黄金茧，再继续往下到B2F吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "乘自动扶梯前往B1F"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "探索B1F"
+        }
+      ]
+    }
+  ]
+}

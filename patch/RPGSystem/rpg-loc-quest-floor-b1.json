@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "key": "Q-1000",
+      "title": "A1：前往地下1层",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往B1F 美食馆"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "讨论美食馆"
+        }
+      ]
+    },
+    {
+      "key": "Q-1001",
+      "title": "前往B2F",
+      "description": "布歇给我们做了一道叫“黄金茧”的“菜”。接下来，得找到通往B2F的路。\n\n从我们刚才穿过的那条走廊，找找下去的路吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "下到B2F"
+        }
+      ]
+    },
+    {
+      "key": "Q-1002",
+      "title": "寻找向下的自动扶梯",
+      "description": "我们来到一个满是自动扶梯的房间，不知道它们都通向哪里。调查一下这些自动扶梯，找出能通往B2F的那一部吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "调查自动扶梯"
+        }
+      ]
+    },
+    {
+      "key": "Q-1003",
+      "title": "前往美食广场",
+      "description": "我们下到了B1F。这里的感觉确实和上面几层不同……\n要找黄金茧的话，大概得去那个叫“美食广场”的地方。先找找地上画着的蜗牛壳图案吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往美食广场"
+        }
+      ]
+    },
+    {
+      "key": "Q-1004",
+      "title": "追上副主厨！",
+      "description": "我们遇到了一个叫“副主厨”的人。她说她在一个叫布歇的人的储藏室里见过黄金茧。\n追上副主厨，问清黄金茧的事吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "追上副主厨！"
+        }
+      ]
+    },
+    {
+      "key": "Q-1005",
+      "title": "拜访布歇",
+      "description": "副主厨跟我们讲了B1F楼层经理布歇的事。找到布歇，问问他有没有办法把黄金茧让给我们。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "拜访布歇"
+        }
+      ]
+    },
+    {
+      "key": "Q-1006",
+      "title": "带回猎物的沉思",
+      "description": "布歇说他愿意让出黄金茧……但条件是要用一块叫“猎物的沉思”的肉来换，那块肉就挂在生肉区的某处。\n\n找到那块肉，把它交给布歇吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "带回猎物的沉思"
+        }
+      ]
+    },
+    {
+      "key": "Q-1008",
+      "title": "返回自动扶梯大厅",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "返回自动扶梯大厅对话"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "에스컬레이터실 복귀 대화"
+        }
+      ]
+    },
+    {
+      "key": "Q-1009",
+      "title": "定义自动扶梯",
+      "description": "按让娜那些隐晦的提示，我们不该去找一部通往楼下的自动扶梯……而是要“定义”出一部。默尔索给了我三个选项——梯子、山丘，或是鞋。\n\n我该让他把自动扶梯定义成哪一个？",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "定义自动扶梯：梯子、山丘，还是鞋？"
+        }
+      ]
+    },
+    {
+      "key": "Q-1010",
+      "title": "启动自动扶梯",
+      "description": "미사용",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        }
+      ]
+    },
+    {
+      "key": "Q-1011",
+      "title": "乘自动扶梯下去",
+      "description": "미사용",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        }
+      ]
+    }
+  ]
+}

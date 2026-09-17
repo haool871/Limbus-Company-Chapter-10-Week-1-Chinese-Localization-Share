@@ -1,0 +1,266 @@
+{
+  "dataList": [
+    {
+      "id": 146501,
+      "name": "Le Noir：面料",
+      "desc": "关卡开始时：使自身获得5层[NoirBindArmor]\n回合开始时：使自身获得相当于体力上限([NoirBindArmor]层数)%的护盾",
+      "flavor": "Le Noir的精纺毛料如铠甲般包裹身体，以坚实而不变形的轮廓修饰穿着者的身形。"
+    },
+    {
+      "id": 146502,
+      "name": "引导顾客",
+      "desc": "目标每带有1层[NoirNoComply]，对其造成的伤害+10%，且受到其造成的伤害+10%\n对带有3层[NoirNoComply]的目标造成的伤害+200%",
+      "flavor": "Le Noir严格按照总公司的管理规程，为尊贵的顾客服务。"
+    },
+    {
+      "id": 146503,
+      "name": "保存",
+      "desc": "本场战斗中自身每累计消耗3层[ChargeNoir]，使自身获得1层[NoirBindArmor]\n本场战斗中自身每累计消耗10层[ChargeNoir]，使自身获得1级[ChargeNoir]强度",
+      "flavor": "将力量压缩、聚集，并固定于原地。有时，阻止改变所需的力量比引发改变更大。"
+    },
+    {
+      "id": 146603,
+      "name": "代谢作用与反作用",
+      "desc": "首次进入本场战斗时，使自身获得10层[ChargeRouge]\n\n本场战斗中自身每累计消耗10层[ChargeRouge]，使自身获得1级[ChargeRouge]强度"
+    },
+    {
+      "id": 149401,
+      "name": "Le Rouge：夹克",
+      "desc": "回合结束时：使自身获得或失去最多10层[ChargeRouge]\n\n受到攻击时，若攻击者使用了可获得[Charge]的技能，则将自身的1层[ChargeRouge]作为[Charge]层数转移给攻击者(攻击者的每个技能1次)\n上述效果每次触发时，使自身获得1层[AttackUp]\n回合开始时：消耗自身超出15层的[ChargeRouge]层数最多5层，使自身恢复(消耗的[ChargeRouge]层数)%的体力"
+    },
+    {
+      "id": 149402,
+      "name": "肌纤维牛仔",
+      "desc": "自身每带有1级[ChargeRouge]强度，技能造成的伤害+1%(最多+10%)\n\n使用技能时，若自身体力低于50%，则该技能获得的[ChargeRouge]层数额外+2\n自身每失去1%的体力，技能造成的伤害+1%"
+    },
+    {
+      "id": 149301,
+      "name": "Le Rouge：夹克",
+      "desc": "回合结束时：使自身获得或失去最多10层[ChargeRouge]\n\n受到攻击时，若攻击者使用了可获得[Charge]的技能，则将自身的1层[ChargeRouge]作为[Charge]层数转移给攻击者(攻击者的每个技能1次)\n上述效果每次触发时，使自身获得1层[AttackUp]"
+    },
+    {
+      "id": 149302,
+      "name": "拼命",
+      "desc": "回合开始时：若[ChargeRouge]强度不低于3级且[ChargeRouge]层数不低于10层，则使用“强行推销”技能\n\n自身每失去1%的体力，技能造成的伤害+1%"
+    },
+    {
+      "id": 149303,
+      "name": "我听得见……另一位神的声音……！",
+      "desc": "关卡开始时：使自身获得[RisingMadnessRouge]\n- 回合开始时：本场战斗中自身首次体力低于50%时，将[RisingMadnessRouge]转换为[RisingMadnessRouge2nd]\n\n拼点失败时，使自身获得2层[ChargeRouge]",
+      "flavor": "他们听见了温暖的声音，却再也无法改变。心智被困于血肉之中，自我与自身割裂，最终坠入疯狂。"
+    },
+    {
+      "id": 146601,
+      "name": "Le Rouge精品店：新品图鉴",
+      "desc": "[RougeThreeNormal] 模式\n\n解除自身的[RougeThreeCocoon]与[RougeThreeCocoonShield]，并获得[RougeThreeNormal]\n<color=#ff6000><mark=#ff000040><b><u>受到攻击时，获得1层[RougeThreeNormal]\n回合结束时：若[RougeThreeNormal]层数为20层，则下回合进入[RougeThreeCocoon]模式</u></b></mark></color>\n\n处于[RougeThreeNormal]状态期间：\n若自身受到的伤害会使其体力低于10点，则使该伤害无效，恢复30%的体力并结束本回合。随后，自身进入[RougeThreeCocoon]状态，并在本场战斗剩余时间内获得2层[Enhancement](每场战斗1次)"
+    },
+    {
+      "id": 146602,
+      "name": "进入更衣室",
+      "desc": "[RougeThreeCocoon] 模式\n\n解除自身的[RougeThreeNormal]。获得1层[RougeThreeCocoon]与500层[RougeThreeCocoonShield]\n\n<color=#ff6000><mark=#ff000040><b><u>受到攻击时，获得[RougeThreeCocoonHit]</u></b></mark></color>\n若[RougeThreeCocoonShield]为0层或[RougeThreeCocoon]为3层，则失去20点理智值并结束本回合。随后，下回合进入[RougeThreeNormal]模式，并在本场战斗剩余时间内获得1层[AttackDmgUp](若自身陷入混乱，则解除混乱)"
+    },
+    {
+      "id": 147401,
+      "name": "副主厨",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>使用攻击技能击杀目标时，获得1层[SapsareeCooking]</u></b></mark></color>\n- 使用技能时，该目标每带有3种状态效果，使自身额外获得1层[SapsareeCooking](最多2层)",
+      "flavor": "她虽顶着这个头衔，但5F的餐厅只会笑着把她赶出厨房。"
+    },
+    {
+      "id": 147402,
+      "name": "我能做出超级美味的菜，听见没？",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>若自身带有[SapsareeCooking]，则在回合的最末尾使用“啊！我在午休，听见没？”技能</u></b></mark></color>\n(其他目标全部被击败，或自身陷入混乱时不会触发)\n回合结束时：若自身未能使用“啊！我在午休，听见没？”技能，则获得1层[SapsareeHungry]",
+      "flavor": "5F的餐厅绝不会用“烹饪”二字来抬举这种东西。"
+    },
+    {
+      "id": 147403,
+      "name": "烹饪野心",
+      "desc": "每4回合使用1次强力暴食技能\n(若因陷入混乱而未能触发，则改为下回合触发)\n- 回合结束时：若[SapsareeYammi]层数不低于5层，则下回合使用1次强力暴食技能\n\n回合结束时：若[SapsareeHungry]层数不低于3层，则下回合使用1次强力暴怒技能",
+      "flavor": "烹饪艺术与把东西做得能吃之间有着天壤之别。至于你……嗯，你显然属于后者。"
+    },
+    {
+      "id": 147404,
+      "name": "美味又好吃，听见没？",
+      "desc": "回合开始时：自身每带有1层[SapsareeYammi]，恢复3点理智值",
+      "flavor": "它们配谈论风味吗？它们可是住在美食广场里的啊。"
+    },
+    {
+      "id": 147405,
+      "name": "快溜快跑，听见没？",
+      "desc": "副主厨的体力低于30%时，结束本关卡",
+      "flavor": "不愿为此送命。"
+    },
+    {
+      "id": 147501,
+      "name": "风味十足的食材。",
+      "desc": "若自身带有不少于5种状态效果，则使自身获得3级攻击等级与3级防御等级",
+      "flavor": "这连食材都算不上。"
+    },
+    {
+      "id": 147502,
+      "name": "酶解嫩化",
+      "desc": "受到攻击时，下回合使自身获得1层防御等级降低与1层攻击等级提升(每回合3次)",
+      "flavor": "硬的皮钱包或许能被嫩化，但那也不会带来任何值得一提的改变。"
+    },
+    {
+      "id": 147503,
+      "name": "好饿……",
+      "desc": "回合结束时：若副主厨未能使用“啊！我在午休，听见没？”技能，则使自身获得1层[SapsareeHungry]",
+      "flavor": "它是一只用作家畜饲养以供食用的<b>钱包</b>。而就像牛一样，它渴望着被喂食。"
+    },
+    {
+      "id": 148101,
+      "name": "拼凑之物",
+      "desc": "关卡开始时：使自身获得30层[UnresolvedFeelings]\n体力不高于50%时，将按特定顺序使用的技能转换为强力技能",
+      "flavor": "本应被处理掉的碎布头被缝在一起，层层叠叠地堆起来。每一块碎布本身都毫无价值，但它的织物性却残留不去。正因如此，楼层经理才会将它们收集起来。"
+    },
+    {
+      "id": 148102,
+      "name": "警戒性检查",
+      "desc": "回合开始时：触发以下效果\n<color=#ff6000><mark=#ff000040><b><u>-若有不低于1名罪人带有10层[Wariness]，则获得1个行动槽，并在该行动槽上装备“警告须知”技能</u></b></mark></color>\n- 对未带有[ReliefSense]的全体罪人施加1层[Wariness]\n- 每有1个带有[HorribleTerror]的人格，使自身获得1层[HorribleEat]\n\n<color=#ff6000><mark=#ff000040><b><u>受到罪人技能攻击时：</u></b></mark></color>\n该技能攻击结束后，<color=#ff6000><mark=#ff000040><b><u>对该罪人施加[Wariness]</u></b></mark></color>，层数等同于自身被该技能命中的次数",
+      "flavor": "若要听见那声音，必须先打开心扉，而非耳朵。"
+    },
+    {
+      "id": 148103,
+      "name": "谢意",
+      "desc": "回合开始时：<color=#ff6000><mark=#ff000040><b><u>-若有不低于1名罪人带有3层[ReliefSense]，则获得1个行动槽，并在该行动槽上装备“谢谢你们……聆听……”技能</u></b></mark></color>",
+      "flavor": "太多顾客把广播当成耳旁风……谢谢你们愿意聆听……"
+    },
+    {
+      "id": 148104,
+      "name": "抹除恐慌者",
+      "desc": "对陷入恐慌的目标造成的伤害+200%",
+      "flavor": "心智崩溃之后，身体很快也会随之崩塌。而有些方法能进一步加速这一过程。"
+    },
+    {
+      "id": 149201,
+      "name": "Le Noir：面料",
+      "desc": "关卡开始时：使自身获得5层[NoirBindArmor]\n\n回合开始时：使自身获得相当于体力上限([NoirBindArmor]层数/2)%的护盾\n\n陷入混乱时，失去所有的[NoirBindArmor]\n回合开始时：自身解除混乱时，获得5层[NoirBindArmor]",
+      "flavor": "Le Noir的精纺毛料如铠甲般包裹身体，以坚实而不变形的轮廓修饰穿着者的身形。"
+    },
+    {
+      "id": 149202,
+      "name": "保存",
+      "desc": "本场战斗中自身每累计消耗5层[ChargeNoir]，使自身获得1层[NoirBindArmor]\n本场战斗中自身每累计消耗10层[ChargeNoir]，使自身获得1级[ChargeNoir]强度",
+      "flavor": "将力量压缩、聚集，并固定于原地。有时，阻止改变所需的力量比引发改变更大。"
+    },
+    {
+      "id": 149203,
+      "name": "为不变而改变",
+      "desc": "回合开始时：若[ChargeNoir]层数不低于10层，则使用强力技能\n\n使用技能时，若[ChargeNoir]层数不低于15层，则消耗3层[ChargeNoir]，使造成的伤害+20%",
+      "flavor": "这新的声音告诉我，它会帮助我改变……让我再也不必改变。"
+    },
+    {
+      "id": 149204,
+      "name": "我听得见……另一位神的声音……！",
+      "desc": "关卡开始时：使自身获得2层[RisingMadnessNoir]\n- 回合开始时：本场战斗中自身首次体力低于50%时，将[RisingMadnessNoir]转换为[RisingMadnessNoir2nd]\n\n拼点失败时，使自身获得2层[ChargeNoir]",
+      "flavor": "他们听见了温暖的声音，却再也无法改变。心智被困于血肉之中，自我与自身割裂，最终坠入疯狂。"
+    },
+    {
+      "id": 148201,
+      "name": "Le Noir：面料",
+      "desc": "关卡开始时：使自身获得3层[NoirBindArmor]\n\n回合开始时：使自身获得相当于体力上限([NoirBindArmor]层数)%的护盾(陷入混乱时除外)",
+      "flavor": "Le Noir的精纺毛料如铠甲般包裹身体，以坚实而不变形的轮廓修饰穿着者的身形。"
+    },
+    {
+      "id": 148202,
+      "name": "保存",
+      "desc": "本场战斗中自身每累计消耗3层[ChargeNoir]，使自身获得1层[NoirBindArmor]\n本场战斗中自身每累计消耗10层[ChargeNoir]，使自身获得1级[ChargeNoir]强度\n\n[ChargeNoir]强度不低于3级时，[ChargeNoir]层数上限+5",
+      "flavor": "将力量压缩、聚集，并固定于原地。有时，阻止改变所需的力量比引发改变更大。"
+    },
+    {
+      "id": 148203,
+      "name": "释放凝缩之物",
+      "desc": "回合开始时：若[ChargeNoir]强度不低于3级且[ChargeNoir]层数不低于10层，则使用强力技能",
+      "flavor": "为施加不变而凝缩于一点的力量，终有一日会迸发而出。"
+    },
+    {
+      "id": 148204,
+      "name": "守恒-转化悖论",
+      "desc": "若自身带有护盾，受到罪人攻击时，使自身获得1层[ChargeNoir](每个技能1次，每回合3次)\n- [ChargeNoir]强度不低于3级/5级时，改为获得2层/3层[ChargeNoir]\n\n回合结束时：若自身带有护盾，\n自身每带有1级[ChargeNoir]强度，使自身获得1层[ChargeNoir]与1层[DefenseUp](各最多3层)",
+      "flavor": "将外来的改变之力转化为自我保存之力。然而在这样的世界里，无论多么激烈地拒绝改变、追求不变，总有什么必须改变。"
+    },
+    {
+      "id": 148301,
+      "name": "Le Noir：华达呢面料",
+      "desc": "关卡开始时：使自身获得30层[NoirSuit]\n\n回合开始时：使自身获得相当于体力上限([NoirSuit]层数/5)%的护盾(陷入混乱时除外)",
+      "flavor": "Le Noir的招牌华达呢，为正式感而剪裁，却不牺牲挺括。"
+    },
+    {
+      "id": 148302,
+      "name": "保存",
+      "desc": "本场战斗中自身每累计消耗10层[ChargeNoir]，使自身获得1级[ChargeNoir]强度\n\n[ChargeNoir]强度不低于3级时，[ChargeNoir]层数上限+5",
+      "flavor": "将力量压缩、聚集，并固定于原地。有时，阻止改变所需的力量比引发改变更大。"
+    },
+    {
+      "id": 148303,
+      "name": "反馈",
+      "desc": "回合开始时：若自身带有[Realisation]，则将“单腿踢”改为以“单腿踢-高定连击”发动\n\n触发[VibrationExplosion]时，使[VibrationExplosion]造成的混乱阈值前移量+20%\n- [ChargeNoir]层数不低于12层时，触发[VibrationExplosion]时消耗自身的1层[ChargeNoir]，改为使[VibrationExplosion]造成的混乱阈值前移量+40%(对各目标分别计算)\n\n触发[VibrationExplosion]时，若目标没有混乱阈值，则造成相当于自身[DefenseUp]层数的固定伤害(最多20点)",
+      "flavor": "Le Noir相信，只要让对手承受剧烈的震颤，就能使其价值崩塌——目标震颤得越剧烈，每时每刻都必须经历的改变就越多。\n\nLe Noir的战斗技术正是建立在这一信念之上。"
+    },
+    {
+      "id": 148304,
+      "name": "守恒-转化悖论之悖论",
+      "desc": "若自身带有护盾，受到罪人攻击时，\n- 使该罪人增加1级[Vibration]强度(每个技能1次)\n- 使自身获得1层[ChargeNoir](每个技能1次，每回合3次)\n  · [ChargeNoir]强度不低于3级/5级时，改为获得2层/3层[ChargeNoir]\n\n回合结束时：若自身带有护盾，\n自身每带有1级[ChargeNoir]强度，下回合使自身获得1层[ChargeNoir]与2层[DefenseUp](分别最多3层、6层)",
+      "flavor": "存在者越是拼命维持原样，就越必然改变。存在即是始终在前往某处，而有运动之处，改变必随之而来。"
+    },
+    {
+      "id": 149601,
+      "name": "缝制开始",
+      "desc": "回合开始时：随机对2名敌方单位增加[NiddleExpected]"
+    },
+    {
+      "id": 149602,
+      "name": "手工制作",
+      "desc": "场上每有1名针人，使技能的最终威力+1",
+      "flavor": "手工缝制绝非一双巧手就能存续。需要众多娴熟的工匠，才能为之注入生命。"
+    },
+    {
+      "id": 149603,
+      "name": "无穷无尽且避无可避的顾客投诉",
+      "desc": "每经过“3的倍数”回合时，会听见“茧之哭喊”\n进入第2阶段后，每回合都会持续听见“茧之哭喊”\n\n听见“茧之哭喊”的回合内，自身无法被固定\n\n若自身的体力被削减至越过混乱阈值，则下回合使自身获得2层[Vulnerable]",
+      "flavor": "声音从茧中渗出。\n\n“80支双股以下？那也配叫面料！”\n“扣眼为什么不是横向的？”\n“平纹针织用机器做？认真的？”\n“布边为什么不是红色的？”\n“这连防缩都没做过。”\n“Super 150以下当然都是廉价布料。”\n“你以为Super等级只是纱线粗细？直径和纱支根本不是一回事。你不知道吗？”\n“下摆你用的是Union Special吧？当然要用它！”\n“这是Rigid的吗？……哦。是布边？”\n“等等……每英寸的针数太均匀了。你用了机器，对吧？”\n“不是手工缝的就不算定制。”\n“……那甚至算不上米兰式扣眼。”\n“衬衫料必须超过200支。”\n“啧，外面都能看到缝线。”\n“那里，我能看到两排缝线。退回。”\n“这接缝处理是怎么回事？”\n“至少三股。”"
+    },
+    {
+      "id": 148401,
+      "name": "早产的赤色之神",
+      "desc": "回合结束时：自身的[ChargeRouge]层数不会减少\n<color=#ff6000><mark=#ff000040><b><u>拼点时，目标的[Laceration]每触发1次，使自身获得1层[ChargeRouge]</u></b></mark></color>\n击杀时，使自身获得相当于(目标的[Laceration]强度+[Laceration]层数)的[ChargeRouge]层数\n回合开始时：自身每带有1层[ChargeRouge]，恢复3点理智值",
+      "flavor": "由渴望孕育的神，未及足月便降临世间。就连它的诞生也是残缺的。"
+    },
+    {
+      "id": 148402,
+      "name": "肌理的蔷薇色搏动",
+      "desc": "回合开始时：<color=#ff6000><mark=#ff000040><b><u>[ChargeRouge]层数不低于15层时，若自身未带有[Gourmandise]，则消耗自身所有的[ChargeRouge]并获得[Gourmandise]</u></b></mark></color>\n\n自身带有[Gourmandise]期间，触发以下效果：\n- 使用技能时，使自身获得3层[Laceration]\n- 命中时，使自身获得1级[Laceration]强度\n- 自身的部位受到攻击时，使自身获得1层[BuffetSick]\n- 拼点失败时，使自身获得3层[BuffetSick]\n- 击杀时，若目标带有不低于3级[BloodyMucus]强度，则下回合生成“赤色之神被撕碎的肉”\n- 战斗结束时：每有1名带有[BloodyMucus]的敌方单位，恢复3点理智值\n\n回合结束时：若[Gourmandise]解除时<color=#ff6000><mark=#ff000040><b><u>自身的[BuffetSick]层数不低于30层</u></b></mark></color>，则下回合弱化自身的模式，并使场上“赤色之神被撕碎的肉”陷入混乱\n\n※ 可通过以下方式减少[BloodyMucus]层数：<color=#ff6000><mark=#ff000040><b>使用E.G.O技能与使用守备技能</u></b></mark></color>\n※ “赤色之神被撕碎的肉”会获得相当于被击败目标身上[BloodyMucus]层数的[DeterioratingBody]\n※ 带有[DeterioratingBody]的“赤色之神被撕碎的肉”无法被击败\n※ 场上最多可生成3个“赤色之神被撕碎的肉”",
+      "flavor": "它的四肢疯狂地抽动挣扎，仿佛从来就不属于它自己。"
+    },
+    {
+      "id": 148403,
+      "name": "失衡",
+      "desc": "对速度值低于自身的目标造成的伤害+50%",
+      "flavor": "视野中的一切都以各自不同的速度乱窜。"
+    },
+    {
+      "id": 148404,
+      "name": "求生本能",
+      "desc": "回合开始时：使生命线部位获得1层[SavePlacenta]并对其施加5层[Protection]\n若自身带有[Gourmandise]，或自身陷入混乱，则本被动不会触发",
+      "flavor": "身体为求生与自保而挣扎，意识对此毫无参与，而身体甚至不知道自己从何处开始、到何处结束。"
+    },
+    {
+      "id": 148405,
+      "name": "被切断的生命线",
+      "desc": "回合结束时：若生命线部位被破坏，则下回合使躯干部位获得3层[Vulnerable]",
+      "flavor": "这些挂在我身上、软趴趴晃着的东西是什么？它们算是“我”的一部分吗？实在难以分辨。"
+    },
+    {
+      "id": 148406,
+      "name": "暴烈创伤性分娩的狂乱",
+      "desc": "回合结束时：若生命线部位未被破坏，且本体体力低于50%，则获得[Gourmandise]\n随后，在生命线部位被破坏之前，不会失去[Gourmandise]层数",
+      "flavor": "身体被从温暖撕裂进寒冷；心智被从冷静的安宁撕裂进炽烈的混沌。这一切都非出于自愿。"
+    },
+    {
+      "id": 149701,
+      "name": "无意识的搏动",
+      "desc": "- 生成时，获得相当于因生成自身而被击败的目标身上[BloodyMucus]层数的[DeterioratingBody]\n\n[DeterioratingBody]解除时被击败",
+      "flavor": "它活着，却没有大脑。那么心智能否自搏动的肌肉中诞生？"
+    }
+  ]
+}

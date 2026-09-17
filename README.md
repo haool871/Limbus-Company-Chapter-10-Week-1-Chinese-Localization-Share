@@ -22,11 +22,19 @@
 
 | 目录 | 作用 | 使用者 |
 | --- | --- | --- |
-| `patch/` | **汉化补丁**：25 个 json，补齐零协会汉化包缺失的最新内容 | 想玩游戏的人 |
+| `patch/` | **汉化补丁**：129 个 json，补齐零协会汉化包缺失的最新内容 | 想玩游戏的人 |
 | `knowledge-base/` | **翻译知识库**：术语表、角色文风指南、世界观专名、翻译流程与工具 | 想继续翻译的人 |
 | `docs/` | 演示文稿与详细说明 | — |
 
-`patch/` 里的 25 个文件是**完整可用的整份文件**，不是差异片段。
+`patch/` 里的文件都是**完整可用的整份文件**，不是差异片段。构成如下：
+
+| 类型 | 文件数 | 说明 |
+| --- | ---: | --- |
+| 新增文件 | 104 | 零协会汉化包里**完全没有**的内容（本补丁从无到有译出），共 3282 条记录 |
+| 覆盖文件 | 25 | 零协会汉化包里**存在但落后**的内容，补齐其中缺失的记录（共新增 106 条） |
+
+新增文件分布：`RPGSystem/` 44 个（第十章迷宫）、`StoryData/` 21 个（主线与新人格剧情）、
+`PersonalityVoiceDlg/` 2 个、`BattleAnnouncerDlg/` 1 个、根目录 36 个。
 
 ---
 
@@ -48,7 +56,10 @@ LimbusCompany_Data/Lang/LLC_zh-CN/
 
 ### 安装
 
-把 `patch/` 里的 **25 个 json 文件**复制到上面的 `LLC_zh-CN` 目录，提示覆盖时选**覆盖**。
+把 `patch/` 里的 **所有 json 文件（含子目录）** 复制到上面的 `LLC_zh-CN` 目录，提示覆盖时选**覆盖**。
+
+> 注意：`patch/` 下有子目录（`RPGSystem/`、`StoryData/` 等），**必须保持目录结构一起复制**，
+> 不能只复制根目录的文件。
 
 **Windows（资源管理器）**
 
@@ -70,7 +81,8 @@ cp -r patch/. "/你的路径/steamapps/common/Limbus Company/LimbusCompany_Data/
 
 ### 卸载 / 回滚
 
-用零协会官方汉化包里的同名文件覆盖回去即可（25 个文件同名）。
+用零协会官方汉化包里的同名文件覆盖回去即可（25 个覆盖文件同名）；
+新增的 104 个文件直接删除即可（它们不在零协会包内）。
 
 更彻底的回滚（若你只想删掉整个汉化）：
 
@@ -130,16 +142,31 @@ python3 tools/verify_output.py <文件名>
 
 零协会汉化包落后于游戏版本，以下内容「英文 / 韩文有、中文缺失」，游戏里只能显示英文。本补丁全部补齐：
 
+**一、零协会包中缺失的记录（覆盖 25 个文件，共补 106 条）**
+
 | 文件 | 补的条数 | 内容 |
 | --- | ---: | --- |
-| `Skills_personality-04.json` | 5 | 良秀 · Haute Couture::Le Noir鞋履馆 的全部技能 |
-| `Skills_personality-08.json` | 5 | 以实玛利 · Haute Couture::Le Rouge精品店 的全部技能 |
-| `Passives.json` | 8 | 上述两个人格的新被动（含风味文本） |
-| `BattleKeywords.json` / `Bufs.json` | 各 6 | 新状态：华达呢大衣、保存、Armure Éveillée、搏动、更衣室、全面改造 |
-| `Personalities.json` / `Personality_Get_Condition.json` | 2 / 4 | 人格名称与获取条件 |
-| `ScenarioModelCodes-AutoCreated.json` | 16 | 剧情内 NPC 代号 |
 | `BattleSpeechBubbleDlg.json` | 16 | 新人格战斗语音气泡 |
-| 其余 14 个文件 | 37 | 章节名、抽取标题、赛季横幅、登录提示、E.G.O 名称等 |
+| `ScenarioModelCodes-AutoCreated.json` | 16 | 剧情内 NPC 代号 |
+| `Passives.json` | 8 | 两个人格的新被动（含风味文本） |
+| `MainUIText.json` | 7 | 经验采光迷宫 #10、剧情续看提示 |
+| `BattleKeywords.json` / `Bufs.json` | 各 6 | 新状态：华达呢大衣、保存、Armure Éveillée、搏动、更衣室、全面改造 |
+| `Skills_personality-04.json` | 5 | **良秀 · Haute Couture::Le Noir鞋履馆 的全部技能** |
+| `Skills_personality-08.json` | 5 | **以实玛利 · Haute Couture::Le Rouge精品店 的全部技能** |
+| `Egos.json` | 4 | 新 E.G.O 名称（拒斥、镜触、空洞） |
+| `IntroductionPreset.json` | 4 | 人格介绍标语 |
+| `Personality_Get_Condition.json` | 4 | 获取条件（商城显示） |
+| 其余 15 个文件 | 25 | 赛季标题、横幅、章节名、抽取标题、登录提示等 |
+
+**二、零协会包中完全没有的文件（新增 104 个，共 3282 条记录）**
+
+| 目录 | 文件数 | 内容 |
+| --- | ---: | --- |
+| `RPGSystem/` | 44 | **第十章迷宫全部中文**：1F–4F / B1–B2 的对话、道具、地点、NPC、任务、UI |
+| `StoryData/` | 21 | 主线 S1000B–S1016B、新人格剧情 P10416 / P10816 等 |
+| 根目录 | 36 | 新版本技能、被动、敌人、状态、活动、商店、通行证等 |
+| `PersonalityVoiceDlg/` | 2 | 新人格语音台词 |
+| `BattleAnnouncerDlg/` | 1 | 商场播报员台词 |
 
 质量说明：技能与被动译文按官方既成句式（如 `Inflict N [X]` → `使目标增加N级[X]强度`）；
 `<color=#...>`、`<style="highlight">`、`<size=95%>`、`[ChargeNoirAlly]` 等标记与引擎标签

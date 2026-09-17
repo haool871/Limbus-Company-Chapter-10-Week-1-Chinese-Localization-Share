@@ -1,0 +1,543 @@
+{
+  "dataList": [
+    {
+      "key": "I104002",
+      "displayName": "幸福衣柜的衣服",
+      "description": "幸福衣柜赠予的一套衣服。把它交给弧形落地灯吧。"
+    },
+    {
+      "key": "I104003",
+      "displayName": "纸片",
+      "description": "从幸福衣柜的残骸中回收的纸片。上面写着“幸福”二字。它对结构毫无用处，却让幸福衣柜得以继续存在。"
+    },
+    {
+      "key": "I1201",
+      "displayName": "录音带",
+      "description": "赤色之神旧日的声音再度响起，重复着它曾经念诵过的话语。那正是Le Rouge们曾听见的声音。信仰更坚者，能听见更深刻的故事。"
+    },
+    {
+      "key": "I1206",
+      "displayName": "磨得锋利的裁缝剪",
+      "description": "剪刀通过将对立之物接合，以此切分存在。"
+    },
+    {
+      "key": "I1207",
+      "displayName": "Le Noir正品认证书",
+      "description": "兹证明该顾客为Le Noir的模范顾客，并为维护本品牌的价值作出了贡献。"
+    },
+    {
+      "key": "I1208",
+      "displayName": "黑红之线",
+      "statText": "象征中<color=#00ff9c>HP</color> +1\n\n象征中<color=#fe4b48>攻击速度</color> +10%\n\n象征中<color=#F8C200>移动速度</color> +5%\n\n对象征中的Le Noir店员[阳光]与Le Rouge店员[阳光]类敌人：\n- 受到的<color=#fe4b48>伤害</color> -1\n- 造成的<color=#fe4b48>伤害</color> +1",
+      "description": "当光从裂缝中洒落，触及每一个人时，百货店里的顾客们开始发生变化。他们变成了自己所追寻的价值，变成了他们所追随的品牌所追寻的价值。在变化中失去理性者，后来被称为人体模型。然而本质上，他们与我们并无不同。"
+    },
+    {
+      "key": "I990001",
+      "displayName": "钉子",
+      "statText": "象征中，<color=#F8C200>弱点攻击</color>造成的<color=#fe4b48>伤害</color> +1\n弱点攻击：从敌人背后攻击时触发（部分敌人除外）",
+      "description": "一根钉子。钉子能把对象固定住。没有锤子便钉不进去。可是，若是自己扑向钉子，无论有没有锤子，都会把自己钉死。"
+    },
+    {
+      "key": "I990006",
+      "displayName": "钝了的裁缝剪",
+      "description": "你是在问，裁缝师是否该保持中立？Le Noir偏爱面料，Le Rouge偏爱皮革。想想看：那么，哪个品牌更需要裁缝师……她又更愿意把剪刀交给谁呢？"
+    },
+    {
+      "key": "I990101",
+      "displayName": "Le Noir现代开衫",
+      "statText": "象征<color=#00ff9c>HP</color> +2",
+      "description": "你还记得西西弗百货的墙壁上出现的第一道裂缝吗？"
+    },
+    {
+      "key": "I990102",
+      "displayName": "Le Noir现代帽",
+      "statText": "象征<color=#00ff9c>HP</color> +2",
+      "description": "西西弗百货必须被永恒地保存下去。"
+    },
+    {
+      "key": "I990103",
+      "displayName": "Le Noir现代绅士帽",
+      "statText": "若玩家不进行任何操作，每5秒<color=#00ff9c>恢复</color>1点象征<color=#00ff9c>HP</color>（3次）\n- 在泉眼休息可重新充能",
+      "description": "裂缝扩散得更宽，成倍增加。为什么？"
+    },
+    {
+      "key": "I990104",
+      "displayName": "Le Rouge休闲装拉链连帽衫",
+      "statText": "象征中造成的<color=#fe4b48>伤害</color> +1",
+      "description": "我们的神到哪里去了？"
+    },
+    {
+      "key": "I990105",
+      "displayName": "Le Rouge休闲装裙",
+      "statText": "象征中<color=#F8C200>移动速度</color> +5%\n\n象征<color=#00ff9c>HP</color> +1",
+      "description": "我已经听不到赤色之神的声音了……"
+    },
+    {
+      "key": "I990106",
+      "displayName": "Le Rouge现代拉链",
+      "statText": "象征中解锁<color=#F8C200>疾跑</color>\n- 疾跑：<color=#F8C200>移动速度</color> +30%",
+      "description": "Le Rouge们在生活与生命的每一次脉动中寻得价值与意义。他们满怀期待地等待着经验。"
+    },
+    {
+      "key": "I990107",
+      "displayName": "Le Rouge现代袜",
+      "statText": "在暗影中进入战斗时，对所有敌人施加2级<color=#F8C200>流血</color>强度并施加2层<color=#F8C200>流血</color>\n\n象征<color=#00ff9c>HP</color> +1",
+      "description": "红是血，是肉，是皮。"
+    },
+    {
+      "key": "I990108",
+      "displayName": "巨大的利针（43cm）",
+      "description": "听见温暖声音者变成了人体模型。而在这些之中，被那声音拥抱得最深的，还能再往前多走一步。"
+    },
+    {
+      "key": "I990110",
+      "displayName": "能量饮料",
+      "statText": "象征中，命中敌人后5秒内不再攻击，则下一次攻击的<color=#fe4b48>伤害</color> +3",
+      "description": "在西西弗百货，食物不是为了补充能量或维持生存而吃的。它只为一个目的而被享用：填饱心里的饥饿。"
+    },
+    {
+      "key": "I990303",
+      "displayName": "裁缝店出售的面料",
+      "statText": "象征<color=#00ff9c>HP</color> +1",
+      "description": "我不属于Le Rouge，也不属于Le Noir。我属于中立的价值。无论哪个品牌来求面料，我都乐意与之交易。"
+    },
+    {
+      "key": "I990304",
+      "displayName": "Boutique du Rouge太阳镜",
+      "statText": "象征中，<color=#F8C200>弱点攻击</color>造成的<color=#fe4b48>伤害</color> +1\n\n象征<color=#00ff9c>HP</color> +1",
+      "description": "你戴上太阳镜，是因为光太刺眼。然后你又回头去看太阳。戴太阳镜不是为了避开阳光，而是为了更清楚地看见它。"
+    },
+    {
+      "key": "I990305",
+      "displayName": "Boutique du Rouge T恤",
+      "statText": "象征中，命中攻击时<color=#F8C200>移动速度</color> +5%\n\n象征<color=#00ff9c>HP</color> +1",
+      "description": "当我们的神沉默下来，裂缝张得更开时……我们之中有些人又听见了那声音。"
+    },
+    {
+      "key": "I990306",
+      "displayName": "Boutique du Rouge牛仔布",
+      "statText": "象征中<color=#fe4b48>攻击速度</color> +10%",
+      "description": "Le Rouge们偏爱修身剪裁。比之更能彰显时装价值的，莫过于把身体本身的线条显露出来。"
+    },
+    {
+      "key": "I990307",
+      "displayName": "Maison du Noir领带",
+      "statText": "象征<color=#00ff9c>HP</color> +2",
+      "description": "我们提供的——由Le Noir们设计的精致衣装——遮掩顾客的身体，并矫正其下的轮廓。时尚的价值在于它遮蔽之物。"
+    },
+    {
+      "key": "I990308",
+      "displayName": "Maison du Noir长裤",
+      "statText": "象征中，受击时<color=#F8C200>无敌帧</color> +0.05秒",
+      "description": "这奇怪的声音似乎会让听见它的人发疯，无论是Le Noir还是Le Rouge。"
+    },
+    {
+      "key": "I990309",
+      "displayName": "Maison du Noir衬衫",
+      "statText": "在暗影中进入战斗时，对所有敌人施加2级<color=#F8C200>震颤</color>强度并施加2层<color=#F8C200>震颤</color>\n\n暗影中的战斗期间：同伴受到攻击时，该同伴获得2层<color=#F8C200>充能</color>（每回合5次）",
+      "description": "西西弗百货里满是人体模型。在阳光开始从裂缝渗出之前，他们都有两条手臂和两条腿，而衣装也是照着那个形状缝制的。"
+    },
+    {
+      "key": "I990310",
+      "displayName": "鸟笼",
+      "statText": "象征中，受击时有20%概率使<color=#fe4b48>受到的伤害</color> -20%（向下取整）\n\n在暗影中进入战斗时，所有罪人获得4层<color=#F8C200>充能</color>",
+      "description": "笼子让自由得以存eeeeee在。没有笼子，自由便毫无意义义义义。"
+    },
+    {
+      "key": "I990312",
+      "displayName": "黄金钉",
+      "description": "以文明最尊贵的材料，将原初的脊骨包裹其中，黄金钉便由此而成。\n这根针刺穿一切境界，自最低至最高。然后，撕裂。"
+    },
+    {
+      "key": "I990401",
+      "displayName": "Le Noir玛丽珍鞋",
+      "statText": "象征<color=#00ff9c>HP</color> +3",
+      "description": "名字在西西弗百货里消逝。留下的只有商品与品牌之名。正因如此，才必须一层又一层地穿戴上身。"
+    },
+    {
+      "key": "I990402",
+      "displayName": "Le Noir焦特布尔靴",
+      "statText": "象征中攻击的<color=#F8C200>受击硬直</color> +0.1秒\n\n象征<color=#00ff9c>HP</color> +2",
+      "description": "把我固定住。把我紧紧束起。给这具不安定的身体赋予形态。我把我的自由献给你。"
+    },
+    {
+      "key": "I990403",
+      "displayName": "Le Noir经典鞋楦",
+      "statText": "象征中，受到会导致死亡的<color=#fe4b48>伤害</color>时，<color=#00ff9c>以1点HP存活</color>（1次）\n- 在泉眼休息可重新充能\n- 不包括即死等部分伤害",
+      "description": "世界不可改变。必须原封不动地停在原处。直到永远。"
+    },
+    {
+      "key": "I990404",
+      "displayName": "Le Rouge芭蕾平底鞋",
+      "statText": "象征中，击杀敌人时<color=#F8C200>移动速度</color> +30%\n\n象征<color=#00ff9c>HP</color> +3",
+      "description": "衣装的种类繁多，但鞋最为要紧。它是最先触及世界的衣物。"
+    },
+    {
+      "key": "I990405",
+      "displayName": "Le Rouge切尔西靴",
+      "statText": "象征中解锁<color=#F8C200>Avant</color>\n- Avant：在最后一次攻击后再按一次攻击键，即可发动<color=#F8C200>Avant</color>\n- 发动Avant时，向前方大范围横扫，使命中的敌人<color=#F8C200>击退</color>\n- 在<color=#F8C200>Garde</color>期间发动时，<color=#F8C200>攻击范围</color>与<color=#F8C200>击退距离</color>会随Garde等级增加",
+      "description": "鞋需要呼吸。Le Noir们搞错了——鞋不该被密不透风地封住。它得保持柔软，让脚透气。只有这样，你才真正站在大地上。否则，你只是被摆在地上，与下方的地面隔绝。"
+    },
+    {
+      "key": "I990406",
+      "displayName": "躺椅",
+      "statText": "自上次受到<color=#fe4b48>伤害</color>起每15秒<color=#00ff9c>恢复</color>1点象征<color=#00ff9c>HP</color>（最多4次）\n- 在泉眼休息可重新充能",
+      "description": "食、衣、住。那么家具属于哪一类？是我们栖居其中的东西，还是像衣服一样穿戴在身上的东西？\n啊，都不是。家具是衣与住之间的桥。"
+    },
+    {
+      "key": "I990407",
+      "displayName": "床垫",
+      "statText": "象征中，静止不动时受击，<color=#fe4b48>受到的伤害</color> -1（最低1）\n\n象征<color=#00ff9c>HP</color> +2",
+      "description": "希望停止思考的顾客与员工，都成了西西弗百货里的家具。后来裂缝开始扩大，当刺目的阳光洒落并向他们低语时，家具们被从睡眠中扯出，被迫动了起来。"
+    },
+    {
+      "key": "I990408",
+      "displayName": "实木桌",
+      "statText": "象征中，命中攻击时有15%概率触发<color=#F8C200>追加攻击</color>（0.2秒受击硬直）\n- 以命中的敌人为中心，对十字形5格造成3点<color=#fe4b48>伤害</color>\n- 每有1名1格内已发现默尔索的敌人，触发概率+10%",
+      "description": "曾有个Le Rouge的混账问，为什么吃饭要坐在桌边。何必这么麻烦，直接在地上吃不好吗？可正是这套仪式让食物更美味。靠辛苦与忍耐得来的更为甘甜，因而更有价值。照这个道理，桌椅越不舒服，用餐者便越文明。您不这么认为吗？"
+    },
+    {
+      "key": "I990409",
+      "displayName": "舌头",
+      "description": "曾让幸福衣柜得以品尝滋味的器官。"
+    },
+    {
+      "key": "I990410",
+      "displayName": "一捆骨头",
+      "description": "曾让幸福衣柜得以支撑自身的骨头。"
+    },
+    {
+      "key": "I990411",
+      "displayName": "小腿肉",
+      "description": "曾让幸福衣柜得以行走的东西。"
+    },
+    {
+      "key": "I990412",
+      "displayName": "纠缠的肠子",
+      "description": "曾让幸福衣柜得以消化食物的器官。"
+    },
+    {
+      "key": "I990413",
+      "displayName": "一颗眼球",
+      "description": "曾让幸福衣柜得以目睹世界之美的器官。"
+    },
+    {
+      "key": "I990414",
+      "displayName": "两颗眼球",
+      "description": "曾让幸福衣柜得以目睹世界之丑的器官。"
+    },
+    {
+      "key": "I990415",
+      "displayName": "脸部皮肤",
+      "description": "曾让幸福衣柜得以用表情流露情感之物。"
+    },
+    {
+      "key": "I990416",
+      "displayName": "血管网",
+      "description": "曾让幸福衣柜的器官、骨头、物件与肠子得以汇聚并共同运作的机制。"
+    },
+    {
+      "key": "I990801",
+      "displayName": "汽水",
+      "statText": "象征<color=#00ff9c>HP</color>降至5以下时，<color=#00ff9c>恢复</color>5点象征<color=#00ff9c>HP</color>（1次）\n- 在泉眼休息可重新充能",
+      "description": "奢侈品馆正遭受攻击！Le Rouge们冲进了Le Noir把守的馆内，如今已开始大快朵颐！"
+    },
+    {
+      "key": "I990802",
+      "displayName": "吸管",
+      "statText": "象征中，命中攻击时有10%概率<color=#00ff9c>恢复</color>1点象征<color=#00ff9c>HP</color>\n\n象征<color=#00ff9c>HP</color> +2",
+      "description": "消费需要一条从那边到这边的通道。所谓消费，就是把某物从别处取出、纳入自身。正因如此，快感才会随之而来。"
+    },
+    {
+      "key": "I990803",
+      "displayName": "“你听见了吗？”",
+      "statText": "象征中，命中攻击时有30%概率触发<color=#F8C200>追加攻击</color>\n- 对命中敌人4格内的1名随机敌人造成3点<color=#fe4b48>伤害</color>",
+      "description": "美食广场做出来的东西或许是美味佳肴，却已不再是一餐饭。问题不在烹饪，而在于吃它的地方。这是结构上的难题。"
+    },
+    {
+      "key": "I990804",
+      "displayName": "折叠伞",
+      "statText": "象征中，命中可破坏的投掷物时，<color=#F8C200>破坏该投掷物</color>\n\n象征<color=#00ff9c>HP</color> +2",
+      "description": "勒卡基的招牌商品。对于一个苦苦想做出时装而不得的品牌来说，伞不过是它为数不多的真正创造之一。"
+    },
+    {
+      "key": "I990805",
+      "displayName": "一张纸巾",
+      "statText": "象征<color=#00ff9c>HP</color> +1",
+      "description": "很难想象一张纸巾能成什么事。不过据说在某个地方，有人光用一张就能在洗手间里把事办完。"
+    },
+    {
+      "key": "I990806",
+      "displayName": "副主厨尸体上的纽扣",
+      "statText": "象征中，触发“你听见了吗？”的<color=#F8C200>追加攻击</color>时，投掷物数量+1\n\n暗影中的战斗期间，击杀敌人的同伴<color=#00ff9c>恢复</color>15点象征<color=#00ff9c>HP</color>与10点SP",
+      "description": "那些陌生人想杀我，你听见了吗？！本来好好谈就能解决的，可他们非要我死，你听见了吗？！"
+    },
+    {
+      "key": "I990901",
+      "displayName": "针插",
+      "statText": "象征<color=#00ff9c>HP</color> +3",
+      "description": "要缝纫，就需要针。\n而针，不过是钉子的另一个名字罢了？缝纫是一种固定，而针正是为此而用的……和钉子一样。"
+    },
+    {
+      "key": "I990902",
+      "displayName": "针人的钉",
+      "statText": "象征中攻击的受击硬直+0.2秒\n\n象征<color=#00ff9c>HP</color> +1",
+      "description": "针人们侍奉一位王。那位王是位美食家，要求臣下不停地刺。刺，是借由美味发出的欢愉呻吟与痛苦尖叫声来衡量价值的标尺。针人们遵王之命而刺，再悄悄舔净渗出的汁液。"
+    },
+    {
+      "key": "I990904",
+      "displayName": "刮舌器",
+      "statText": "象征中，击杀敌人后，下一次攻击的<color=#fe4b48>伤害</color> +2",
+      "description": "穿衣服前得先把自己弄干净。别怕下手重——缝隙里得<i>使劲</i>搓。"
+    },
+    {
+      "key": "I990905",
+      "displayName": "内基德的顶针",
+      "statText": "象征中受击时<color=#fe4b48>受到的伤害</color> -2（冷却10秒）",
+      "description": "这些蠢针肯定全疯了。刺、刺、刺——它们只会这一件事。看到不顺眼的？<i>刺！</i>它们就是这么干的。有东西渗出来，它们就舔干净。\n还好我带着顶针……要是在这下面被逮住又没带它，我可就惨了。"
+    },
+    {
+      "key": "I990906",
+      "displayName": "调色板",
+      "statText": "象征中受击时，在默尔索1格内生成<color=#F8C200>红色染色格</color>。\n- 站在其上的敌人每2秒受到1点<color=#fe4b48>伤害</color>",
+      "description": "一块摆放着各色染料的板。\n\n基本色在它上面混合，调出想要的色调。要做出想要的东西，比例与速度都至关重要。\n\n那混杂在一起的脓液气味，倒是相当斑斓。"
+    },
+    {
+      "key": "I990907",
+      "displayName": "长柄刷",
+      "statText": "象征中，对敌人发动<color=#F8C200>Garde</color>命中时，攻击延伸至命中敌人身后1格",
+      "description": "搅拌眼泪需要长柄刷。刷子太短，手臂就可能陷进去被吸住。必须当心别被眼泪淹没——它们会一直哭、一直哭，直到颜色被泡出来。"
+    },
+    {
+      "key": "I990908",
+      "displayName": "大刷子",
+      "statText": "象征中解锁<color=#F8C200>Garde</color>\n- 长按攻击键一定时间后松开，发动高伤害的<color=#F8C200>Garde</color>\n- Garde蓄力时间：2秒\n- Garde伤害：象征中攻击<color=#fe4b48>伤害</color> +1\n- Garde期间<color=#F8C200>移动速度</color>降至50%",
+      "description": "要画出斑斓的色彩，就需要大刷子。小刷子自然更适合多刷几笔，但笔数必须压到最少。每一次涂抹都会在我身上留下泪滴，连同它的气味。\n\n那气味让我流泪，可我仍在画。我为那个已经忘却眼泪与疼痛的人而画。"
+    },
+    {
+      "key": "I990909",
+      "displayName": "两张纸巾",
+      "statText": "象征<color=#00ff9c>HP</color> +3",
+      "description": "在这一层，纸巾有两种用途：被刺穿，或者吸干眼泪。它薄得容易被穿透，却又满是细小的孔洞，足以吸下大量的脓液。"
+    },
+    {
+      "key": "I990910",
+      "displayName": "果汁",
+      "statText": "象征中，将<color=#F8C200>Garde</color>期间的<color=#F8C200>移动速度</color>降低改为25%\n\n象征<color=#00ff9c>HP</color> +1",
+      "description": "被刺穿后流出来的，都是果汁。喝掉它。戳破那眼泪的气泡，喝下迸出来的东西。或者刺穿别人，让他们流出脓来。\n滋味随悲伤的味道而定。"
+    },
+    {
+      "key": "I990911",
+      "displayName": "缝纫之王的牙刷",
+      "statText": "象征中，每1秒对追击默尔索的敌人触发<color=#F8C200>追加攻击</color>\n- 对5格内1名随机追击中的敌人造成2点<color=#fe4b48>伤害</color>\n- 不锁定巡逻中或逃跑中的敌人\n- <color=#F8C200>疾跑</color>期间不触发\n",
+      "description": "一把刷头是一片细密钉子林的牙刷。\n\n钉子刮擦皮肤，撕开并捅穿嵌在里面的东西。这会把皮下的液体吸出来。\n\n然后，它会被呈给王品尝。"
+    },
+    {
+      "key": "I992701",
+      "displayName": "正午之蓝",
+      "description": "正午时分，太阳升至最高处。太阳越高，影子越短。当阳光是蓝色时，影子会缩到看不见。"
+    },
+    {
+      "key": "I992702",
+      "displayName": "猎物的沉思",
+      "description": "这道菜能带来被吃掉的完整体验。品尝它即意味着死亡，因为品尝者已经成了被吞食的猎物。"
+    },
+    {
+      "key": "I992704",
+      "displayName": "黄金茧",
+      "statText": "象征中解锁<color=#F8C200>提灯</color>\n- 按提灯键（键盘F）开/关<color=#F8C200>提灯</color>，照亮角色面向的方向",
+      "description": "茧在啼哭，像是在呼唤着谁。那孩子从已然逝去的过去被带到这里，冲上岸，一路漂到美食广场……如今成了一道菜。"
+    },
+    {
+      "key": "I990934",
+      "displayName": "脏围裙",
+      "statText": "象征中，将显示敌人HP槽的HP阈值改为100%\n- 持有期间，敌人HP槽从第一次命中起即显示",
+      "description": "看不见的东西，必须被涂上颜色，轮廓才会显出来。往足够多看不见的东西上泼颜色，你就会发现，自己的身体也已经被染脏了。"
+    },
+    {
+      "key": "I992806",
+      "displayName": "深海染料",
+      "description": "有一种眼泪，每隔很久才会从最深的海底被捞起，涨得浮肿。在腐臭的气味与污黑的涂抹中翻搅许久之后……那眼泪终于恢复了原本的澄澈。\n\n深海染料，便是用这些古老存在的眼泪制成的。"
+    },
+    {
+      "key": "I992807",
+      "displayName": "黄金染料",
+      "description": "把黄金松脂的分泌物与脓液混合。\n\n每一分黄金都密密地饱和着意义与价值，足以把任何染料都染成金色。难的是弄到那份分泌物。"
+    },
+    {
+      "key": "I992808",
+      "displayName": "黄金线团",
+      "description": "为便于搬运而卷起的织线。纺啊，纺啊，纺啊……线在它一生中的每一步都在纺。"
+    },
+    {
+      "key": "I993002",
+      "displayName": "黄色眼泪",
+      "description": "眼泪像黄色的脓一样涌出。"
+    },
+    {
+      "key": "I993003",
+      "displayName": "红色眼泪",
+      "description": "红肿的眼泪像脓疮一样爆开。"
+    },
+    {
+      "key": "I993004",
+      "displayName": "蓝色眼泪",
+      "description": "蓝色染料带着脓的气味。"
+    },
+    {
+      "key": "I990925",
+      "displayName": "锯末",
+      "statText": "象征中攻击的<color=#F8C200>受击硬直</color>+0.2秒",
+      "description": "为什么要在黑暗里为了那点意义的碎屑而摸索？\n是碎屑本身就有意义，还是这份寻找赋予了它们意义？"
+    },
+    {
+      "key": "I990924",
+      "displayName": "天蓝染料",
+      "statText": "暗影中的战斗期间：\n在遭遇战中获胜后，<color=#00ff9c>恢复</color>10%象征<color=#00ff9c>HP</color>",
+      "description": "西西弗百货的人把这种染料叫做“天蓝”，可这里没人看得见天空，这不是很好笑吗？再说，哪有什么“天空的颜色”——真正的天空会随时辰、天气，或是……观察者的心境而变色。"
+    },
+    {
+      "key": "I990923",
+      "displayName": "纺锤",
+      "statText": "象征中，命中攻击后5秒内：\n- 目标<color=#F8C200>移动速度</color> -10%\n- 目标造成的<color=#fe4b48>伤害</color> -2 \n\n（冷却15秒）",
+      "description": "用切成薄片的默尔索捻成的线。颜色相当眼熟。"
+    },
+    {
+      "key": "I990922",
+      "displayName": "“哇哈哈哈！”",
+      "statText": "暗影中的战斗期间：\n同伴对西西弗的敌人造成的<color=#fe4b48>伤害</color> +5%",
+      "description": "你觉得西西弗百货的墙壁，是用什么做成的？"
+    },
+    {
+      "key": "I990815",
+      "displayName": "残羹剩饭",
+      "statText": "暗影中的战斗期间：\n回合开始时：<color=#00ff9c>HP</color>低于50%的同伴获得1层<color=#00ff9c>HP回复量提升</color>（每次遭遇战4次）",
+      "description": "你知道食物到哪里为止，剩饭又从哪里开始吗？\n\n咬一口就把剩下的扔掉，那便成了垃圾。但对某些人来说，那份垃圾却是极难得的食材，会被津津有味地吞下。我的意思是，什么算剩饭，在美食广场可是个极其重要的问题……而眼下，凡不是Le Noir的，都被算作剩饭。"
+    },
+    {
+      "key": "I990814",
+      "displayName": "地图碎片",
+      "statText": "在暗影中进入战斗时，获得1层<color=#F8C200>E.G.O资源增幅</color>，持续1回合",
+      "description": "一张标出直通奢侈品馆路线的地图，但如今已被用过，字迹难辨。西西弗系统整体是层层叠叠的叠加体，正因如此才能容纳多得不像话的顾客。\n这张地图出自少数能解析这多重结构的头脑之手，价值高得不可估量。\n\n而它落到了Le Rouge手里。"
+    },
+    {
+      "key": "I990320",
+      "displayName": "黄金面料",
+      "description": "若一件衣装是用世上最有价值、最有意义的材料做成的……那这件衣装是否就和那材料一样尊贵？"
+    },
+    {
+      "key": "I990008",
+      "displayName": "李箱",
+      "statText": "<color=#F8C200>移动速度</color> +10%（象征中）\n\n象征中，命中攻击时，目标的<color=#fe4b48>造成的伤害</color> -1，持续5秒（冷却10秒）",
+      "description": "翼的象征。为了变得自由。"
+    },
+    {
+      "key": "I990009",
+      "displayName": "浮士德",
+      "statText": "象征中，<color=#F8C200>弱点攻击</color>造成的<color=#fe4b48>伤害</color> +2",
+      "description": "知识的象征。为了变得聪慧。"
+    },
+    {
+      "key": "I990010",
+      "displayName": "堂吉诃德",
+      "statText": "象征中，击杀敌人时<color=#00ff9c>恢复</color>5%象征<color=#00ff9c>HP</color>（冷却10秒）",
+      "description": "行动的象征。为了变得矫健。"
+    },
+    {
+      "key": "I990011",
+      "displayName": "良秀",
+      "statText": "象征中，命中攻击时有20%概率施加1层<color=#F8C200>易损标记</color>\n（<color=#F8C200>易损标记</color>：<color=#fe4b48>受到的伤害</color> +10%）",
+      "description": "爱憎的象征。去<s>斩断</s>缠绕。"
+    },
+    {
+      "key": "I990012",
+      "displayName": "鸿璐",
+      "statText": "通过默尔索的攻击在暗影中进入战斗时，场上所有同伴<color=#F8C200>恢复5~10点SP</color>",
+      "description": "洞察的象征。为了守望。"
+    },
+    {
+      "key": "I990013",
+      "displayName": "希斯克利夫",
+      "statText": "<color=#F8C200>移动速度</color> +10%（象征中）\n\n象征中，击杀敌人后攻击<color=#fe4b48>伤害</color> +2，持续20秒（冷却30秒）",
+      "description": "风暴的象征。为了记住！@#!$。"
+    },
+    {
+      "key": "I990014",
+      "displayName": "以实玛利",
+      "statText": "象征中，命中攻击时使目标的<color=#F8C200>移动速度</color>降低20%，持续10秒（冷却13秒）",
+      "description": "冒险的象征。为了起航。"
+    },
+    {
+      "key": "I990015",
+      "displayName": "罗佳",
+      "statText": "若目标的象征<color=#00ff9c>HP</color>在50%以上，攻击<color=#fe4b48>伤害</color> +1",
+      "description": "英雄的象征。为了等待。"
+    },
+    {
+      "key": "I990016",
+      "displayName": "辛克莱",
+      "statText": "象征中：\n- 对前方敌人造成的<color=#fe4b48>伤害</color> +2\n- 来自后方敌人的<color=#fe4b48>受到的伤害</color> -2",
+      "description": "觉醒的象征。为了觉醒。"
+    },
+    {
+      "key": "I990017",
+      "displayName": "奥提斯",
+      "statText": "若目标的象征<color=#00ff9c>HP</color>低于50%，<color=#fe4b48>伤害</color> +1",
+      "description": "谋略的象征。为了徘徊。"
+    },
+    {
+      "key": "I990018",
+      "displayName": "格里高尔",
+      "statText": "象征HP低于25%时，<color=#00ff9c>恢复</color>15点象征<color=#00ff9c>HP</color>，且接下来10秒内<color=#fe4b48>受到的伤害</color> -20%（冷却19秒）",
+      "description": "变质的象征。为了吞食。"
+    },
+    {
+      "key": "I990432",
+      "displayName": "提灯拉绳",
+      "statText": "象征中，若玩家3秒未移动，则下一次攻击的<color=#fe4b48>伤害</color> +2（冷却10秒）",
+      "description": "拉一下绳，灯就亮。再拉一下，灯就灭。灯被绳子捆着。这正是绳子与钉子相同之处……也是它们不同的地方。"
+    },
+    {
+      "key": "I990117",
+      "displayName": "过季的Le Rouge衣服",
+      "statText": "象征<color=#00ff9c>HP</color> +4",
+      "description": "一根来自往季的钉子，钉进了砖里。它或许曾经流行，但如今只是过季了。"
+    },
+    {
+      "key": "I990321",
+      "displayName": "旧录音机",
+      "statText": "在暗影中进入战斗时，场上所有同伴<color=#F8C200>恢复4点SP</color>",
+      "description": "录制下来的声音从机器中流出。它流动着，却仍被囚禁。连声音都能被钉住。"
+    },
+    {
+      "key": "I990322",
+      "displayName": "死鸟",
+      "statText": "象征中，<color=#F8C200>弱点攻击</color>造成的<color=#fe4b48>伤害</color> +1",
+      "description": "一只鸟穷尽一生对着喇叭歌唱。有一天，它把头伸进喇叭里，唱到死去。下一只鸟则被关在笼子里歌唱。"
+    },
+    {
+      "key": "I990323",
+      "displayName": "袜子",
+      "statText": "象征<color=#00ff9c>HP</color> +4",
+      "description": "鞋需要袜子，这点很奇怪。我们穿鞋是为了保护脚，可又在脚和鞋之间垫了一层，为的是把两者都保护起来？\n或者……也许正是这份多余，赋予了袜子尊严。鞋属于本能——没有鞋脚会疼，所以我们<i>需要</i>它；而袜子则属于文明的领域，因为我们<i>想要</i>那份舒适。"
+    },
+    {
+      "key": "I102023",
+      "displayName": "品牌总监的遗物",
+      "statText": "象征中受击时有10%概率对攻击者回敬3点<color=#fe4b48>伤害</color>",
+      "description": "Le Rouge的品牌总监。\n\n品牌的一切意义与方向，都在她的指挥下被决定。没有人比她更清楚地听见赤色之神的声音。令人敬佩的是，即便那声音消失之后，品牌总监仍试图造出一个新的存在，好让那声音再度被听见。若她愿意，赤色之神的缺席本可以一直隐瞒下去，但她选择了不。"
+    },
+    {
+      "key": "I990919",
+      "displayName": "重复",
+      "statText": "象征中解锁<color=#F8C200>自动攻击</color>。\n\n按自动攻击键（键盘T）开/关。根据角色朝向侦测敌人，并<color=#F8C200>自动使用基础攻击</color>\n- 侦测范围：前方4格，左右各1格\n- 优先执行移动或防御等其他行动；其他行动结束后恢复自动攻击\n- 无论开关状态如何，均移除攻击后的移动延迟\n- 以下情况会自动关闭：\n  - 楼层间移动时\n  - 进入暗影中的战斗时",
+      "description": "自动重复。只管执行。但愿这份重复，至少能为您带来方便。"
+    },
+    {
+      "key": "I1209",
+      "displayName": "精炼的裁缝剪",
+      "statText": "象征中，命中攻击时有30%概率触发<color=#F8C200>咔嚓裁缝剪追加攻击</color>，造成1点<color=#fe4b48>伤害</color>（0.3秒受击硬直）\n\n在暗影中进入战斗时，对所有敌人施加等于其被本效果命中次数的流血层数（最多5）",
+      "description": "裁缝师剪开面料，再按纸样把它接合起来。近来那咔嚓声大了许多——Le Noir们一定是下了笔极大的订单。也许，一场大冲突就要爆发了？"
+    }
+  ]
+}

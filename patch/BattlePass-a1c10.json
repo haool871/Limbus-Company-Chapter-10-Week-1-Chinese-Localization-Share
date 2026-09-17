@@ -1,0 +1,24 @@
+{
+  "dataList": [
+    {
+      "id": "battlepass_season_8",
+      "content": "PUNCTUM"
+    },
+    {
+      "id": "battle_pass_season_8_product_package_with_limbus_desc_summary",
+      "content": "◆ 第8赛季边狱通行证\n◆ 购买后立即提升10级通行证等级\n◆ 人格等级直升券VI\n◆ 边狱组合包特别横幅"
+    },
+    {
+      "id": "battle_pass_season_8_product_package_without_limbus_desc_summary",
+      "content": "◆ 购买后立即提升10级通行证等级\n◆ 人格等级直升券VI\n◆ 边狱组合包特别横幅"
+    },
+    {
+      "id": "until_season_8_start",
+      "content": "- 到第9赛季更新前"
+    },
+    {
+      "id": "until_season_8_end_on_shop",
+      "content": "到第9赛季更新前"
+    }
+  ]
+}

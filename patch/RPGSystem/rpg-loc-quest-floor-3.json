@@ -1,0 +1,244 @@
+{
+  "dataList": [
+    {
+      "key": "Q3001",
+      "title": "前往3F",
+      "description": "2F目前正“进行改装”。可不管怎么看，那都不像是普通的施工。\n\n既然那一层暂时没法探索，不如先乘自动扶梯去3F看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "乘自动扶梯前往3F"
+        }
+      ]
+    },
+    {
+      "key": "Q3002",
+      "title": "追寻咔嚓咔嚓声",
+      "description": "我们来到3F。远处传来像是剪刀“咔嚓、咔嚓”的声响。去看看那声音是从哪儿来的吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "追寻咔嚓声，探索通往上层的地方"
+        }
+      ]
+    },
+    {
+      "key": "Q3003",
+      "title": "前往走廊",
+      "description": "我们遇到了裁缝师安妮特。若日后需要织出一整卷布料，她想必能派上用场。\n总之，先离开这里吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "离开裁缝店，回到走廊"
+        }
+      ]
+    },
+    {
+      "key": "Q3004",
+      "title": "探索3F",
+      "description": "遗憾的是，我们没能跟两件套说上话。还是说，该叫它两件们？\n\n总之，先把剩下的地方探索完。比如左边那家店。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往左边的店"
+        }
+      ]
+    },
+    {
+      "key": "Q3005",
+      "title": "与精品店的Le Rouge交谈",
+      "description": "我们走进了一家叫“精品店”的店。店内有个没有实体的声音——多半属于那位“巨人”——不断地念诵着某种咒文。\n去跟店员谈谈，看看能不能多了解这个地方。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与Boutique du Rouge的店员交谈"
+        }
+      ]
+    },
+    {
+      "key": "Q3006",
+      "title": "前往广播室",
+      "description": "Le Rouge店员L'Inamovible神情沮丧，因为那“声音”只是不断重复它已经说过的话，她想知道原因。\n可那声音的主人，是早已离世的默尔索的母亲……尽管如此，我们还是按她所说，决定前往广播室。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往广播室"
+        }
+      ]
+    },
+    {
+      "key": "Q3007",
+      "title": "回到L'Inamovible那里",
+      "description": "从3F楼层经理那里拿到了广播室录音带。这盘带子里，或许就录着巨人的声音？\n\n回到Boutique du Rouge，把它交给L'Inamovible吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "回到L'Inamovible那里"
+        }
+      ]
+    },
+    {
+      "key": "Q3008",
+      "title": "回到L'Inamovible那里",
+      "description": "从3F楼层经理那里拿到了广播室录音带。这盘带子里，或许就录着巨人的声音？\n\n回到Boutique du Rouge，把它交给L'Inamovible吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "回到L'Inamovible那里"
+        }
+      ]
+    },
+    {
+      "key": "Q3009",
+      "title": "与两件套交谈（2）",
+      "description": "好，它们的“会议”这会儿应该结束了吧。但愿如此。\n回到堵住右侧走廊的两件套那里，问个清楚吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与走廊里的两件套交谈"
+        }
+      ]
+    },
+    {
+      "key": "Q3010",
+      "title": "前往裁缝店",
+      "description": "会议仍在继续，丝毫没有散场的迹象。\n奥提斯和辛克莱交换了一个眼神，随后提议我们去裁缝店……也许他们想到什么主意了？",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往裁缝店"
+        }
+      ]
+    },
+    {
+      "key": "Q3012",
+      "title": "前往右侧",
+      "description": "正如安妮特所说，那把剪刀磨得很利，咔嚓一声就把两件套剪成了两件。\n去看看它们身后有什么吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往右侧的店"
+        }
+      ]
+    },
+    {
+      "key": "Q3013",
+      "title": "清除被俘虏的Le Noir",
+      "description": "我们来到了Maison du Noir。\n经营这家店的两位Le Noir——弗兰内尔和菲尔特——想让自家品牌“高级化”，于是拜托我们清除几个被外来的“声音”俘虏的Le Noir。\n先清除三个左右被俘虏的Le Noir，再回去跟他们谈吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "清除3名被俘虏的Le Noir"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "回到弗兰内尔与菲尔特那里"
+        }
+      ]
+    },
+    {
+      "key": "Q3011",
+      "title": "买一把剪刀，让会议散场",
+      "description": "我记得裁缝师安妮特在卖几把剪刀。\n去买一把“磨得锋利的裁缝剪”，然后回到两件套那里。\n奥提斯和辛克莱两人脸上，都挂着同样古怪而自得的笑容。\n\n等等，你们打算——？",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "从裁缝师安妮特那里买一把“磨得锋利的裁缝剪”"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "回到走廊里的两件套那里"
+        }
+      ]
+    },
+    {
+      "key": "Q4014",
+      "title": "把情况告知Le Noir们",
+      "description": "我们在幸福衣柜的残骸里找到一张纸条，上面写着“黄金面料”和“钉子”。这或许就是单足提到的、那把传说武器的制作配方？\n按约定，先把这带回去给4F的Le Noir鞋履馆里的那个单足，然后再回到3F的Maison du Noir找弗兰内尔和菲尔特。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "离开前先与弧形落地灯交谈"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "与4F的Le Noir鞋履馆里的单足交谈"
+        },
+        {
+          "index": 2,
+          "goalDescription1": "与3F的Maison du Noir里的弗兰内尔交谈"
+        }
+      ]
+    },
+    {
+      "key": "Q4015",
+      "title": "前往裁缝店",
+      "description": "我们回到了3F。把黄金线团拿去给裁缝师安妮特，她就能用它织出黄金面料。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往裁缝店"
+        }
+      ]
+    },
+    {
+      "key": "Q4017",
+      "title": "前往Boutique du Rouge",
+      "description": "从裁缝师安妮特那里拿到了黄金面料……接下来，该去取得那根“钉子”了。\n我们应该能在Boutique du Rouge拿到那根“钉子”——或者按Le Noir们的说法，“L'Inamovible的脊骨”。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "回到L'Inamovible那里"
+        }
+      ]
+    },
+    {
+      "key": "Q4016",
+      "title": "取得“钉子”，回到Maison du Noir",
+      "description": "L'Inamovible的扭曲在我们眼前迅速加剧，我们只好将她斩杀。\n现在，把她的脊——“钉子”取下来吧。\n接下来，只要把黄金面料缠上那根钉子，Le Noir们那把能撕裂一切面料的传说武器就完成了。\n\n回到Maison du Noir，把消息告诉弗兰内尔和菲尔特吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "从L'Inamovible的遗骸上取得“钉子”"
+        },
+        {
+          "index": 2,
+          "goalDescription1": "回到Maison du Noir"
+        }
+      ]
+    },
+    {
+      "key": "Q3016T",
+      "title": "(내부) 플로어 매니저 개전 신호",
+      "description": "0901추가",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "(내부) 플로어 매니저 개전"
+        }
+      ]
+    },
+    {
+      "key": "Q3016H1",
+      "title": "(내부) 플로어 매니저 타격 1",
+      "description": "0901",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "(내부) 플로어 매니저 타격 1"
+        }
+      ]
+    },
+    {
+      "key": "Q3016H2",
+      "title": "(내부) 플로어 매니저 타격 2",
+      "description": "0901추가",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "(내부) 플로어 매니저 타격 2"
+        }
+      ]
+    }
+  ]
+}

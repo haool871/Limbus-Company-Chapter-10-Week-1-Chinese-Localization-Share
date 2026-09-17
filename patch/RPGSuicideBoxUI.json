@@ -1,0 +1,64 @@
+{
+  "dataList": [
+    {
+      "id": "rpg_suicidebox_reset_button_text",
+      "content": "清算\n（重置）"
+    },
+    {
+      "id": "rpg_suicidebox_reset_confirm_desc",
+      "content": "是否进行清算？\n\n选择后，当前进行中的轮次记录将被重置，且无法恢复。"
+    },
+    {
+      "id": "rpg_suicidebox_hardreset_button_text",
+      "content": "停业\n（硬重置）"
+    },
+    {
+      "id": "rpg_suicidebox_hardreset_confirm_desc",
+      "content": "是否进行停业？\n\n选择后，所有轮次的记录都将被重置，且无法恢复。"
+    },
+    {
+      "id": "rpg_suicidebox_main_screen_desc_default",
+      "content": "自我了断，无异于对未被理解的人生所作出的坦白。\n那么，你又要以何种方式了断性命，将其献给人生？"
+    },
+    {
+      "id": "rpg_suicidebox_coming_soon",
+      "content": "预计于{0}月{1}日（KST）更新"
+    },
+    {
+      "id": "rpg_suicidebox_intro_ab_1",
+      "content": "将一生仅此一次的瞬间，体验得更加鲜明。\n今天也感谢您使用本公司的自杀自动贩卖机。"
+    },
+    {
+      "id": "rpg_suicidebox_intro_ab_2",
+      "content": "本机型为家庭、朋友、情侣等多人共同使用的共享体验型设施。"
+    },
+    {
+      "id": "rpg_suicidebox_intro_ab_3",
+      "content": "大湖遇难、列车撞击、药物过量中毒、雷击、失温症等部分自杀体验无法选择。\n希望获得更丰富体验的顾客，请使用单人用自杀自动贩卖机。"
+    },
+    {
+      "id": "rpg_suicidebox_intro_ab_4",
+      "content": "毫无负担地体验惊悚的恐怖与刺激。\n请按下下方按钮之一，体验与众不同的死亡。"
+    },
+    {
+      "id": "rpg_suicidebox_pressed_dialog_ab",
+      "content": "孕妇、老弱者、药物使用者及心血管疾病患者请谨慎使用。\n因过度使用而引发的事故，责任全部由使用者本人承担。"
+    },
+    {
+      "id": "rpg_suicidebox_enter_notice_condition_b",
+      "content": "- 人格：同步 4阶段\n- E.G.O：异想解析 4阶段"
+    },
+    {
+      "id": "rpg_suicidebox_enter_notice_question_b",
+      "content": "是否使用自杀自动贩卖机？"
+    },
+    {
+      "id": "rpg_suicidebox_enter_notice_condition_c",
+      "content": "- 人格：同步 4阶段\n- E.G.O：异想解析 4阶段"
+    },
+    {
+      "id": "rpg_suicidebox_enter_notice_question_c",
+      "content": "是否使用自杀自动贩卖机？"
+    }
+  ]
+}

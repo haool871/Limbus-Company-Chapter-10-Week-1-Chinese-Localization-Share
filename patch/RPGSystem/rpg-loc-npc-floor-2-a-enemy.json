@@ -1,0 +1,40 @@
+{
+  "dataList": [
+    {
+      "key": "N102002",
+      "displayName": "品牌总监"
+    },
+    {
+      "key": "N102004",
+      "displayName": "Le Rouge店员"
+    },
+    {
+      "key": "N102025",
+      "displayName": "Le Rouge店员"
+    },
+    {
+      "key": "N102026",
+      "displayName": "反抗的Le Rouge"
+    },
+    {
+      "key": "N102027",
+      "displayName": "Le Rouge店长"
+    },
+    {
+      "key": "N102042",
+      "displayName": "冲锋的Le Noir"
+    },
+    {
+      "key": "N102043",
+      "displayName": "突击的Le Noir"
+    },
+    {
+      "key": "N102044",
+      "displayName": "突击的Le Noir"
+    },
+    {
+      "key": "N102046",
+      "displayName": "冲锋的Le Noir"
+    }
+  ]
+}

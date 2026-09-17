@@ -1,0 +1,210 @@
+{
+  "dataList": [
+    {
+      "key": "Q1000",
+      "title": "오프닝",
+      "description": "로딩 직후 오프닝 연출(S1001B) 재생 처리용 숨겨진 퀘스트",
+      "steps": [
+        {
+          "index": 0
+        }
+      ]
+    },
+    {
+      "key": "Q1011",
+      "title": "探索周围",
+      "description": "我们来到了一个叫西西弗百货的地方。默尔索会在哪儿呢……？总之先四处看看，摸清情况比较好。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "探索周围"
+        }
+      ]
+    },
+    {
+      "key": "Q1012",
+      "title": "返回洗手间",
+      "description": "我们在西西弗百货遇到了克罗默的亲姐姐。总之先回洗手间重整旗鼓吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "返回洗手间"
+        }
+      ]
+    },
+    {
+      "key": "Q1013",
+      "title": "寻找默尔索",
+      "description": "默尔索似乎就在百货店的某处。我们看到了铺着地毯的地面，前方陈列着衣物。就一边探索百货店，一边寻找陈列衣物的地方吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "探索百货店"
+        }
+      ]
+    },
+    {
+      "key": "Q1014",
+      "title": "???",
+      "description": "这里似乎藏着什么东西。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "???"
+        }
+      ]
+    },
+    {
+      "key": "Q1021",
+      "title": "寻找默尔索（2）",
+      "description": "默尔索似乎就在这附近。去找找他吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "找到默尔索"
+        }
+      ]
+    },
+    {
+      "key": "Q1022",
+      "title": "默尔索的提议",
+      "description": "决定是否接受默尔索的提议。\n→ 接受即开始狩猎任务；若暂缓，可再次向SPA店员询问。",
+      "steps": [
+        {
+          "index": 0
+        },
+        {
+          "index": 1
+        }
+      ]
+    },
+    {
+      "key": "Q1023",
+      "title": "把人体模型引到出口",
+      "description": "要把默尔索换回来，就得把被称为人体模型的东西引出去三只。解决掉人体模型后，回到看起来是店主的米莫萨那里吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "把人体模型“引到出口”"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "回到米莫萨那里"
+        }
+      ]
+    },
+    {
+      "key": "Q1031",
+      "title": "探索西西弗百货",
+      "description": "从默尔索那里听了关于西西弗百货的说明。虽然没能全部理解，但有一点很清楚：这地方似乎没有正经的出口。总之继续四处看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "探索百货店"
+        }
+      ]
+    },
+    {
+      "key": "Q1032",
+      "title": "探索西西弗百货（2）",
+      "description": "我们遇到了一个叫迪布瓦的人。他看起来也和我们一样，进西西弗百货没多久。继续在百货店里寻找上楼的方法吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "探索百货店"
+        }
+      ]
+    },
+    {
+      "key": "Q1041",
+      "title": "浏览陈列的衣物",
+      "description": "我们来到了一个叫现代馆的卖场。这里的店员不怎么搭理我们。不如看看卖场里陈列的衣物也好。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "浏览衣物"
+        }
+      ]
+    },
+    {
+      "key": "Q1042",
+      "title": "击退敌对的Le Noir店员",
+      "description": "",
+      "steps": [
+        {
+          "index": 0
+        }
+      ]
+    },
+    {
+      "key": "Q1051",
+      "title": "前往Le Rouge的卖场",
+      "description": "从Le Noir店员那里听说了黄金松脂的事。这次去上面的Le Rouge现代馆看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往Le Rouge现代馆"
+        }
+      ]
+    },
+    {
+      "key": "Q1052",
+      "title": "寻找巨大的针",
+      "description": "Le Rouge现代馆的店员奎利安拜托我们带一根巨大的针回来。找到拿着那根针的人体模型，取得针后回到奎利安那里吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "取得巨大的针并回到奎利安那里"
+        }
+      ]
+    },
+    {
+      "key": "Q1061",
+      "title": "去购买衣物",
+      "description": "据说要上楼，得先积累购买业绩。先从店员那里购买衣物，然后继续寻找上楼的方法吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "从奎利安那里购买衣物"
+        }
+      ]
+    },
+    {
+      "key": "Q1062",
+      "title": "前往自动扶梯",
+      "description": "我们找到了通往下一层的自动扶梯。之前见过的迪布瓦也在。上去之前先跟他搭句话比较好。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与迪布瓦交谈"
+        }
+      ]
+    },
+    {
+      "key": "Q1064",
+      "title": "乘坐自动扶梯",
+      "description": "自动扶梯顺利运转着。这下终于能上2层了。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "乘自动扶梯前往2F"
+        }
+      ]
+    },
+    {
+      "key": "Q1018",
+      "title": "???",
+      "description": "(히든) 못 획득 시 대화",
+      "steps": [
+        {
+          "index": 0
+        }
+      ]
+    },
+    {
+      "key": "Q1001",
+      "title": "퀘스트1 - 시작",
+      "description": "미사용"
+    }
+  ]
+}

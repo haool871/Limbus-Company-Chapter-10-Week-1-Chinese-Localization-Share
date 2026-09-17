@@ -1,0 +1,212 @@
+{
+  "dataList": [
+    {
+      "key": "Q-2000",
+      "title": "探索B2F",
+      "description": "我们抵达了B2F。继续前进吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "探索B2F"
+        }
+      ]
+    },
+    {
+      "key": "Q-2001",
+      "title": "前往线团巢",
+      "description": "我们下到了B2F。克罗默的姐姐提到过一个叫线团巢的地方。往左边走吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往左侧的线团巢"
+        }
+      ]
+    },
+    {
+      "key": "Q-2002",
+      "title": "离开洗手间",
+      "description": "我们本想前往线团巢，却被一只巨大的怪物追上杀死了。它似乎是冲着我们带着的黄金茧来的。总之先离开洗手间，另想办法过去吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "离开洗手间"
+        }
+      ]
+    },
+    {
+      "key": "Q-2003",
+      "title": "前往线团巢（2）",
+      "description": "那只怪物似乎暂时走开了。趁这个机会再冲一次线团巢吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "再次前往线团巢"
+        }
+      ]
+    },
+    {
+      "key": "Q-2004",
+      "title": "与B2F楼层经理交谈",
+      "description": "我们平安抵达了线团巢。B2F的楼层经理就在这里。去问问黄金茧能否纺成黄金线吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与B2F楼层经理交谈"
+        }
+      ]
+    },
+    {
+      "key": "Q-2005",
+      "title": "前往染坊",
+      "description": "楼层经理说，要纺出黄金线就需要黄金染料。染坊里一个叫帕莱特的人应该能帮上忙。我们得穿过走廊出去，再往上方走，找到染坊。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往染坊"
+        }
+      ]
+    },
+    {
+      "key": "Q-2006",
+      "title": "소문 수집/미사용",
+      "description": "去偷听正在干活的顾客们，收集情报。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "询问正在干活的顾客"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "询问正在干活的顾客"
+        }
+      ]
+    },
+    {
+      "key": "Q-2007",
+      "title": "找到内基德并交涉",
+      "description": "等待黄金染料的人多得不讲道理。听说一个叫内基德的Le Noir排在最前面。找到内基德，看看能不能跟他谈谈，把他的位置买下来。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "找到内基德并交涉"
+        }
+      ]
+    },
+    {
+      "key": "Q-2008",
+      "title": "깊은 바다 염료 소문 수집/미사용",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "询问排队的Le Noir"
+        }
+      ]
+    },
+    {
+      "key": "Q-2009",
+      "title": "向帕莱特索要L'Incolore染料",
+      "description": "内基德根本没打算白白让出黄金染料。他要用一种叫L'Incolore的染料来换。回染坊找帕莱特，问她能不能做出来。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "向帕莱特索要L'Incolore染料"
+        }
+      ]
+    },
+    {
+      "key": "Q-2010",
+      "title": "打爆泪染储藏库里的眼泪",
+      "description": "幸运的是，帕莱特说她马上就能做出L'Incolore。作为交换，她要我们打爆几种不同颜色的眼泪。据说它们就在右侧的泪染储藏库里。收集2份黄色、2份红色、2份蓝色染料，然后带回给帕莱特。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "收集黄色染料",
+          "goalDescription2": "收集红色染料",
+          "goalDescription3": "收集蓝色染料"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "把染料带给帕莱特"
+        }
+      ]
+    },
+    {
+      "key": "Q-2011",
+      "title": "用内基德换黄金染料",
+      "description": "帕莱特把L'Incolore给了我们。我完全看不出它有什么颜色，不过……拿去给内基德，看看他肯不肯用黄金染料来换。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "用L'Incolore向内基德换黄金染料"
+        }
+      ]
+    },
+    {
+      "key": "Q-2012",
+      "title": "황금염료/미사용",
+      "description": "我们得去帕莱特那里领取黄金染料。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "从帕莱特那里领取黄金染料"
+        }
+      ]
+    },
+    {
+      "key": "Q-2013",
+      "title": "回到B2F楼层经理那里",
+      "description": "多亏奥提斯那番雄辩的交涉，内基德终于同意交出黄金染料。把它拿去给B2F楼层经理吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "回到B2F楼层经理那里"
+        }
+      ]
+    },
+    {
+      "key": "Q-2014",
+      "title": "挡住入侵者",
+      "description": "就在我们等着黄金茧纺成线时，走廊里传来了有人靠近的动静。他们多半是冲着黄金线团来的。在纺线完成之前，守住走廊入口。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "挡住入侵者"
+        }
+      ]
+    },
+    {
+      "key": "Q-2015",
+      "title": "领取纺好的黄金线团",
+      "description": "那只不明生物倒下了。回B2F楼层经理那里，领取织好的黄金线团吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "从B2F楼层经理那里领取纺好的黄金线团"
+        }
+      ]
+    },
+    {
+      "key": "Q-2016A",
+      "title": "离开B2F",
+      "description": "黄金线团已经完成了。这里的事看来都办完了。该离开B2F了。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "离开B2F"
+        }
+      ]
+    },
+    {
+      "key": "Q-2017",
+      "title": "前往3F",
+      "description": "该上3F了，去看看黄金线团能不能织成黄金面料。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "乘自动扶梯前往3F"
+        }
+      ]
+    }
+  ]
+}

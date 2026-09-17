@@ -1,0 +1,56 @@
+{
+  "dataList": [
+    {
+      "id": "main_ui_rpg_battle_defeated_title",
+      "content": "战斗失败"
+    },
+    {
+      "id": "main_ui_rpg_battle_defeated_desc",
+      "content": "<color=#990000>所有罪人均已战败。</color>\n请选择接下来的行动。"
+    },
+    {
+      "id": "main_ui_rpg_retry",
+      "content": "再次挑战"
+    },
+    {
+      "id": "main_ui_rpg_retry_desc",
+      "content": "从头重新开始本次战斗"
+    },
+    {
+      "id": "main_ui_rpg_accept_defeat",
+      "content": "放弃关卡"
+    },
+    {
+      "id": "main_ui_rpg_accept_defeat_desc",
+      "content": "回到最后存档状态的泉眼"
+    },
+    {
+      "id": "ContinueConfirm_Desc_Rpg_Stage",
+      "content": "无论是否使用续关功能，\n通关10-4后均会标记为“额外条件达成”。\n\n但是，<color=#990000>若在使用续关功能且未重试、未能获胜或放弃的情况下赢得遭遇战，并于<i>之后</i>在10-4生成存档，则放弃10-4时不会返还任何为使用续关功能而消耗的资源。</color>\n\n请注意，已消耗的狂气无法返还。"
+    },
+    {
+      "id": "formation_ego_resource_popup_current_owned_desc",
+      "content": "可在此查看当前拥有的E.G.O资源。"
+    },
+    {
+      "id": "formation_ego_resource_popup_current_owned",
+      "content": "E.G.O资源持有量"
+    },
+    {
+      "id": "9128_chapter_notice_button_title",
+      "content": "警告"
+    },
+    {
+      "id": "9128_chapter_notice_popup_title",
+      "content": "当前正在游玩<color=#3246AB>[{0} - {1}]</color>章节。"
+    },
+    {
+      "id": "9128_chapter_notice_enter_title",
+      "content": "要进入<color=#3246AB>[章节 {0} - {1}]</color>吗？"
+    },
+    {
+      "id": "9128_chapter_notice_popup_desc",
+      "content": "◆ <color=#ff6000><mark color=#ff000040><b><u>即使未通关之前的故事章节，也可游玩主线剧情章节X。</color></mark></b></u>\n◆ <color=#ff6000><mark color=#ff000040><b><u>章节X包含至间章VII-2为止的剧透内容。</color></mark></b></u>\n◆ 若在通关章节X时仍未通关之前的章节，则<color=#ff6000><mark color=#ff000040><b><u>镜像迷宫、折射轨道、采光迷宫、映射战斗等需要主线剧情进度的各类内容，将仅在满足各自的前置条件后方可解锁。</color></mark></b></u>\n◆ 对于今后以通关章节X为前提条件的各类内容，<color=#ff6000><mark color=#ff000040><b><u>需同时通关章节X与9.5-26方可解锁。</color></mark></b></u>\n◆ 在章节X进行期间，<color=#ff6000><mark color=#ff000040><b><u>默尔索将可使用部分支援人格</color></mark></b></u>与E.G.O（同步/异想解析阶段4）。\n◆ 在章节X进行期间，<color=#ff6000><mark color=#ff000040><b><u>包括默尔索在内的所有我方人格将至少保障为同步阶段3</color></mark></b></u>（E.G.O异想解析阶段不受影响）。"
+    }
+  ]
+}
