@@ -1,0 +1,88 @@
+# en	cn	en_hits	cn_hits	source	reason
+...	…	0	32117	Passives_Enemy-a1c6p1.json	R1 空/纯符号
+3	3	8738	9087	MirrorDungeonUI_5.json	R1 纯数字/数值
+ON	ON	13580	18	MirrorDungeonUI_5_InfinityFloor.json	R1 功能词
+-	-	0	8767	MirrorDungeonUI_4.json	R1 空/纯符号
+10	10	3679	3895	MirrorDungeonUI_5.json	R1 纯数字/数值
+6	6	1830	2678	MirrorDungeonUI_5.json	R1 纯数字/数值
+???	？？？	0	3157	Enemies-a1c5p3.json	R1 空/纯符号
+30	30	1213	1306	MirrorDungeonUI_5.json	R1 纯数字/数值
+15	15	1230	1122	MirrorDungeonUI_5.json	R1 纯数字/数值
+Offense Level Up	攻击等级强化	296	8	BattleKeywords_Mirror3.json	R4 同英多译劣势（正解 攻击等级提升 prec=0.94，本条 0.03）
+Normal	Normal	273	1	MirrorDungeonUI_5.json	R2 同形且中文语料不用（非术语/占位符）
+90%	90%	0	253	MirrorDungeonUI_4.json	R1 纯数字/数值
+Starlight	星芒奖励	145	34	MirrorDungeonUI_3.json	R4 同英多译劣势（正解 星芒 prec=0.98，本条 0.27）
+60%	60%	0	161	MirrorDungeonUI_4.json	R1 纯数字/数值
+Defense Level Up	防御等级强化	139	6	BattleKeywords_Mirror3.json	R4 同英多译劣势（正解 防御等级提升 prec=0.92，本条 0.04）
+EXTREME	EXTREME	37	1	MirrorDungeonUI_5.json	R2 同形且中文语料不用（非术语/占位符）
+Defense Power Up	守备威力强化	34	2	BattleKeywords_Mirror3.json	R4 同英多译劣势（正解 忍耐 prec=0.94，本条 0.06）
+Morale Boost	提振士气	28	3	Passives.json	R4 同英多译劣势（正解 昂扬 prec=0.96，本条 0.04）
+REMINISCENCE	REMINISCENCE	25	2	SeasonTitle.json	R2 同形且中文语料不用（非术语/占位符）
+OBLIVION	OBLIVION	22	2	SeasonTitle.json	R2 同形且中文语料不用（非术语/占位符）
+Max Speed +1	[战斗]	0	23		R4 同英多译劣势（正解 最大速度值+1 prec=0.96，本条 0.04）
+??-??-??-??	??-??-??-??	0	20	AbnormalityGuides-walpu4.json	R1 空/纯符号
+Simulation	难易度：模拟	18	2	MirrorDungeonUI_4.json	R4 同英多译劣势（正解 模拟 prec=0.87，本条 0.09）
+CLEAR ALL CATHY	CLEAR ALL CATHY	11	2	SeasonTitle.json	R2 同形且中文语料不用（非术语/占位符）
+infinity	infinity	11	1	MirrorDungeonUI_5_InfinityFloor.json	R2 同形且中文语料不用（非术语/占位符）
+BON VOYAGE	BON VOYAGE	10	2	SeasonTitle.json	R2 同形且中文语料不用（非术语/占位符）
+ORIENTATION	ORIENTATION	8	2	SeasonTitle.json	R2 同形且中文语料不用（非术语/占位符）
+부적_떼기	부적_떼기	0	5	ActionEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+99%	99%	0	5	MirrorDungeonUI_5.json	R1 纯数字/数值
+환_도박	환_도박	0	3	ActionEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+막바지_보너스	막바지_보너스	0	3	ActionEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+버프 이름	버프 이름	0	3	BattleKeywords_Refraction5.json	R2 韩文内部键（英中两侧均韩文）
+낭떠러지_도전	낭떠러지_도전	0	2	AbEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+항아리_보기	항아리_보기	0	2	AbEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+공포_견디기	공포_견디기	0	2	AbEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+막바지_보너스_내기	막바지_보너스_내기	0	2	AbEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+아파하는 테디 선택지 선택 이벤트	아파하는 테디 선택지 선택 이벤트	0	2	ActionEvents-a1c7p3.json	R2 韩文内部键（英中两侧均韩文）
+(엄지 싱클 탄환 보급 받는 대상 이펙트)	(엄지 싱클 탄환 보급 받는 대상 이펙트)	0	2	BattleKeywords.json	R2 韩文内部键（英中两侧均韩文）
+132218	132218	1	1	Passives_Abnormality-a1c9p3.json	R1 纯数字/数值
+132217	132217	1	1	Passives_Abnormality-a1c9p3.json	R1 纯数字/数值
+Obtained by clearing Line 2 with {1} or more Cycle Counts	巡回数不少于{1}时通关2号线获得	0	2	RailwayDungeonUI_2.json	R5 描述性句子
+Kumo no ito · oti on akA	Kumo no ito · oti on akA	0	2	SeasonTitle.json	R2 同形且中文语料不用（非术语/占位符）
+막힌_길_장치_조작	막힌_길_장치_조작	0	1	AbEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+죄인_벌주기_1차	죄인_벌주기_1차	0	1	AbEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+죄인_벌주기_2차	죄인_벌주기_2차	0	1	AbEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+백설선택지4	백설선택지4	0	1	AbEvents.json	R2 韩文内部键（英中两侧均韩文）
+백설선택지5	백설선택지5	0	1	AbEvents.json	R2 韩文内部键（英中两侧均韩文）
+구더기사과선택지1	구더기사과선택지1	0	1	AbEvents.json	R2 韩文内部键（英中两侧均韩文）
+아즈텍원판선택지2	아즈텍원판선택지2	0	1	AbEvents.json	R2 韩文内部键（英中两侧均韩文）
+아즈텍원판선택지4	아즈텍원판선택지4	0	1	AbEvents.json	R2 韩文内部键（英中两侧均韩文）
+아즈텍원판선택지6	아즈텍원판선택지6	0	1	AbEvents.json	R2 韩文内部键（英中两侧均韩文）
+분홍신선택지2	분홍신선택지2	0	1	AbEvents.json	R2 韩文内部键（英中两侧均韩文）
+던전 103003 선택지	던전 103003 선택지	0	1	AbEvents.json	R2 韩文内部键（英中两侧均韩文）
+던전 103004 선택지 : 짓무름의 의식	던전 103004 선택지 : 짓무름의 의식	0	1	AbEvents.json	R2 韩文内部键（英中两侧均韩文）
+던전 103004 선택지 : 속죄의 의식	던전 103004 선택지 : 속죄의 의식	0	1	AbEvents.json	R2 韩文内部键（英中两侧均韩文）
+던전 103006 2차 선택지	던전 103006 2차 선택지	0	1	AbEvents.json	R2 韩文内部键（英中两侧均韩文）
+늑대선택지1	늑대선택지1	0	1	AbEvents.json	R2 韩文内部键（英中两侧均韩文）
+뱀선택지1	뱀선택지1	0	1	AbEvents.json	R2 韩文内部键（英中两侧均韩文）
+크로머선택지1	크로머선택지1	0	1	AbEvents.json	R2 韩文内部键（英中两侧均韩文）
+크로머선택지2	크로머선택지2	0	1	AbEvents.json	R2 韩文内部键（英中两侧均韩文）
+단수어선택지1	단수어선택지1	0	1	AbEvents.json	R2 韩文内部键（英中两侧均韩文）
+골목파수견선택지1	골목파수견선택지1	0	1	AbEvents.json	R2 韩文内部键（英中两侧均韩文）
+막힌길_뚫기	막힌길_뚫기	0	1	ActionEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+부적_떼기_북	부적_떼기_북	0	1	ActionEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+부적_떼기_중앙	부적_떼기_중앙	0	1	ActionEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+부적_떼기_서	부적_떼기_서	0	1	ActionEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+부적_떼기_끝	부적_떼기_끝	0	1	ActionEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+붉은_출입증_획득_전투	붉은_출입증_획득_전투	0	1	ActionEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+죄수_꽃뜯기	죄수_꽃뜯기	0	1	ActionEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+환_도박_코인_성공	환_도박_코인_성공	0	1	ActionEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+환_도박_코인_실패	환_도박_코인_실패	0	1	ActionEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+죄인_고문	죄인_고문	0	1	ActionEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+항아리_보기_뽀개기	항아리_보기_뽀개기	0	1	ActionEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+타임어택_인형_전투	타임어택_인형_전투	0	1	ActionEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+공포_견디기_내기	공포_견디기_내기	0	1	ActionEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+붉은_출입증_사용	붉은_출입증_사용	0	1	ActionEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+가문_기물_획득	가문_기물_획득	0	1	ActionEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+막바지_보너스_내기_패배	막바지_보너스_내기_패배	0	1	ActionEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
+(더미)	(더미)	0	1	BattleResultHint-a1c9p3.json	R2 韩文内部键（英中两侧均韩文）
+~ <font="ExcelsiorSans SDF">{0}</font>	~ <font="ExcelsiorSans SDF">{0}</font>	0	1	RailwayDungeonUI_5.json	R2 同形且中文语料不用（非术语/占位符）
+ORIENTATION [EVENT]	ORIENTATION [EVENT]	0	1	SeasonTitle.json	R2 同形且中文语料不用（非术语/占位符）
+REMINISCENCE [EVENT]	REMINISCENCE [EVENT]	0	1	SeasonTitle.json	R2 同形且中文语料不用（非术语/占位符）
+BON VOYAGE [EVENT]	BON VOYAGE [EVENT]	0	1	SeasonTitle.json	R2 同形且中文语料不用（非术语/占位符）
+CLEAR ALL CATHY [EVENT]	CLEAR ALL CATHY [EVENT]	0	1	SeasonTitle.json	R2 同形且中文语料不用（非术语/占位符）
+OBLIVION [EVENT]	OBLIVION [EVENT]	0	1	SeasonTitle.json	R2 同形且中文语料不用（非术语/占位符）
+Zàng Huā Yín [EVENT]	Zàng Huā Yín [EVENT]	0	1	SeasonTitle.json	R2 同形且中文语料不用（非术语/占位符）
+Kumo no ito · oti on akA [EVENT]	Kumo no ito · oti on akA [EVENT]	0	1	SeasonTitle.json	R2 同形且中文语料不用（非术语/占位符）
