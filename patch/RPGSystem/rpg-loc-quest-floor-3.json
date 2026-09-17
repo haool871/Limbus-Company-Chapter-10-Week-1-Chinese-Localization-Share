@@ -29,7 +29,7 @@
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "离开改衣店，回到走廊"
+          "goalDescription1": "离开改衣室，回到走廊"
         }
       ]
     },
@@ -101,12 +101,12 @@
     },
     {
       "key": "Q3010",
-      "title": "前往改衣店",
-      "description": "会议仍在继续，丝毫没有散场的迹象。\n奥提斯和辛克莱交换了一个眼神，随后提议我们去改衣店……看来他们想到了什么好主意。",
+      "title": "前往改衣室",
+      "description": "会议仍在继续，丝毫没有散场的迹象。\n奥提斯和辛克莱交换了一个眼神，随后提议我们去改衣室……看来他们想到了什么好主意。",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "前往改衣店"
+          "goalDescription1": "前往改衣室"
         }
       ]
     },
@@ -172,12 +172,12 @@
     },
     {
       "key": "Q4015",
-      "title": "前往改衣店",
+      "title": "前往改衣室",
       "description": "我们回到了3F。把黄金线团拿去给改衣师安妮特，她就能用它织出黄金面料。",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "前往改衣店"
+          "goalDescription1": "前往改衣室"
         }
       ]
     },
