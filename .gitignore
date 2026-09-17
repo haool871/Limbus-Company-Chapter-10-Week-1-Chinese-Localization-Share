@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 可再生的语料缓存（体积大，勿入库）
+knowledge-base/data/corpus.jsonl
+knowledge-base/data/_align.pkl
+knowledge-base/data/voice_samples.md

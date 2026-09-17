@@ -1,0 +1,4101 @@
+{
+ "이상": {
+  "kr": "이상",
+  "en": "Yi Sang",
+  "cn": "李箱",
+  "lines": 1311,
+  "is_sinner": true
+ },
+ "파우스트": {
+  "kr": "파우스트",
+  "en": "Faust",
+  "cn": "浮士德",
+  "lines": 2200,
+  "is_sinner": true
+ },
+ "돈키호테": {
+  "kr": "돈키호테",
+  "en": "Don Quixote",
+  "cn": "堂吉诃德",
+  "lines": 1447,
+  "is_sinner": true
+ },
+ "료슈": {
+  "kr": "료슈",
+  "en": "Ryōshū",
+  "cn": "良秀",
+  "lines": 1145,
+  "is_sinner": true
+ },
+ "뫼르소": {
+  "kr": "뫼르소",
+  "en": "Meursault",
+  "cn": "默尔索",
+  "lines": 632,
+  "is_sinner": true
+ },
+ "홍루": {
+  "kr": "홍루",
+  "en": "Hong Lu",
+  "cn": "鸿璐",
+  "lines": 1560,
+  "is_sinner": true
+ },
+ "히스클리프": {
+  "kr": "히스클리프",
+  "en": "Heathcliff",
+  "cn": "希斯克利夫",
+  "lines": 1866,
+  "is_sinner": true
+ },
+ "이스마엘": {
+  "kr": "이스마엘",
+  "en": "Ishmael",
+  "cn": "以实玛利",
+  "lines": 2130,
+  "is_sinner": true
+ },
+ "로쟈": {
+  "kr": "로쟈",
+  "en": "Rodion",
+  "cn": "罗佳",
+  "lines": 1534,
+  "is_sinner": true
+ },
+ "싱클레어": {
+  "kr": "싱클레어",
+  "en": "Sinclair",
+  "cn": "辛克莱",
+  "lines": 1639,
+  "is_sinner": true
+ },
+ "오티스": {
+  "kr": "오티스",
+  "en": "Outis",
+  "cn": "奥提斯",
+  "lines": 1646,
+  "is_sinner": true
+ },
+ "그레고르": {
+  "kr": "그레고르",
+  "en": "Gregor",
+  "cn": "格里高尔",
+  "lines": 1441,
+  "is_sinner": true
+ },
+ "단테": {
+  "kr": "단테",
+  "en": "Dante",
+  "cn": "但丁",
+  "lines": 2759,
+  "is_sinner": true
+ },
+ "베르길리우스": {
+  "kr": "베르길리우스",
+  "en": null,
+  "cn": null,
+  "lines": 744
+ },
+ "가시춘": {
+  "kr": "가시춘",
+  "en": null,
+  "cn": null,
+  "lines": 663
+ },
+ "호엔하임": {
+  "kr": "호엔하임",
+  "en": "Radio",
+  "cn": "对讲机",
+  "lines": 540
+ },
+ "동랑": {
+  "kr": "동랑",
+  "en": "Dongrang",
+  "cn": "东朗",
+  "lines": 403
+ },
+ "단테2": {
+  "kr": "단테2",
+  "en": null,
+  "cn": null,
+  "lines": 297
+ },
+ "검지아비": {
+  "kr": "검지아비",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 282
+ },
+ "가치우": {
+  "kr": "가치우",
+  "en": "Kong Qiu",
+  "cn": "孔丘",
+  "lines": 227
+ },
+ "뉴김삿갓": {
+  "kr": "뉴김삿갓",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 229
+ },
+ "엄지아비": {
+  "kr": "엄지아비",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 225
+ },
+ "넬리": {
+  "kr": "넬리",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 221
+ },
+ "에즈라": {
+  "kr": "에즈라",
+  "en": "Loudspeaker",
+  "cn": "扬声器",
+  "lines": 210
+ },
+ "에이해브": {
+  "kr": "에이해브",
+  "en": "Ahab",
+  "cn": "亚哈",
+  "lines": 188
+ },
+ "산손": {
+  "kr": "산손",
+  "en": "Narrator",
+  "cn": "旁白",
+  "lines": 161
+ },
+ "키호테": {
+  "kr": "키호테",
+  "en": null,
+  "cn": null,
+  "lines": 208
+ },
+ "뉴키라": {
+  "kr": "뉴키라",
+  "en": null,
+  "cn": null,
+  "lines": 196
+ },
+ "산초": {
+  "kr": "산초",
+  "en": "Don Quixote?",
+  "cn": "堂吉诃德？",
+  "lines": 187
+ },
+ "과거료슈3": {
+  "kr": "과거료슈3",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 184
+ },
+ "임대옥": {
+  "kr": "임대옥",
+  "en": null,
+  "cn": null,
+  "lines": 186
+ },
+ "아미야": {
+  "kr": "아미야",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 171
+ },
+ "탐정로쟈": {
+  "kr": "탐정로쟈",
+  "en": null,
+  "cn": null,
+  "lines": 182
+ },
+ "설보차": {
+  "kr": "설보차",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 167
+ },
+ "캐서린": {
+  "kr": "캐서린",
+  "en": null,
+  "cn": null,
+  "lines": 166
+ },
+ "과거가모": {
+  "kr": "과거가모",
+  "en": null,
+  "cn": null,
+  "lines": 162
+ },
+ "카론": {
+  "kr": "카론",
+  "en": null,
+  "cn": null,
+  "lines": 161
+ },
+ "자공": {
+  "kr": "자공",
+  "en": "Zigong",
+  "cn": "子贡",
+  "lines": 126
+ },
+ "뉴소드": {
+  "kr": "뉴소드",
+  "en": null,
+  "cn": null,
+  "lines": 160
+ },
+ "옛산초": {
+  "kr": "옛산초",
+  "en": null,
+  "cn": null,
+  "lines": 156
+ },
+ "유리": {
+  "kr": "유리",
+  "en": "Yuri",
+  "cn": "尤莉",
+  "lines": 96
+ },
+ "어린홍루": {
+  "kr": "어린홍루",
+  "en": null,
+  "cn": null,
+  "lines": 152
+ },
+ "가원춘": {
+  "kr": "가원춘",
+  "en": null,
+  "cn": null,
+  "lines": 145
+ },
+ "삼조": {
+  "kr": "삼조",
+  "en": "Samjo",
+  "cn": "三朝",
+  "lines": 131
+ },
+ "뉴앵두": {
+  "kr": "뉴앵두",
+  "en": null,
+  "cn": null,
+  "lines": 139
+ },
+ "약지아비": {
+  "kr": "약지아비",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 105
+ },
+ "소지아비": {
+  "kr": "소지아비",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 74
+ },
+ "이스마엘과거": {
+  "kr": "이스마엘과거",
+  "en": null,
+  "cn": null,
+  "lines": 130
+ },
+ "T사대표": {
+  "kr": "T사대표",
+  "en": "Assistant",
+  "cn": "助手",
+  "lines": 108
+ },
+ "취수야객": {
+  "kr": "취수야객",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 117
+ },
+ "히스클리프꾸밈": {
+  "kr": "히스클리프꾸밈",
+  "en": null,
+  "cn": null,
+  "lines": 126
+ },
+ "웨이": {
+  "kr": "웨이",
+  "en": null,
+  "cn": null,
+  "lines": 124
+ },
+ "린튼": {
+  "kr": "린튼",
+  "en": null,
+  "cn": null,
+  "lines": 124
+ },
+ "메이어스": {
+  "kr": "메이어스",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 112
+ },
+ "아이린": {
+  "kr": "아이린",
+  "en": "Inquisitor",
+  "cn": "审判官",
+  "lines": 73
+ },
+ "에고가환": {
+  "kr": "에고가환",
+  "en": null,
+  "cn": null,
+  "lines": 115
+ },
+ "앵두": {
+  "kr": "앵두",
+  "en": "Aeng-du",
+  "cn": "樱桃",
+  "lines": 100
+ },
+ "소냐": {
+  "kr": "소냐",
+  "en": "Sonya",
+  "cn": "索尼亚",
+  "lines": 110
+ },
+ "뇌횡": {
+  "kr": "뇌횡",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 102
+ },
+ "료슈딸2": {
+  "kr": "료슈딸2",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 98
+ },
+ "힌들리": {
+  "kr": "힌들리",
+  "en": null,
+  "cn": null,
+  "lines": 104
+ },
+ "가면키호테": {
+  "kr": "가면키호테",
+  "en": null,
+  "cn": null,
+  "lines": 101
+ },
+ "알리사": {
+  "kr": "알리사",
+  "en": null,
+  "cn": null,
+  "lines": 99
+ },
+ "주교메이어스": {
+  "kr": "주교메이어스",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 96
+ },
+ "소지아비2": {
+  "kr": "소지아비2",
+  "en": null,
+  "cn": null,
+  "lines": 97
+ },
+ "왕자우": {
+  "kr": "왕자우",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 80
+ },
+ "자로사복": {
+  "kr": "자로사복",
+  "en": null,
+  "cn": null,
+  "lines": 85
+ },
+ "퀴케그": {
+  "kr": "퀴케그",
+  "en": "Queequeg",
+  "cn": "魁魁格",
+  "lines": 75
+ },
+ "사회자": {
+  "kr": "사회자",
+  "en": null,
+  "cn": null,
+  "lines": 84
+ },
+ "파일럿": {
+  "kr": "파일럿",
+  "en": "Pilot",
+  "cn": "皮利托",
+  "lines": 83
+ },
+ "기사돈키": {
+  "kr": "기사돈키",
+  "en": null,
+  "cn": null,
+  "lines": 84
+ },
+ "탐정홍루": {
+  "kr": "탐정홍루",
+  "en": null,
+  "cn": null,
+  "lines": 82
+ },
+ "바리": {
+  "kr": "바리",
+  "en": null,
+  "cn": null,
+  "lines": 81
+ },
+ "베르길리우스2": {
+  "kr": "베르길리우스2",
+  "en": "Vergilius",
+  "cn": "维吉里乌斯",
+  "lines": 40
+ },
+ "탐정료슈": {
+  "kr": "탐정료슈",
+  "en": null,
+  "cn": null,
+  "lines": 79
+ },
+ "중지제자": {
+  "kr": "중지제자",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 77
+ },
+ "료슈2": {
+  "kr": "료슈2",
+  "en": null,
+  "cn": null,
+  "lines": 78
+ },
+ "호엔하임2": {
+  "kr": "호엔하임2",
+  "en": null,
+  "cn": null,
+  "lines": 77
+ },
+ "경도": {
+  "kr": "경도",
+  "en": null,
+  "cn": null,
+  "lines": 76
+ },
+ "중지아비": {
+  "kr": "중지아비",
+  "en": null,
+  "cn": null,
+  "lines": 76
+ },
+ "헤르만": {
+  "kr": "헤르만",
+  "en": "Hermann",
+  "cn": "赫尔曼",
+  "lines": 74
+ },
+ "켈시": {
+  "kr": "켈시",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 72
+ },
+ "과거동백": {
+  "kr": "과거동백",
+  "en": "Dongbaek",
+  "cn": "冬柏",
+  "lines": 72
+ },
+ "체사라": {
+  "kr": "체사라",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 71
+ },
+ "단테3": {
+  "kr": "단테3",
+  "en": null,
+  "cn": null,
+  "lines": 72
+ },
+ "데미안": {
+  "kr": "데미안",
+  "en": "Demian",
+  "cn": "德米安",
+  "lines": 60
+ },
+ "설반": {
+  "kr": "설반",
+  "en": null,
+  "cn": null,
+  "lines": 67
+ },
+ "모제스2": {
+  "kr": "모제스2",
+  "en": null,
+  "cn": null,
+  "lines": 66
+ },
+ "앨런": {
+  "kr": "앨런",
+  "en": null,
+  "cn": null,
+  "lines": 65
+ },
+ "박사": {
+  "kr": "박사",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 62
+ },
+ "베르길리우스3": {
+  "kr": "베르길리우스3",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 58
+ },
+ "마튼": {
+  "kr": "마튼",
+  "en": "Loudspeaker",
+  "cn": "扬声器",
+  "lines": 60
+ },
+ "다친홍루": {
+  "kr": "다친홍루",
+  "en": null,
+  "cn": null,
+  "lines": 60
+ },
+ "가모": {
+  "kr": "가모",
+  "en": null,
+  "cn": null,
+  "lines": 59
+ },
+ "시간살인마": {
+  "kr": "시간살인마",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 56
+ },
+ "다친파우스트": {
+  "kr": "다친파우스트",
+  "en": null,
+  "cn": null,
+  "lines": 58
+ },
+ "소드": {
+  "kr": "소드",
+  "en": "Saude",
+  "cn": "索德",
+  "lines": 55
+ },
+ "옛돈키": {
+  "kr": "옛돈키",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 50
+ },
+ "사이화": {
+  "kr": "사이화",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 53
+ },
+ "베스파": {
+  "kr": "베스파",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 53
+ },
+ "데드레빗츠보스": {
+  "kr": "데드레빗츠보스",
+  "en": "Dead Rabbits Boss",
+  "cn": "死兔帮 老大",
+  "lines": 40
+ },
+ "과거료슈1": {
+  "kr": "과거료슈1",
+  "en": null,
+  "cn": null,
+  "lines": 55
+ },
+ "라만차내레이션": {
+  "kr": "라만차내레이션",
+  "en": "Narrator",
+  "cn": "旁白",
+  "lines": 54
+ },
+ "후디히스": {
+  "kr": "후디히스",
+  "en": null,
+  "cn": null,
+  "lines": 53
+ },
+ "뒤틀린호엔하임": {
+  "kr": "뒤틀린호엔하임",
+  "en": null,
+  "cn": null,
+  "lines": 53
+ },
+ "상이": {
+  "kr": "상이",
+  "en": "Sang Yi",
+  "cn": "箱李",
+  "lines": 45
+ },
+ "모제스4": {
+  "kr": "모제스4",
+  "en": null,
+  "cn": null,
+  "lines": 51
+ },
+ "이발사다침2": {
+  "kr": "이발사다침2",
+  "en": null,
+  "cn": null,
+  "lines": 50
+ },
+ "과거료슈2": {
+  "kr": "과거료슈2",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 49
+ },
+ "에피": {
+  "kr": "에피",
+  "en": "Effie",
+  "cn": "埃菲",
+  "lines": 45
+ },
+ "다친가시춘": {
+  "kr": "다친가시춘",
+  "en": null,
+  "cn": null,
+  "lines": 49
+ },
+ "북부대검": {
+  "kr": "북부대검",
+  "en": "Sasha",
+  "cn": "萨莎",
+  "lines": 39
+ },
+ "스카디": {
+  "kr": "스카디",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 44
+ },
+ "휴고": {
+  "kr": "휴고",
+  "en": "Overdramatic Fixer",
+  "cn": "小题大做的收尾人",
+  "lines": 33
+ },
+ "가정": {
+  "kr": "가정",
+  "en": null,
+  "cn": null,
+  "lines": 49
+ },
+ "모제스1": {
+  "kr": "모제스1",
+  "en": null,
+  "cn": null,
+  "lines": 49
+ },
+ "쪽빛노인": {
+  "kr": "쪽빛노인",
+  "en": "The Indigo Elder",
+  "cn": "靛蓝老人",
+  "lines": 46
+ },
+ "퀴케그과거": {
+  "kr": "퀴케그과거",
+  "en": null,
+  "cn": null,
+  "lines": 47
+ },
+ "어린임대옥": {
+  "kr": "어린임대옥",
+  "en": "Daiyu?",
+  "cn": "黛玉？",
+  "lines": 40
+ },
+ "홍루다침": {
+  "kr": "홍루다침",
+  "en": null,
+  "cn": null,
+  "lines": 47
+ },
+ "임경업": {
+  "kr": "임경업",
+  "en": null,
+  "cn": null,
+  "lines": 47
+ },
+ "마왕히스클리프1": {
+  "kr": "마왕히스클리프1",
+  "en": "Heathcliff?",
+  "cn": "希斯克利夫？",
+  "lines": 47
+ },
+ "학생크로머": {
+  "kr": "학생크로머",
+  "en": "Kromer",
+  "cn": "克罗默",
+  "lines": 46
+ },
+ "미카": {
+  "kr": "미카",
+  "en": "Mika",
+  "cn": "美香",
+  "lines": 45
+ },
+ "실루엣돈키호테": {
+  "kr": "실루엣돈키호테",
+  "en": "Don Quixote?",
+  "cn": "堂吉诃德？",
+  "lines": 29
+ },
+ "범블": {
+  "kr": "범블",
+  "en": "Bumble",
+  "cn": "班布尔",
+  "lines": 40
+ },
+ "슈렌느": {
+  "kr": "슈렌느",
+  "en": "Shrenne",
+  "cn": "施伦妮",
+  "lines": 44
+ },
+ "9장소드다침": {
+  "kr": "9장소드다침",
+  "en": "Radio",
+  "cn": "对讲机",
+  "lines": 37
+ },
+ "다친베르길리우스": {
+  "kr": "다친베르길리우스",
+  "en": null,
+  "cn": null,
+  "lines": 44
+ },
+ "소지제자": {
+  "kr": "소지제자",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 24
+ },
+ "알폰소": {
+  "kr": "알폰소",
+  "en": "Alfonso",
+  "cn": "阿方索",
+  "lines": 43
+ },
+ "마왕히스클리프3": {
+  "kr": "마왕히스클리프3",
+  "en": "Heathcliff?",
+  "cn": "希斯克利夫？",
+  "lines": 31
+ },
+ "료슈딸": {
+  "kr": "료슈딸",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 21
+ },
+ "돈키호테다침": {
+  "kr": "돈키호테다침",
+  "en": null,
+  "cn": null,
+  "lines": 41
+ },
+ "파비우스": {
+  "kr": "파비우스",
+  "en": "Village Chief",
+  "cn": "村长",
+  "lines": 25
+ },
+ "림": {
+  "kr": "림",
+  "en": "Rim",
+  "cn": "林",
+  "lines": 36
+ },
+ "스타벅": {
+  "kr": "스타벅",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 28
+ },
+ "???": {
+  "kr": "???",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 39
+ },
+ "에즈라먼지": {
+  "kr": "에즈라먼지",
+  "en": null,
+  "cn": null,
+  "lines": 40
+ },
+ "왕부인": {
+  "kr": "왕부인",
+  "en": null,
+  "cn": null,
+  "lines": 40
+ },
+ "LCD앵두": {
+  "kr": "LCD앵두",
+  "en": "Radio",
+  "cn": "对讲机",
+  "lines": 35
+ },
+ "료슈9장": {
+  "kr": "료슈9장",
+  "en": null,
+  "cn": null,
+  "lines": 39
+ },
+ "어린캐서린": {
+  "kr": "어린캐서린",
+  "en": null,
+  "cn": null,
+  "lines": 39
+ },
+ "히스클리프2": {
+  "kr": "히스클리프2",
+  "en": null,
+  "cn": null,
+  "lines": 38
+ },
+ "크레용": {
+  "kr": "크레용",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 34
+ },
+ "카이만": {
+  "kr": "카이만",
+  "en": "Caiman",
+  "cn": "凯尔曼",
+  "lines": 35
+ },
+ "쥰": {
+  "kr": "쥰",
+  "en": "Jun",
+  "cn": "俊",
+  "lines": 33
+ },
+ "각성싱클레어1": {
+  "kr": "각성싱클레어1",
+  "en": null,
+  "cn": null,
+  "lines": 38
+ },
+ "료슈9장다침": {
+  "kr": "료슈9장다침",
+  "en": null,
+  "cn": null,
+  "lines": 38
+ },
+ "크로머": {
+  "kr": "크로머",
+  "en": "Kromer",
+  "cn": "克罗默",
+  "lines": 37
+ },
+ "에이해브과거": {
+  "kr": "에이해브과거",
+  "en": null,
+  "cn": null,
+  "lines": 37
+ },
+ "사사정": {
+  "kr": "사사정",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 31
+ },
+ "외우피협회보스F": {
+  "kr": "외우피협회보스F",
+  "en": "Öufi Assoc. Director",
+  "cn": "<size=90%>Öufi协会收尾人 科长</size>",
+  "lines": 29
+ },
+ "기사싱클": {
+  "kr": "기사싱클",
+  "en": null,
+  "cn": null,
+  "lines": 37
+ },
+ "검지제자2": {
+  "kr": "검지제자2",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 31
+ },
+ "동백": {
+  "kr": "동백",
+  "en": "Dongbaek",
+  "cn": "冬柏",
+  "lines": 31
+ },
+ "파우스트만우": {
+  "kr": "파우스트만우",
+  "en": null,
+  "cn": null,
+  "lines": 36
+ },
+ "뿅망히스": {
+  "kr": "뿅망히스",
+  "en": null,
+  "cn": null,
+  "lines": 36
+ },
+ "히스클리프다침": {
+  "kr": "히스클리프다침",
+  "en": null,
+  "cn": null,
+  "lines": 36
+ },
+ "모제스": {
+  "kr": "모제스",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 35
+ },
+ "카세티혈귀": {
+  "kr": "카세티혈귀",
+  "en": "Cassetti",
+  "cn": "卡塞蒂",
+  "lines": 35
+ },
+ "알레시오": {
+  "kr": "알레시오",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 33
+ },
+ "신부부하": {
+  "kr": "신부부하",
+  "en": "Praying Bloodfiend",
+  "cn": "<size=90%>正在祈祷的血魔</size>",
+  "lines": 18
+ },
+ "중지아비2": {
+  "kr": "중지아비2",
+  "en": null,
+  "cn": null,
+  "lines": 35
+ },
+ "습인과거": {
+  "kr": "습인과거",
+  "en": null,
+  "cn": null,
+  "lines": 34
+ },
+ "한울": {
+  "kr": "한울",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 31
+ },
+ "올가": {
+  "kr": "올가",
+  "en": "Olga",
+  "cn": "奥尔佳",
+  "lines": 33
+ },
+ "프롤로그단테2": {
+  "kr": "프롤로그단테2",
+  "en": "Dante",
+  "cn": "但丁",
+  "lines": 33
+ },
+ "아세아": {
+  "kr": "아세아",
+  "en": "Aseah",
+  "cn": "亚细亚",
+  "lines": 29
+ },
+ "돌시네아": {
+  "kr": "돌시네아",
+  "en": null,
+  "cn": null,
+  "lines": 33
+ },
+ "소지아비3": {
+  "kr": "소지아비3",
+  "en": null,
+  "cn": null,
+  "lines": 33
+ },
+ "카세티": {
+  "kr": "카세티",
+  "en": "Cassetti",
+  "cn": "卡塞蒂",
+  "lines": 28
+ },
+ "루포": {
+  "kr": "루포",
+  "en": null,
+  "cn": null,
+  "lines": 32
+ },
+ "모제스3": {
+  "kr": "모제스3",
+  "en": null,
+  "cn": null,
+  "lines": 32
+ },
+ "레인": {
+  "kr": "레인",
+  "en": "Rain",
+  "cn": "雷恩",
+  "lines": 31
+ },
+ "히스클리프다침2": {
+  "kr": "히스클리프다침2",
+  "en": null,
+  "cn": null,
+  "lines": 31
+ },
+ "싱클레어다침": {
+  "kr": "싱클레어다침",
+  "en": null,
+  "cn": null,
+  "lines": 31
+ },
+ "피묻은크로머": {
+  "kr": "피묻은크로머",
+  "en": "Kromer",
+  "cn": "克罗默",
+  "lines": 30
+ },
+ "사화정": {
+  "kr": "사화정",
+  "en": "Shi Huazhen",
+  "cn": "史华贞",
+  "lines": 19
+ },
+ "은봉치킨": {
+  "kr": "은봉치킨",
+  "en": "Eunbong’s Bar & Fryers Owner",
+  "cn": "银凤炸鸡酒吧 老板",
+  "lines": 30
+ },
+ "김삿갓과거부상": {
+  "kr": "김삿갓과거부상",
+  "en": null,
+  "cn": null,
+  "lines": 30
+ },
+ "습인": {
+  "kr": "습인",
+  "en": null,
+  "cn": null,
+  "lines": 30
+ },
+ "뒤틀린메이어스": {
+  "kr": "뒤틀린메이어스",
+  "en": null,
+  "cn": null,
+  "lines": 30
+ },
+ "과거메이어스": {
+  "kr": "과거메이어스",
+  "en": null,
+  "cn": null,
+  "lines": 30
+ },
+ "다친넬리": {
+  "kr": "다친넬리",
+  "en": null,
+  "cn": null,
+  "lines": 30
+ },
+ "에고구보": {
+  "kr": "에고구보",
+  "en": null,
+  "cn": null,
+  "lines": 29
+ },
+ "호엔하임과거": {
+  "kr": "호엔하임과거",
+  "en": null,
+  "cn": null,
+  "lines": 29
+ },
+ "파우스트다침": {
+  "kr": "파우스트다침",
+  "en": null,
+  "cn": null,
+  "lines": 29
+ },
+ "아이드": {
+  "kr": "아이드",
+  "en": "Aida",
+  "cn": "艾达",
+  "lines": 26
+ },
+ "란": {
+  "kr": "란",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 16
+ },
+ "홉킨스": {
+  "kr": "홉킨스",
+  "en": "Hopkins",
+  "cn": "霍普金斯",
+  "lines": 28
+ },
+ "제복소드": {
+  "kr": "제복소드",
+  "en": "Saude",
+  "cn": "索德",
+  "lines": 28
+ },
+ "다친유로지비대장": {
+  "kr": "다친유로지비대장",
+  "en": null,
+  "cn": null,
+  "lines": 28
+ },
+ "검열된호엔과거동료": {
+  "kr": "검열된호엔과거동료",
+  "en": null,
+  "cn": null,
+  "lines": 28
+ },
+ "엄지제자": {
+  "kr": "엄지제자",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 18
+ },
+ "귀도": {
+  "kr": "귀도",
+  "en": "Guido",
+  "cn": "圭多",
+  "lines": 28
+ },
+ "라비": {
+  "kr": "라비",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 25
+ },
+ "에밀브누아": {
+  "kr": "에밀브누아",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 17
+ },
+ "김삿갓과거": {
+  "kr": "김삿갓과거",
+  "en": null,
+  "cn": null,
+  "lines": 27
+ },
+ "이스마엘과거2": {
+  "kr": "이스마엘과거2",
+  "en": null,
+  "cn": null,
+  "lines": 26
+ },
+ "T사2등급": {
+  "kr": "T사2등급",
+  "en": "Class 2 Collection Staff",
+  "cn": "2级征收人员",
+  "lines": 26
+ },
+ "마왕히스클리프2": {
+  "kr": "마왕히스클리프2",
+  "en": "Erlking Heathcliff",
+  "cn": "<size=90%>魔王希斯克利夫</size>",
+  "lines": 13
+ },
+ "장미침식혈귀": {
+  "kr": "장미침식혈귀",
+  "en": "Corroded Bloodfiend",
+  "cn": "被侵蚀的血魔",
+  "lines": 25
+ },
+ "어린가환": {
+  "kr": "어린가환",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 17
+ },
+ "H사직원": {
+  "kr": "H사직원",
+  "en": null,
+  "cn": null,
+  "lines": 25
+ },
+ "진짜T사대표": {
+  "kr": "진짜T사대표",
+  "en": "Chief Executive?",
+  "cn": "代表？",
+  "lines": 25
+ },
+ "그레고르네부장": {
+  "kr": "그레고르네부장",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 24
+ },
+ "한호배": {
+  "kr": "한호배",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 24
+ },
+ "마리르": {
+  "kr": "마리르",
+  "en": "Marile",
+  "cn": "马里勒",
+  "lines": 13
+ },
+ "혈귀사냥꾼": {
+  "kr": "혈귀사냥꾼",
+  "en": "Intimidating Fixer",
+  "cn": "不同凡响的收尾人",
+  "lines": 16
+ },
+ "스타벅과거": {
+  "kr": "스타벅과거",
+  "en": null,
+  "cn": null,
+  "lines": 24
+ },
+ "산초피묻음": {
+  "kr": "산초피묻음",
+  "en": null,
+  "cn": null,
+  "lines": 24
+ },
+ "로메로": {
+  "kr": "로메로",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 23
+ },
+ "가모충": {
+  "kr": "가모충",
+  "en": null,
+  "cn": null,
+  "lines": 24
+ },
+ "료슈딸연구실": {
+  "kr": "료슈딸연구실",
+  "en": null,
+  "cn": null,
+  "lines": 24
+ },
+ "아라야정장2": {
+  "kr": "아라야정장2",
+  "en": "Araya",
+  "cn": "阿赖耶",
+  "lines": 19
+ },
+ "로쟈다침": {
+  "kr": "로쟈다침",
+  "en": null,
+  "cn": null,
+  "lines": 23
+ },
+ "뉴파일럿": {
+  "kr": "뉴파일럿",
+  "en": null,
+  "cn": null,
+  "lines": 23
+ },
+ "임경업과거": {
+  "kr": "임경업과거",
+  "en": null,
+  "cn": null,
+  "lines": 23
+ },
+ "조세핀": {
+  "kr": "조세핀",
+  "en": null,
+  "cn": null,
+  "lines": 23
+ },
+ "마왕캐서린": {
+  "kr": "마왕캐서린",
+  "en": "Every Catherine",
+  "cn": "所有凯瑟琳",
+  "lines": 23
+ },
+ "백발가면혈귀실루엣": {
+  "kr": "백발가면혈귀실루엣",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 23
+ },
+ "검지아비상": {
+  "kr": "검지아비상",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 21
+ },
+ "자로": {
+  "kr": "자로",
+  "en": "Zilu",
+  "cn": "子路",
+  "lines": 19
+ },
+ "도미노": {
+  "kr": "도미노",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 19
+ },
+ "이스마엘다침": {
+  "kr": "이스마엘다침",
+  "en": null,
+  "cn": null,
+  "lines": 22
+ },
+ "앨런마스크": {
+  "kr": "앨런마스크",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 21
+ },
+ "전당포주인": {
+  "kr": "전당포주인",
+  "en": "Pawnbroker",
+  "cn": "当铺老板",
+  "lines": 22
+ },
+ "작은형님책": {
+  "kr": "작은형님책",
+  "en": "Big Brother",
+  "cn": "幼兄",
+  "lines": 22
+ },
+ "다친이스마엘": {
+  "kr": "다친이스마엘",
+  "en": null,
+  "cn": null,
+  "lines": 21
+ },
+ "돌시네아다침": {
+  "kr": "돌시네아다침",
+  "en": null,
+  "cn": null,
+  "lines": 21
+ },
+ "이상만우": {
+  "kr": "이상만우",
+  "en": null,
+  "cn": null,
+  "lines": 21
+ },
+ "김삿갓": {
+  "kr": "김삿갓",
+  "en": "Bamboo-hatted Kim",
+  "cn": "金笠",
+  "lines": 15
+ },
+ "LCA특작팀": {
+  "kr": "LCA특작팀",
+  "en": "Reticent Employee",
+  "cn": "沉默的员工",
+  "lines": 20
+ },
+ "북부대검혈귀": {
+  "kr": "북부대검혈귀",
+  "en": "Sasha",
+  "cn": "萨莎",
+  "lines": 21
+ },
+ "N사해결사1": {
+  "kr": "N사해결사1",
+  "en": null,
+  "cn": null,
+  "lines": 21
+ },
+ "좌의정": {
+  "kr": "좌의정",
+  "en": "Left State Councilor",
+  "cn": "左议政",
+  "lines": 21
+ },
+ "철공회보스": {
+  "kr": "철공회보스",
+  "en": "Crew Boss",
+  "cn": "帮派老大",
+  "lines": 21
+ },
+ "이발사": {
+  "kr": "이발사",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 19
+ },
+ "뒤틀린N사엑스트라1": {
+  "kr": "뒤틀린N사엑스트라1",
+  "en": null,
+  "cn": null,
+  "lines": 20
+ },
+ "까미유": {
+  "kr": "까미유",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 18
+ },
+ "어르신1": {
+  "kr": "어르신1",
+  "en": null,
+  "cn": null,
+  "lines": 20
+ },
+ "N사심문관1": {
+  "kr": "N사심문관1",
+  "en": "Inquisitor",
+  "cn": "异端审判官",
+  "lines": 8
+ },
+ "공우진": {
+  "kr": "공우진",
+  "en": null,
+  "cn": null,
+  "lines": 19
+ },
+ "과거홍루": {
+  "kr": "과거홍루",
+  "en": "Hong Lu",
+  "cn": "鸿璐",
+  "lines": 18
+ },
+ "이상다침": {
+  "kr": "이상다침",
+  "en": null,
+  "cn": null,
+  "lines": 19
+ },
+ "도도루": {
+  "kr": "도도루",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 16
+ },
+ "니코": {
+  "kr": "니코",
+  "en": "Niko",
+  "cn": "尼柯",
+  "lines": 19
+ },
+ "린튼버틀러1": {
+  "kr": "린튼버틀러1",
+  "en": "Discreet Butler",
+  "cn": "谨慎的管家",
+  "lines": 19
+ },
+ "히스클리프헝클어짐": {
+  "kr": "히스클리프헝클어짐",
+  "en": null,
+  "cn": null,
+  "lines": 19
+ },
+ "신부다침": {
+  "kr": "신부다침",
+  "en": null,
+  "cn": null,
+  "lines": 19
+ },
+ "약지제자1": {
+  "kr": "약지제자1",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 17
+ },
+ "검지제자": {
+  "kr": "검지제자",
+  "en": null,
+  "cn": null,
+  "lines": 19
+ },
+ "검지아비3": {
+  "kr": "검지아비3",
+  "en": null,
+  "cn": null,
+  "lines": 19
+ },
+ "학생데미안": {
+  "kr": "학생데미안",
+  "en": "Demian",
+  "cn": "德米安",
+  "lines": 18
+ },
+ "변신크로머": {
+  "kr": "변신크로머",
+  "en": "Kromer",
+  "cn": "克罗默",
+  "lines": 18
+ },
+ "키호테빛": {
+  "kr": "키호테빛",
+  "en": null,
+  "cn": null,
+  "lines": 18
+ },
+ "가마꾼": {
+  "kr": "가마꾼",
+  "en": null,
+  "cn": null,
+  "lines": 18
+ },
+ "왕청산": {
+  "kr": "왕청산",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 16
+ },
+ "가리온": {
+  "kr": "가리온",
+  "en": null,
+  "cn": null,
+  "lines": 18
+ },
+ "료슈F": {
+  "kr": "료슈F",
+  "en": null,
+  "cn": null,
+  "lines": 18
+ },
+ "T사4등급": {
+  "kr": "T사4등급",
+  "en": "Class 4 Collection Staff",
+  "cn": "4级征收人员",
+  "lines": 18
+ },
+ "쌍갈고리파조직원1": {
+  "kr": "쌍갈고리파조직원1",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 10
+ },
+ "쌍갈고리파조직원2": {
+  "kr": "쌍갈고리파조직원2",
+  "en": "Panicked Pirate",
+  "cn": "惊慌失措的海盗",
+  "lines": 10
+ },
+ "작은형님안경": {
+  "kr": "작은형님안경",
+  "en": "Big Brother",
+  "cn": "幼兄",
+  "lines": 11
+ },
+ "뇌횡다침2": {
+  "kr": "뇌횡다침2",
+  "en": null,
+  "cn": null,
+  "lines": 18
+ },
+ "구보": {
+  "kr": "구보",
+  "en": "Gubo",
+  "cn": "仇甫",
+  "lines": 17
+ },
+ "이발사하편": {
+  "kr": "이발사하편",
+  "en": null,
+  "cn": null,
+  "lines": 17
+ },
+ "과거가환": {
+  "kr": "과거가환",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 14
+ },
+ "사씨사병1": {
+  "kr": "사씨사병1",
+  "en": "Generous Clan Member",
+  "cn": "宽宏大量的势力成员",
+  "lines": 12
+ },
+ "티페리트": {
+  "kr": "티페리트",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 16
+ },
+ "그레고르요리사": {
+  "kr": "그레고르요리사",
+  "en": null,
+  "cn": null,
+  "lines": 17
+ },
+ "오티스다침": {
+  "kr": "오티스다침",
+  "en": null,
+  "cn": null,
+  "lines": 17
+ },
+ "이발사부하": {
+  "kr": "이발사부하",
+  "en": "Scissors-holding Bloodfiend",
+  "cn": "<size=90%>拿着剪刀的血魔</size>",
+  "lines": 15
+ },
+ "왕대위": {
+  "kr": "왕대위",
+  "en": null,
+  "cn": null,
+  "lines": 16
+ },
+ "시간살인마변신": {
+  "kr": "시간살인마변신",
+  "en": null,
+  "cn": null,
+  "lines": 16
+ },
+ "작은형님": {
+  "kr": "작은형님",
+  "en": "Ricardo",
+  "cn": "里卡多",
+  "lines": 16
+ },
+ "그레고르다침": {
+  "kr": "그레고르다침",
+  "en": null,
+  "cn": null,
+  "lines": 16
+ },
+ "스미": {
+  "kr": "스미",
+  "en": "Smee",
+  "cn": "斯米",
+  "lines": 15
+ },
+ "어린히스클리프": {
+  "kr": "어린히스클리프",
+  "en": null,
+  "cn": null,
+  "lines": 16
+ },
+ "말레고르": {
+  "kr": "말레고르",
+  "en": null,
+  "cn": null,
+  "lines": 16
+ },
+ "어르신3": {
+  "kr": "어르신3",
+  "en": null,
+  "cn": null,
+  "lines": 16
+ },
+ "엄지제자다침": {
+  "kr": "엄지제자다침",
+  "en": null,
+  "cn": null,
+  "lines": 16
+ },
+ "G사부장": {
+  "kr": "G사부장",
+  "en": "Decrepit G Corp. Head Manager",
+  "cn": "衰老的旧G公司部长",
+  "lines": 14
+ },
+ "N사심문관2": {
+  "kr": "N사심문관2",
+  "en": "Interrogative Inquisitor",
+  "cn": "擅长审讯的N公司异端审判官",
+  "lines": 7
+ },
+ "보살치킨": {
+  "kr": "보살치킨",
+  "en": "Bodhisattva Chicken’s Manager",
+  "cn": "菩萨鸡 老板",
+  "lines": 15
+ },
+ "삼삼": {
+  "kr": "삼삼",
+  "en": "Shan San",
+  "cn": "杉三",
+  "lines": 8
+ },
+ "리카르도다침": {
+  "kr": "리카르도다침",
+  "en": null,
+  "cn": null,
+  "lines": 15
+ },
+ "왕청산2": {
+  "kr": "왕청산2",
+  "en": null,
+  "cn": null,
+  "lines": 15
+ },
+ "지크프리트": {
+  "kr": "지크프리트",
+  "en": "Siegfried",
+  "cn": "齐格飞",
+  "lines": 10
+ },
+ "동백여우각성_먼지": {
+  "kr": "동백여우각성_먼지",
+  "en": "Dongbaek",
+  "cn": "冬柏",
+  "lines": 15
+ },
+ "엄지아비피": {
+  "kr": "엄지아비피",
+  "en": null,
+  "cn": null,
+  "lines": 15
+ },
+ "약지제자2": {
+  "kr": "약지제자2",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 9
+ },
+ "LCA네임드": {
+  "kr": "LCA네임드",
+  "en": null,
+  "cn": null,
+  "lines": 15
+ },
+ "돌시네아하편": {
+  "kr": "돌시네아하편",
+  "en": null,
+  "cn": null,
+  "lines": 14
+ },
+ "신부하편": {
+  "kr": "신부하편",
+  "en": null,
+  "cn": null,
+  "lines": 14
+ },
+ "반시춘": {
+  "kr": "반시춘",
+  "en": null,
+  "cn": null,
+  "lines": 14
+ },
+ "눈이붉은자": {
+  "kr": "눈이붉은자",
+  "en": "Man with Red Eyes",
+  "cn": "红眼之人",
+  "lines": 14
+ },
+ "다친스미": {
+  "kr": "다친스미",
+  "en": "Smee",
+  "cn": "斯米",
+  "lines": 14
+ },
+ "히스클리프과거": {
+  "kr": "히스클리프과거",
+  "en": "Heathcliff",
+  "cn": "希斯克利夫",
+  "lines": 11
+ },
+ "폴라": {
+  "kr": "폴라",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 13
+ },
+ "어르신4": {
+  "kr": "어르신4",
+  "en": null,
+  "cn": null,
+  "lines": 14
+ },
+ "가모가지": {
+  "kr": "가모가지",
+  "en": null,
+  "cn": null,
+  "lines": 14
+ },
+ "피묻은귀도": {
+  "kr": "피묻은귀도",
+  "en": "Guido",
+  "cn": "圭多",
+  "lines": 13
+ },
+ "웨이다침": {
+  "kr": "웨이다침",
+  "en": null,
+  "cn": null,
+  "lines": 13
+ },
+ "그레고르F": {
+  "kr": "그레고르F",
+  "en": null,
+  "cn": null,
+  "lines": 13
+ },
+ "T사시민": {
+  "kr": "T사시민",
+  "en": "Overdramatic Civilian",
+  "cn": "<size=90%>小题大做的居民</size>",
+  "lines": 12
+ },
+ "불량시춘": {
+  "kr": "불량시춘",
+  "en": null,
+  "cn": null,
+  "lines": 13
+ },
+ "표범": {
+  "kr": "표범",
+  "en": "Panther",
+  "cn": "豹",
+  "lines": 13
+ },
+ "흥겨운마리아치조직원": {
+  "kr": "흥겨운마리아치조직원",
+  "en": "Mariachi Alegre",
+  "cn": "欢快的流浪乐队成员",
+  "lines": 13
+ },
+ "제복에피": {
+  "kr": "제복에피",
+  "en": "Effie",
+  "cn": "埃菲",
+  "lines": 13
+ },
+ "기술해방연합기계": {
+  "kr": "기술해방연합기계",
+  "en": "Melted Machine",
+  "cn": "融化的机器",
+  "lines": 13
+ },
+ "료슈9장이후노담배": {
+  "kr": "료슈9장이후노담배",
+  "en": null,
+  "cn": null,
+  "lines": 13
+ },
+ "핍과거": {
+  "kr": "핍과거",
+  "en": null,
+  "cn": null,
+  "lines": 12
+ },
+ "임대옥다침": {
+  "kr": "임대옥다침",
+  "en": null,
+  "cn": null,
+  "lines": 12
+ },
+ "로쟈만우": {
+  "kr": "로쟈만우",
+  "en": null,
+  "cn": null,
+  "lines": 12
+ },
+ "뫼르소만우": {
+  "kr": "뫼르소만우",
+  "en": null,
+  "cn": null,
+  "lines": 12
+ },
+ "털루포": {
+  "kr": "털루포",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 6
+ },
+ "빵가게주인": {
+  "kr": "빵가게주인",
+  "en": null,
+  "cn": null,
+  "lines": 12
+ },
+ "김삿갓죄수": {
+  "kr": "김삿갓죄수",
+  "en": null,
+  "cn": null,
+  "lines": 12
+ },
+ "퀴즈시춘": {
+  "kr": "퀴즈시춘",
+  "en": null,
+  "cn": null,
+  "lines": 12
+ },
+ "늑대": {
+  "kr": "늑대",
+  "en": "Wolf",
+  "cn": "狼",
+  "lines": 11
+ },
+ "사자": {
+  "kr": "사자",
+  "en": "Lion",
+  "cn": "狮",
+  "lines": 12
+ },
+ "검문소경비": {
+  "kr": "검문소경비",
+  "en": "Checkpoint Official",
+  "cn": "检查站工作人员",
+  "lines": 8
+ },
+ "크로머목소리": {
+  "kr": "크로머목소리",
+  "en": "Kromer",
+  "cn": "克罗默",
+  "lines": 12
+ },
+ "돌시부하1": {
+  "kr": "돌시부하1",
+  "en": "Bloodfiend with a Parasol",
+  "cn": "<size=90%>手持阳伞的血魔</size>",
+  "lines": 8
+ },
+ "엄지솔다토2": {
+  "kr": "엄지솔다토2",
+  "en": null,
+  "cn": null,
+  "lines": 12
+ },
+ "자로피": {
+  "kr": "자로피",
+  "en": null,
+  "cn": null,
+  "lines": 12
+ },
+ "9장소드다침2": {
+  "kr": "9장소드다침2",
+  "en": "Radio",
+  "cn": "对讲机",
+  "lines": 9
+ },
+ "소지아비얼굴": {
+  "kr": "소지아비얼굴",
+  "en": null,
+  "cn": null,
+  "lines": 12
+ },
+ "에이해브다침": {
+  "kr": "에이해브다침",
+  "en": "Ahab",
+  "cn": "亚哈",
+  "lines": 9
+ },
+ "사이화부활": {
+  "kr": "사이화부활",
+  "en": null,
+  "cn": null,
+  "lines": 11
+ },
+ "어린가시춘": {
+  "kr": "어린가시춘",
+  "en": null,
+  "cn": null,
+  "lines": 11
+ },
+ "오티스만우": {
+  "kr": "오티스만우",
+  "en": null,
+  "cn": null,
+  "lines": 11
+ },
+ "료슈만우": {
+  "kr": "료슈만우",
+  "en": null,
+  "cn": null,
+  "lines": 11
+ },
+ "호드": {
+  "kr": "호드",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 9
+ },
+ "뒤틀린주인": {
+  "kr": "뒤틀린주인",
+  "en": "Eunbong’s Bar & Fryers Owner",
+  "cn": "银凤炸鸡酒吧 店长",
+  "lines": 10
+ },
+ "W사정리요원": {
+  "kr": "W사정리요원",
+  "en": "Cleanup Agent",
+  "cn": "清扫人员",
+  "lines": 11
+ },
+ "가주시춘": {
+  "kr": "가주시춘",
+  "en": null,
+  "cn": null,
+  "lines": 11
+ },
+ "료슈3": {
+  "kr": "료슈3",
+  "en": null,
+  "cn": null,
+  "lines": 11
+ },
+ "어르신그림자": {
+  "kr": "어르신그림자",
+  "en": "Elder in a Jar",
+  "cn": "缸中的长辈",
+  "lines": 5
+ },
+ "프롤로그단테": {
+  "kr": "프롤로그단테",
+  "en": "Me",
+  "cn": "我",
+  "lines": 11
+ },
+ "동백에고각성중_먼지": {
+  "kr": "동백에고각성중_먼지",
+  "en": "Dongbaek",
+  "cn": "冬柏",
+  "lines": 11
+ },
+ "쌍갈고리파조직원3": {
+  "kr": "쌍갈고리파조직원3",
+  "en": "Bouncer",
+  "cn": "门卫",
+  "lines": 11
+ },
+ "설씨사병네임드": {
+  "kr": "설씨사병네임드",
+  "en": null,
+  "cn": null,
+  "lines": 11
+ },
+ "어르신2": {
+  "kr": "어르신2",
+  "en": null,
+  "cn": null,
+  "lines": 11
+ },
+ "약지아비2": {
+  "kr": "약지아비2",
+  "en": null,
+  "cn": null,
+  "lines": 11
+ },
+ "검지아비2": {
+  "kr": "검지아비2",
+  "en": null,
+  "cn": null,
+  "lines": 11
+ },
+ "아야": {
+  "kr": "아야",
+  "en": "Aya",
+  "cn": "阿雅",
+  "lines": 10
+ },
+ "노예": {
+  "kr": "노예",
+  "en": "Captive Debtor",
+  "cn": "负债累累的人质",
+  "lines": 10
+ },
+ "이스마엘만우": {
+  "kr": "이스마엘만우",
+  "en": null,
+  "cn": null,
+  "lines": 10
+ },
+ "돈키호테만우": {
+  "kr": "돈키호테만우",
+  "en": null,
+  "cn": null,
+  "lines": 10
+ },
+ "산타타": {
+  "kr": "산타타",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 8
+ },
+ "흑운회조직원2": {
+  "kr": "흑운회조직원2",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 10
+ },
+ "T사사무직": {
+  "kr": "T사사무직",
+  "en": "Class 2 Clerical Staff",
+  "cn": "2级 事务员",
+  "lines": 10
+ },
+ "뉴키라2": {
+  "kr": "뉴키라2",
+  "en": null,
+  "cn": null,
+  "lines": 10
+ },
+ "데드레빗츠1": {
+  "kr": "데드레빗츠1",
+  "en": "Strange Dead Rabbits Henchman",
+  "cn": "诡异的死兔帮成员",
+  "lines": 6
+ },
+ "어린힌들리": {
+  "kr": "어린힌들리",
+  "en": null,
+  "cn": null,
+  "lines": 10
+ },
+ "까미유카메라": {
+  "kr": "까미유카메라",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 7
+ },
+ "다친뇌횡": {
+  "kr": "다친뇌횡",
+  "en": null,
+  "cn": null,
+  "lines": 10
+ },
+ "약지아비상": {
+  "kr": "약지아비상",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 10
+ },
+ "뒤틀린다친동랑": {
+  "kr": "뒤틀린다친동랑",
+  "en": "Dongrang, Who Denies All",
+  "cn": "<size=90%>否定一切的东朗</size>",
+  "lines": 9
+ },
+ "피쿼드호주민2": {
+  "kr": "피쿼드호주민2",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 4
+ },
+ "옛산초2": {
+  "kr": "옛산초2",
+  "en": null,
+  "cn": null,
+  "lines": 9
+ },
+ "설반다침": {
+  "kr": "설반다침",
+  "en": null,
+  "cn": null,
+  "lines": 9
+ },
+ "이스마엘F": {
+  "kr": "이스마엘F",
+  "en": null,
+  "cn": null,
+  "lines": 9
+ },
+ "싱클레어만우": {
+  "kr": "싱클레어만우",
+  "en": null,
+  "cn": null,
+  "lines": 9
+ },
+ "홍루만우": {
+  "kr": "홍루만우",
+  "en": null,
+  "cn": null,
+  "lines": 9
+ },
+ "마법소녀": {
+  "kr": "마법소녀",
+  "en": "Magical Girl",
+  "cn": "魔法少女",
+  "lines": 5
+ },
+ "뫼르소요리사": {
+  "kr": "뫼르소요리사",
+  "en": null,
+  "cn": null,
+  "lines": 9
+ },
+ "빨간노움": {
+  "kr": "빨간노움",
+  "en": "Cherry Gnome",
+  "cn": "红色小矮人",
+  "lines": 9
+ },
+ "초록노움": {
+  "kr": "초록노움",
+  "en": "Leafy Gnome",
+  "cn": "绿色小矮人",
+  "lines": 9
+ },
+ "유로지비멤버2": {
+  "kr": "유로지비멤버2",
+  "en": "Irate Activist",
+  "cn": "愤怒的活动成员",
+  "lines": 8
+ },
+ "시살동생": {
+  "kr": "시살동생",
+  "en": "Younger Brother",
+  "cn": "弟弟",
+  "lines": 9
+ },
+ "세보이고싶었던콩콩파조직원": {
+  "kr": "세보이고싶었던콩콩파조직원",
+  "en": "Chest-puffing Tingtanger",
+  "cn": "想表现得很强壮的豆豆帮成员",
+  "lines": 9
+ },
+ "경쾌한마리아치조직원": {
+  "kr": "경쾌한마리아치조직원",
+  "en": "Mariachi Vivaz",
+  "cn": "活泼的流浪乐队成员",
+  "lines": 9
+ },
+ "쪽빛노인후드": {
+  "kr": "쪽빛노인후드",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 9
+ },
+ "작은형님다침": {
+  "kr": "작은형님다침",
+  "en": "Ricardo",
+  "cn": "里卡多",
+  "lines": 9
+ },
+ "불주먹": {
+  "kr": "불주먹",
+  "en": "Delighted Fixer",
+  "cn": "充满感激的收尾人",
+  "lines": 8
+ },
+ "돌시부하2": {
+  "kr": "돌시부하2",
+  "en": "Bloodfiend holding a Parasol",
+  "cn": "<size=90%>手持阳伞的血魔</size>",
+  "lines": 9
+ },
+ "각잡힌카지노경호원": {
+  "kr": "각잡힌카지노경호원",
+  "en": "Rigid Security",
+  "cn": "穿戴整齐的警卫",
+  "lines": 4
+ },
+ "너맞아볼래매우": {
+  "kr": "너맞아볼래매우",
+  "en": "You Want To Get Beat? Hurtily?",
+  "cn": "你想挨打吗？很想？",
+  "lines": 8
+ },
+ "피쿼드호주민1": {
+  "kr": "피쿼드호주민1",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 6
+ },
+ "신부다침2": {
+  "kr": "신부다침2",
+  "en": null,
+  "cn": null,
+  "lines": 8
+ },
+ "하인2": {
+  "kr": "하인2",
+  "en": null,
+  "cn": null,
+  "lines": 8
+ },
+ "방송": {
+  "kr": "방송",
+  "en": "Announcement",
+  "cn": "广播声",
+  "lines": 8
+ },
+ "히스클리프요리사": {
+  "kr": "히스클리프요리사",
+  "en": "Heathcliff?",
+  "cn": "希斯克利夫？",
+  "lines": 8
+ },
+ "유로지비멤버1": {
+  "kr": "유로지비멤버1",
+  "en": "Fleeing Activist",
+  "cn": "准备逃跑的活动成员",
+  "lines": 5
+ },
+ "유로지비대장": {
+  "kr": "유로지비대장",
+  "en": null,
+  "cn": null,
+  "lines": 8
+ },
+ "검열된직원": {
+  "kr": "검열된직원",
+  "en": null,
+  "cn": null,
+  "lines": 8
+ },
+ "료슈다침": {
+  "kr": "료슈다침",
+  "en": null,
+  "cn": null,
+  "lines": 8
+ },
+ "폭주웨이": {
+  "kr": "폭주웨이",
+  "en": "Wei?",
+  "cn": "卫？",
+  "lines": 8
+ },
+ "N사해결사2": {
+  "kr": "N사해결사2",
+  "en": null,
+  "cn": null,
+  "lines": 8
+ },
+ "퀴즈싱클": {
+  "kr": "퀴즈싱클",
+  "en": null,
+  "cn": null,
+  "lines": 8
+ },
+ "왕씨아이": {
+  "kr": "왕씨아이",
+  "en": null,
+  "cn": null,
+  "lines": 8
+ },
+ "돈키호테그림자": {
+  "kr": "돈키호테그림자",
+  "en": "Anonymous",
+  "cn": "匿名",
+  "lines": 8
+ },
+ "이상그림자": {
+  "kr": "이상그림자",
+  "en": "Sinner #1",
+  "cn": "1号罪人",
+  "lines": 8
+ },
+ "선원들": {
+  "kr": "선원들",
+  "en": "Sailors",
+  "cn": "船员们",
+  "lines": 8
+ },
+ "우의정": {
+  "kr": "우의정",
+  "en": "Right State Councilor",
+  "cn": "右议政",
+  "lines": 8
+ },
+ "걱정이 많은 직원": {
+  "kr": "걱정이 많은 직원",
+  "en": "Concerned Employee",
+  "cn": "忧心忡忡的员工",
+  "lines": 8
+ },
+ "콩콩이파보스": {
+  "kr": "콩콩이파보스",
+  "en": "Tingtang Boss",
+  "cn": "豆豆帮 帮主",
+  "lines": 8
+ },
+ "장미스패너2": {
+  "kr": "장미스패너2",
+  "en": "Assistant Fixer",
+  "cn": "收尾人助手",
+  "lines": 8
+ },
+ "작은형님발광": {
+  "kr": "작은형님발광",
+  "en": "Ricardo",
+  "cn": "里卡多",
+  "lines": 8
+ },
+ "어린캐서린2": {
+  "kr": "어린캐서린2",
+  "en": null,
+  "cn": null,
+  "lines": 8
+ },
+ "엑스트라해결사1": {
+  "kr": "엑스트라해결사1",
+  "en": "Muttering Fixer",
+  "cn": "自言自语的收尾人",
+  "lines": 8
+ },
+ "LCD앵두팔다침": {
+  "kr": "LCD앵두팔다침",
+  "en": null,
+  "cn": null,
+  "lines": 8
+ },
+ "석상머리": {
+  "kr": "석상머리",
+  "en": "Statuehead",
+  "cn": "石像头",
+  "lines": 7
+ },
+ "스테파네트": {
+  "kr": "스테파네트",
+  "en": "Stephanette",
+  "cn": "斯蒂芬妮",
+  "lines": 7
+ },
+ "동백에고각성중_찔림": {
+  "kr": "동백에고각성중_찔림",
+  "en": "Dongbaek",
+  "cn": "冬柏",
+  "lines": 7
+ },
+ "T사기술청1": {
+  "kr": "T사기술청1",
+  "en": "Class 2 Collector",
+  "cn": "2级征收人员",
+  "lines": 5
+ },
+ "과거구보": {
+  "kr": "과거구보",
+  "en": "Gubo",
+  "cn": "仇甫",
+  "lines": 7
+ },
+ "다친에고동랑": {
+  "kr": "다친에고동랑",
+  "en": "Dongrang",
+  "cn": "东朗",
+  "lines": 7
+ },
+ "공사혜": {
+  "kr": "공사혜",
+  "en": null,
+  "cn": null,
+  "lines": 7
+ },
+ "공사혜아기": {
+  "kr": "공사혜아기",
+  "en": null,
+  "cn": null,
+  "lines": 7
+ },
+ "공씨사람1다침": {
+  "kr": "공씨사람1다침",
+  "en": null,
+  "cn": null,
+  "lines": 7
+ },
+ "오티스요리사": {
+  "kr": "오티스요리사",
+  "en": null,
+  "cn": null,
+  "lines": 7
+ },
+ "북부창": {
+  "kr": "북부창",
+  "en": "Fixer from the North",
+  "cn": "北部收尾人",
+  "lines": 6
+ },
+ "혈귀목소리": {
+  "kr": "혈귀목소리",
+  "en": null,
+  "cn": null,
+  "lines": 7
+ },
+ "수행자1": {
+  "kr": "수행자1",
+  "en": null,
+  "cn": null,
+  "lines": 7
+ },
+ "히스클리프그림자": {
+  "kr": "히스클리프그림자",
+  "en": "Anonymous",
+  "cn": "匿名",
+  "lines": 7
+ },
+ "작은 형님": {
+  "kr": "작은 형님",
+  "en": "Big Brother",
+  "cn": "幼兄",
+  "lines": 6
+ },
+ "촌스러운말투의콩콩파조직원": {
+  "kr": "촌스러운말투의콩콩파조직원",
+  "en": "Rustic-sounding Tingtanger",
+  "cn": "粗鲁的豆豆帮成员",
+  "lines": 5
+ },
+ "콩을싫어하는콩콩파조직원": {
+  "kr": "콩을싫어하는콩콩파조직원",
+  "en": "Bean-hating Tingtanger",
+  "cn": "讨厌豆子的豆豆帮成员",
+  "lines": 7
+ },
+ "기술해방연합1": {
+  "kr": "기술해방연합1",
+  "en": "Alliance Member",
+  "cn": "联盟成员",
+  "lines": 7
+ },
+ "쌍갈고리파조직원4": {
+  "kr": "쌍갈고리파조직원4",
+  "en": "Twinhook Pirates?",
+  "cn": "双钩海盗团？",
+  "lines": 7
+ },
+ "피주머니": {
+  "kr": "피주머니",
+  "en": "Survivor?",
+  "cn": "幸存的收尾人？",
+  "lines": 4
+ },
+ "주민로쟈": {
+  "kr": "주민로쟈",
+  "en": null,
+  "cn": null,
+  "lines": 7
+ },
+ "기사산손": {
+  "kr": "기사산손",
+  "en": "The Knight of the White Moon",
+  "cn": "白月骑士",
+  "lines": 5
+ },
+ "어르신5": {
+  "kr": "어르신5",
+  "en": null,
+  "cn": null,
+  "lines": 7
+ },
+ "검지제자3": {
+  "kr": "검지제자3",
+  "en": null,
+  "cn": null,
+  "lines": 7
+ },
+ "호엔하임공중": {
+  "kr": "호엔하임공중",
+  "en": null,
+  "cn": null,
+  "lines": 7
+ },
+ "넬리2": {
+  "kr": "넬리2",
+  "en": null,
+  "cn": null,
+  "lines": 7
+ },
+ "//효과음": {
+  "kr": "//효과음",
+  "en": null,
+  "cn": null,
+  "lines": 6
+ },
+ "스텁그림자": {
+  "kr": "스텁그림자",
+  "en": null,
+  "cn": null,
+  "lines": 6
+ },
+ "죄수과거": {
+  "kr": "죄수과거",
+  "en": null,
+  "cn": null,
+  "lines": 6
+ },
+ "어린설반": {
+  "kr": "어린설반",
+  "en": null,
+  "cn": null,
+  "lines": 6
+ },
+ "어린가환다침2": {
+  "kr": "어린가환다침2",
+  "en": null,
+  "cn": null,
+  "lines": 6
+ },
+ "뒤틀린주인카운트2": {
+  "kr": "뒤틀린주인카운트2",
+  "en": "Eunbong’s Bar & Fryers Owner",
+  "cn": "银凤炸鸡酒吧 店长",
+  "lines": 6
+ },
+ "호엔과거동료": {
+  "kr": "호엔과거동료",
+  "en": "Johann",
+  "cn": "约翰",
+  "lines": 5
+ },
+ "웨이다침2": {
+  "kr": "웨이다침2",
+  "en": null,
+  "cn": null,
+  "lines": 6
+ },
+ "뉴료슈담배다침": {
+  "kr": "뉴료슈담배다침",
+  "en": null,
+  "cn": null,
+  "lines": 6
+ },
+ "임경업뒤틀림사라짐": {
+  "kr": "임경업뒤틀림사라짐",
+  "en": null,
+  "cn": null,
+  "lines": 6
+ },
+ "로쟈그림자": {
+  "kr": "로쟈그림자",
+  "en": "Anonymous",
+  "cn": "匿名",
+  "lines": 6
+ },
+ "제이콥": {
+  "kr": "제이콥",
+  "en": "Jacob",
+  "cn": "雅各布",
+  "lines": 6
+ },
+ "피곤한 작은 아우": {
+  "kr": "피곤한 작은 아우",
+  "en": "Tired Little Brother",
+  "cn": "疲惫的幼弟",
+  "lines": 6
+ },
+ "느긋한 작은 아우": {
+  "kr": "느긋한 작은 아우",
+  "en": "Chill Little Brother",
+  "cn": "耐心的幼弟",
+  "lines": 6
+ },
+ "교육 담당자": {
+  "kr": "교육 담당자",
+  "en": "Instructor",
+  "cn": "教官",
+  "lines": 6
+ },
+ "이베리아주민2": {
+  "kr": "이베리아주민2",
+  "en": null,
+  "cn": null,
+  "lines": 6
+ },
+ "마지막기사": {
+  "kr": "마지막기사",
+  "en": null,
+  "cn": null,
+  "lines": 6
+ },
+ "파비우스다침": {
+  "kr": "파비우스다침",
+  "en": null,
+  "cn": null,
+  "lines": 6
+ },
+ "프롤로그파우스트": {
+  "kr": "프롤로그파우스트",
+  "en": "Faust",
+  "cn": "浮士德",
+  "lines": 6
+ },
+ "과거동랑": {
+  "kr": "과거동랑",
+  "en": "Dongrang",
+  "cn": "东朗",
+  "lines": 6
+ },
+ "T사갱단2": {
+  "kr": "T사갱단2",
+  "en": "Overdue T Corp. Gang",
+  "cn": "没有时间的T公司黑帮",
+  "lines": 4
+ },
+ "언쇼": {
+  "kr": "언쇼",
+  "en": "Mr. Earnshaw",
+  "cn": "恩肖",
+  "lines": 6
+ },
+ "N사연구원검은색": {
+  "kr": "N사연구원검은색",
+  "en": "Former Ring Researcher",
+  "cn": "环指研究员",
+  "lines": 6
+ },
+ "기사싱클2": {
+  "kr": "기사싱클2",
+  "en": null,
+  "cn": null,
+  "lines": 6
+ },
+ "하인1": {
+  "kr": "하인1",
+  "en": null,
+  "cn": null,
+  "lines": 6
+ },
+ "LCE연구원1": {
+  "kr": "LCE연구원1",
+  "en": "Radio",
+  "cn": "对讲机",
+  "lines": 3
+ },
+ "각성싱클레어2": {
+  "kr": "각성싱클레어2",
+  "en": null,
+  "cn": null,
+  "lines": 6
+ },
+ "아라야10대": {
+  "kr": "아라야10대",
+  "en": null,
+  "cn": null,
+  "lines": 6
+ },
+ "K사임원진1": {
+  "kr": "K사임원진1",
+  "en": "Prudish K Corp. Executive",
+  "cn": "自以为是的K公司高管",
+  "lines": 5
+ },
+ "K사임원진2": {
+  "kr": "K사임원진2",
+  "en": "Impulsive K Corp. Executive",
+  "cn": "冲动的K公司高管",
+  "lines": 5
+ },
+ "스텁": {
+  "kr": "스텁",
+  "en": null,
+  "cn": null,
+  "lines": 5
+ },
+ "핍": {
+  "kr": "핍",
+  "en": null,
+  "cn": null,
+  "lines": 5
+ },
+ "퀴케그녹음": {
+  "kr": "퀴케그녹음",
+  "en": null,
+  "cn": null,
+  "lines": 5
+ },
+ "혈귀 3": {
+  "kr": "혈귀 3",
+  "en": "Horrified Bloodfiend",
+  "cn": "恐惧中的血魔",
+  "lines": 5
+ },
+ "돈키호테피묻음": {
+  "kr": "돈키호테피묻음",
+  "en": "Sancho",
+  "cn": "桑丘",
+  "lines": 2
+ },
+ "죄수": {
+  "kr": "죄수",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 3
+ },
+ "공씨사람1": {
+  "kr": "공씨사람1",
+  "en": null,
+  "cn": null,
+  "lines": 5
+ },
+ "공씨사람2": {
+  "kr": "공씨사람2",
+  "en": null,
+  "cn": null,
+  "lines": 5
+ },
+ "그레고르만우": {
+  "kr": "그레고르만우",
+  "en": null,
+  "cn": null,
+  "lines": 5
+ },
+ "히스클리프만우": {
+  "kr": "히스클리프만우",
+  "en": null,
+  "cn": null,
+  "lines": 5
+ },
+ "료슈요리사": {
+  "kr": "료슈요리사",
+  "en": null,
+  "cn": null,
+  "lines": 5
+ },
+ "화난도도루": {
+  "kr": "화난도도루",
+  "en": null,
+  "cn": null,
+  "lines": 5
+ },
+ "시계쥰": {
+  "kr": "시계쥰",
+  "en": "Jun",
+  "cn": "俊",
+  "lines": 3
+ },
+ "W사정리요원2": {
+  "kr": "W사정리요원2",
+  "en": "Cleanup Agent",
+  "cn": "清扫人员",
+  "lines": 5
+ },
+ "호엔하임실루엣": {
+  "kr": "호엔하임실루엣",
+  "en": null,
+  "cn": null,
+  "lines": 5
+ },
+ "흑수묘": {
+  "kr": "흑수묘",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 5
+ },
+ "아라야공백": {
+  "kr": "아라야공백",
+  "en": null,
+  "cn": null,
+  "lines": 5
+ },
+ "그레고르그림자": {
+  "kr": "그레고르그림자",
+  "en": "Anonymous",
+  "cn": "匿名",
+  "lines": 5
+ },
+ "겁먹은 계약자": {
+  "kr": "겁먹은 계약자",
+  "en": "Terrified Party",
+  "cn": "胆怯的签约人",
+  "lines": 5
+ },
+ "화난 계약자": {
+  "kr": "화난 계약자",
+  "en": "Angry Party",
+  "cn": "愤怒的签约人",
+  "lines": 5
+ },
+ "긴장한 조직원": {
+  "kr": "긴장한 조직원",
+  "en": "Nervous Pirate",
+  "cn": "紧张的海盗",
+  "lines": 5
+ },
+ "쓸만한 조직원": {
+  "kr": "쓸만한 조직원",
+  "en": "Handy Pirate",
+  "cn": "有能力的海盗",
+  "lines": 5
+ },
+ "카지노경호원대장": {
+  "kr": "카지노경호원대장",
+  "en": "Security Chief",
+  "cn": "赌场警卫队 队长",
+  "lines": 5
+ },
+ "몸푸는철공회조직원": {
+  "kr": "몸푸는철공회조직원",
+  "en": "Flexing Crewman",
+  "cn": "正在热身的铁工会成员",
+  "lines": 5
+ },
+ "K사안내방송": {
+  "kr": "K사안내방송",
+  "en": "Announcement",
+  "cn": "广播",
+  "lines": 3
+ },
+ "K사앰플기계": {
+  "kr": "K사앰플기계",
+  "en": "Ampule Helper",
+  "cn": "安瓿助手",
+  "lines": 5
+ },
+ "옷벗은삼조": {
+  "kr": "옷벗은삼조",
+  "en": "Samjo",
+  "cn": "三朝",
+  "lines": 5
+ },
+ "힌들리늑대": {
+  "kr": "힌들리늑대",
+  "en": null,
+  "cn": null,
+  "lines": 5
+ },
+ "어린히스클리프2": {
+  "kr": "어린히스클리프2",
+  "en": null,
+  "cn": null,
+  "lines": 5
+ },
+ "로메로다침": {
+  "kr": "로메로다침",
+  "en": null,
+  "cn": null,
+  "lines": 5
+ },
+ "왕인": {
+  "kr": "왕인",
+  "en": null,
+  "cn": null,
+  "lines": 5
+ },
+ "다친가시춘2": {
+  "kr": "다친가시춘2",
+  "en": null,
+  "cn": null,
+  "lines": 5
+ },
+ "가모괴물씻김": {
+  "kr": "가모괴물씻김",
+  "en": null,
+  "cn": null,
+  "lines": 5
+ },
+ "그레고르왕그림자": {
+  "kr": "그레고르왕그림자",
+  "en": null,
+  "cn": null,
+  "lines": 5
+ },
+ "아라야20대": {
+  "kr": "아라야20대",
+  "en": null,
+  "cn": null,
+  "lines": 5
+ },
+ "뤼엔딸": {
+  "kr": "뤼엔딸",
+  "en": null,
+  "cn": null,
+  "lines": 5
+ },
+ "가환": {
+  "kr": "가환",
+  "en": "Jia Huan",
+  "cn": "贾环",
+  "lines": 4
+ },
+ "퀴케그가면": {
+  "kr": "퀴케그가면",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 2
+ },
+ "사화정다침": {
+  "kr": "사화정다침",
+  "en": null,
+  "cn": null,
+  "lines": 4
+ },
+ "대관원사람": {
+  "kr": "대관원사람",
+  "en": null,
+  "cn": null,
+  "lines": 4
+ },
+ "베르길리우스만우": {
+  "kr": "베르길리우스만우",
+  "en": null,
+  "cn": null,
+  "lines": 4
+ },
+ "무기레인": {
+  "kr": "무기레인",
+  "en": "Rain",
+  "cn": "雷恩",
+  "lines": 3
+ },
+ "검은노움": {
+  "kr": "검은노움",
+  "en": "Shadowy Gnome",
+  "cn": "黑色小矮人",
+  "lines": 4
+ },
+ "다친시간살인마변신": {
+  "kr": "다친시간살인마변신",
+  "en": null,
+  "cn": null,
+  "lines": 4
+ },
+ "쩔쩔이사": {
+  "kr": "쩔쩔이사",
+  "en": "Flustered Board Member",
+  "cn": "<size=90%>诚惶诚恐的董事</size>",
+  "lines": 4
+ },
+ "흑수사": {
+  "kr": "흑수사",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 2
+ },
+ "약지아이1": {
+  "kr": "약지아이1",
+  "en": "Miffed Child",
+  "cn": "闹别扭的孩子",
+  "lines": 4
+ },
+ "임경업뒤틀림": {
+  "kr": "임경업뒤틀림",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 2
+ },
+ "뉴료슈반담다침": {
+  "kr": "뉴료슈반담다침",
+  "en": null,
+  "cn": null,
+  "lines": 4
+ },
+ "이스마엘그림자": {
+  "kr": "이스마엘그림자",
+  "en": "Anonymous",
+  "cn": "匿名",
+  "lines": 4
+ },
+ "마왕히스클리프4": {
+  "kr": "마왕히스클리프4",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 4
+ },
+ "더미2": {
+  "kr": "더미2",
+  "en": "Announcement",
+  "cn": "广播",
+  "lines": 3
+ },
+ "도망치던시민": {
+  "kr": "도망치던시민",
+  "en": "Running Civilian",
+  "cn": "正在逃跑的居民",
+  "lines": 4
+ },
+ "클럽손님": {
+  "kr": "클럽손님",
+  "en": "Guest",
+  "cn": "客人",
+  "lines": 4
+ },
+ "LCCB직원백화1": {
+  "kr": "LCCB직원백화1",
+  "en": "LCCB Agent?",
+  "cn": "LCCB 队员？",
+  "lines": 3
+ },
+ "어린린튼": {
+  "kr": "어린린튼",
+  "en": null,
+  "cn": null,
+  "lines": 4
+ },
+ "히스클리프검정": {
+  "kr": "히스클리프검정",
+  "en": null,
+  "cn": null,
+  "lines": 4
+ },
+ "엑스트라해결사2": {
+  "kr": "엑스트라해결사2",
+  "en": "Amazed Fixer",
+  "cn": "<size=90%>感叹着的收尾人</size>",
+  "lines": 4
+ },
+ "이발사다침": {
+  "kr": "이발사다침",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 4
+ },
+ "달기사실루엣": {
+  "kr": "달기사실루엣",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 4
+ },
+ "산손베르길리우스": {
+  "kr": "산손베르길리우스",
+  "en": null,
+  "cn": null,
+  "lines": 4
+ },
+ "엄지솔다토1": {
+  "kr": "엄지솔다토1",
+  "en": null,
+  "cn": null,
+  "lines": 4
+ },
+ "자로피2": {
+  "kr": "자로피2",
+  "en": null,
+  "cn": null,
+  "lines": 4
+ },
+ "더어린홍루": {
+  "kr": "더어린홍루",
+  "en": null,
+  "cn": null,
+  "lines": 4
+ },
+ "어르신2그림자": {
+  "kr": "어르신2그림자",
+  "en": null,
+  "cn": null,
+  "lines": 4
+ },
+ "가모롱다침": {
+  "kr": "가모롱다침",
+  "en": null,
+  "cn": null,
+  "lines": 4
+ },
+ "료슈9장이후담배": {
+  "kr": "료슈9장이후담배",
+  "en": null,
+  "cn": null,
+  "lines": 4
+ },
+ "다친대행자": {
+  "kr": "다친대행자",
+  "en": null,
+  "cn": null,
+  "lines": 4
+ },
+ "쓰러진아야": {
+  "kr": "쓰러진아야",
+  "en": "Aya",
+  "cn": "阿雅",
+  "lines": 3
+ },
+ "T사기술청2": {
+  "kr": "T사기술청2",
+  "en": "Class 4 Collector",
+  "cn": "4级征收人员",
+  "lines": 3
+ },
+ "다친사사정": {
+  "kr": "다친사사정",
+  "en": null,
+  "cn": null,
+  "lines": 3
+ },
+ "설씨사병1": {
+  "kr": "설씨사병1",
+  "en": null,
+  "cn": null,
+  "lines": 3
+ },
+ "에고구보총": {
+  "kr": "에고구보총",
+  "en": null,
+  "cn": null,
+  "lines": 3
+ },
+ "뒤틀린손님2": {
+  "kr": "뒤틀린손님2",
+  "en": "Chicken-headed K Corp. Security",
+  "cn": "鸡头K公司检查站安保人员",
+  "lines": 2
+ },
+ "뒤틀린닭1": {
+  "kr": "뒤틀린닭1",
+  "en": "Raw Chicken",
+  "cn": "生鸡",
+  "lines": 3
+ },
+ "열차아이": {
+  "kr": "열차아이",
+  "en": "Curious Child",
+  "cn": "充满好奇心的孩子",
+  "lines": 3
+ },
+ "삼삼다침": {
+  "kr": "삼삼다침",
+  "en": "Shan San",
+  "cn": "杉三",
+  "lines": 3
+ },
+ "청소부A": {
+  "kr": "청소부A",
+  "en": "Sweeper",
+  "cn": "清道夫",
+  "lines": 3
+ },
+ "베르너다침": {
+  "kr": "베르너다침",
+  "en": "Werner",
+  "cn": "维尔纳",
+  "lines": 3
+ },
+ "뫼르소다침": {
+  "kr": "뫼르소다침",
+  "en": null,
+  "cn": null,
+  "lines": 3
+ },
+ "사루": {
+  "kr": "사루",
+  "en": "Saru",
+  "cn": "猴儿",
+  "lines": 3
+ },
+ "뉴김삿갓안광": {
+  "kr": "뉴김삿갓안광",
+  "en": null,
+  "cn": null,
+  "lines": 3
+ },
+ "파우스트그림자": {
+  "kr": "파우스트그림자",
+  "en": "Anonymous",
+  "cn": "匿名",
+  "lines": 3
+ },
+ "뫼르소그림자": {
+  "kr": "뫼르소그림자",
+  "en": "Anonymous",
+  "cn": "匿名",
+  "lines": 3
+ },
+ "부탁이 많은 직원": {
+  "kr": "부탁이 많은 직원",
+  "en": "Imploring Employee",
+  "cn": "要求众多的员工",
+  "lines": 3
+ },
+ "일등 항해사": {
+  "kr": "일등 항해사",
+  "en": null,
+  "cn": null,
+  "lines": 3
+ },
+ "이베리아주민1": {
+  "kr": "이베리아주민1",
+  "en": null,
+  "cn": null,
+  "lines": 3
+ },
+ "Mon3tr": {
+  "kr": "Mon3tr",
+  "en": "Mon3tr",
+  "cn": "Mon3tr",
+  "lines": 3
+ },
+ "위협적인철공회조직원": {
+  "kr": "위협적인철공회조직원",
+  "en": "Threatening Crewman",
+  "cn": "咄咄逼人的铁工会成员",
+  "lines": 3
+ },
+ "K사드론들": {
+  "kr": "K사드론들",
+  "en": "Mysterious Drone",
+  "cn": "来历不明的无人机",
+  "lines": 3
+ },
+ "K사연구원1": {
+  "kr": "K사연구원1",
+  "en": "Nervous Employee",
+  "cn": "<size=90%>惴惴不安的员工</size>",
+  "lines": 3
+ },
+ "퀴케그그림자": {
+  "kr": "퀴케그그림자",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 3
+ },
+ "T사갱단1": {
+  "kr": "T사갱단1",
+  "en": "Urgent T Corp. Gangster",
+  "cn": "焦急的T公司黑帮成员",
+  "lines": 3
+ },
+ "힌들리2": {
+  "kr": "힌들리2",
+  "en": null,
+  "cn": null,
+  "lines": 3
+ },
+ "조세핀2": {
+  "kr": "조세핀2",
+  "en": null,
+  "cn": null,
+  "lines": 3
+ },
+ "곰스클리프": {
+  "kr": "곰스클리프",
+  "en": null,
+  "cn": null,
+  "lines": 3
+ },
+ "하인3": {
+  "kr": "하인3",
+  "en": "Furious Attendant",
+  "cn": "愤怒的下人",
+  "lines": 2
+ },
+ "어르신1그림자": {
+  "kr": "어르신1그림자",
+  "en": null,
+  "cn": null,
+  "lines": 3
+ },
+ "가모가지꽂음": {
+  "kr": "가모가지꽂음",
+  "en": null,
+  "cn": null,
+  "lines": 3
+ },
+ "료슈9장이후반담배": {
+  "kr": "료슈9장이후반담배",
+  "en": null,
+  "cn": null,
+  "lines": 3
+ },
+ "침식직원1": {
+  "kr": "침식직원1",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 1
+ },
+ "마을주민1": {
+  "kr": "마을주민1",
+  "en": "Townsfolk",
+  "cn": "村民",
+  "lines": 2
+ },
+ "돈키호테산초2": {
+  "kr": "돈키호테산초2",
+  "en": null,
+  "cn": null,
+  "lines": 2
+ },
+ "돈키호테산초": {
+  "kr": "돈키호테산초",
+  "en": null,
+  "cn": null,
+  "lines": 2
+ },
+ "과거가치우": {
+  "kr": "과거가치우",
+  "en": null,
+  "cn": null,
+  "lines": 2
+ },
+ "하인4": {
+  "kr": "하인4",
+  "en": "Jia Mu's Servant",
+  "cn": "贾母的侍婢",
+  "lines": 1
+ },
+ "조길인": {
+  "kr": "조길인",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 2
+ },
+ "그렉료슈": {
+  "kr": "그렉료슈",
+  "en": "Gregor & Ryōshū",
+  "cn": "格里高尔&良秀",
+  "lines": 2
+ },
+ "뒤틀린주인카운트1": {
+  "kr": "뒤틀린주인카운트1",
+  "en": "Eunbong’s Bar & Fryers Owner",
+  "cn": "银凤炸鸡酒吧 店长",
+  "lines": 2
+ },
+ "마이": {
+  "kr": "마이",
+  "en": "Mai",
+  "cn": "麦",
+  "lines": 2
+ },
+ "호엔과거동료그림자": {
+  "kr": "호엔과거동료그림자",
+  "en": null,
+  "cn": null,
+  "lines": 2
+ },
+ "로쟈싱클": {
+  "kr": "로쟈싱클",
+  "en": null,
+  "cn": null,
+  "lines": 2
+ },
+ "청소부C": {
+  "kr": "청소부C",
+  "en": "Sweeper",
+  "cn": "清道夫",
+  "lines": 2
+ },
+ "굽신이사": {
+  "kr": "굽신이사",
+  "en": "Obsequious Board Member",
+  "cn": "<size=90%>点头哈腰的董事</size>",
+  "lines": 2
+ },
+ "야수파1": {
+  "kr": "야수파1",
+  "en": null,
+  "cn": null,
+  "lines": 2
+ },
+ "야수파2": {
+  "kr": "야수파2",
+  "en": null,
+  "cn": null,
+  "lines": 2
+ },
+ "약지아이2": {
+  "kr": "약지아이2",
+  "en": "Picky Child",
+  "cn": "挑剔的孩子",
+  "lines": 2
+ },
+ "료슈그림자": {
+  "kr": "료슈그림자",
+  "en": "Anonymous",
+  "cn": "匿名",
+  "lines": 2
+ },
+ "홍루그림자": {
+  "kr": "홍루그림자",
+  "en": "Anonymous",
+  "cn": "匿名",
+  "lines": 2
+ },
+ "싱클레어그림자": {
+  "kr": "싱클레어그림자",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 2
+ },
+ "말쿠트": {
+  "kr": "말쿠트",
+  "en": null,
+  "cn": null,
+  "lines": 2
+ },
+ "인터뷰어": {
+  "kr": "인터뷰어",
+  "en": "Interviewer",
+  "cn": "记者",
+  "lines": 2
+ },
+ "네짜흐": {
+  "kr": "네짜흐",
+  "en": null,
+  "cn": null,
+  "lines": 2
+ },
+ "친근한 작은 아우": {
+  "kr": "친근한 작은 아우",
+  "en": "Friendly Little Brother",
+  "cn": "友善的幼弟",
+  "lines": 2
+ },
+ "작살잡이": {
+  "kr": "작살잡이",
+  "en": null,
+  "cn": null,
+  "lines": 2
+ },
+ "조직원들": {
+  "kr": "조직원들",
+  "en": "Pirates",
+  "cn": "海盗们",
+  "lines": 2
+ },
+ "메이어스다침": {
+  "kr": "메이어스다침",
+  "en": null,
+  "cn": null,
+  "lines": 2
+ },
+ "화난패잔병": {
+  "kr": "화난패잔병",
+  "en": "Fiery Veteran",
+  "cn": "愤怒的残兵",
+  "lines": 2
+ },
+ "해킹당한K사앰플기계": {
+  "kr": "해킹당한K사앰플기계",
+  "en": "Ampule Helper",
+  "cn": "安瓿助手",
+  "lines": 2
+ },
+ "동백여우각성": {
+  "kr": "동백여우각성",
+  "en": "Dongbaek",
+  "cn": "冬柏",
+  "lines": 2
+ },
+ "영지": {
+  "kr": "영지",
+  "en": "Young-ji",
+  "cn": "灵之",
+  "lines": 2
+ },
+ "동백에고각성": {
+  "kr": "동백에고각성",
+  "en": "Dongbaek",
+  "cn": "冬柏",
+  "lines": 2
+ },
+ "LCCB직원백화2": {
+  "kr": "LCCB직원백화2",
+  "en": "LCCB Agent?",
+  "cn": "LCCB 队员？",
+  "lines": 2
+ },
+ "작은아우": {
+  "kr": "작은아우",
+  "en": "Little Brother",
+  "cn": "幼弟",
+  "lines": 2
+ },
+ "수감자들": {
+  "kr": "수감자들",
+  "en": "Sinners",
+  "cn": "罪人们",
+  "lines": 2
+ },
+ "린튼버틀러2": {
+  "kr": "린튼버틀러2",
+  "en": "Firm Butler",
+  "cn": "严格的管家",
+  "lines": 2
+ },
+ "주민오티스": {
+  "kr": "주민오티스",
+  "en": null,
+  "cn": null,
+  "lines": 2
+ },
+ "혈귀홍루": {
+  "kr": "혈귀홍루",
+  "en": null,
+  "cn": null,
+  "lines": 2
+ },
+ "어르신3그림자": {
+  "kr": "어르신3그림자",
+  "en": null,
+  "cn": null,
+  "lines": 2
+ },
+ "하인죽음": {
+  "kr": "하인죽음",
+  "en": null,
+  "cn": null,
+  "lines": 2
+ },
+ "어르신6": {
+  "kr": "어르신6",
+  "en": null,
+  "cn": null,
+  "lines": 2
+ },
+ "임대옥다침2": {
+  "kr": "임대옥다침2",
+  "en": null,
+  "cn": null,
+  "lines": 2
+ },
+ "가모괴물다침": {
+  "kr": "가모괴물다침",
+  "en": null,
+  "cn": null,
+  "lines": 2
+ },
+ "아나운서": {
+  "kr": "아나운서",
+  "en": "Announcer",
+  "cn": "播报员",
+  "lines": 2
+ },
+ "LCE연구원2": {
+  "kr": "LCE연구원2",
+  "en": null,
+  "cn": null,
+  "lines": 2
+ },
+ "LCA대원벼락": {
+  "kr": "LCA대원벼락",
+  "en": "LCA Reconnaissance Team?",
+  "cn": "LCA侦察队？",
+  "lines": 1
+ },
+ "머금은목화1": {
+  "kr": "머금은목화1",
+  "en": null,
+  "cn": null,
+  "lines": 2
+ },
+ "약지제자3": {
+  "kr": "약지제자3",
+  "en": null,
+  "cn": null,
+  "lines": 2
+ },
+ "LCA네임드2": {
+  "kr": "LCA네임드2",
+  "en": null,
+  "cn": null,
+  "lines": 2
+ },
+ "아라야정장": {
+  "kr": "아라야정장",
+  "en": "Araya",
+  "cn": "阿赖耶",
+  "lines": 2
+ },
+ "여자시민": {
+  "kr": "여자시민",
+  "en": "Kind Citizen",
+  "cn": "友好的市民",
+  "lines": 1
+ },
+ "에이해브그림자": {
+  "kr": "에이해브그림자",
+  "en": null,
+  "cn": null,
+  "lines": 1
+ },
+ "장미침식까미유": {
+  "kr": "장미침식까미유",
+  "en": "Camille?",
+  "cn": "卡米尔？",
+  "lines": 1
+ },
+ "로시난테": {
+  "kr": "로시난테",
+  "en": "Rocinante",
+  "cn": "驽骍难得",
+  "lines": 1
+ },
+ "발톱": {
+  "kr": "발톱",
+  "en": null,
+  "cn": null,
+  "lines": 1
+ },
+ "어린가환죽음": {
+  "kr": "어린가환죽음",
+  "en": null,
+  "cn": null,
+  "lines": 1
+ },
+ "사씨사병2": {
+  "kr": "사씨사병2",
+  "en": "Anxious Clan Member",
+  "cn": "紧张的势力成员",
+  "lines": 1
+ },
+ "뒤틀린주인카운트3": {
+  "kr": "뒤틀린주인카운트3",
+  "en": "Eunbong’s Bar & Fryers Owner",
+  "cn": "银凤炸鸡酒吧 店长",
+  "lines": 1
+ },
+ "올가헬멧": {
+  "kr": "올가헬멧",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 1
+ },
+ "올가잠수복": {
+  "kr": "올가잠수복",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 1
+ },
+ "크랲게": {
+  "kr": "크랲게",
+  "en": "Trash Crabs",
+  "cn": "废料蟹",
+  "lines": 1
+ },
+ "최종김삿갓": {
+  "kr": "최종김삿갓",
+  "en": "Bamboo-hatted Kim?",
+  "cn": "金笠？",
+  "lines": 1
+ },
+ "돈키T3": {
+  "kr": "돈키T3",
+  "en": "Don Quixote & T Corp. Staff",
+  "cn": "堂吉诃德&T公司员工",
+  "lines": 1
+ },
+ "감속더미": {
+  "kr": "감속더미",
+  "en": "Factory Laborer",
+  "cn": "工厂的工人",
+  "lines": 1
+ },
+ "베르길파우": {
+  "kr": "베르길파우",
+  "en": "Faust & Vergilius",
+  "cn": "浮士德&维吉里乌斯",
+  "lines": 1
+ },
+ "작은형님그림자": {
+  "kr": "작은형님그림자",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 1
+ },
+ "추노꾼1": {
+  "kr": "추노꾼1",
+  "en": null,
+  "cn": null,
+  "lines": 1
+ },
+ "오에": {
+  "kr": "오에",
+  "en": "Outis & Ezra",
+  "cn": "奥提斯&以斯拉",
+  "lines": 1
+ },
+ "오티스그림자": {
+  "kr": "오티스그림자",
+  "en": "Anonymous",
+  "cn": "匿名",
+  "lines": 1
+ },
+ "이상 & 싱클레어": {
+  "kr": "이상 & 싱클레어",
+  "en": "Yi Sang & Sinclair",
+  "cn": "李箱＆辛克莱",
+  "lines": 1
+ },
+ "안내방송": {
+  "kr": "안내방송",
+  "en": "Announcement",
+  "cn": "广播",
+  "lines": 1
+ },
+ "당황하는 선원": {
+  "kr": "당황하는 선원",
+  "en": "Confused Sailor",
+  "cn": "困惑的船员",
+  "lines": 1
+ },
+ "어이없는 선원": {
+  "kr": "어이없는 선원",
+  "en": "Flabbergasted Sailor",
+  "cn": "呆滞的船员",
+  "lines": 1
+ },
+ "작은 아우들": {
+  "kr": "작은 아우들",
+  "en": "Little Brothers",
+  "cn": "幼弟们",
+  "lines": 1
+ },
+ "신입사원들": {
+  "kr": "신입사원들",
+  "en": "New Hires",
+  "cn": "新员工们",
+  "lines": 1
+ },
+ "비실한 조직원": {
+  "kr": "비실한 조직원",
+  "en": "Frail Pirate",
+  "cn": "卑鄙的海盗",
+  "lines": 1
+ },
+ "화난 직원": {
+  "kr": "화난 직원",
+  "en": "Angry Employee",
+  "cn": "愤怒的员工",
+  "lines": 1
+ },
+ "빌붙는 직원": {
+  "kr": "빌붙는 직원",
+  "en": "Mooching Employee",
+  "cn": "谄媚的员工",
+  "lines": 1
+ },
+ "능글맞은 작은 아우": {
+  "kr": "능글맞은 작은 아우",
+  "en": "Smooth Little Brother",
+  "cn": "油嘴滑舌的幼弟",
+  "lines": 1
+ },
+ "목청이 큰 선원": {
+  "kr": "목청이 큰 선원",
+  "en": "Thundering Sailor",
+  "cn": "声音很大的船员",
+  "lines": 1
+ },
+ "빠릿한 조직원": {
+  "kr": "빠릿한 조직원",
+  "en": "Perceptive Pirate",
+  "cn": "机灵的海盗",
+  "lines": 1
+ },
+ "시테러": {
+  "kr": "시테러",
+  "en": null,
+  "cn": null,
+  "lines": 1
+ },
+ "의아한패잔병": {
+  "kr": "의아한패잔병",
+  "en": "Puzzled Veteran",
+  "cn": "惊讶的残兵",
+  "lines": 1
+ },
+ "더미": {
+  "kr": "더미",
+  "en": "Don Quixote",
+  "cn": "堂吉诃德",
+  "lines": 1
+ },
+ "//효과음 – 퍽": {
+  "kr": "//효과음 – 퍽",
+  "en": null,
+  "cn": null,
+  "lines": 1
+ },
+ "//퍽": {
+  "kr": "//퍽",
+  "en": null,
+  "cn": null,
+  "lines": 1
+ },
+ "파우스트와삼조": {
+  "kr": "파우스트와삼조",
+  "en": "Faust & Samjo",
+  "cn": "浮士德&三朝",
+  "lines": 1
+ },
+ "기술해방연합기계2": {
+  "kr": "기술해방연합기계2",
+  "en": "Intimidating Machine",
+  "cn": "令人胆战心惊的机械",
+  "lines": 1
+ },
+ "암살자": {
+  "kr": "암살자",
+  "en": "Assassin",
+  "cn": "暗杀者",
+  "lines": 1
+ },
+ "과거이상": {
+  "kr": "과거이상",
+  "en": "Yi Sang",
+  "cn": "李箱",
+  "lines": 1
+ },
+ "K사연구원3": {
+  "kr": "K사연구원3",
+  "en": "Hurrying Researcher",
+  "cn": "慌忙的研究员",
+  "lines": 1
+ },
+ "K사연구원2": {
+  "kr": "K사연구원2",
+  "en": "Dying Researcher",
+  "cn": "濒死的研究员",
+  "lines": 1
+ },
+ "검문소경비2": {
+  "kr": "검문소경비2",
+  "en": "Class 2 Excision Staff",
+  "cn": "2级摘除人员",
+  "lines": 1
+ },
+ "각성기술해방연합1": {
+  "kr": "각성기술해방연합1",
+  "en": "Alliance Member",
+  "cn": "联盟成员",
+  "lines": 1
+ },
+ "K사3등급전투원": {
+  "kr": "K사3등급전투원",
+  "en": "Class 3 Excision Staff",
+  "cn": "3级摘除人员",
+  "lines": 1
+ },
+ "동백에고각성중_다침": {
+  "kr": "동백에고각성중_다침",
+  "en": "Dongbaek",
+  "cn": "冬柏",
+  "lines": 1
+ },
+ "되살아난해방연합": {
+  "kr": "되살아난해방연합",
+  "en": "Revived? Liberation Alliance Member",
+  "cn": "复活的？解放联盟成员",
+  "lines": 1
+ },
+ "해방연합대원": {
+  "kr": "해방연합대원",
+  "en": "Revived? Liberation Alliance Member",
+  "cn": "复活的？解放联盟成员",
+  "lines": 1
+ },
+ "인어": {
+  "kr": "인어",
+  "en": "Whale of the Porous Hand Mermaid",
+  "cn": "穴掌鲸 人鱼",
+  "lines": 1
+ },
+ "창백한 고래": {
+  "kr": "창백한 고래",
+  "en": "The Pallid Whale",
+  "cn": "白鲸",
+  "lines": 1
+ },
+ "홍루SD": {
+  "kr": "홍루SD",
+  "en": "Hong Lu",
+  "cn": "鸿璐",
+  "lines": 1
+ },
+ "뒤틀린히스클리프": {
+  "kr": "뒤틀린히스클리프",
+  "en": "Heathcliff, The Heartbroken",
+  "cn": "<width=90%>心被撕碎的希斯克利夫",
+  "lines": 1
+ },
+ "마왕히스클리프말": {
+  "kr": "마왕히스클리프말",
+  "en": null,
+  "cn": null,
+  "lines": 1
+ },
+ "해결사들": {
+  "kr": "해결사들",
+  "en": "Crowd of Fixers",
+  "cn": "聚集的收尾人们",
+  "lines": 1
+ },
+ "혈귀료슈": {
+  "kr": "혈귀료슈",
+  "en": null,
+  "cn": null,
+  "lines": 1
+ },
+ "맨발돈키호테": {
+  "kr": "맨발돈키호테",
+  "en": null,
+  "cn": null,
+  "lines": 1
+ },
+ "괴한": {
+  "kr": "괴한",
+  "en": null,
+  "cn": null,
+  "lines": 1
+ },
+ "로쟈&히스": {
+  "kr": "로쟈&히스",
+  "en": null,
+  "cn": null,
+  "lines": 1
+ },
+ "관중1": {
+  "kr": "관중1",
+  "en": "Stunned Audience",
+  "cn": "骚动的观众",
+  "lines": 1
+ },
+ "관중2": {
+  "kr": "관중2",
+  "en": "Suspicious Audience",
+  "cn": "<size=90%>心存疑惑的观众</size>",
+  "lines": 1
+ },
+ "관중3": {
+  "kr": "관중3",
+  "en": "Whispering Audience",
+  "cn": "<size=90%>低声议论的观众</size>",
+  "lines": 1
+ },
+ "불합격자아버지": {
+  "kr": "불합격자아버지",
+  "en": "Disappointed Audience",
+  "cn": "哀叹的观众",
+  "lines": 1
+ },
+ "불합격자어머니": {
+  "kr": "불합격자어머니",
+  "en": "Excited Audience",
+  "cn": "期待的观众",
+  "lines": 1
+ },
+ "항아리괴물": {
+  "kr": "항아리괴물",
+  "en": null,
+  "cn": null,
+  "lines": 1
+ },
+ "알란": {
+  "kr": "알란",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 1
+ },
+ "하나후다": {
+  "kr": "하나후다",
+  "en": "???",
+  "cn": "？？？",
+  "lines": 1
+ },
+ "LCA우제트": {
+  "kr": "LCA우제트",
+  "en": "LCA Agent",
+  "cn": "LCA 队员",
+  "lines": 1
+ },
+ "머금은목화2": {
+  "kr": "머금은목화2",
+  "en": null,
+  "cn": null,
+  "lines": 1
+ },
+ "그레고르왕": {
+  "kr": "그레고르왕",
+  "en": null,
+  "cn": null,
+  "lines": 1
+ }
+}

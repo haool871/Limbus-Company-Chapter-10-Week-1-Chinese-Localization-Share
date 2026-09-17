@@ -1,0 +1,982 @@
+{
+ "_说明": "由官方 Announcer.json(54条)、IntroduceCharacter.json(12罪人)、AbnormalityGuides、AssociationName/UnitKeyword 抽取。cn 为权威译法。",
+ "播报员/角色": [
+  {
+   "en": "Dante",
+   "cn": "但丁",
+   "kr": "단테"
+  },
+  {
+   "en": "Gregor",
+   "cn": "格里高尔",
+   "kr": "그레고르"
+  },
+  {
+   "en": "Charon",
+   "cn": "卡戎",
+   "kr": "카론"
+  },
+  {
+   "en": "Sinclair",
+   "cn": "辛克莱",
+   "kr": "싱클레어"
+  },
+  {
+   "en": "Rodion",
+   "cn": "罗佳",
+   "kr": "로쟈"
+  },
+  {
+   "en": "Yi Sang",
+   "cn": "李箱",
+   "kr": "이상"
+  },
+  {
+   "en": "Effie/Saude",
+   "cn": "埃菲/索德",
+   "kr": "에피/소드"
+  },
+  {
+   "en": "Ishmael",
+   "cn": "以实玛利",
+   "kr": "이스마엘"
+  },
+  {
+   "en": "Yuri",
+   "cn": "尤莉",
+   "kr": "유리"
+  },
+  {
+   "en": "Malkuth",
+   "cn": "Malkuth",
+   "kr": "말쿠트"
+  },
+  {
+   "en": "Pierre/Jack",
+   "cn": "皮埃尔/杰克",
+   "kr": "피에르/잭"
+  },
+  {
+   "en": "Angela\n<size=90%>(Lobotomy Corporation AI)</size>",
+   "cn": "Angela\n<size=90%>（脑叶公司AI）</size>",
+   "kr": "앤젤라\n<size=90%>(로보토미 코퍼레이션 AI)</size>"
+  },
+  {
+   "en": "Nelly",
+   "cn": "耐莉",
+   "kr": "넬리"
+  },
+  {
+   "en": "Heathcliff",
+   "cn": "希斯克利夫",
+   "kr": "히스클리프"
+  },
+  {
+   "en": "Samjo",
+   "cn": "三朝",
+   "kr": "삼조"
+  },
+  {
+   "en": "Yesod",
+   "cn": "Yesod",
+   "kr": "예소드"
+  },
+  {
+   "en": "Molar Office",
+   "cn": "臼齿事务所",
+   "kr": "어금니 사무소"
+  },
+  {
+   "en": "Hod",
+   "cn": "Hod",
+   "kr": "호드"
+  },
+  {
+   "en": "Dawn Office",
+   "cn": "黎明事务所",
+   "kr": "새벽 사무소"
+  },
+  {
+   "en": "Sancho",
+   "cn": "桑丘",
+   "kr": "산초"
+  },
+  {
+   "en": "Don Quixote",
+   "cn": "堂吉诃德",
+   "kr": "돈키호테"
+  },
+  {
+   "en": "Bloodfiends\nof La Mancha",
+   "cn": "拉·曼却的血魔",
+   "kr": "라만차의 혈귀"
+  },
+  {
+   "en": "Gnome\nTri-ome!",
+   "cn": "诺姆三人组诺姆！",
+   "kr": "노움 삼총사라움!"
+  },
+  {
+   "en": "Netzach",
+   "cn": "Netzach",
+   "kr": "네짜흐"
+  },
+  {
+   "en": "Full-Stop\nOffice",
+   "cn": "句点事务所",
+   "kr": "마침표 사무소"
+  },
+  {
+   "en": "Aeng-du",
+   "cn": "樱桃",
+   "kr": "앵두"
+  },
+  {
+   "en": "Jun",
+   "cn": "俊",
+   "kr": "쥰"
+  },
+  {
+   "en": "Vergilius",
+   "cn": "维吉里乌斯",
+   "kr": "베르길리우스"
+  },
+  {
+   "en": "Ricardo",
+   "cn": "里卡多",
+   "kr": "리카르도"
+  },
+  {
+   "en": "Hohenheim",
+   "cn": "霍恩海姆",
+   "kr": "호엔하임"
+  },
+  {
+   "en": "Zilu/Zigong",
+   "cn": "子路/子贡",
+   "kr": "자로/자공"
+  },
+  {
+   "en": "Hong Lu",
+   "cn": "鸿璐",
+   "kr": "홍루"
+  },
+  {
+   "en": "Magical Girl\n(The Queen of Hatred)",
+   "cn": "魔法少女（憎恶皇后）",
+   "kr": "마법소녀 (증오의 여왕)"
+  },
+  {
+   "en": "Tiphereth",
+   "cn": "Tiphereth",
+   "kr": "티페리트"
+  },
+  {
+   "en": "Herbert",
+   "cn": "赫伯特",
+   "kr": "허버트"
+  },
+  {
+   "en": "T Corp. Temp\nSpecial Investigators",
+   "cn": "T公司临时特别搜查官们",
+   "kr": "임시 T사 특별수사관들"
+  },
+  {
+   "en": "Jia Xichun/Wei",
+   "cn": "贾惜春/卫",
+   "kr": "가시춘/웨이"
+  },
+  {
+   "en": "Amiya",
+   "cn": "阿米娅",
+   "kr": "아미야"
+  },
+  {
+   "en": "W Corp. WARP\nTrain PA System",
+   "cn": "W公司 WARP列车广播",
+   "kr": "W사 워프 열차 방송"
+  },
+  {
+   "en": "Gebura",
+   "cn": "Gebura",
+   "kr": "게부라"
+  },
+  {
+   "en": "Lei Heng",
+   "cn": "雷横",
+   "kr": "뇌횡"
+  },
+  {
+   "en": "Angela\n<size=90%>(Library Director - Early Days)</size>",
+   "cn": "安吉拉\n<size=90%>（图书馆馆长-初期）</size>",
+   "kr": "앤젤라\n<size=90%>(도서관 관장 - 초기)</size>"
+  },
+  {
+   "en": "Chesed",
+   "cn": "Chesed",
+   "kr": "헤세드"
+  },
+  {
+   "en": "LCE Research Team",
+   "cn": "LCE研究组",
+   "kr": "LCE 연구팀"
+  },
+  {
+   "en": "Kira",
+   "cn": "绮罗",
+   "kr": "키라"
+  },
+  {
+   "en": "<District 8 Sweepers>",
+   "cn": "8区的清道夫们",
+   "kr": "8구 청소부들"
+  },
+  {
+   "en": "<District 8 Sweepers [Interpreted]>",
+   "cn": "8区的清道夫们[翻译版]",
+   "kr": "8구 청소부들[통역]"
+  },
+  {
+   "en": "Bamboo-hatted Kim\n& Aeng-Du",
+   "cn": "金笠/樱桃",
+   "kr": "김삿갓/앵두"
+  },
+  {
+   "en": "Binah",
+   "cn": "Binah",
+   "kr": "비나"
+  },
+  {
+   "en": "Matthias/Kira",
+   "cn": "马蒂亚斯/绮罗",
+   "kr": "마티아스/키라"
+  },
+  {
+   "en": "Valencina/Lucio",
+   "cn": "瓦伦希娜/卢西奥",
+   "kr": "발렌치나/루치오"
+  },
+  {
+   "en": "Callisto/Albina",
+   "cn": "卡利斯托/阿尔比娜",
+   "kr": "칼리스토/알비나"
+  },
+  {
+   "en": "Rien/Sora",
+   "cn": "里恩/空",
+   "kr": "뤼엔/소라"
+  }
+ ],
+ "罪人": [
+  {
+   "en": "Dante",
+   "cn": "但丁",
+   "kr": "단테"
+  },
+  {
+   "en": "Yi Sang",
+   "cn": "李箱",
+   "kr": "이상"
+  },
+  {
+   "en": "Faust",
+   "cn": "浮士德",
+   "kr": "파우스트"
+  },
+  {
+   "en": "Don Quixote",
+   "cn": "堂吉诃德",
+   "kr": "돈키호테"
+  },
+  {
+   "en": "Ryōshū",
+   "cn": "良秀",
+   "kr": "료슈"
+  },
+  {
+   "en": "Meursault",
+   "cn": "默尔索",
+   "kr": "뫼르소"
+  },
+  {
+   "en": "Hong Lu",
+   "cn": "鸿璐",
+   "kr": "홍루"
+  },
+  {
+   "en": "Heathcliff",
+   "cn": "希斯克利夫",
+   "kr": "히스클리프"
+  },
+  {
+   "en": "Ishmael",
+   "cn": "以实玛利",
+   "kr": "이스마엘"
+  },
+  {
+   "en": "Rodion",
+   "cn": "罗佳",
+   "kr": "로쟈"
+  },
+  {
+   "en": "Sinclair",
+   "cn": "辛克莱",
+   "kr": "싱클레어"
+  },
+  {
+   "en": "Outis",
+   "cn": "奥提斯",
+   "kr": "오티스"
+  },
+  {
+   "en": "Gregor",
+   "cn": "格里高尔",
+   "kr": "그레고르"
+  }
+ ],
+ "机构与事务所": [
+  {
+   "en": "Blade Lineage",
+   "cn": "剑契组",
+   "id": "associationName_BLADE_LINEAGE"
+  },
+  {
+   "en": "Kurokumo Clan",
+   "cn": "黑云会",
+   "id": "associationName_BLACK_CLOUD"
+  },
+  {
+   "en": "Yurodiviye",
+   "cn": "圣愚",
+   "id": "associationName_YURODIVY"
+  },
+  {
+   "en": "Blade Lineage",
+   "cn": "剑契组",
+   "id": "UnitKeyword_BLADE_LINEAGE"
+  },
+  {
+   "en": "Kurokumo Clan",
+   "cn": "黑云会",
+   "id": "UnitKeyword_BLACK_CLOUD"
+  },
+  {
+   "en": "Yurodiviye",
+   "cn": "圣愚",
+   "id": "UnitKeyword_YURODIVY"
+  },
+  {
+   "en": "Mechanical Amalgam",
+   "cn": "机械融合生命体",
+   "id": "UnitKeyword_MACHINE_BOUND_ORGANISM"
+  },
+  {
+   "en": "Lake Entity",
+   "cn": "大湖生物",
+   "id": "UnitKeyword_ON_THE_LAKE"
+  },
+  {
+   "en": "N Corp.",
+   "cn": "N公司",
+   "id": "UnitKeyword_N_CORP"
+  },
+  {
+   "en": "K Corp.",
+   "cn": "K公司",
+   "id": "UnitKeyword_K_CORP"
+  },
+  {
+   "en": "G Corp.",
+   "cn": "G公司",
+   "id": "UnitKeyword_G_CORP"
+  },
+  {
+   "en": "W Corp.",
+   "cn": "W公司",
+   "id": "UnitKeyword_W_CORP"
+  },
+  {
+   "en": "R Corp.",
+   "cn": "R公司",
+   "id": "UnitKeyword_R_CORP"
+  },
+  {
+   "en": "T Corp.",
+   "cn": "T公司",
+   "id": "UnitKeyword_T_CORP"
+  },
+  {
+   "en": "Seven Association",
+   "cn": "Seven协会",
+   "id": "UnitKeyword_SEVEN"
+  },
+  {
+   "en": "Cinq Association",
+   "cn": "Cinq协会",
+   "id": "UnitKeyword_CINQ"
+  },
+  {
+   "en": "Zwei Association",
+   "cn": "Zwei协会",
+   "id": "UnitKeyword_ZWEI"
+  },
+  {
+   "en": "Liu Association",
+   "cn": "六协会",
+   "id": "UnitKeyword_LIU"
+  },
+  {
+   "en": "Shi Association",
+   "cn": "し协会",
+   "id": "UnitKeyword_SHI"
+  },
+  {
+   "en": "Dieci Association",
+   "cn": "Dieci协会",
+   "id": "UnitKeyword_DIECI"
+  },
+  {
+   "en": "Öufi Association",
+   "cn": "Öufi协会",
+   "id": "UnitKeyword_OUFI"
+  },
+  {
+   "en": "Rosespanner Workshop",
+   "cn": "玫瑰扳手工坊",
+   "id": "UnitKeyword_TROUBLE_SHOOTER"
+  },
+  {
+   "en": "Technology Liberation Alliance",
+   "cn": "技术解放联盟",
+   "id": "UnitKeyword_ATL"
+  },
+  {
+   "en": "Molar Office",
+   "cn": "臼齿事务所",
+   "id": "UnitKeyword_MOLAR"
+  },
+  {
+   "en": "The Middle",
+   "cn": "中指",
+   "id": "UnitKeyword_MIDDLE_FINGER"
+  },
+  {
+   "en": "The Ring",
+   "cn": "环指",
+   "id": "UnitKeyword_RING_FINGER"
+  },
+  {
+   "en": "The Pequod",
+   "cn": "裴廓德号",
+   "id": "UnitKeyword_PEQUOD_CREW"
+  },
+  {
+   "en": "Wuthering Heights",
+   "cn": "呼啸山庄",
+   "id": "UnitKeyword_WUTHERING_HEIGHTS"
+  },
+  {
+   "en": "The Dead Rabbits",
+   "cn": "死兔帮",
+   "id": "UnitKeyword_DEAD_RABBITS"
+  },
+  {
+   "en": "The Wild Hunt",
+   "cn": "狂猎",
+   "id": "UnitKeyword_WILD_HUNT"
+  },
+  {
+   "en": "Limbus Company",
+   "cn": "边狱公司",
+   "id": "UnitKeyword_LIMBUS_COMPANY"
+  },
+  {
+   "en": "Tingtang Gang",
+   "cn": "豆豆帮",
+   "id": "UnitKeyword_KONG_KONG"
+  },
+  {
+   "en": "Los Mariachis",
+   "cn": "流浪乐队",
+   "id": "UnitKeyword_MARIACHI"
+  },
+  {
+   "en": "Hook Office",
+   "cn": "吊钩事务所",
+   "id": "UnitKeyword_HOOK_OFFICE"
+  },
+  {
+   "en": "Twinhook Pirates",
+   "cn": "双钩海盗团",
+   "id": "UnitKeyword_DUAL_HOOK_PIRATE"
+  },
+  {
+   "en": "Dawn Office",
+   "cn": "黎明事务所",
+   "id": "UnitKeyword_DAWN"
+  },
+  {
+   "en": "MultiCrack Office",
+   "cn": "多裂纹事务所",
+   "id": "UnitKeyword_MULTI_CRACK"
+  },
+  {
+   "en": "R.B.",
+   "cn": "良·派",
+   "id": "UnitKeyword_BACKSTREET_COOK"
+  },
+  {
+   "en": "Tieqiu Crew",
+   "cn": "铁工会",
+   "id": "UnitKeyword_TIEQIU"
+  },
+  {
+   "en": "Edgar Family",
+   "cn": "埃德加家族",
+   "id": "UnitKeyword_LINTON"
+  },
+  {
+   "en": "Lobotomy Corp. Headquarters",
+   "cn": "脑叶公司本部",
+   "id": "UnitKeyword_LOBOTOMY_HEAD"
+  },
+  {
+   "en": "Lobotomy Corp. Branch",
+   "cn": "脑叶公司支部",
+   "id": "UnitKeyword_LOBOTOMY_BRANCH"
+  },
+  {
+   "en": "Fixer",
+   "cn": "收尾人",
+   "id": "UnitKeyword_FIXER"
+  },
+  {
+   "en": "Syndicate",
+   "cn": "帮派",
+   "id": "UnitKeyword_CLAN"
+  },
+  {
+   "en": "Pallidified",
+   "cn": "白化",
+   "id": "UnitKeyword_WHITE_PARASITE"
+  },
+  {
+   "en": "N Corp. Fanatic",
+   "cn": "N公司狂信徒",
+   "id": "UnitKeyword_N_CORP_FNATIC"
+  },
+  {
+   "en": "The Backstreets",
+   "cn": "后巷",
+   "id": "UnitKeyword_BACK_STREET"
+  },
+  {
+   "en": "Devyat' Association",
+   "cn": "Девять协会",
+   "id": "UnitKeyword_DEVYAT"
+  },
+  {
+   "en": "La Manchaland",
+   "cn": "拉·曼却领",
+   "id": "UnitKeyword_LA_MANCHA_LAND"
+  },
+  {
+   "en": "LCE",
+   "cn": "LCE",
+   "id": "UnitKeyword_LIMBUS_COMPANY_LCE"
+  },
+  {
+   "en": "LCC",
+   "cn": "LCC",
+   "id": "UnitKeyword_LIMBUS_COMPANY_LCC"
+  },
+  {
+   "en": "LCB",
+   "cn": "LCB",
+   "id": "UnitKeyword_LIMBUS_COMPANY_LCB"
+  },
+  {
+   "en": "Heishou Pack - Mao Branch",
+   "cn": "黑兽 - 卯",
+   "id": "UnitKeyword_BLACK_BEAST_RABBIT"
+  },
+  {
+   "en": "Heishou Pack",
+   "cn": "黑兽",
+   "id": "UnitKeyword_BLACK_BEAST"
+  },
+  {
+   "en": "Heishou Pack - Si Branch",
+   "cn": "黑兽 - 巳",
+   "id": "UnitKeyword_BLACK_BEAST_SNAKE"
+  },
+  {
+   "en": "Capo IIII",
+   "cn": "指挥官IIII",
+   "id": "UnitKeyword_THUMB_LEVEL_CAPO_FOUR"
+  },
+  {
+   "en": "Soldato II",
+   "cn": "士兵II",
+   "id": "UnitKeyword_THUMB_LEVEL_SOLDATO_TWO"
+  },
+  {
+   "en": "Soldato III",
+   "cn": "士兵III",
+   "id": "UnitKeyword_THUMB_LEVEL_SOLDATO_THREE"
+  },
+  {
+   "en": "E.G.O Gear",
+   "cn": "E.G.O装备",
+   "id": "UnitKeyword_EGO_EQUIPMENT"
+  },
+  {
+   "en": "Heishou Pack Adept",
+   "cn": "黑兽 魁首",
+   "id": "UnitKeyword_BLACK_BEAST_CHIEF"
+  },
+  {
+   "en": "H Corp.",
+   "cn": "H公司",
+   "id": "UnitKeyword_H_CORP"
+  },
+  {
+   "en": "<color=#d40000><s>Jia Family</s></color>",
+   "cn": "<color=#d40000><s>贾家</s></color>",
+   "id": "UnitKeyword_FAMILY_GA_CANCELED"
+  },
+  {
+   "en": "Heishou Pack - Wu Branch",
+   "cn": "黑兽 - 午",
+   "id": "UnitKeyword_BLACK_BEAST_HORSE"
+  },
+  {
+   "en": "Heishou Pack - You Branch",
+   "cn": "黑兽 - 酉",
+   "id": "UnitKeyword_BLACK_BEAST_CHICKEN"
+  },
+  {
+   "en": "Family Hierarch",
+   "cn": "家主",
+   "id": "UnitKeyword_FAMILY_GA_HIERARCH"
+  },
+  {
+   "en": "<color=#d40000><s>Heishou Pack Adept</s></color>",
+   "cn": "<color=#d40000><s>黑兽 魁首</s></color>",
+   "id": "UnitKeyword_BLACK_BEAST_CHIEF_FORMER"
+  },
+  {
+   "en": "Night Awls",
+   "cn": "夜锥组",
+   "id": "UnitKeyword_NIGHTSTILETTO"
+  },
+  {
+   "en": "Jeong's Office",
+   "cn": "定事务所",
+   "id": "UnitKeyword_JEONG_OFFICE"
+  },
+  {
+   "en": "Associate Office - Öufi",
+   "cn": "直属事务所 - Öufi",
+   "id": "UnitKeyword_OUFI_COOP"
+  },
+  {
+   "en": "Heishou Pack - Wei Branch",
+   "cn": "黑兽 - 未",
+   "id": "UnitKeyword_BLACK_BEAST_SHEEP"
+  },
+  {
+   "en": "LCA",
+   "cn": "LCA",
+   "id": "UnitKeyword_LIMBUS_COMPANY_LCA"
+  },
+  {
+   "en": "The Oracle's Proxy",
+   "cn": "神谕代行者",
+   "id": "UnitKeyword_TRUST_AGENT"
+  },
+  {
+   "en": "Maestro",
+   "cn": "大师",
+   "id": "UnitKeyword_RING_FINGER_MAESTRO"
+  },
+  {
+   "en": "Docent",
+   "cn": "讲解员",
+   "id": "UnitKeyword_RING_FINGER_DOCENT"
+  },
+  {
+   "en": "Student",
+   "cn": "学徒",
+   "id": "UnitKeyword_RING_FINGER_STUDENT"
+  },
+  {
+   "en": "School of Fauvism",
+   "cn": "野兽派",
+   "id": "UnitKeyword_RING_FINGER_FAUVISM"
+  },
+  {
+   "en": "School of Pointillism",
+   "cn": "点彩派",
+   "id": "UnitKeyword_RING_FINGER_POINTILLISM"
+  },
+  {
+   "en": "School of Corporism",
+   "cn": "人体派",
+   "id": "UnitKeyword_RING_FINGER_PHYSICAL"
+  },
+  {
+   "en": "<s>The Fingers</s>",
+   "cn": "<s>手指</s>",
+   "id": "UnitKeyword_FINGER_CANCELED"
+  },
+  {
+   "en": "<s>The Middle</s>",
+   "cn": "<s>中指</s>",
+   "id": "UnitKeyword_MIDDLE_FINGER_CANCELED"
+  },
+  {
+   "en": "<s>The House of Spiders</s>",
+   "cn": "<s>蜘蛛巢</s>",
+   "id": "UnitKeyword_SPIDER_HOUSE_CANCELED"
+  },
+  {
+   "en": "LCE?",
+   "cn": "LCE？",
+   "id": "UnitKeyword_LIMBUS_COMPANY_LCE_UNSETTLED"
+  },
+  {
+   "en": "Dihui Star",
+   "cn": "地慧星",
+   "id": "UnitKeyword_DIHUI_STAR"
+  },
+  {
+   "en": "<color=#d40000><s>Dihui Star</s></color>",
+   "cn": "<color=#d40000><s>地慧星</s></color>",
+   "id": "UnitKeyword_DIHUI_STAR_CANCELED"
+  },
+  {
+   "en": "<color=#d40000><s>Great Sister</s></color>",
+   "cn": "<color=#d40000><s>长姊</s></color>",
+   "id": "UnitKeyword_BIG_SISTER_PAST"
+  }
+ ],
+ "异想体": [
+  {
+   "en": "Ebony Queen's Apple",
+   "cn": "黑檀女王的苹果",
+   "code": "F-04-03-04"
+  },
+  {
+   "en": "Doomsday Calendar",
+   "cn": "终末日历",
+   "code": "M-04-04-05"
+  },
+  {
+   "en": "Doomsday Calendar-A",
+   "cn": "终末日历-A",
+   "code": "M-04-04-05-a"
+  },
+  {
+   "en": "Peccatulum Gulae",
+   "cn": "暴食罪种",
+   "code": "S-08-04-01"
+  },
+  {
+   "en": "Peccatulum Pigritiae",
+   "cn": "怠惰罪种",
+   "code": "S-08-04-03"
+  },
+  {
+   "en": "Peccatulum Irae",
+   "cn": "暴怒罪种",
+   "code": "S-08-04-02"
+  },
+  {
+   "en": "Golden Apple",
+   "cn": "金苹果",
+   "code": "O-02-04-06"
+  },
+  {
+   "en": "False Apple",
+   "cn": "假苹果",
+   "code": "O-02-04-06"
+  },
+  {
+   "en": "Become Strong? Genuinely?",
+   "cn": "我变强了？真的？",
+   "code": "T-04-10-06-a"
+  },
+  {
+   "en": "Pink Shoes-A",
+   "cn": "粉红鞋-A",
+   "code": "F-04-10-13-a"
+  },
+  {
+   "en": "You Want To Get Beat? Hurtily?",
+   "cn": "你想挨打吗？很想？",
+   "code": "T-04-10-06-b"
+  },
+  {
+   "en": "Peccatulum Morositatis",
+   "cn": "忧郁罪种",
+   "code": "S-08-10-01"
+  },
+  {
+   "en": "Peccatulum Luxuriae",
+   "cn": "色欲罪种",
+   "code": "S-08-11-02"
+  },
+  {
+   "en": "Peccatulum Superbiae",
+   "cn": "傲慢罪种",
+   "code": "S-08-11-01"
+  },
+  {
+   "en": "Baba Yaga-A",
+   "cn": "芭芭雅嘎-A",
+   "code": "F-02-10-18-a"
+  },
+  {
+   "en": "Baba Yaga-B",
+   "cn": "芭芭雅嘎-B",
+   "code": "F-02-10-18-b"
+  },
+  {
+   "en": "Mimicry Corroded",
+   "cn": "拟态侵蚀者",
+   "code": "O-06-20-TE"
+  },
+  {
+   "en": "Feral Mane Corroded",
+   "cn": "兽鬃侵蚀者",
+   "code": "O-02-04-13-TE"
+  },
+  {
+   "en": "Coil Corroded",
+   "cn": "蛇手侵蚀者",
+   "code": "O-02-11-10-TE"
+  },
+  {
+   "en": "Kromer",
+   "cn": "克罗默",
+   "code": "00-00-00"
+  },
+  {
+   "en": "Kromer the Attempted Protoplast",
+   "cn": "欲成原初的克罗默",
+   "code": "??-??-??-??"
+  },
+  {
+   "en": "Headless Ichthys",
+   "cn": "断首鱼",
+   "code": "O-02-11-26"
+  },
+  {
+   "en": "Alleyway Watchdog",
+   "cn": "巷头恶犬",
+   "code": "O-02-10-11"
+  },
+  {
+   "en": "Blubbering Toad",
+   "cn": "悲泣蟾蜍",
+   "code": "T-01-23-04"
+  },
+  {
+   "en": "Kqe-1j-23",
+   "cn": "Kqe-1j-23",
+   "code": "O-05-20-02"
+  },
+  {
+   "en": "My Form Empties",
+   "cn": "无我入定",
+   "code": "M-04-04-04"
+  },
+  {
+   "en": "Feral Mane Corroded",
+   "cn": "野兽鬃毛的侵蚀者",
+   "code": "O-02-04-13-TE"
+  },
+  {
+   "en": "Headchicken a.k.a. Bongy",
+   "cn": "猎头鸡 a.k.a. 小凤",
+   "code": "O`-01-11-28-a"
+  },
+  {
+   "en": "Papa Bongy",
+   "cn": "凤老爹",
+   "code": "O`-01-11-28"
+  },
+  {
+   "en": "Spiced-up Papa Bongy",
+   "cn": "香辣凤老爹",
+   "code": "O`-01-11-28"
+  },
+  {
+   "en": "Brazen Bull - Tearful",
+   "cn": "黄铜公牛 - 流泪",
+   "code": "M-01-11-07-tear"
+  },
+  {
+   "en": "Shock Centipede",
+   "cn": "电击蜈蚣",
+   "code": "T-02-11-04"
+  },
+  {
+   "en": "Drifting Fox",
+   "cn": "流浪狐狸",
+   "code": "T-02-11-03"
+  },
+  {
+   "en": "So That No One Will Cry",
+   "cn": "因而无人哭泣",
+   "code": "T-04-11-20"
+  },
+  {
+   "en": "Fairy Gentleman",
+   "cn": "绅士精灵",
+   "code": "F-01-11-12"
+  },
+  {
+   "en": "Lobotomy E.G.O::Sunshower - Dongbaek",
+   "cn": "脑叶公司E.G.O::狐雨 - 冬柏",
+   "code": "??-??-??-??"
+  },
+  {
+   "en": "Effloresced E.G.O::Spicebush",
+   "cn": "绽放E.G.O::山茶花",
+   "code": "??-??-??-??"
+  },
+  {
+   "en": "Dongrang, Who Denies All",
+   "cn": "否定一切的东朗",
+   "code": "??-??-??-01"
+  },
+  {
+   "en": "Effloresced E.G.O::Farmwatch",
+   "cn": "绽放E.G.O::司田",
+   "code": "??-??-??-??"
+  },
+  {
+   "en": "Fairy-Long-Legs",
+   "cn": "长腿精灵",
+   "code": "F-01-11-15"
+  },
+  {
+   "en": "kqe-1j-23",
+   "cn": "Kqe-1j-23",
+   "code": "O-05-20-02"
+  },
+  {
+   "en": "Fairy Queen",
+   "cn": "精灵女王",
+   "code": "F-04-83"
+  },
+  {
+   "en": "Fairy Mass",
+   "cn": "精灵畸块",
+   "code": "F-04-83-a"
+  }
+ ],
+ "协会": []
+}

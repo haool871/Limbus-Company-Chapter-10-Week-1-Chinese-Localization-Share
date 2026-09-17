@@ -1,0 +1,768 @@
+# pattern	count	en_example	cn_example
+<TAG> Inflict <N> <TAG>	3696	[OnSucceedAttack] Inflict 2 [Sinking]	[OnSucceedAttack] 使目标增加2级沉沦 强度
+<TAG> Inflict +<N> <TAG> Count	1462	[OnSucceedAttackHead] Inflict +1 [Sinking] Count	[OnSucceedAttackHead] 对目标施加1层沉沦 
+<TAG> Inflict <N> <TAG> next turn	609	[OnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp] next turn	[OnSucceedAttack] 下回合对目标施加1层突刺易损 
+K Corp. Dept. of Food Resource Development	549	K Corp. Dept. of Food Resource Development	K公司 粮食资源改良部门
+<TAG> Gain <N> <TAG>	435	[WhenUse] Gain 2 [Breath]	[WhenUse] 使自身增加2级呼吸法 强度
+The Hierarch of Hongyuan	430	The Hierarch of Hongyuan	鸿园的家主
+<TAG> Gain +<N> <TAG> Count	428	[WhenUse] Gain +2 [Breath] Count	[WhenUse] 使自身获得2层呼吸法 
+<TAG> Inflict <N> <TAG> and +<N> <TAG> Count	356	[OnSucceedAttack] Inflict 2 [Sinking] and +1 [Sinking] Count	[OnSucceedAttack] 使目标增加2级沉沦 强度并对其施加1层沉沦 
+Post-Uptie Chat <N>	350	Post-Uptie Chat 1	同步后对话 1
+<TAG> Inflict <N> Bleed	241	[OnSucceedAttackHead] Inflict 2 Bleed	[OnSucceedAttackHead] 使目标增加2级流血 强度
+<TAG> Gain <N> <TAG> next turn	225	[OnSucceedAttack] Gain 3 [Breath] next turn	[OnSucceedAttack] 下回合使自身增加3级呼吸法 强度
+Viewed in Battle	182	Viewed in Battle	战斗中选中人格
+Extra Conditions Fulfilled	182	Extra Conditions Fulfilled	EX CLEAR战斗胜利
+Nagel und Hammer	175	Nagel und Hammer	钉与锤
+<TAG> Inflict <N> Rupture	163	[OnSucceedAttack] Inflict 1 Rupture	[OnSucceedAttack] 使目标增加1级破裂 强度
+Spend <N> <TAG>	159	Spend 1 [BulletPropellant]	消耗1发[BulletPropellant]
+<TAG> Trigger <TAG>; then, reduce target's <TAG> Count by <N>	157	[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1	[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层
+Technology Liberation Alliance	153	Technology Liberation Alliance	技术解放联盟
+Grade <N> Fixer	142	Grade 8 Fixer	8阶收尾人
+The Thumb Nursefather	137	The Thumb Nursefather	拇指 父辈
+<TAG> Deal <N> SP damage	118	[OnSucceedAttack] Deal 5 SP damage	[OnSucceedAttack] 对目标造成5点理智伤害
+R Corp. 4th Pack Reindeer	113	R Corp. 4th Pack
+Reindeer	R公司
+第四集团军
+驯鹿队
+The Index Nursefather	105	The Index Nursefather	食指 父辈
+K Corp. Laboratory	95	K Corp. Laboratory	K公司某处的实验室
+<TAG> Inflict <N> Bind next turn	95	[OnSucceedAttack] Inflict 3 Bind next turn	[OnSucceedAttack] 下回合对目标施加3层束缚 
+Kurokumo Clan Captain	94	Kurokumo Clan
+Captain	黑云会
+副会长
+W Corp. Cleanup Agent	92	W Corp. Cleanup Agent	W公司 清扫人员
+<TAG> Inflict +<N> Bleed Count	91	[OnSucceedAttack] Inflict +3 Bleed Count 	[OnSucceedAttack] 对目标施加3层流血 
+LCE Research Team	89	LCE Research Team	LCE研究组
+The Middle's Big Brother	88	The Middle's Big Brother	中指 幼兄
+<TAG> Inflict <N> Burn	88	[OnSucceedAttack] Inflict 2 Burn	[OnSucceedAttack] 使目标增加2级烧伤 强度
+N Corp. New League of Nine Littérateurs	86	N Corp. New League of Nine Littérateurs	N公司 新九人会
+League of Nine Littérateurs	84	League of Nine Littérateurs	九人会
+LCCB P-Obs. Unit <N>	83	LCCB P-Obs. Unit 3	LCCB 事前观测 3科
+Zwei Section <N>	82	Zwei Section 4	Zwei协会 4科
+Dawn Office Fixer	81	Dawn Office
+Fixer	黎明事务所
+收尾人
+Heishou Pack - Si Branch	81	Heishou Pack - Si Branch	黑兽 - 巳
+<TAG> Gain +<N> Charge Count	79	[OnSucceedAttackHead] Gain +4 Charge Count	[OnSucceedAttackHead] 使自身获得4层充能 
+District <N> Yurodivy	78	District 20
+Yurodivy	20区
+圣愚
+Devyat' North Section <N>	78	Devyat' North Section 3	Девять协会 北部3科
+The House of Spiders	77	The House of Spiders	蜘蛛巢
+Cinq East Section <N>	77	Cinq East
+Section 3	Cinq协会 东部3科
+Welfare Team Agent	76	Welfare Team Agent	福利部 员工
+<TAG> Trigger <TAG> into <TAG>	75	[UnBrokenCoinOnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]	[UnBrokenCoinOnSucceedAttack] 使目标[Switch_Vibration]为[VibrationIgnition]
+<TAG> Inflict +<N> Rupture Count	72	[OnSucceedAttack] Inflict +1 Rupture Count	[OnSucceedAttack] 对目标施加1层破裂 
+The Index Apprentice	70	The Index Apprentice	食指 子辈
+A Distant World	70	A Distant World	另一个世界
+The Ring Nursefather	69	The Ring Nursefather	环指 父辈
+<TAG> Trigger <TAG>	69	[OnSucceedAttack] Trigger [VibrationExplosion]	[OnSucceedAttack] 使目标震颤引爆 
+<TAG> Inflict <N> Paralyze next turn	67	[OnSucceedAttack] Inflict 1 Paralyze next turn	[OnSucceedAttack] 下回合对目标施加1层麻痹 
+Blade Lineage Salsu	66	Blade Lineage
+Salsu	剑契组
+杀手
+Heishou Pack - Mao Branch	66	Heishou Pack - Mao Branch	黑兽 - 卯
+LCE Research Team Chief	66	LCE Research Team Chief	LCE研究组 首席
+Who will step forth	61	Who will step forth?	让哪位罪人上前？
+<TAG> Inflict <TAG>	60	[OnSucceedAttack] Inflict [DuelDeclaration_DonQuixote]	[OnSucceedAttack] 对目标施加决斗宣告-堂吉诃德 
+Class <N> Collection Staff	60	Class 2 Collection Staff	2级征收人员
+The Middle Nursefather	59	The Middle Nursefather	中指 父辈
+The Ring Fauvist Docent	59	The Ring Fauvist
+Docent	环指 野兽派
+讲解员
+LCA Vanguard Team <N>	59	LCA Vanguard Team 3	LCA 先锋三队
+Eunbong’s Bar & Fryers	58	Eunbong’s Bar & Fryers	Eunbong’s Bar & Fryers
+<TAG> Inflict <N> Sinking	58	[OnSucceedAttack] Inflict 4 Sinking	[OnSucceedAttack] 使目标增加4级沉沦 强度
+Night Awls Capitano	57	Night Awls Capitano	夜锥组
+队长
+<TAG> Deal <N> Blunt bonus damage	57	[OnSucceedAttack] Deal 3 Blunt bonus damage	[OnSucceedAttack] 对目标额外造成3点打击伤害
+The Barber of La Manchaland	56	The Barber
+of La Manchaland	拉·曼却领
+理发师
++<N>% Damage on Critical Hit	56	+30% Damage on Critical Hit	使本技能暴击时造成的伤害+30%
+Fleeting moments from any point within the Sinner’s lifetime, condensed into physical form. The shards float in the air. Possibilities are transient things; they drift in the realm of uncertainty unless seized	54	Fleeting moments from any point within the Sinner’s lifetime, condensed into physical form. The shards float in the air.
+Possibilities are transient t	将罪人们的“某一刻”具象化的碎片。其腾空飘浮。
+若不抓住那股可能性，它们最终只会随风而逝。
+No Acquisition Records - Shops - 「Fuse E.G.O Gift」	54	No Acquisition Records
+
+<Unlock Conditions>
+- Shops - 「Fuse E.G.O Gift」	暂无获取记录
+
+
+<获取条件>
+- 商店“E.G.O饰品合成”
+Safety Team Captain	53	Safety Team Captain	安保部 队长
+Control Team Captain	52	Control Team Captain	控制部队长
+The Manager of La Manchaland	52	The Manager
+of La Manchaland	拉·曼却领
+总督
+<TAG> Inflict <N> Tremor	52	[OnSucceedAttackHead] Inflict 3 Tremor	[OnSucceedAttackHead] 使目标增加3级震颤 强度
+Welfare Team Captain	51	Welfare Team Captain	福利部队长
+<TAG> Inflict <N> <TAG> next turn (once per turn)	51	[OnSucceedAttackHead] Inflict 2 [Binding] next turn (once per turn)<style="highlight"></style>	[OnSucceedAttackHead] 下回合对目标施加2层[Binding](每回合最多1次)<style="highlight"></style>
+Heishou Pack - Wei Branch	50	Heishou Pack -
+Wei Branch	黑兽 - 未
+The Thumb's Capo ⅠⅠⅠⅠ	50	The Thumb's Capo ⅠⅠⅠⅠ	拇指 指挥官ⅠⅠⅠⅠ
+<TAG> Raise Stagger Threshold by <N>% of damage dealt	50	[OnSucceedAttack] Raise Stagger Threshold by 10% of damage dealt	[OnSucceedAttack] 使目标的混乱阈值前移本硬币伤害量的10%
+Eunbong’s Bar & Fryers Owner	50	Eunbong’s Bar & Fryers Owner?	银凤炸鸡酒吧 店长？
+Man Tied to a Chair	50	Man Tied to a Chair	被绑在椅子上的人
+Liu Section <N>	50	Liu Section 6	六协会 6科
+<TAG> Heal <N> SP	49	[WinDuel] Heal 5 SP	[WinDuel] 使自身恢复5点理智值
+The Indigo Elder	48	The Indigo Elder	靛蓝老人
+The Ring Apprentice	47	The Ring Apprentice	环指 子辈
+<TAG> Targets randomly	47	[CantIdentify]
+Targets randomly	[CantIdentify]
+随机指定目标
+Inflict <N> <TAG> Potency and +<N> <TAG> Count	46	Inflict 3 [Vibration] Potency and +3 [Vibration] Count	增加3级[Vibration]强度并施加3层[Vibration]
+<TAG> Inflict <N> Fragile next turn	46	[OnSucceedAttackTail] Inflict 1 Fragile next turn	[OnSucceedAttackTail] 下回合对目标施加1层易损 
+<TAG> If target has <N>+ <TAG>, Coin Power +<N>	46	[WhenUse] If target has 6+ [Laceration], Coin Power +1	[WhenUse] 若目标的[Laceration]强度不低于6级，则使本技能的硬币威力+1
+Time Ripper's Fathoms	45	Time Ripper's Fathoms	时间杀人魔的心象
+<TAG> Gain <N> <TAG> next turn (once per turn)	45	[WhenUse] Gain 1 [Enhancement] next turn (once per turn)	[WhenUse] 下回合使自身获得1层[Enhancement](每回合最多1层)
+The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive	44	The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over h	指令会以多种形式被传达，其传达的形式会被单向地选择并确定，类似于神谕。
+In the shimmering fathoms of ego, A painfully pale nightly trail unfolds before us	44	In the shimmering fathoms of ego,
+A painfully pale nightly trail unfolds before us.	在摇曳的心象之中，
+看到了近乎冻结的苍蓝的夜之街道。
+Bamboo-hatted Kim's Fathoms	44	Bamboo-hatted Kim's Fathoms	金笠的心象
+Inflict <N> <TAG> Potency	44	Inflict 2 [Combustion] Potency	增加2级[Combustion]强度
+Dead Rabbits Boss	43	Dead Rabbits Boss	死兔帮 老大
+Obtained at Season <N> Free Pass Level <N>	43	Obtained at Season 1 Free Pass Level 1	第1赛季 方向 达到等级1的免费通行证奖励
+Shade of Reflection <TAG>	42	Shade of Reflection [Rouge]	映射[红色]
+Identity Growth Pack	42	Identity Growth Pack	人格养成组合包
+<TAG> Gain <N> <TAG> and +<N> <TAG> Count	42	[WhenUse] Gain 6 [Sinking] and +3 [Sinking] Count	[WhenUse] 使自身增加6级沉沦 强度并对自身施加3层沉沦 
+The Middle Apprentice	41	The Middle Apprentice	中指 子辈
+Heishou Pack - Mao Branch Adept	41	Heishou Pack -
+Mao Branch Adept	黑兽 - 卯 魁首
+No particular effect	40	No particular effect	无特殊效果
+Target Extraction Pack	40	Target Extraction Pack	特别提取组合包
+<TAG> Target loses <N> SP	40	[WinDuel] Target loses 3 SP	[WinDuel] 使目标失去3点理智值
+Dieci Section <N>	40	Dieci Section 4	Dieci协会 4科
+T Corp. Gang	40	T Corp. Gang	T公司黑帮
+The Thumb Apprentice	39	The Thumb Apprentice	拇指 子辈
+<TAG> Inflict <N> Bleed next turn	39	[OnSucceedAttack] Inflict 5 Bleed next turn	[OnSucceedAttack] 下回合使目标增加5级流血 强度
+<TAG> Trigger Tremor Burst	39	[OnSucceedAttack] Trigger Tremor Burst	[OnSucceedAttack] 使目标震颤引爆 
+Gain <N> <TAG>	38	Gain 3 [AttackDmgUp]	获得3层[AttackDmgUp]
+If target has <N>+ <TAG>, Coin Power +<N>	38	If target has 4+ [Sinking], Coin Power +1	若目标的[Sinking]强度不低于4级，则使本技能的硬币威力+1
+District <N> Backstreets	38	District 20 Backstreets	20区 后巷
+Seven Section <N>	38	Seven Section 6	Seven协会 6科
+The Index Proselyte	37	The Index Proselyte	食指 苦行者
+The Priest of La Manchaland	37	The Priest
+of La Manchaland	拉·曼却领
+神父
+<TAG> Inflict <N> Paralyze	37	[OnSucceedAttack] Inflict 3 Paralyze	[OnSucceedAttack] 对目标施加3层麻痹 
+Zwei West Section <N>	37	Zwei West Section 3	Zwei协会 西部3科
+Captain of the Pequod	36	Captain of the Pequod	裴廓德号的船长
+<TAG> Raise Stagger Threshold by <N>	36	[UnBrokenCoinOnSucceedAttack] Raise Stagger Threshold by 30	[UnBrokenCoinOnSucceedAttack] 使目标的混乱阈值前移30
+Safety Team Agent	36	Safety Team Agent	安保部 员工
+Shi East Section <N>	36	Shi East Section 3	し协会 东部3科
+Cinq Section <N> Director	36	Cinq Section 5 Director	Cinq协会 5科 科长
+Dawn Office Rep	35	Dawn Office Rep	黎明事务所
+代表
+<TAG> Inflict + <N> <TAG> Count	35	[OnSucceedAttack] Inflict +<style="highlight">3</style> [Sinking] Count	[OnSucceedAttack] 对目标施加<style="highlight">3</style>层[Sinking]
+LCCA Team Leader	35	LCCA Team Leader	LCCA队长
+The Princess of La Manchaland	34	The Princess
+of La Manchaland	拉·曼却领
+公主
+N Corp. Mittelhammer	33	N Corp.
+Mittelhammer	N公司
+中锤
+Event Bonus Units	32	Event Bonus Units	活动加成角色
+Heishou Pack - You Branch	32	Heishou Pack -
+You Branch	黑兽 - 酉
+<TAG> Gain +<N> Poise Count	32	[OnSucceedAttack] Gain +1 Poise Count	[OnSucceedAttack] 使自身获得1层呼吸法 
+R Corp. 4th Pack	32	R Corp. 4th Pack	R公司 第四集团军
+The One Who Grips	31	The One Who Grips	执柄者
+<TAG> Heal <N> SP on self	31	[OnSucceedAttack] Heal 10 SP on self	[OnSucceedAttack] 使自身恢复10点理智值
+<TAG> Inflict <N> <TAG> and <N> <TAG>	31	[OnSucceedAttack] Inflict 3 [Laceration] and 3 [Burst]	[OnSucceedAttack] 使目标增加3级[Laceration]强度与3级[Burst]强度
+Öufi Assoc. Director	30	Öufi Assoc. Director	Öufi协会收尾人 科长
+Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air. Possibilities are transient things; they drift in the realm of uncertainty unless seized	30	Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.
+Possibilities are transient things; th	将罪人们的“某一刻”具象化的碎片。其腾空飘浮。
+若不抓住那股可能性，它们最终只会随风而逝。
+<TAG> If target has <N>+ <TAG>, deal +<N>% damage	30	[ReUseOnSucceedAttackHead] If target has 10+ [Laceration], deal +50% damage	[ReUseOnSucceedAttackHead] 若目标的[Laceration]强度不低于10级，则使本硬币造成的伤害+50%
+Heishou Pack - You Branch Adept	29	Heishou Pack -
+You Branch Adept	黑兽 - 酉 魁首
+<TAG> Heal by <N>% of damage dealt	29	[OnSucceedAttackHead] Heal by 30% of damage dealt	[OnSucceedAttackHead] 使自身恢复本硬币伤害量30%的体力
+<TAG> Inflict +<N> Sinking Count	29	[OnSucceedAttack] Inflict +3 Sinking Count	[OnSucceedAttack] 对目标施加3层沉沦 
+G Corp. Remnant	29	G Corp. Remnant	没落的G公司
+Cinq Section <N>	29	Cinq Section 4	Cinq协会 4科
+Twinhook Pirates First Mate	28	Twinhook Pirates
+First Mate	双钩海盗团
+大副
+Jeong's Office Rep	28	Jeong's Office Rep	定事务所
+代表
+<TAG> If target has <N>+ <TAG>, Clash Power +<N>	28	[WhenUse] If target has 5+ [Vibration], Clash Power +1	[WhenUse] 若目标的[Vibration]强度不低于5级，则使本技能的拼点威力+1
+A waft of something crisp and well-roasted tickles the nose	27	A waft of something crisp and well-roasted tickles the nose.	不知从何处飘来了炸物的香气。
+Following a Crispy Scent	27	Following a Crispy Scent	追随着炸物的香气
+Deal +<N>% damage	27	Deal +10% damage	造成的伤害+10%
+4th Match Flame	27	4th Match Flame	第四根火柴之焰
+<TAG> Heal <N> HP	27	[OnSucceedAttackHead] Heal 1 HP	[OnSucceedAttackHead] 使自身恢复1点体力
+<TAG> Inflict <N> Rupture next turn	27	[OnSucceedAttack] Inflict 1 Rupture next turn	[OnSucceedAttack] 下回合使目标增加1级破裂 强度
+LCE Research Team Hallway	27	LCE Research Team Hallway	LCE研究组 走廊
+The Middle's Big Sister	26	The Middle's Big Sister	中指 幼姊
+(<N>, FAILURE), (<N>, FAILURE), (<N>, FAILURE), (<N>, FAILURE)	25	(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)	(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)
+Select to gain a Keywordless E.G.O Gift	25	Select to gain a Keywordless E.G.O Gift	选择后，获得1件泛用E.G.O饰品
+J Corp. Casino	25	J Corp. Casino	J公司 赌场
+Daguanyuan - Special Lecture Hall	25	Daguanyuan - Special Lecture Hall	大观园 特殊教室
+Obtained at Season <N> Limbus Pass Level <N>	25	Obtained at Season 1 Limbus Pass Level 60	第1赛季 方向 达到等级60的边狱通行证奖励
+(<N>, VERY_HIGH), (<N>, VERY_HIGH), (<N>, VERY_HIGH), (<N>, VERY_HIGH)	24	(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)	(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)
+(<N>, HIGH), (<N>, HIGH), (<N>, HIGH), (<N>, HIGH)	24	(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) 	(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) 
+(<N>, NORMAL), (<N>, NORMAL), (<N>, NORMAL), (<N>, NORMAL)	24	(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)	(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)
+(<N>, LOW), (<N>, LOW), (<N>, LOW), (<N>, LOW)	24	(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)	(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)
+(<N>, VERY_LOW), (<N>, VERY_LOW), (<N>, VERY_LOW), (<N>, VERY_LOW)	24	(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) 	(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) 
+(<N>, SUCCESS), (<N>, SUCCESS), (<N>, SUCCESS), (<N>, SUCCESS)	24	(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)	(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)
+Max HP +<N>%	24	Max HP +20%	体力上限增加20%
+Offense Level +<N>, Defense Level +<N>, Max HP +<N>%, Damage Dealt +<N>%, Boss Max HP +<N>%	24	Offense Level +10, Defense Level +5, Max HP +40%, Damage Dealt +15%, Boss Max HP +30%	攻击等级+10，防御等级+5，体力上限+40%，造成的伤害+15%，头目遭遇战体力上限+30%
+#<N> Deployment Effect	24	#1 Deployment Effect	第1顺位效果
+Blossoming League of Nine Littérateurs	24	Blossoming League of Nine Littérateurs	绽放的九人会
+LCCB Assistant Manager	24	LCCB
+Assistant Manager	LCCB
+系长
+N Corp. Großhammer	24	N Corp.
+Großhammer	N公司
+大锤
+District <N> Resident	24	District 14 Resident	14区的居民
+We reached the next floor. All around us were torture devices, bits of flesh, gore, and dying townsfolk succumbing to pain. The least bearable of all is the periodic whistling	23	We reached the next floor. All around us were torture devices, bits of flesh, gore, and dying townsfolk succumbing to pain. The least bearable of all 	我们到达了下一层。到处都能看见审判官们造出的拷问器具和肉块，还有无法承受痛苦而逐渐死去的卡尔夫镇的居民们。最难以忍受的是时不时传来的不知何人的口哨声。
+The Ring Pointillist Student	23	The Ring Pointillist
+Student	环指 点彩派
+学徒
+<TAG> Inflict <N> Offense Level Down	23	[OnSucceedAttack] Inflict 5 Offense Level Down	[OnSucceedAttack] 对目标施加5层攻击等级降低 
+If target has <TAG>, deal +<N>% damage	23	If target has [BurstAgility], deal +50% damage	若目标带有[BurstAgility]，则使本硬币造成的伤害+50%
+Öufi South Section <N>	23	Öufi South Section 3	Öufi协会 3科
+A Certain Every World	23	A Certain Every World	某个所有世界
+Gain +<N> <TAG> Count	22	Gain +3 [Vibration] Count	施加3层[Vibration]
+<TAG> The final Coin deals +<N>% damage	22	[OnSucceedAttackHead] The final Coin deals +5% damage	[OnSucceedAttackHead] 使本技能最后一枚硬币造成的伤害+5%
+<TAG> Inflict <N> <TAG> this turn and next turn	22	[OnSucceedAttack] Inflict 1 [Vulnerable] this turn and next turn	[OnSucceedAttack] 本回合与下回合对目标施加1层[Vulnerable]
+Deal +<N>% Damage on Critical Hit	22	Deal +50% Damage on Critical Hit	使本硬币暴击时造成的伤害+50%
+The Index Messenger	22	The Index Messenger	食指 传令员
+The Master of Hongyuan	22	The Master of Hongyuan	鸿园之主
+So That No One Will Cry	21	So That No One Will Cry	因而无人哭泣
+Portrait of a Certain Day	21	Portrait of a Certain Day	某日的肖像
+Hurting Teddy Bear	21	Hurting Teddy Bear	痛苦泰迪
+Gain <N> <TAG> Potency and +<N> <TAG> Count	21	Gain 2 [Breath] Potency and +2 [Breath] Count	增加2级[Breath]强度并获得2层[Breath]
+<TAG> Inflict <N> Defense Power Down	21	[WinDuel] Inflict 3 Defense Power Down	[WinDuel] 对目标施加3层破绽 
+Left State Councilor	21	Left State Councilor	左议政
+Hair Coupon Thief	21	Hair Coupon Thief	理发券小偷
+J Corp. Resident	21	J Corp. Resident	J公司居民
+Offense Level +<N>, Max HP +<N>%, Damage Dealt +<N>%	20	Offense Level +4, Max HP +10%, Damage Dealt +5%	攻击等级+4，体力上限+10%，造成的伤害+5%
+Offense Level +<N>, Defense Level +<N>, Max HP +<N>%, Damage Dealt +<N>%	20	Offense Level +3, Defense Level +3, Max HP +7.5%, Damage Dealt +5%	攻击等级+3，防御等级+3，体力上限+7.5%，造成的伤害+5%
+Tier <N> + Tier <N> + Tier <N> => Tier <N>	20	Tier 1 + Tier 1 + Tier 1 => Tier 1	1级 + 1级 + 1级 => 1级
+Deal +<N>% damage on Critical Hit	20	Deal +70% damage on Critical Hit	使本硬币暴击时造成的伤害+70%
+<TAG> Gain <N> Haste next turn	20	[WinDuel] Gain 2 Haste next turn	[WinDuel] 下回合使自身获得2层迅捷 
+<TAG> If this unit has <TAG>, inflict <N> <TAG>	20	[UnBrokenCoinOnSucceedAttack] If this unit has [ReinforcedTattooSpider], inflict 2 [Paralysis]	[UnBrokenCoinOnSucceedAttack] 若自身带有[ReinforcedTattooSpider]，则对目标施加2层[Paralysis]
+<TAG> Lower user's Stagger Threshold by <N>	20	[OnSucceedAttack] Lower user's Stagger Threshold by 10	[OnSucceedAttack] 使自身的混乱阈值后移10
+District <N> - LC Branch Interior	20	District 4 - LC Branch Interior	4区 脑叶公司支部内某处
+Dieci Section <N> Director	20	Dieci Section 4 Director	Dieci协会 4科 科长
+You Want To Get Beat? Hurtily	19	You Want To Get Beat? Hurtily?	你想挨打吗？很想？
+Gain <N> <TAG> and <N> <TAG>	19	Gain 2 [AttackUp] and 2 [DefenseUp]	获得2层[AttackUp]与2层[DefenseUp]
+<TAG> If target has <N>+ <TAG>, Base Power +<N>	19	[WhenUse] If target has 4+ [Laceration], Base Power +2	[WhenUse] 若目标的[Laceration]强度不低于4级，则使本技能的基础威力+2
+<TAG> Inflict +<N> Tremor Count	19	[OnSucceedAttackHead] Inflict +2 Tremor Count	[OnSucceedAttackHead] 对目标施加2层震颤 
+Welfare Team Clerk	19	Welfare Team Clerk	福利部 文职人员
+Ardor Blossom Moth	18	Ardor Blossom Moth	红焰蛾
+Spiral of Contempt	18	Spiral of Contempt	轻蔑螺旋
+Offense Level +<N>, Defense Level +<N>, Max HP +<N>%	18	Offense Level +2, Defense Level +2, Max HP +5%	攻击等级 +2，防御等级 +2，体力上限 +5%
+Defense Level +<N>, Max HP +<N>%	18	Defense Level +3, Max HP +22.5%	防御等级 +3，体力上限 +22.5%
+To Claim Their Bones	18	To Claim Their Bones!	骨断！
+Defense Line <N>-<N> - <N> Hours	18	Defense Line 23-7 - 1100 Hours	第23-7 防线 11:00
+<TAG> Deal +<N>% damage	18	[Encounters]
+Deal +2.5% damage	[战斗]
+造成伤害量 +2.5%
+<TAG> Coin Power +<N> for every <N> <TAG> on target (max <N>)	18	[WhenUse] Coin Power +1 for every 4 [Laceration] on target (max 2)	[WhenUse] 目标的[Laceration]强度每有4级，使本技能的硬币威力+1(最多+2)
+<TAG> Inflict <N> random <TAG>	18	[OnSucceedAttack] Inflict 3 random [SinkingWhite]<style="highlight"></style>	[OnSucceedAttack] 随机对目标施加3点[SinkingWhite]<style="highlight"></style>
+<TAG> Inflict <TAG> equal to <TAG> spent	18	[OnSucceedAttack] Inflict [SinkingWhite] equal to [BulletLament] spent	[OnSucceedAttack] 根据消耗的[BulletLament]点数对目标施加相应点数的[SinkingWhite]
+<TAG> Inflict <N> <TAG> (<N> times per turn)	18	[OnSucceedAttack] Inflict 1 [Vibration] (2 times per turn)<style="highlight"></style>	[OnSucceedAttack] 使目标增加1级[Vibration]强度(每回合最多2次)<style="highlight"></style>
+Mysterious Transfer Student	18	Mysterious Transfer Student	不可思议的转校生
+Some time later	18	Some time later...	不久之后……
+LCE Research Team Lab. Unit	18	LCE Research Team Lab. Unit	LCE研究组 实验楼
+Cinq West Section <N>	18	Cinq West
+Section 3	Cinq协会 西部3科
+Bamboo-hatted Kim's Past <N>	17	Bamboo-hatted Kim's Past 1	金笠的过去 1
+Dreaming Electric Sheep	17	Dreaming Electric Sheep	梦中的电子羊
+Ardor Blossom Star	17	Ardor Blossom Star	红艳煞
+Canto VIII Battle <N>	17	Canto VIII Battle 01	Canto VIII Battle 01
+Blade Lineage Mentor	17	Blade Lineage Mentor	剑契组 头领
+<TAG> If target has <TAG>, inflict +<N> <TAG> Count	17	[OnSucceedAttack] If target has [Talisman], inflict +3 [Burst] Count	[OnSucceedAttack] 若目标带有[Talisman]，则对目标施加3层破裂 
+<TAG> Reduce <TAG> on target by <N>	17	[OnSucceedAttack] Reduce [RicardoBookRaid] on target by 5	[OnSucceedAttack] 使目标的[RicardoBookRaid]层数减少5层
+<TAG> Gain <N> Poise	17	[WhenUse] Gain 5 Poise	[WhenUse] 使自身增加5级呼吸法 强度
+<TAG> Inflict <N> N Corp’s Nails next turn	17	[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn	[OnSucceedAttack] 下回合对目标施加1层N公司的尖钉 
+<TAG> Gain + <N> <TAG> Count	17	[OnSucceedAttack] Gain +<style="highlight">2</style> [Breath] Count	[OnSucceedAttack] 使自身获得<style="highlight">2</style>层[Breath]
+Backstreets of District <N>	17	Backstreets of District 21	21区 后巷某处
+Mirror Dungeon of the Fathoms	17	Mirror Dungeon of the Fathoms	心象镜像迷宫
+Cabins of Mephistopheles	17	Cabins of Mephistopheles	梅菲斯托费勒斯 船舱
+Shi Section <N>	17	Shi Section 5	し协会 5科
+Who will speak	16	Who will speak?	让哪位罪人发言？
+Dongrang, Who Denies All	16	Dongrang, Who Denies All	否定一切的东朗
+Deal more damage	16	Deal more damage	造成的伤害增加
+Offense Level +<N>, Max HP +<N>%	16	Offense Level +3, Max HP +5%	攻击等级+3，体力上限+5%
+Final Power +<N>, Max HP +<N>%	16	Final Power +1, Max HP +5%	技能最终威力+1，体力上限+5%
+Offense Level +<N>	16	Offense Level +1	攻击等级 +1
+Clash Power +<N>, Offense Level +<N>, Defense Level +<N>, Max HP +<N>%, Damage Dealt +<N>%, Boss Max HP +<N>%	16	Clash Power +1, Offense Level +8, Defense Level +3, Max HP +40%, Damage Dealt +10%, Boss Max HP +30%	拼点威力+1，攻击等级+8，防御等级+3，体力上限+40%，造成的伤害+10%，头目遭遇战体力上限+30%
+<TAG> Inflict <N> Nails	16	[OnSucceedAttack] Inflict 3 Nails	[OnSucceedAttack] 对目标施加3层尖钉 
+<TAG> Inflict <N> Pallid Noise	16	[OnSucceedAttackHead] Inflict 1 Pallid Noise	[OnSucceedAttackHead] 对目标施加1层苍白的噪音 
+<TAG> Deal -<N>% damage and damage dealt by this Skill cannot Stagger the target	16	[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target	[DefeatDuel] 使本技能造成的伤害-80%，且本技能造成的伤害不会使目标陷入混乱
+<TAG> Gain <N> <TAG> next turn (once per Skill)	16	[OnSucceedAttack] Gain 1 [AttackDmgUp] next turn (once per Skill)	[OnSucceedAttack] 下回合使自身获得1层[AttackDmgUp](每个技能最多1次)
+<TAG> If target has <TAG>, heal <N> SP	16	[EnemyKill] If target has [FreezingDOQ], heal 20 SP	[EnemyKill] 若目标带有[FreezingDOQ]，则使自身恢复20点理智值
+<TAG> Inflict <N> Blooming	16	[OnSucceedAttack] Inflict 1 Blooming	[OnSucceedAttack] 对目标施加1层开花 
+<TAG> If target has <TAG>, inflict <N> <TAG>	16	[OnSucceedAttack] If target has [Laceration], inflict 5 [Combustion]	[OnSucceedAttack] 若目标带有[Laceration]，则使其增加5级[Combustion]强度
+Deal +<N>% damage for every type of negative effect on target (max <N>%)	16	Deal +25% damage for every type of negative effect on target (max 125%)	目标每带有1种负面状态，使本硬币造成的伤害+25%(最多+125%)
+<TAG> Gain +<N> Tremor Count	16	[OnSucceedAttack] Gain +3 Tremor Count	[OnSucceedAttack] 对自身施加3层震颤 
+Aboard Mephistopheles's Deck	16	Aboard Mephistopheles's Deck	梅菲斯托费勒斯 甲板
+Central Command Sephirah	16	Central Command Sephirah	中央本部 Sephirah
+Liu Section <N> Director	16	Liu Section 4 Director	六协会 4科 科长
+My Form Empties	15	My Form Empties	无我入定
+<TAG> loses <VAR> HP	15	<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>	<color=#ebcaa2>[{0}]</color><color=#e30000>失去了{1}点体力</color>
+The King in Binds	15	The King in Binds	受缚之王
+N Corp. Cubic Room	15	N Corp. Cubic Room	N公司的四方形房间
+I'll Go fer Scissors. How 'Bout You	15	I'll Go fer Scissors. How 'Bout You?	我出剪刀，你呢？
+The Pinky Nursefather	15	The Pinky Nursefather	小指 父辈
+K Corp. Class <N> Excision Staff	15	K Corp. Class 3 Excision Staff	K公司3级摘除人员
+Canto VII Battle <N>	15	Canto VII Battle 01	Canto VII Battle 01
+<TAG> Gain <N> Attack Power Up next turn	15	[WinDuel] Gain 2 Attack Power Up next turn	[WinDuel] 下回合使自身获得2层强壮 
+<TAG> Inflict +<N> Burn Count	15	[OnSucceedAttack] Inflict +3 Burn Count	[OnSucceedAttack] 对目标施加3层烧伤 
+<TAG> Gain <N> Protection	15	[WhenUse] Gain 1 Protection	[WhenUse] 使自身获得1层守护 
+<TAG> Lower user’s Stagger Threshold by <N>% of damage dealt	15	[OnSucceedAttack] Lower user’s Stagger Threshold by 50% of damage dealt	[OnSucceedAttack] 使自身的混乱阈值后移本硬币伤害量的50%
+<TAG> Inflict <N> Defense Level Down next turn	15	[OnSucceedAttack] Inflict 2 Defense Level Down next turn	[OnSucceedAttack] 下回合对目标施加2层防御等级降低 
+<TAG> Activate <TAG> on target once. Target loses <N> <TAG> Count	15	[OnSucceedAttack] Activate [Laceration] on target once. Target loses 1 [Laceration] Count	[OnSucceedAttack] 触发目标的[Laceration]1次，并使其[Laceration]层数减少1层
+<TAG> Trigger <TAG> <N> times; then, reduce target's <TAG> Count by <N>	15	[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2	[UnBrokenCoinOnSucceedAttack] 使目标[VibrationExplosion]2次，并使其[Vibration]层数减少2层
+<TAG> Inflict <TAG> equal to <TAG> on target	15	[OnSucceedAttack] Inflict [Laceration] equal to [Burst] on target	[OnSucceedAttack] 使目标增加相当于其[Burst]强度的[Laceration]强度
+This Coin deals damage only against the main target	15	This Coin deals damage only against the main target	本硬币仅对主要目标造成伤害
+K Corp. Checkpoint	15	K Corp. Checkpoint	K公司 检查站
+Fathoms of Ego - Maze	15	Fathoms of Ego - Maze	自我心道 - 迷宫
+Bodhisattva Chicken’s Manager	15	Bodhisattva Chicken’s Manager	菩萨鸡 老板
+The Lord of Flies	15	The Lord of Flies.	苍蝇之王。
+J Corp. Pawnshop	15	J Corp. Pawnshop	J公司 当铺
+Refraction Railway Line <N>	15	Refraction Railway Line 5	折射轨道5号线
+The <TAG>'s open duration is shown here	15	The [Gift Exchange]'s open duration is shown here.	此处显示了[交换礼物]的开放时间。
+Sleeping Bag of a Bygone Day	14	Sleeping Bag of a Bygone Day	往昔的睡袋
+사용 안하는 텍스트	14	사용 안하는 텍스트	사용 안하는 텍스트
+Withering League of Nine Littérateurs	14	Withering League of Nine Littérateurs	逐渐枯萎的九人会
+Rowdy League of Nine Littérateurs	14	Rowdy League of Nine Littérateurs	变得嘈杂的九人会
+Turn Start: gain <N> <TAG> and <N> <TAG>	14	Turn Start: gain 1 [Agility] and 1 [SkillPowerUp].	回合开始时，获得1层[Agility]与1层基础威力提升 
+Great Trichiliocosm <TAG>	14	Great Trichiliocosm [三千大世界]	三千大世界
+E.G.O Upgrade Pack	14	E.G.O Upgrade Pack	E.G.O成长组合包
+Canto IV Battle <N>	14	Canto IV Battle 01	Canto IV Battle 01
+If target has <N>+ <TAG>, deal +<N>% damage	14	If target has 7+ [Laceration], deal +20% damage	若目标的[Laceration]强度不低于7级，则使本技能造成的伤害+20%
+<TAG> Lose <N> SP	14	[WhenUse] Lose 7 SP	[WhenUse] 使自身失去7点理智值
+Deal +<N>% damage for every <TAG> on target (max <N>%)	14	Deal +10% damage for every [DrunkBlood] on target (max 50%)	目标每带有1层[DrunkBlood]，使本硬币造成的伤害+10%(最多+50%)
+<TAG> Heal <N> SP for <N> allies with the least SP	14	[EndSkill] Heal 12 SP for 4 allies with the least SP	[EndSkill] 使理智值最低的4名友方单位恢复12点理智值
+<TAG> Inflict <TAG> equal to <TAG>	14	[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]	[OnSucceedAttack] 根据自身带有的[FreischutzShotCount]层数，使目标增加相应的[Combustion]强度
+<TAG> Clash Power +<N> for every type of negative effect on target (max <N>)	14	[WhenUse] Clash Power +2 for every type of negative effect on target (max 6)	[WhenUse] 目标每带有1种负面状态，使本技能的拼点威力+2(最多+6)
+U Corp.'s Marlin Portship	14	U Corp.'s Marlin Portship	U公司 马林鱼港船
+Some Backstreets of District <N>	14	Some Backstreets of District 4	4区 后巷某处
+Decrepit G Corp. Head Manager	14	Decrepit G Corp. Head Manager	衰老的旧G公司部长
+Man with Red Eyes	14	Man with Red Eyes	红眼之人
+Ebony Queen's Apple	13	Ebony Queen's Apple	黑檀女王的苹果
+Will You Play	13	Will You Play?	玩吗？
+Gain an E.G.O Gift	13	Gain an E.G.O Gift	获得E.G.O饰品
+We must defeat the ruthless cyborgs singing with jolly voices to make it through here	13	We must defeat the ruthless cyborgs singing with jolly voices to make it through here.	我们必须得把这些唱着欢乐歌谣，可实则冷酷无情的改造人打倒，这样才能通过这里。
+Canto IX Battle <N>	13	Canto IX Battle 01	Canto IX Battle 01
+Blade of the House of Spiders	13	Blade of the House of Spiders	蜘蛛巢之刃
+The Pinky Apprentice	13	The Pinky Apprentice	小指 子辈
+<TAG> Inflict <N> Fragile	13	[OnSucceedAttackHead] Inflict 2 Fragile	[OnSucceedAttackHead] 对目标施加2层易损 
+<TAG> Inflict +<N> <TAG> Count next turn	13	[OnSucceedAttack] Inflict +2 [Sinking] Count next turn	[OnSucceedAttack] 下回合对目标施加2层沉沦 
+<TAG> Inflict <N> <TAG> and <N> <TAG> next turn	13	[OnSucceedAttack] Inflict 2 [Binding] and 2 [Reduction] next turn	[OnSucceedAttack] 下回合对目标施加2层[Binding]与2层[Reduction]
+<TAG> Gain <N> <TAG> (once per turn)	13	[OnSucceedAttackHead] Gain 3 [AttackUp] (once per turn)	[OnSucceedAttackHead] 使自身获得3层[AttackUp](每回合最多1次)
+<TAG> Inflict <N> Attack Power Down next turn	13	[OnSucceedAttack] Inflict 1 Attack Power Down next turn	[OnSucceedAttack] 下回合对目标施加1层虚弱 
+<TAG> At <N>+ Speed, Reuse Coin once (once per Skill)	13	[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)<style="highlight"></style>	[OnSucceedAttack] 若自身的速度值不低于10，则重复使用本硬币1次(每个技能最多1次)<style="highlight"></style>
+Nest K Lobotomy Corp. Branch	13	Nest K Lobotomy Corp. Branch	K巢 脑叶公司支部
+... I see	13	... I see.	……是吗。
+Fathoms of Ego - La Mancha Eye	13	Fathoms of Ego - La Mancha Eye	自我心道 - 拉·曼却之眼
+LCE Research Team Lab. Sector	13	LCE Research Team
+Lab. Sector	LCE研究组 实验楼
+Information Team Agent	13	Information Team Agent	情报部 员工
+The Middle's Little Brother	13	The Middle's Little Brother	中指 幼弟
+Vessel Masas Decks	13	Vessel Masas Decks	大众号，甲板
+What will you do	12	What will you do?	该如何抉择？
+Become Strong? Genuinely	12	Become Strong? Genuinely?	我变强了？真的？
+Assist Unit Name	12	Assist Unit Name	援助单位名称
+- Starved for blood for a long, long time. - Lose <N> Base Offense Level - Lose <N> Base Defense Level	12	- Starved for blood for a long, long time.
+- Lose 15 Base Offense Level
+- Lose 15 Base Defense Level	- 很久未曾饮用血液了。
+- 基础攻击等级-15
+- 基础防御等级-15
+- Low Morale When Clashing against targets with Omen Talisman, Clash Power +<N> Turn Start: gain <N> Damage Up and <N> Fragile	12	- Low Morale
+When Clashing against targets with Omen Talisman, Clash Power +2
+Turn Start: gain 2 Damage Up and 1 Fragile	- 士气低落
+与带有不祥符咒 的目标进行拼点时，使自身的拼点威力+2
+回合开始时，使自身获得2层伤害强化 并对自身施加1层易损 
+Prescript: <TAG> I	12	Prescript: [Paper Slip] I	指令[纸条]I
+Prescript: <TAG> II	12	Prescript: [Paper Slip] II	指令[纸条]II
+Prescript: <TAG> III	12	Prescript: [Paper Slip] III	指令[纸条]III
+Prescript: <TAG> IV	12	Prescript: [Paper Slip] IV	指令[纸条]IV
+- Offense Level +<N>, Defense Level +<N> - Combat End: Heal <N> SP	12	- Offense Level +1, Defense Level +1
+- Combat End: Heal 15 SP	- 攻击等级+1，防御等级+1
+- 战斗结束时，使自身恢复15点理智值
+Damage Taken -<N>%	12	Damage Taken -10%	受到的伤害-10%
+Inflict <N> <TAG>	12	Inflict 3 [Muckworm]	对目标施加3层[Muckworm]
+Ya Śūnyatā Tad Rūpam	12	Ya Śūnyatā Tad Rūpam	空即是色
+Canto V Battle <N>	12	Canto V Battle 01	Canto V Battle 01
+Tier <N> + Tier <N> => Tier <N>	12	Tier 1 + Tier 1 => Tier 1	1级 + 1级 => 1级
+Will of the Prescript	12	Will of the Prescript	指令之意
+The Ring Fauvist Student	12	The Ring Fauvist Student	环指 野兽派学徒
+Wayfarer Doorbreach Team <N> Leader	12	Wayfarer Doorbreach Team 4 Leader	旅者 第四开辟小队 队长
+Draw of the Sword	12	Draw of the Sword	拔剑
+<TAG> Heal <N>% of damage dealt	12	[OnSucceedAttackHead] Heal 100% of damage dealt	[OnSucceedAttackHead] 使自身恢复本硬币伤害量100%的体力
+<TAG> If target has <TAG>, deal +<N>% damage	12	[OnSucceedAttack] If target has [ThornNoose], deal +50% damage	[OnSucceedAttack] 若目标带有[ThornNoose]，则使本技能造成的伤害+50%
+<TAG> Coin Power +<N> for every <N> (<TAG> + <TAG>) on target (max <N>)	12	[WhenUse] Coin Power +1 for every 5 ([Laceration] + [Burst]) on target (max 3)	[WhenUse] 目标的[Laceration]与[Burst]强度之和每有5级，使本技能的硬币威力+1(最多+3)
+If this Coin is Cracked, lose <N> Final Power	12	If this Coin is Cracked, lose 10 Final Power	若本硬币被摧毁，则使本技能的最终威力-10
+<TAG> Clash Power +<N> for every <N> <TAG> on target (max <N>) <TAG> If target has <N> or higher SP, Base Power +<N> <TAG> If target has <N> or higher SP, Coin Power +<N>	12	[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)
+[WhenUse] If target has 10 or higher SP, Base Power +1
+[WhenUse] If target has 20 or 	[WhenUse] 目标每带有4级[Sinking]强度，使本技能的拼点威力+1(最多+2)
+[WhenUse] 若目标的理智值不低于10点，则使本技能的基础威力+1
+[WhenUse] 若目标的理智值不低于20点，则使本技能的硬币威力+1
+<TAG> If target has <N>+ <TAG>, inflict <N> <TAG> next turn	12	[OnSucceedAttack] If target has 5+ [Nail], inflict 10 [Binding] next turn	[OnSucceedAttack] 若目标的[Nail]层数不低于5层，则下回合对其施加10层[Binding]
+<TAG> Base Power +<N> for every Rose that has a different Affinity from this unit (max <N>)	12	[WhenUse] Base Power +1 for every Rose that has a different Affinity from this unit (max 6)	[WhenUse] 每有1朵与自身罪孽属性不同的玫瑰，使本技能的基础威力+1(最多+6)
+Butterfly of Entangled Lives <TAG>	12	Butterfly of Entangled Lives [羅生蝶]	罗生蝶
+Funeral of the Dead Butterflies	12	Funeral of the Dead Butterflies	亡蝶葬仪
+Yearning - Mircalla	12	Yearning - Mircalla	渴望-蜜卡拉
+<TAG> If target has <N>+ (<TAG> + <TAG>), Coin Power +<N>	12	[WhenUse] If target has 5+ ([Burst] + [Vibration]), Coin Power +1	[WhenUse] 若目标的[Burst]强度与[Vibration]强度之和不低于5级，则使本技能的硬币威力+1
+Alleyways of T Corp	12	Alleyways of T Corp.	T公司小巷 某处
+Wuthering Heights Hall	12	Wuthering Heights Hall	呼啸山庄 大厅
+Generous Clan Member	12	Generous Clan Member	宽宏大量的势力成员
+LCCB Transporter Truck	12	LCCB Transporter Truck	LCCB移动型卡车 内部
+-<N>% Max HP for all allies	11	-10% Max HP for all allies	全体友方单位的体力上限-10%
+Extraction Purchase from Dispenser	11	Extraction
+Purchase from Dispenser	提取
+从自动贩卖机处购买
+Canto VI Battle <N>	11	Canto VI Battle 01	Canto VI Battle 01
+LCD OSIR Team	11	LCD OSIR Team	LCD
+现场推理小队
+<TAG> Next Coin has +<N> Power	11	[OnSucceedAttackHead] Next Coin has +2 Power	[OnSucceedAttackHead] 使本技能下一枚硬币的威力+2
+If this unit spent <TAG> due to this Coin's effect, deal +<N>% damage	11	<color=#ff6000><mark=#ff000040><b><u>If this unit spent [BulletPropellant] due to this Coin's effect, deal +50% damage</u></b></mark></color>	<color=#ff6000><mark=#ff000040><b><u>若本硬币效果消耗了[BulletPropellant]，则使本硬币造成的伤害+50%</u></b></mark></color>
+If target has <N>+ <TAG>, Clash Power +<N>	11	If target has 6+ [Vibration], Clash Power +1	若目标的[Vibration]强度不低于6级，则使本技能的拼点威力+1
+<TAG> Inflict <N> Potency and +<N> Count of a random status, chosen from <TAG>, <TAG>, <TAG>, <TAG>, and <TAG>	11	[OnSucceedAttack] Inflict 2 Potency and +2 Count of a random status, chosen from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]	[OnSucceedAttack] 使目标增加2级某1种随机效果的强度并对其施加2层该效果，该效果可能为[Combustion]、[Laceration]、[Vibration]、[Burst]或[Sinking]
+Deal +<N>% damage for every (<TAG> + <TAG> Count) on the target (max <N>%)	11	Deal +1% damage for every ([Laceration] + [Laceration] Count) on the target (max 20%)	目标的[Laceration]强度与[Laceration]层数之和每有1点，使本硬币造成的伤害+1%(最多+20%)
+<TAG> Inflict <N> N Corp’s Nails	11	[OnSucceedAttack] Inflict 1 N Corp’s Nails	[OnSucceedAttack] 对目标施加1层N公司的尖钉 
+Targets the rearmost unit (In regular encounters)	11	Targets the rearmost unit (In regular encounters)	指定站位最靠后的单位(仅限常规遭遇战)
+<TAG> Activate <TAG> on target. Target loses <N> <TAG> Count	11	[CriticalOnSucceedAttack] Activate [Laceration] on target. Target loses 1 [Laceration] Count<style="highlight"></style>	[CriticalOnSucceedAttack] 触发目标的[Laceration]，并使其[Laceration]层数减少1层<style="highlight"></style>
+Deal +(<TAG> spent x <N>)% damage	11	Deal +([Bullet] spent x 10)% damage<style="highlight"></style>	使本硬币造成的伤害+(消耗的弹药 数×10)%<style="highlight"></style>
+<TAG> Inflict <N> <TAG> (once per turn)	11	[OnSucceedAttack] Inflict 1 [Reduction] (once per turn)<style="highlight"></style>	[OnSucceedAttack] 对目标施加1层[Reduction](每回合最多1次)<style="highlight"></style>
+Mephistopheles the Busboat	11	Mephistopheles the Busboat	梅菲斯托费勒斯 巴士船
+Abandoned Lobotomy Corp. Drilling Ship	11	Abandoned Lobotomy Corp. Drilling Ship	脑叶公司支部钻井船 某处
+Class <N> Collector	11	Class 4 Collector	4级征收人员
+LCA HR Management Team <N>	11	LCA HR Management Team 2	LCA 人才管理二队
+Wuthering Heights Basement	11	Wuthering Heights Basement	呼啸山庄 地下室
+Tiekan Temple Interior	11	Tiekan Temple Interior	铁槛寺 内部
+Corridor of the Pinky	11	Corridor of the Pinky	小指的走廊
+The House of Spiders Rooftop	11	The House of Spiders Rooftop	蜘蛛巢 屋顶
+<TAG> gains %<VAR> <TAG>/%	10	<color=#ebcaa2>[{0}]</color> gains %{2} [{1}]/%	<color=#ebcaa2>[{0}]</color>获得%{2} [{1}]/%
+<TAG> loses <VAR> SP	10	<color=#ebcaa2>[{0}]</color> <color=#fe4b48>loses {1} SP.</color>	<color=#ebcaa2>[{0}]</color><color=#fe4b48>失去了{1}点理智值</color>
+<TAG> gains <VAR> <TAG> 	10	<color=#ebcaa2>[{0}] gains</color> {2} <color=#e30000>[{1}]</color>.	<color=#ebcaa2>对[{0}]施加</color>{2}<color=#e30000>[{1}]</color>
+Sign of Roses	10	Sign of Roses	玫瑰告示牌
+Who will convey this gaze unto the Spiral of Contempt	10	Who will convey this gaze unto the Spiral of Contempt?	谁能将这视线投向轻蔑螺旋？
+<TAG> conveyed to the Spiral of Contempt the gaze they once felt with their entire body	10	[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body.	罪人[{0}]向轻蔑螺旋投去了自己全身心所感受过的视线。
+<TAG> attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well	10	[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well.	罪人[{0}]虽投去了自身感受到的视线，但轻蔑螺旋对此同样感到轻蔑。
+Select to gain a Charge E.G.O Gift	10	Select to gain a Charge E.G.O Gift	选择后，获得1件充能E.G.O 饰品
+Select to gain a Sinking E.G.O Gift	10	Select to gain a Sinking E.G.O Gift	选择后，获得1件沉沦E.G.O饰品
+After a drawn-out rattling, an E.G.O Gift drops from the device	10	After a drawn-out rattling, an E.G.O Gift drops from the device.	在很长的一段咣当声过后，一件E.G.O饰品从装置中掉了出来。
+Night in the Backstreets	10	Night in the Backstreets	后巷深宵
+The Middle - Grudge	10	The Middle - Grudge	中指-仇怨
+Imitation of a Father	10	Imitation of a Father	仿造的父辈
+Defense Level +<N>	10	Defense Level +4	防御等级+4
+Base Power +<N>, Max HP +<N>%	10	Base Power +1, Max HP +5%	技能基础威力+1，体力上限+5%
+Damage Taken -<N>%, Damage Dealt +<N>%	10	Damage Taken -25%, Damage Dealt +25%	受到的伤害 -25%，造成的伤害 +25%
+Clash Power +<N>, Offense Level +<N>, Max HP +<N>%, Damage Dealt +<N>%	10	Clash Power +1, Offense Level +1, Max HP +10%, Damage Dealt +5%	拼点威力+1，攻击等级+1，体力上限+10%，造成的伤害+5%
+Final Power +<N>, Offense Level +<N>, Max HP +<N>%, Damage Dealt +<N>%	10	Final Power +1, Offense Level +1, Max HP +7.5%, Damage Dealt +5%	最终威力+1，攻击等级+1，体力上限+7.5%，造成的伤害+5%
+Base Power +<N>, Offense Level +<N>, Max HP +<N>%, Damage Dealt +<N>%	10	Base Power +1, Offense Level +1, Max HP +5%, Damage Dealt +5%	基础威力+1，攻击等级+1，体力上限+5%，造成的伤害+5%
+Plus Coin Power +<N>, Minus Coin Power -<N>, Damage Dealt +<N>%	10	Plus Coin Power +1, Minus Coin Power -1, Damage Dealt +5%	加算硬币威力+1，减算硬币威力-1，造成的伤害+5%
+All Enemy Levels +<N>	10	All Enemy Levels +3	全体敌方单位提升3级
+에즈라 유리아 도끼 <N>	10	에즈라 유리아 도끼 1	以斯拉 尤里亚 斧 1
+Containment Hall <N>	10	Containment Hall 1	第一收容走廊
+Clear <N>-<N> to Unlock	10	Clear 7-36 to Unlock	通过7-36后解锁
+Tier <N> + Tier <N> + Tier <N>	10	Tier 1 + Tier 1 + Tier 1	1级 + 1级 + 1级
+Viewed in Battle <N>	10	Viewed in Battle 1	战斗中选中人格 1
+Obtained by clearing Refraction Railway Line <N>	10	Obtained by clearing Refraction Railway Line 5	通关折射轨道5号线时获得
+<TAG> Inflict <N> Plus Coin Drop next turn	10	[OnSucceedAttackHead] Inflict 2 Plus Coin Drop next turn	[OnSucceedAttackHead] 下回合对目标施加2层加算硬币弱化 
+<TAG> Gain <N> Talisman	10	[OnSucceedAttack] Gain 1 Talisman	[OnSucceedAttack] 使自身获得1层符咒 
+<TAG> If target has <N>+ <TAG>, deal <N>% of damage dealt as Blunt damage	10	[OnSucceedAttack] If target has 10+ [Laceration], deal 30% of damage dealt as Blunt damage	[OnSucceedAttack] 若目标的[Laceration]强度不低于10级，则对其额外造成本硬币伤害量30%的打击伤害
+<TAG> +<N>% Damage on Critical Hit	10	[CriticalOnSucceedAttack] +50% Damage on Critical Hit	[CriticalOnSucceedAttack] 使本硬币暴击时造成的伤害+50%
+<TAG> Deal <N> Slash bonus damage	10	[OnSucceedAttack] Deal 15 Slash bonus damage	[OnSucceedAttack] 对目标额外造成15点斩击伤害
+<TAG> Base Power +<N> for every <N> <TAG> Count on self (max <N>)	10	[WhenUse] Base Power +1 for every 3 [Laceration] Count on self (max 2)	[WhenUse] 自身每带有3层[Laceration]，使本技能的基础威力+1(最多+2)
+<TAG> Inflict +<N> Bleed Count next turn	10	[OnSucceedAttackHead] Inflict +3 Bleed Count next turn	[OnSucceedAttackHead] 下回合对目标施加3层流血 
+If target has a negative effect, deal +<N>% damage	10	If target has a negative effect, deal +50% damage	若目标带有负面状态，则使本硬币造成的伤害+50%
+Heavenly Executor’s Scribe	10	Heavenly Executor’s Scribe	天之执行官的辅佐
+<TAG> Inflict <TAG> against the main target next turn	10	[OnSucceedAttack] Inflict [VillainMark] against the main target next turn	[OnSucceedAttack] 下回合对主要目标施加[VillainMark]
+<TAG> If target has <N>+ <TAG>, gain <N> <TAG>	10	[OnSucceedAttack] If target has 5+ [Laceration], gain 1 [HardenedBlood]	[OnSucceedAttack] 若目标的[Laceration]强度不低于5级，则使自身获得1层硬化血液 
+Spend up to <N> <TAG>	10	Spend up to 3 [Bullet]<style="highlight"></style>	消耗最多3发[Bullet]<style="highlight"></style>
+<TAG> Gain <N> <TAG> - If this unit has less than <N> <TAG>, gain <N> additional <TAG>	10	[OnSucceedAttack] Gain 1 [DevyatDimensionalSack]
+- If this unit has less than 15 [DevyatDimensionalSack], gain 1 additional [DevyatDimensionalSack]<st	[OnSucceedAttack] 使自身获得1层[DevyatDimensionalSack]
+- 若自身的[DevyatDimensionalSack]层数低于15层，则使自身额外获得1层[DevyatDimensionalSack]<style="highlight"></style>
+Eunbong’s Bar & Fryers Kitchen	10	Eunbong’s Bar & Fryers Kitchen	银凤炸鸡酒吧 厨房
+Hongyuan's Laboratory, Past	10	Hongyuan's Laboratory, Past	过去，鸿园的实验室
+Evaluation Arena B1	10	Evaluation Arena B1	评审场 地下1层
+Class <N> Clerical Staff	10	Class 2 Clerical Staff	2级 事务员
+WARP Train Economy Class Cabin	10	WARP Train Economy Class Cabin	WARP列车 经济舱 车厢
+Daguanyuan - Yihongyuan Interior	10	Daguanyuan - Yihongyuan Interior	大观园 怡红院内
+Corridor of the Ring Nursefather	10	Corridor of the Ring Nursefather	蜘蛛巢，环指父辈的走廊
+Excision Management Staff	10	Excision Management Staff	摘除监管人员
+The Master of Twelve Beasts	10	The Master of Twelve Beasts	十二兽之主
+Fixer in the Poster	10	Fixer in the Poster	海报上的收尾人
+LCE Research Team Elevator	10	LCE Research Team
+Elevator	LCE研究组 电梯
+Accessing the Event	10	Accessing the Event	活动开放
+Stand in his way	9	Stand in his way.	阻止他。
+Who should do it	9	Who should do it?	应该让谁去做？
+Steam Transport Machine	9	Steam Transport Machine	蒸汽运输机
+I think I have an idea now. When I approached the fainted tin men, I heard mechanical noises. It sounded like things were being fixed within. If I had to guess… They seem to be equipped with devices that automatically repair their bodies. But, the device didn't seem capable of carrying out more than five repairs. Only trouble is that they grow stronger each time they're fixed up… We should find a way to deal with them and stop this repair mechanism from getting to work. Until then, we'll have to bear with their five lives… Oh, by the way: How do you think the 'human' parts inside are being repaired? → Do not question the physics of Abnormalities	9	I think I have an idea now.
+When I approached the fainted tin men, I heard mechanical noises. It sounded like things were being fixed within.
+If I had	我想我知道该如何战斗了。
+当我靠近那些晕过去的罐头人时，里面响起了机器运作修复东西的声音。
+也许……它们体内装有自动修复身体的装置。
+但是，那装置似乎有限制，无法修复五次以上。
+问题是它们每次复活之后都会变得比之前更强……
+我们最好找到让它们停止自动修复的方法。在那之前，我们就不得不坚持五回了……
+
+They're tough. These things are way tougher than they look. I thought they'd be as easy to deal with as children's toys, but I way misjudged... I thought I'd seen my share of extraordinary things throughout my career of unpleasant jobs, but it looks like I still have much to see and learn. There has to be a human inside… but they acted like broken killing machines. Their upper body rotates all the way round, and their arms moved weirdly, too. And most of all… It's like they're incapable of feeling pain. I heard some alleys in the Backstreets provide a surgery that fries pain receptors. Could this be similar? → As I repeatedly assert, Abnormalities are entities of their own category. You shouldn't construe them with the City's standards, Ishmael. → And yet Abnormalities physically exist in this realm. If the properties of a thing aren't determined by the laws of the space it exists in, can it truly be said to exist? → The hell are you yapping on about? → I don't believe it's necessary for you to understand, Heathcliff. → Huh? Is my name written here somewhere? How'd you know it was me? → …Funny. <TAG>	9	They're tough. These things are way tougher than they look.
+I thought they'd be as easy to deal with as children's toys, but I way misjudged... I thou	它们很坚硬。这些东西比看上去的要耐打的多。
+我以为它们就像小孩子的玩具一样好解决，但我想错了……在我这烂透了的职业生涯中，我以为我已经见够离谱的东西了，看来我还是有很多东西要学。
+一定有人类在那东西的里面……但它的行为就像是一个已经坏了的杀人机器一样。它们的上半身不停的旋转着，手臂也在以一种诡异的方
+A bunch of creeps walked out of that container box. Wearing tin cans on their heads, torsos made up of some sort of plastic... It's hard to explain. It was like someone arbitrarily put together pieces of random toys. On top of unmatching colors, some straight up lacked frames to cover up the mechanisms. They weren't all machines, either. Between the parts, I saw bits of flesh and dried blood... Just what is going on inside that box? → Umm... Maybe it's a type of automated prosthetic procedure device? A company my father considered buying was… N-Never mind. Forget I said anything. → Abnormalities are not real devices. I recommend against trying to make ties with existing things	9	A bunch of creeps walked out of that container box.
+Wearing tin cans on their heads, torsos made up of some sort of plastic...
+It's hard to explain. I	一群穿着怪异的人从那收容箱中走了出来。
+它们头上戴着锡制的罐头，而躯体则是由某种塑料制成的……
+这很难说，就好是某人随意堆积起来的玩具一样。
+在那些不和谐的色调之上，是直接暴露在外的机械结构。
+它们也并不是仅由机器组成，
+在组成部位之间，我看到了一些早已干枯的血肉……
+那收容箱里到底发生了什么？
+→
+Yield My Flesh	9	Yield My Flesh	肉斩
+Starved and Withered	9	Starved and Withered	饥饿与衰老
+Affection and Resentment	9	Affection and Resentment	爱憎
+The Book of Vengeance	9	The Book of Vengeance	复仇账簿
+검지 아비 해방 스택 (9일 경우, 다음 턴에 Furioso) <N> -> <N> 될 때	9	검지 아비 해방 스택 (9일 경우, 다음 턴에 Furioso) 0 -> 1 될 때	食指父辈 解放（层数为9时，下回合Furioso）0 -> 1时
+Upon entering Floor <N>, gain <VAR> random Tier <N> E.G.O Gift(s)	9	Upon entering Floor 3, gain {0} random <color=#5bffde>Tier 3 E.G.O Gift(s)</color>	进入第3层时，随机获得{0}件<color=#5bffde>3级饰品</color>
+Clash Power +<N>	9	Clash Power +1	拼点威力+1
+Gain Offense Level Up	9	Gain Offense Level Up	获得攻击等级提升 
+Randomly inflict <N> <TAG> Potency	9	Randomly inflict 5 [Combustion] Potency	随机增加5级[Combustion]强度
+Faust’s E.G.O Gear	9	Faust’s E.G.O Gear	浮士德的专用E.G.O装备
+Don Quixote’s E.G.O Gear	9	Don Quixote’s E.G.O Gear	堂吉诃德的专用E.G.O装备
+Ishmael’s E.G.O Gear	9	Ishmael’s E.G.O Gear	以实玛利的专用E.G.O装备
+Gregor’s E.G.O Gear	9	Gregor’s E.G.O Gear	格里高尔的专用E.G.O装备
+Dawn Ordeal - Swarm Movement Prep <N>	9	Dawn Ordeal - Swarm Movement Prep 1	黎明考验 - 群体移动准备1
+BongBong <TAG> Body	9	BongBong [Orange] Body	噗扭扭[橙子味] 躯干
+Event Currency Guide	9	Event Currency Guide	活动道具介绍
+Formerly the youngest chief researcher at the <TAG> Wing, this Sinner possesses higher intelligence compared to most others. We estimate that everyday conversation with this Sinner will prove difficult for managers selected by our current screening process. Avoiding communication altogether will pose a risk on its own, however. If the Sinner remains silent for a long time, that means he is currently processing a line of deliberate thought; we recommend waiting patiently for him	9	Formerly the youngest chief researcher at the [REDACTED] Wing,
+this Sinner possesses higher intelligence compared to most others.
+We estimate that eve	该罪人曾是[已编辑]翼中最年轻的首席研究员，
+相较于其他罪人，其拥有更为出众的智力。
+对于我们所选择的经理而言，与之进行日常交流或略显困难，
+尽管如此，过于明显地规避交流也会留下不稳定因素。
+该罪人偶尔会保持长时间的沉默，这是因为他正在脑海中进行一系列的思考；
+在这种情况下，我们建议您耐心等待。
+The Sinner who developed the engine of Mephistopheles, the bus operated by Limbus Company. She claims that there is no one in the City who could rival her library of knowledge and wisdom, and she isn't necessarily wrong. You might find her high and mighty attitude when she allows you to converse with her displeasing, but as seen with how she treats everyone with subtle gestures of arrogance, there is no hope of her parting with it, ever. We recommend simply nodding once and getting over it. Even though she has an unparalleled genius, we can't quite figure out how to use this one. Perhaps you could be the one to find out	9	The Sinner who developed the engine of Mephistopheles, the bus operated by Limbus Company.
+She claims that there is no one in the City who could rival	该罪人开发了边狱公司的巴士——梅菲斯托费勒斯的引擎。
+她声称在都市中，没有人能在智慧层面上与她相媲美，这话未必就是错的。
+也许在和经理您交谈的时候，您会发现她的态度高高在上，而这样的态度也许会败坏您的心情。
+由于该罪人举止傲慢，仿佛不在乎任何人，让她有所改善的可能性几乎为零。
+我们建议您只要应付一下
+Wants clear and concise commands, requiring no judgement on his part	9	Wants clear and concise commands, requiring no judgement on his part.	倾向于明确且简洁的指令，即不留下个人判断余地的命令。
+This Sinner is relatively easy to handle in terms of personality. However, an upsurge of emotion or a sudden change of environment may cause parts or the whole of his body to transform into insectile (notably akin to a carapace, resembling that of the _________) tissues. If you do not wish to be a rude manager (not that you're obligated to be nice), we recommend keeping your facial expression in check so that your disgust is not visible to him. He sometimes uses cynical language, but he can still be reasoned with, and you can get around him without much difficulty as long as you learn the knack of it	9	This Sinner is relatively easy to handle in terms of personality.
+However, an upsurge of emotion or a sudden change of environment
+may cause parts or 	与其他罪人相比，该罪人的性格更好相处。
+然而，随着情绪激动或者环境急剧变化，
+其身体的部分、有时甚至全身都可能会变化成类似昆虫（某种鞘翅目，类似于■■■■）的结构。
+如果您不希望被视为一位粗俗的经理（您不应如此），
+我们建议您谨慎地管理自己的表情，尽量避免流露出厌恶的情绪。
+尽管该罪人偶尔会说些愤世
+Yield My Flesh to Claim Their Bones	9	Yield My Flesh to Claim Their Bones	肉斩骨断
+Pilgrimage of Compassion	9	Pilgrimage of Compassion	善意的巡礼
+Lobotomy Corp. Remnant	9	Lobotomy Corp. Remnant	脑叶公司
+幸存者
+Line <N> Boarding	9	Line 1 Boarding	进入1号线前
+<TAG> Inflict <N> Defense Level Down	9	[OnSucceedAttack] Inflict 2 Defense Level Down	[OnSucceedAttack] 对目标施加2层防御等级降低 
+Spend <N> Ammo	9	Spend 1 Ammo	消耗1发弹药 
+<TAG> Inflict <N> Damage Down next turn	9	[OnSucceedAttack] Inflict 2 Damage Down next turn	[OnSucceedAttack] 下回合对目标施加2层伤害弱化 
+<TAG> Inflict <N> Poison	9	[OnSucceedAttack] Inflict 3 Poison	[OnSucceedAttack] 对目标施加3层剧毒 
+<TAG> If target has <TAG>, gain <N> <TAG> next turn	9	[OnSucceedAttack] If target has [BurstAgility], gain 1 [Agility] next turn	[OnSucceedAttack] 若目标带有[BurstAgility]，则下回合使自身获得1层[Agility]
+<TAG> Trigger <TAG> twice; then, reduce target's <TAG> Count by <N>	9	[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion] twice; then, reduce target's [Vibration] Count by 2	[UnBrokenCoinOnSucceedAttack] 使目标[VibrationExplosion]2次，并使其[Vibration]层数减少2层
+<TAG> Reuse this Coin (<N> times max)	9	[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Reuse this Coin (7 times max)</u></b></mark></color>	[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>重复使用本硬币(最多7次)</u></b></mark></color>
+<TAG> Take <N> damage	9	[DefeatDuel] Take 20 damage	[DefeatDuel] 对自身造成20点伤害
+<TAG> Inflict +<N> Rupture Count next turn	9	[OnSucceedAttack] Inflict +6 Rupture Count next turn	[OnSucceedAttack] 下回合对目标施加6层破裂 
+I'll Have This	9	I'll Have This!	这个我吃了！
+<TAG> Gain <N> <TAG> and <N> <TAG>	9	[StartBattle] Gain 3 [AttackDmgUp] and 2 [Vulnerable]	[StartBattle] 使自身获得3层[AttackDmgUp]并对自身施加2层[Vulnerable]
+<TAG> Inflict <N> <TAG>(The Departed)	9	[OnSucceedAttack] Inflict 2 [SinkingWhite](The Departed)<style="highlight"></style>	[OnSucceedAttack] 对目标施加2层[SinkingWhite](亡蝶)<style="highlight"></style>
+<TAG> Inflict <N> <TAG>(The Living)	9	[OnSucceedAttack] Inflict 2 [SinkingWhite](The Living)<style="highlight"></style>	[OnSucceedAttack] 使目标增加2级[SinkingWhite]强度(生蝶)<style="highlight"></style>
+<TAG> The final Coin gains Final Power +<N> (once per Coin)	9	[CriticalOnSucceedAttack] The final Coin gains Final Power +2 (once per Coin)	[CriticalOnSucceedAttack] 使本技能最后一枚硬币的最终威力+2(每个硬币最多1次)
+<TAG> Deal Pride damage by <N>% of the damage dealt (max <N>)	9	[OnSucceedAttack] Deal Pride damage by 25% of the damage dealt (max 25)<style="highlight"></style>	[OnSucceedAttack] 对目标额外造成本硬币伤害量25%的傲慢伤害(最多25点)<style="highlight"></style>
+<TAG> Inflict +<N> <TAG> Count (<N> times per turn)	9	[OnSucceedEvade] Inflict +2 [Burst] Count (2 times per turn)	[OnSucceedEvade] 对目标施加2层[Burst](每回合最多2次)
+<TAG> If target has Bleed, deal <N>% of damage dealt as bonus damage	9	[OnSucceedAttack] If target has Bleed, deal 10% of damage dealt as bonus damage	[OnSucceedAttack] 若目标带有流血 ，则对其额外造成本硬币伤害量10%的伤害
+Coin Power +<N> for every <N> <TAG> on target (Max <N>)	9	Coin Power +1 for every 3 [Vibration] on target (Max 2)	目标每带有3级[Vibration]强度，使本技能的硬币威力+1(最多+2)
+Wicked Tax Collector	9	Wicked Tax Collector	缺德的税费掠夺者
+Evaluation Arena 1F	9	Evaluation Arena 1F	评审场内部 1层
+Training Team Sephirah	9	Training Team Sephirah	培训部 Sephirah
+Daguanyuan Training Grounds	9	Daguanyuan Training Grounds	大观园 演武场
+The Index Proxy	9	The Index Proxy	食指 代行者
+Dependable Section Director	9	Dependable Section Director	可靠的科长
+Bloodfiend holding a Parasol	9	Bloodfiend holding a Parasol	<size=90%>手持阳伞的血魔</size>
+LCE Research Team Security Unit	9	LCE Research Team Security Unit	LCE研究组 安保楼
+Ryōshū and Araya's Room, Past	9	Ryōshū and Araya's Room, Past	过去，良秀与阿赖耶的房间
+You can redeem various rewards from the <TAG> based on the number of <TAG> you have	9	You can redeem various rewards from the [Coupon Trade-in] based on the number of [Bongy Plushies] you have.	您可以在[奖券兑换处]根据所持有的[小凤玩偶]数量兑换多样化奖励。
+Rarely, you may obtain <TAG> from clearing Encounters. <TAG> is automatically converted to <N> <TAG> upon acquisition	9	Rarely, you may obtain [Resentful Scabbard] from clearing Encounters.
+
+[Resentful Scabbard] is automatically converted to 20 [Bloodied Scabbard] upon 	战斗胜利后，有低概率获得[寄宿怨恨的剑鞘]。
+
+[寄宿怨恨的剑鞘]将会自动转换为20个染血剑鞘。
+Clear Canto <N>	9	Clear Canto 1	通过主线剧情第1章
+The Time Ripper	8	The Time Ripper	时间杀人魔
+…<TAG>. This is why you put me in charge of the observation? Did you know this crap would happen and… Yeah, no. There's no way you could have… None of us could, this was our first time. Gah… When I blew that golden apple up, it split open. Then some <TAG>ed branches popped out of the crack, and… That thing, that bastard… It took Yuri… And with that new nutrient, a swarm of maggots piled up inside… "Metamorphosing" into a hideous face. Haha, funny, isn't it. I was feeling a sense of kinship with that crawler. I guess it's because we were both pests… Realizing that, I just couldn't stay calm. I had to tear that detestable face apart to find peace. And then, and then... → Gregor was struggling to maintain his cool in his writing, so I relieved him of his pen. He didn't have much else to offer in terms of information, anyway. → Those maggots squirmed harder than I expected when I scorched 'em with my cigarette. Does this count as intel	8	…[What appears to be foul words are scribbled out.]. This is why you put me in charge of the observation?
+Did you know this crap would happen and…
+Yea	……[此处似乎写了句粗口]。这就是你让我来负责观察日志的原因？
+你明知道会发生这种逼事……？
+不，也是。你不可能料到……
+因为我们都是第一次见到。
+哈……把那个金色的苹果劈开后，从裂口能看到它的内部。
+然后有一些[此处似乎写了句粗口]树枝从它分裂的地方弹出来……然后……那个混账东西它……
+把尤莉小姐
+Man, that was tiring. It kept healing itself or whatever, it just wouldn't fall after we sliced, tore, smashed, and did all kinds of damage to it. Fighting it was pretty simple... Well, it's not like all of us got out unscathed, though. What it does is run into us for a body slam. Not too hard to deal with once you're used to it. I think I get its schtick after fighting it a few times. You see, it's got a golden aura floating around it, yeah? But the aura was gone after the apple recovered several times. Maybe that's its threshold of regeneration. I'll let manager bud know about this. It might be what helps end this tedious struggle	8	Man, that was tiring.
+It kept healing itself or whatever, it just wouldn't fall after we sliced, tore, smashed, and did all kinds of damage to it.
+Fig	真是累死个人。
+那东西一直在治疗自己，不管是切开，碾碎还是彻底破坏，试了各种方法都没用，可让我们吃了不少苦头。
+单是和它战斗其实挺简单的……虽然我们还是有人受伤。它只会用它的身体向我们冲撞，只要习惯了这种攻击方式，处理起来也不难。
+在和它战斗几次之后，我貌似发现了它的特点。你看啊，在它的周围飘着一些
+Last time I wrote an observation log, I was a kid, so I'm not sure if I'm up to this, but... I guess orders are orders. So, uhh... Start with describing its appearance? Hm, alright. That was an apple. A huge, grotesque apple with limbs. Personally speaking, doesn't it freak you out when a food item gets all massive or starts walking on its own? Is it just me? I went off-topic there. Anyway, that apple was golden. Definitely not something out of your average orchard. Mmm, right. It's what you call an Abnormality, yeah? Then yeah, that apple Abnormality was strutting all by itself. So I... I was getting a growing urge to chop that apple. It was almost magnetic. Hard to explain. ...Well, you won't find a lot of people who hate apples as much as I do. I guess that's on my unusual past. We decided to fall back for now since we had too little intel to try and fight. We'll probably take on it at some point, so I'll write down more when that time comes. → How disorganized. Were your reports as terrible during your military service? → Vergilius instructed us to write these however we wanted. Dante agreed with that, too. → …If Executive Manager is fine with it, I won't object. → <TAG> S.P.C. → Seriously, some petty complaint that was	8	Last time I wrote an observation log, I was a kid, so I'm not sure if I'm up to this, but...
+I guess orders are orders.
+So, uhh... Start with describi	自打我成年以来就再也没写过观察日志了，所以不知道能不能写好……
+但，毕竟是命令。
+那……总之先从描述外貌开始？
+嗯，好吧。首先那是一个苹果。
+一个巨大的……长着手脚的瘆人的苹果。
+说真的，难道你不觉得某种食物变得十分巨大或者自己长腿跑是一件很恶心的事情吗？难道只有我这么觉得？
+噢，我跑题了。不管怎么
+Headchicken a.k.a. Bongy	8	Headchicken a.k.a. Bongy	猎头鸡 a.k.a. 小凤
+Gain a Keywordless E.G.O Gift depending on the result of the following choice	8	Gain a Keywordless E.G.O Gift depending on the result of the following choice	选择后，根据后续选项获得1件泛用E.G.O饰品
+Hard Difficulty Tribulation	8	Hard Difficulty Tribulation	困难难度苦难
+Shin (心) - Tiantui Star <TAG>	8	Shin (心) - Tiantui Star [天退星]	心-天退星
+Base Offense Level -<N> Base Defense Level -<N>	8	Base Offense Level -10
+Base Defense Level -10	基础攻击等级-10，基础防御等级-10
+Stage <N> Afterimage Entanglement	8	Stage 4 Afterimage Entanglement	残像纠缠4阶段
+Viewing the Tableau	8	Viewing the Tableau	眺望
+- Base Offense Level +<N> - Base Defense Level +<N>	8	- Base Offense Level +15
+- Base Defense Level +15	- 基础攻击等级+15
+- 基础防御等级+15
+Night Drifter of the Drunken Palm	8	Night Drifter of the Drunken Palm	醉手夜客
+Mauled Color <TAG>	8	Mauled Color [Rouge]	被撕裂的色彩[红色]
+Training Team Captain	8	Training Team Captain	培训部队长
+Defense Level Up	8	Defense Level Up	防御等级提升
+Max HP Up	8	Max HP Up	体力上限提升
+Clash Power +<N>, Max HP +<N>%	8	Clash Power +2, Max HP +7.5%	拼点威力 +2，体力上限+7.5%
+Plus Coin Power +<N>, Minus Coin Power -<N>, Offense Level +<N>, Defense Level +<N>, Max HP +<N>%, Damage Dealt +<N>%, Boss Max HP +<N>%	8	Plus Coin Power +1, Minus Coin Power -1, Offense Level +8, Defense Level +5, Max HP +40%, Damage Dealt +12.5%, Boss Max HP +30%	加算硬币威力+1，减算硬币威力-1，攻击等级+8，防御等级+5，体力上限+40%，造成的伤害+12.5%，头目遭遇战体力上限+30%
+Deal and take +<N>% damage	8	Deal and take +10% damage	造成与受到的伤害+10%
+에즈라 알라스 1스킬 <N>	8	에즈라 알라스 1스킬 1	以斯拉 阿拉斯 1技能 1
+Sezionatura di Cervo	8	Sezionatura di Cervo!	解鹿！
+(Lalulula lalulula hun)	8	(Lalulula lalulula hun)	（Lalulula lalulula hun）
+Complete Suppression without any ally deaths	8	Complete Suppression without any ally deaths	全体友方单位存活的条件下完成镇压
+Complete Suppression without any of the allies' SP dropping to -<N> SP	8	Complete Suppression without any of the allies' SP dropping to -45 SP	全体友方单位的理智值未降至-45的条件下完成镇压
+Moving past the containers, we’re met with a chill air. The chunks of ice hint that we’re almost to the end	8	Moving past the containers, we’re met with a chill air. The chunks of ice hint that we’re almost to the end.	在经过集装箱时，周围空气变得愈发寒凉。大块的冰块提示着我们已经即将抵达旅途的终点。
+Extraction Season <N> Regular Pass Level <N> Reward	8	Extraction
+Season 1 Regular Pass Level 60 Reward	提取
+第1赛季战斗通行证60级奖励
+Inflict <TAG> Count	8	Inflict [Combustion] Count	施加[Conbustion]层数
+Chains of Loyalty	8	Chains of Loyalty	忠义锁链
+Gain <TAG> and <TAG> next turn	8	Gain [Agility] and [PenetrateDamageUp] next turn	下回合使自身获得[Agility]与[PenetrateDamageUp]
+Yi Sang’s E.G.O Gear	8	Yi Sang’s E.G.O Gear	李箱的专用E.G.O装备
+Ryōshū’s E.G.O Gear	8	Ryōshū’s E.G.O Gear	良秀的专用E.G.O装备
+Meursault’s E.G.O Gear	8	Meursault’s E.G.O Gear	默尔索的专用E.G.O装备
+Hong Lu’s E.G.O Gear	8	Hong Lu’s E.G.O Gear	鸿璐的专用E.G.O装备
+Heathcliff’s E.G.O Gear	8	Heathcliff’s E.G.O Gear	希斯克利夫的专用E.G.O装备
+Rodion’s E.G.O Gear	8	Rodion’s E.G.O Gear	罗佳的专用E.G.O装备
+Sinclair’s E.G.O Gear	8	Sinclair’s E.G.O Gear	辛克莱的专用E.G.O装备
+Outis’s E.G.O Gear	8	Outis’s E.G.O Gear	奥提斯的专用E.G.O装备
+Fruit of Understanding	8	Fruit of Understanding	理解的果实
+Target Extraction: Hong Lu	8	Target Extraction: Hong Lu	定向提取：鸿璐
+This Sinner prefers to take action rather than wait for logic to dictate his course. His thoughts and feelings are blatantly visible in his demeanor, and he has no intention of hiding them; his brashness may cause headaches (or physical injury leading to a headache) in the process of forming a relationship. Please do note that this is not an indication of serious damage to the Sinner's thought process. If his fit of rage persists, please contact the human resources department. Once you realize that he is the type that tends to be simple-minded, you'll have an easier time handling him	8	This Sinner prefers to take action rather than wait for logic to dictate his course.
+His thoughts and feelings are blatantly visible in his demeanor, 	该罪人比起理论思考更偏爱实际行动。
+由于他丝毫不去掩饰自己的想法和感情，而是全部通过表情与话语加以表达，
+经理在与其建立联系的过程中可能会引发头痛（或是受到物理意义上会引发头痛的外伤……）。
+希望您谨记在该罪人的思维模式中并不存在深入思考这一项。
+以防万一，如果出现长时间无法平息其愤怒的情况，请您联
+You may be disheartened by the defective state of many of your Sinners, but do not worry; this Sinner is one of the few who can carry out most missions without much complaint. She is likely to make reasonable judgements, so it is a good idea to start conversations while looking her way if you're seeking sound advice. However, you mustn't forget: this Sinner has survived an absurd voyage in a far and wide body of water. Her patience may run deep, but once you take a wrong turn with her, it will be a difficult task to regain her trust	8	You may be disheartened by the defective state of many of your Sinners,
+but do not worry; this Sinner is one of the few who can carry out most mission	身为经理，面对大多各有缺点的罪人，您或许会感到困惑和无力。
+然而请放心，该罪人是能够不加抱怨地执行各种命令的少数罪人之一。
+由于该罪人能做出合理的判断，因此若您想要寻求建议，
+看向她并予以提问应当是一个好办法。
+但请记住，她是从那片深远且广阔的水域中历经艰难旅途得以生还的罪人，
+故而其忍耐力可以说是
+The unfortunate traits of being Backstreets-born are apparent in this Sinner. She loves money, gambling, and betting—so it is advised to pay close attention to her as the manager. She tends to deflect orders with an unimpressive wink or a silly joke; we recommend taking a stern stance at times to remind her that you are her superior. Her mood may be down at irregular intervals. There is nothing you can do to aid her in that state, so we recommend waiting for it to pass	8	The unfortunate traits of being Backstreets-born are apparent in this Sinner.
+She loves money, gambling, and betting—so it is advised to pay close att	该罪人明显展现出后巷出身所特有的缺陷。
+她拜金且嗜赌，建议经理对其密切关注。
+她倾向于用蹩脚的眨眼或玩笑来应付您的指示，
+建议时常向其展现经理的威严。
+该罪人会可能不定期地情绪低落，
+在经理的立场上并不能为其提供帮助，因此静静等候才最有效率。
+A special ticket with a mark on it. It can extract an Identity from a world of unlikely possibilities with certainty. The paper is fiercely beating and pulsing	8	A special ticket with a mark on it. It can extract an Identity from a world of unlikely possibilities with certainty. The paper is fiercely beating an	印有某种标记的特殊提取券。其能以十分的把握提取出存在于微小可能性的世界中的人格。纸片正激烈摇曳着、搏动着。
+Murder on the WARP Express	8	Murder on the WARP Express	WARP快车谋杀案
+LCB Regular Check-up	8	LCB Regular Check-up	LCB定期体检
+E.G.O Gift Compendium	8	E.G.O Gift Compendium	E.G.O饰品图鉴
+If at <N> Blooming Sin, enter Power-up state for this encounter	8	If at 4 Blooming Sin, enter Power-up state for this encounter	绽放的罪孽 层数为4时，在本场战斗中将变为强化状态
+Dies when the Core of Sign of Roses is killed	8	Dies when the Core of Sign of Roses is killed	击杀玫瑰告示牌本体时阵亡
+One may get lost and wander onto the wrong path, but willful defiance or deviation from the flow are forbidden by "it."	8	One may get lost and wander onto the wrong path, but willful defiance or deviation from the flow are forbidden by "it."	可以误入歧途，但逆着流向行事或是从中脱离，是被“它”所禁止的。
+The One Who Shall Grip	8	The One Who Shall Grip	准执柄者
+On Kill <N>	8	On Kill 1	击杀敌方 1
+<TAG> Spend <N> Charge Count to inflict <N> Defense Level Down	8	[OnSucceedAttack] Spend 2 Charge Count to inflict 2 Defense Level Down	[OnSucceedAttack] 消耗2层充能 并对目标施加2层防御等级降低 
+<TAG> Damage +<N>	8	[OnSucceedAttackHead] Damage +3	[OnSucceedAttackHead] 对目标额外造成3点伤害
+<TAG> Inflict <N> Nails next turn	8	[OnSucceedAttack] Inflict 2 Nails next turn	[OnSucceedAttack] 下回合对目标施加2层尖钉 
+<TAG> Inflict <TAG> next turn	8	[OnSucceedAttack] Inflict [MarkOfHeresy] next turn	[OnSucceedAttack] 下回合对目标施加凝视 
+<TAG> Spend <N> Charge Count; Inflict +<N> Bleed Count	8	[OnSucceedAttack] Spend 3 Charge Count; Inflict +1 Bleed Count	[OnSucceedAttack] 消耗3层充能 ，并对目标施加1层流血 
+<TAG> Core and Part both gain <N> HP	8	[OnSucceedAttackHead] Core and Part both gain 3 HP	[OnSucceedAttackHead] 使本体与部位恢复3点体力
+<TAG> Gain <N> <TAG> and <N> <TAG> next turn	8	[WinDuel] Gain 1 [Enhancement] and 1 [AttackDmgUp] next turn	[WinDuel] 下回合使自身获得1层[Enhancement]与1层[AttackDmgUp]
+<TAG> If target has <N>+ <TAG>, inflict <N> <TAG>	8	[OnSucceedAttack] If target has 4+ [GazeReplica], inflict 1 [GazeReplica]	[OnSucceedAttack] 若目标的[GazeReplica]层数不低于4层，则对其施加1层[GazeReplica]
+Butcher - Ribs	8	Butcher - Ribs	屠宰-肋骨
+<TAG> Inflict <TAG> equal to the number of Wrath Skills that the Ardor Blossom Moth will use this turn	8	[OnSucceedAttack] Inflict [Combustion] equal to the number of Wrath Skills that the Ardor Blossom Moth will use this turn	[OnSucceedAttack] 根据红焰蛾本回合使用的暴怒技能数，使目标增加相应的[Combustion]强度
+<TAG> Raise the target's Stagger Threshold by <N>% of damage dealt	8	[UnBrokenCoinOnSucceedAttack] Raise the target's Stagger Threshold by 70% of damage dealt	[UnBrokenCoinOnSucceedAttack] 使目标的混乱阈值前移本硬币伤害量的70%
+<TAG> Heal <N> SP (once per Skill)	8	[OnSucceedAttack] Heal 5 SP (once per Skill)	[OnSucceedAttack] 使自身恢复5点理智值(每个技能最多1次)
+<TAG> Inflict <N> Tremor and +<N> Tremor Count	8	[OnSucceedAttack] Inflict 5 Tremor and +2 Tremor Count	[OnSucceedAttack] 使目标增加5级震颤 强度并对其施加2层震颤 
+<TAG> Core heals <N> HP	8	[OnSucceedAttack] Core heals 10 HP	[OnSucceedAttack] 使本体恢复10点体力
+<TAG> If target has less than <N> SP, Base Power +<N> <TAG> Gain <N> <TAG>	8	[WhenUse] If target has less than 0 SP, Base Power +2
+[WhenUse] Gain 1 [Aggressive]	[WhenUse] 若目标的理智值低于0点，则使本技能的基础威力+2
+[WhenUse] 使自身获得1层[Aggressive]
+<TAG> If target has <N>+ <TAG> Count, inflict <N> <TAG>	8	[OnSucceedAttack] If target has 2+ [Laceration] Count, inflict 5 [Laceration]	[OnSucceedAttack] 若目标的[Laceration]层数不低于2层，则使其增加5级[Laceration]强度
+<TAG> Deal +<N>% damage for every <TAG> on target (max <N>%)	8	[OnSucceedAttack] Deal +5% damage for every [Burst] on target (max 100%)	[OnSucceedAttack] 目标每带有1级[Burst]强度，使本硬币造成的伤害+5%(最多+100%)
+The Queen of Hatred	8	The Queen of Hatred	憎恶皇后
+<TAG> Gain <N> Poise next turn	8	[OnSucceedAttack] Gain 4 Poise next turn	[OnSucceedAttack] 下回合使自身增加4级呼吸法 强度
+<TAG> Heal (<TAG> on target)% HP (max <N>%)	8	[OnSucceedAttack] Heal ([Laceration] on target)% HP (max 20%)	[OnSucceedAttack] 使自身恢复体力上限(目标的[Laceration]强度)%的体力(最多20%)
+Prepare To Collect	8	Prepare To Collect	征收准备
+<TAG> Inflict <N> Tremor next turn	8	[OnSucceedAttack] Inflict 1 Tremor next turn	[OnSucceedAttack] 下回合使目标增加1级震颤 强度
+<TAG> Inflict +<N> Count of a random status, chosen from <TAG>, <TAG>, <TAG>, <TAG>, and <TAG>	8	[OnSucceedAttackHead] Inflict +2 Count of a random status, chosen from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]	[OnSucceedAttackHead] 对目标施加2层某1种随机效果，该效果可能为[Combustion]、[Laceration]、[Vibration]、[Burst]或[Sinking]
+<TAG> Consume <N> <TAG> Count to gain Coin Power +<N>	8	[WhenUse] Consume 2 [Charge] Count to gain Coin Power +1<style="highlight"></style>	[WhenUse] 消耗自身2层[Charge]并使本技能的硬币威力+1<style="highlight"></style>
+<TAG> Gain +<N> <TAG> to this Skill Slot next turn	8	[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn	[WhenUse] 下回合使本技能对应行动槽的挑衅值 +3
+At <N>+ Speed, deal +<N>% damage	8	At 10+ Speed, deal +30% damage<style="highlight"></style>	若自身的速度值不低于10，则使本硬币造成的伤害+30%<style="highlight"></style>
+<TAG> Deal Slash damage equal to (<TAG> x <N>)% of this Coin's final damage	8	[CriticalOnSucceedAttack] Deal Slash damage equal to ([SojiRyoshuEchoPast] x 2)% of this Coin's final damage<style="highlight"></style>	[CriticalOnSucceedAttack] 对目标造成本硬币最终伤害量(自身的[SojiRyoshuEchoPast]层数×2)%的斩击伤害<style="highlight"></style>
+<TAG> If this unit has <TAG>, Reuse Coin once (once per Skill)	8	[OnSucceedAttack] If this unit has [EngageToBattle], Reuse Coin once (once per Skill)<style="highlight"></style>	[OnSucceedAttack] 若自身带有[EngageToBattle]，则重复使用本硬币1次(每个技能最多1次)<style="highlight"></style>
+The Dead Rabbits	8	The Dead Rabbits	死兔帮
+Have You Become Strong	8	Have You Become Strong	你变强了吗
+Final Room of the Family Hierarch Evaluation	8	Final Room of the Family Hierarch Evaluation	家主评审 最终房间
+Daguanyuan - Aojingguan Banquet Hall	8	Daguanyuan - Aojingguan Banquet Hall	大观园 凹晶馆 宴会厅
+Distorted Butter Street, District <N>	8	Distorted Butter Street, District 14	14区，扭曲的黄油街
+Daguanyuan Sparring Grounds	8	Daguanyuan Sparring Grounds	大观园 公认武斗对练场
+Right State Councilor	8	Right State Councilor	右议政
+Fixer from the South	8	Fixer from the South	南部收尾人
+P Corp. Staff	8	P Corp. Staff	P公司 员工
+Nest K - LC Branch Interior	8	Nest K - LC Branch Interior	K巢 脑叶公司支部内某处
+Öufi? The Ring	8	Öufi? The Ring?	Öufi？环指？
+Wuthering Heights Laboratory	8	Wuthering Heights Laboratory	呼啸山庄 实验室
+Bloodfiend with a Parasol	8	Bloodfiend with a Parasol	<size=90%>手持阳伞的血魔</size>
+Corridor of the Index, Past	8	Corridor of the Index, Past	过去，食指的走廊
+As they say, every person has their own creed—and it’s only right to respect it as the Executive Manager. But with some creeds, you will have difficulty in even simply pretending to sympathize. You will have noticed that the sinner in question is a silent chain-smoker whose eyes shine with a euphoric gleam only during battle. She believes that senselessly destroying the enemy's heads is an uncultured act and a step backward for art. CAUTION: This sinner's background is one that even our company may have trouble handling; it is advised against making her breed personal resentment towards you	8	As they say, every person has their own creed—and it’s only right to respect it as the Executive Manager. But with some creeds, you will have difficul	虽说每一位罪人都有其独特的信条，而尊重这些信条是经理应尽的义务。但……某些信条实在是令人费解。虽然该罪人平日里只是在一边默默抽着烟，唯有战斗时，她的眼中才会迸发出愉悦的神采。她认为只是在战斗中无谋地打碎对方的脑袋，是粗俗的行为，更是对艺术的亵渎。[警告]-由于该罪人有着我司也难以应对的背景，请尽量不
+A Sinner who had lived an affluent life before becoming our company's asset. As such, he has a certain admiration for a free life; but occasionally, he may make ignorant and unsavory questions in regards to the food cooked by a certain other Sinner or other aspects of the low-lives' lowly culture. This can cause significant irritation for the other sinners. However, it is important to note that no sarcastic undertones are contained in his curiosity-driven inquiries, so it is ill-advised to let them get physical over it	8	A Sinner who had lived an affluent life before becoming our company's asset. As such, he has a certain admiration for a free life; but occasionally, h	该罪人在成为我司的资产前过着富足的生活。因此，虽然他对自由有所向往，但也偶尔会在见到其他罪人制作的食物时显露出对底层文化的无知，并提出触碰其他罪人雷区的冒犯性问题。不过，由于其提问并非出于讽刺，而仅仅是纯粹的好奇使然，让罪人们为此大动干戈并非合适的解决方法。
+Even with the volatile nature of human growth around his age taken into consideration, this Sinner seems to get particularly startled or frown when spoken to. He isn't used to real combat at the moment, meaning that he may struggle to keep himself together at the sight of something as mild as spilt innards at first. As there may be those with violent tendencies among your crew, we recommend taking an approach focused on positive reinforcement with this sinner. He appears to possess a murderous gaze that he himself isn't aware of; this is a hopeful sign that he has the potential to grow into an expert of our company's profession with the right stimuli	8	Even with the volatile nature of human growth around his age taken into consideration, this Sinner seems to get particularly startled or frown when sp	即使考虑到该罪人处于不稳定的成长阶段，其与人交谈时仍常常紧皱眉头或表现出过度的惊讶。由于其尚不习惯战斗，因此最初可能甚至连内脏都不敢直视。鉴于罪人中不乏具有暴力倾向的人，因此我们建议经理在对待他时以鼓励为主，而不是惩罚。该罪人有时会释放杀气，尽管其本人并不自觉，但我司认为这表明其在我司业务范围内很有
+This Sinner could serve as an excellent advisor depending on your capability. However, she also has a meddlesome tendency, so it is recommended to keep her satisfied with short replies of agreement. She is an expert when it comes to tactics and various pearls of wisdom about life, making her advice all the more valuable for your mission. In addition, she possesses a vast knowledge of workshop technologies; you could trust her with simple repairs of the bus. NOTICE: Unlike the other Sinners, accessing records pertaining to the past of this Sinner is not permitted. WARNING: Keep an eye on this Sinner and beware that she does not exercise her cunning intellect for purposes other than completing our company's mission	8	This Sinner could serve as an excellent advisor depending on your capability. However, she also has a meddlesome tendency, so it is recommended to kee	该罪人或许能够成为优秀的顾问，但这取决于经理的能力。然而，考虑到其多管闲事的性格，建议您适当地简短附和。由于她在包括战术在内的多个领域均是专家，因此寻求她的建议非常有效。此外，该罪人还对工坊技术有深入了解，因此您也可以放心地委任她对巴士进行简单的维护工作。[注意] - 与其他罪人不同，禁止阅览该罪人
+Obtained from the 'Yield My Flesh to Claim Their Bones' event	8	Obtained from the 'Yield My Flesh to Claim Their Bones' event	通过肉斩骨断活动获取
+Obtained from the Timekilling Time event	8	Obtained from the Timekilling Time event	通过时间杀人时间活动获取
+Obtained from the Murder on the WARP Express event	8	Obtained from the Murder on the WARP Express event	通过WARP快车谋杀案活动获取
+Obtained from the LCB Regular Check-up event	8	Obtained from the LCB Regular Check-up event	通过LCB定期体检活动获取
+Obtained from the 2nd Anniversary event	8	Obtained from the 2nd Anniversary event	通过2周年纪念活动获取
+Obtained from the 'Nocturnal Sweeping' event	8	Obtained from the 'Nocturnal Sweeping' event	通过深夜清扫活动获取
+Obtained from the 'Spring Cultivation' event	8	Obtained from the 'Spring Cultivation' event	通过切磋琢春活动获取
+Obtained from the Pilgrimage of Compassion event	8	Obtained from the Pilgrimage of Compassion event	通过善意的巡礼活动获取
+Obtained from the 3rd Anniversary event	8	Obtained from the 3rd Anniversary event	通过3周年纪念活动获取
+Obtained from the Twining Threads event	8	Obtained from the Twining Threads event	通过绞丝结线活动获取
+Obtained from the Mnestic Experience event	8	Obtained from the Mnestic Experience event	通过经验记忆活动获取
+Kurokumo Hong Lu	7	Kurokumo Hong Lu	黑云会 鸿璐
+R Corp. Ishmael	7	R Corp. Ishmael	R公司 以实玛利
+Blade Lineage Outis	7	Blade Lineage Outis	剑契组 奥提斯
+Blade Lineage Sinclair	7	Blade Lineage Sinclair	剑契组 辛克莱
+Seven Yi Sang	7	Seven Yi Sang	Seven协会 李箱
+All allies heal <VAR> SP	7	All allies <color=#80c9ff>heal {0} SP</color>	全体友方单位<color=#80c9ff>恢复{0}点理智值</color>
+Select to gain a Rupture E.G.O Gift	7	Select to gain a Rupture E.G.O Gift	选择后，获得1件破裂E.G.O饰品
+Tiantui Star <TAG>	7	Tiantui Star [天退星]	天退星
+Clash Power Up	7	Clash Power Up	拼点威力提升
+Echoes of the Manor	7	Echoes of the Manor	山庄的回响
