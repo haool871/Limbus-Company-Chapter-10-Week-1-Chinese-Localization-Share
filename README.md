@@ -82,8 +82,6 @@ patch/
 | **Ctrl + V**（粘贴到 `LLC_zh-CN` 下） | 进到第 2 步的 `LLC_zh-CN` 文件夹 |
 | 弹窗问是否替换 → 选 **「替换目标中的文件」** | — |
 
-> **macOS**：`Cmd + A` / `Cmd + C` / `Cmd + V`，弹窗选「替换」。
->
 > **Linux / Steam Deck**：终端执行
 > ```bash
 > cp -r patch/. "…/LimbusCompany_Data/Lang/LLC_zh-CN/"
