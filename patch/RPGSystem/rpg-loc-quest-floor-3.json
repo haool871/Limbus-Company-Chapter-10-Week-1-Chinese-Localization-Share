@@ -3,7 +3,7 @@
     {
       "key": "Q3001",
       "title": "前往3F",
-      "description": "2F目前正“进行改装”。可不管怎么看，那都不像是普通的施工。\n\n既然那一层暂时没法探索，不如先乘自动扶梯去3F看看吧。",
+      "description": "2F目前正“施工”中。可不管怎么看，那都不像是普通的施工。\n\n既然那一层暂时没法探索，不如先乘自动扶梯去3F看看吧。",
       "steps": [
         {
           "index": 0,
@@ -25,11 +25,11 @@
     {
       "key": "Q3003",
       "title": "前往走廊",
-      "description": "我们遇到了裁缝师安妮特。若日后需要织出一整卷布料，她想必能派上用场。\n总之，先离开这里吧。",
+      "description": "我们遇到了改衣师安妮特。若日后需要织出一整卷布料，她想必能派上用场。\n总之，先离开这里吧。",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "离开裁缝店，回到走廊"
+          "goalDescription1": "离开改衣店，回到走廊"
         }
       ]
     },
@@ -46,8 +46,8 @@
     },
     {
       "key": "Q3005",
-      "title": "与精品店的Le Rouge交谈",
-      "description": "我们走进了一家叫“精品店”的店。店内有个没有实体的声音——多半属于那位“巨人”——不断地念诵着某种咒文。\n去跟店员谈谈，看看能不能多了解这个地方。",
+      "title": "与Boutique du Rouge的Le Rouge交谈",
+      "description": "我们走进了一家叫“Boutique du Rouge”的店。店内某处不断传来一个声音，多半属于那位“巨人”。\n去跟店员谈谈，看看能不能多了解这个地方。",
       "steps": [
         {
           "index": 0,
@@ -101,12 +101,12 @@
     },
     {
       "key": "Q3010",
-      "title": "前往裁缝店",
-      "description": "会议仍在继续，丝毫没有散场的迹象。\n奥提斯和辛克莱交换了一个眼神，随后提议我们去裁缝店……也许他们想到什么主意了？",
+      "title": "前往改衣店",
+      "description": "会议仍在继续，丝毫没有散场的迹象。\n奥提斯和辛克莱交换了一个眼神，随后提议我们去改衣店……看来他们想到了什么好主意。",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "前往裁缝店"
+          "goalDescription1": "前往改衣店"
         }
       ]
     },
@@ -123,12 +123,12 @@
     },
     {
       "key": "Q3013",
-      "title": "清除被俘虏的Le Noir",
-      "description": "我们来到了Maison du Noir。\n经营这家店的两位Le Noir——弗兰内尔和菲尔特——想让自家品牌“高级化”，于是拜托我们清除几个被外来的“声音”俘虏的Le Noir。\n先清除三个左右被俘虏的Le Noir，再回去跟他们谈吧。",
+      "title": "清除被蛊惑的Le Noir",
+      "description": "我们来到了Maison du Noir。\n经营这家店的两位Le Noir——弗兰内尔和菲尔特——想让自家品牌“高级化”，于是拜托我们清除几个被外来的“声音”蛊惑的Le Noir。\n先清除三个左右被蛊惑的Le Noir，再回去跟他们谈吧。",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "清除3名被俘虏的Le Noir"
+          "goalDescription1": "清除3名被蛊惑的Le Noir"
         },
         {
           "index": 1,
@@ -139,11 +139,11 @@
     {
       "key": "Q3011",
       "title": "买一把剪刀，让会议散场",
-      "description": "我记得裁缝师安妮特在卖几把剪刀。\n去买一把“磨得锋利的裁缝剪”，然后回到西装组那里。\n奥提斯和辛克莱两人脸上，都挂着同样古怪而自得的笑容。\n\n等等，你们打算——？",
+      "description": "我记得改衣师安妮特在卖几把剪刀。\n去买一把“磨得锋利的裁缝剪”，然后回到西装组那里。\n奥提斯和辛克莱两人脸上，都挂着同样古怪而自得的笑容。\n\n等等，你们打算——？",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "从裁缝师安妮特那里买一把“磨得锋利的裁缝剪”"
+          "goalDescription1": "从改衣师安妮特那里买一把“磨得锋利的裁缝剪”"
         },
         {
           "index": 1,
@@ -172,19 +172,19 @@
     },
     {
       "key": "Q4015",
-      "title": "前往裁缝店",
-      "description": "我们回到了3F。把黄金线团拿去给裁缝师安妮特，她就能用它织出黄金面料。",
+      "title": "前往改衣店",
+      "description": "我们回到了3F。把黄金线团拿去给改衣师安妮特，她就能用它织出黄金面料。",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "前往裁缝店"
+          "goalDescription1": "前往改衣店"
         }
       ]
     },
     {
       "key": "Q4017",
       "title": "前往Boutique du Rouge",
-      "description": "从裁缝师安妮特那里拿到了黄金面料……接下来，该去取得那根“钉子”了。\n我们应该能在Boutique du Rouge拿到那根“钉子”——或者按Le Noir们的说法，“L'Inamovible的脊骨”。",
+      "description": "从改衣师安妮特那里拿到了黄金面料……接下来，该去取得那根“钉子”了。\n我们应该能在Boutique du Rouge拿到那根“钉子”——或者按Le Noir们的说法，“L'Inamovible的脊骨”。",
       "steps": [
         {
           "index": 0,
@@ -209,34 +209,34 @@
     },
     {
       "key": "Q3016T",
-      "title": "(내부) 플로어 매니저 개전 신호",
-      "description": "0901추가",
+      "title": "(内部) 楼层经理开战信号",
+      "description": "0901",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "(내부) 플로어 매니저 개전"
+          "goalDescription1": "(内部) 楼层经理开战"
         }
       ]
     },
     {
       "key": "Q3016H1",
-      "title": "(내부) 플로어 매니저 타격 1",
+      "title": "(内部) 楼层经理打击 1",
       "description": "0901",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "(내부) 플로어 매니저 타격 1"
+          "goalDescription1": "(内部) 楼层经理打击 1次"
         }
       ]
     },
     {
       "key": "Q3016H2",
-      "title": "(내부) 플로어 매니저 타격 2",
-      "description": "0901추가",
+      "title": "(内部) 楼层经理打击 2",
+      "description": "0901",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "(내부) 플로어 매니저 타격 2"
+          "goalDescription1": "(内部) 楼层经理打击 2次"
         }
       ]
     }

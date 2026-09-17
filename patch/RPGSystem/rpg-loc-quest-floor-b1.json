@@ -2,15 +2,15 @@
   "dataList": [
     {
       "key": "Q-1000",
-      "title": "A1：前往地下1层",
+      "title": "A1：前往B1F",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "前往B1F 美食馆"
+          "goalDescription1": "进入B1F 美食广场"
         },
         {
           "index": 1,
-          "goalDescription1": "讨论美食馆"
+          "goalDescription1": "讨论美食广场"
         }
       ]
     },
@@ -39,7 +39,7 @@
     {
       "key": "Q-1003",
       "title": "前往美食广场",
-      "description": "我们下到了B1F。这里的感觉确实和上面几层不同……\n要找黄金茧的话，大概得去那个叫“美食广场”的地方。先找找地上画着的蜗牛壳图案吧。",
+      "description": "我们下到了B1F。地下的景象与楼上的卖场截然不同……\n要找黄金茧的话，大概得去那个叫“美食广场”的地方。先找找地上画着的蜗牛壳图案吧。",
       "steps": [
         {
           "index": 0,
@@ -87,11 +87,11 @@
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "返回自动扶梯大厅对话"
+          "goalDescription1": "返回自动扶梯大厅"
         },
         {
           "index": 1,
-          "goalDescription1": "에스컬레이터실 복귀 대화"
+          "goalDescription1": "返回自动扶梯大厅的对话"
         }
       ]
     },
@@ -109,22 +109,22 @@
     {
       "key": "Q-1010",
       "title": "启动自动扶梯",
-      "description": "미사용",
+      "description": "未使用",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": ""
+          "goalDescription1": "启动自动扶梯"
         }
       ]
     },
     {
       "key": "Q-1011",
       "title": "乘自动扶梯下去",
-      "description": "미사용",
+      "description": "未使用",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": ""
+          "goalDescription1": "下到B2F"
         }
       ]
     }

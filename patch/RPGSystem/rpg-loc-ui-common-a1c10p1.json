@@ -2,7 +2,7 @@
   "dataList": [
     {
       "key": "ReturnToMainUiScene",
-      "text": "保存进度并"
+      "text": "要前往玻璃窗吗？\n<color=#ff0000>返回玻璃窗时，当前的探索进度可能不会被保存。</color>\n\n※ 探索进度会在任务完成／楼层移动／区域移动时自动保存。\n前往玻璃窗之前，请先确认当前的保存状态。"
     },
     {
       "key": "AskToMoveFloor",
@@ -22,7 +22,7 @@
     },
     {
       "key": "AccumulatedExp",
-      "text": "眼球消费统计"
+      "text": "当前累计消耗的眼球"
     },
     {
       "key": "RemainExpToNextLevel",
@@ -150,7 +150,7 @@
     },
     {
       "key": "Log_CurrencyEarned",
-      "text": "获得：{0}眼球"
+      "text": "获得{0}个眼球"
     },
     {
       "key": "Log_Purchased",
@@ -462,11 +462,11 @@
     },
     {
       "key": "Setting_Sisyphus_BattleStatus",
-      "text": "暗影中的状态"
+      "text": "影界现况"
     },
     {
       "key": "TheaterTitle",
-      "text": "影院"
+      "text": "放映室"
     },
     {
       "key": "SettingTitle",
@@ -494,7 +494,7 @@
     },
     {
       "key": "Setting_Sisyphus_MobileUnlockNotice",
-      "text": "标有\"※\"的功能需购买相关道具后才能解锁。"
+      "text": "标有“※”的功能需购买相关道具后才能解锁。"
     },
     {
       "key": "Rpg_Menu_Status_Ego_Resources_Owned",
