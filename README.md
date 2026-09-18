@@ -36,7 +36,7 @@
 ### 第 0 步：先装好零协会汉化包
 
 本补丁是**补丁**，不是完整汉化包。请先按官方指南装好零协会汉化：
-<https://www.zeroasso.top/docs/install/install>
+<https://www.zeroasso.top/docs/install/autoinstall>
 
 **装好的标志**：游戏目录里存在 `LimbusCompany_Data/Lang/LLC_zh-CN/` 这个文件夹。
 
