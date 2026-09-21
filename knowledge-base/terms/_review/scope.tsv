@@ -1,0 +1,12 @@
+# 变更检测结果：这一批需要译什么
+# rel	kind	en_records	base_records	patch_records	kr_records
+RPGSystem/rpg-loc-location-floor-3.json	B 零协有但未译完（补差额）	6	5	6	5
+StoryTheaterMain-a1c7p1.json	A 游戏有 / 零协无此文件	1	-1	1	0
+UserBanner-a1c7p3.json	A 游戏有 / 零协无此文件	4	-1	4	0
+UserBanner-a1c8p1.json	A 游戏有 / 零协无此文件	8	-1	8	0
+UserTicket-EGOBg-a1c7p3.json	A 游戏有 / 零协无此文件	3	-1	3	0
+UserTicket-EGOBg-a1c8p1.json	A 游戏有 / 零协无此文件	8	-1	8	0
+UserTicket-L-a1c7p3.json	A 游戏有 / 零协无此文件	3	-1	3	0
+UserTicket-L-a1c8p1.json	A 游戏有 / 零协无此文件	8	-1	8	0
+UserTicket-R-a1c7p3.json	A 游戏有 / 零协无此文件	3	-1	3	0
+UserTicket-R-a1c8p1.json	A 游戏有 / 零协无此文件	8	-1	8	0

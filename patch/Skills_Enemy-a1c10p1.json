@@ -5,8 +5,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "击打",
-          "desc": "若目标带有不低于4级[Vibration]强度，则使自身的最终威力+1",
+          "name": "痛殴",
+          "desc": "若目标的[Vibration]强度不低于4级，则使本技能的最终威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -24,8 +24,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "身体冲撞",
-          "desc": "若目标带有不低于4级[Vibration]强度，则使自身的最终威力+1",
+          "name": "躯干冲撞",
+          "desc": "若目标的[Vibration]强度不低于4级，则使本技能的最终威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -40,7 +40,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若自身带有[Laceration]，则对目标施加(自身的[Laceration]强度/2)层[Laceration](最多5层；每回合1次；向下取整)"
+                  "desc": "[OnSucceedAttack] 若自身带有[Laceration]，则对目标施加(自身的[Laceration]强度/2)层[Laceration](最多5层，每回合最多1次，向下取整)"
                 }
               ]
             }
@@ -53,8 +53,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "砸落",
-          "desc": "若目标带有不低于4级[Vibration]强度，则使自身的最终威力+1\n[WhenUse] 自身每带有1级[Laceration]强度，造成的伤害+1%(最多+20%)",
+          "name": "下砸",
+          "desc": "若目标的[Vibration]强度不低于4级，则使本技能的最终威力+1\n[WhenUse] 自身每带有1级[Laceration]强度，使本技能造成的伤害+1%(最多20%)",
           "coinlist": [
             {
               "coindescs": [
@@ -68,7 +68,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 若自身带有[Laceration]，则对目标施加(自身的[Laceration]强度)层[Laceration](最多8层；每回合1次)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 若自身带有[Laceration]，则对目标施加(自身的[Laceration]强度)层[Laceration](最多8层，每回合最多1次)"
                 }
               ]
             },
@@ -92,7 +92,7 @@
         {
           "level": 1,
           "name": "防御",
-          "desc": "[StartBattle] 恢复5点理智值\n[StartBattle] 下回合使自身获得1层[ResultEnhancement]",
+          "desc": "[StartBattle] 使自身恢复5点理智值\n[StartBattle] 下回合使自身获得1层[ResultEnhancement]",
           "coinlist": [
             {}
           ]
@@ -104,8 +104,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "打击",
-          "desc": "若目标带有不低于4级[Vibration]强度，则使自身的最终威力+1",
+          "name": "击打",
+          "desc": "若目标的[Vibration]强度不低于4级，则使本技能的最终威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -123,8 +123,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "身体阻截",
-          "desc": "若目标带有不低于4级[Vibration]强度，则使自身的最终威力+1",
+          "name": "躯干猛推",
+          "desc": "若目标的[Vibration]强度不低于4级，则使本技能的最终威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -139,7 +139,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若自身带有[Laceration]，则对目标施加(自身的[Laceration]强度/2)层[Laceration](最多5层；每回合1次；向下取整)"
+                  "desc": "[OnSucceedAttack] 若自身带有[Laceration]，则对目标施加(自身的[Laceration]强度/2)层[Laceration](最多5层，每回合最多1次，向下取整)"
                 }
               ]
             }
@@ -152,8 +152,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "砸落",
-          "desc": "若目标带有不低于4级[Vibration]强度，则使自身的最终威力+1\n[WhenUse] 自身每带有1级[Laceration]强度，造成的伤害+1%(最多+20%)",
+          "name": "猛砸",
+          "desc": "若目标的[Vibration]强度不低于4级，则使本技能的最终威力+1\n[WhenUse] 自身每带有1级[Laceration]强度，使本技能造成的伤害+1%(最多20%)",
           "coinlist": [
             {
               "coindescs": [
@@ -167,7 +167,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 若自身带有[Laceration]，则对目标施加(自身的[Laceration]强度)层[Laceration](最多8层；每回合1次)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 若自身带有[Laceration]，则对目标施加(自身的[Laceration]强度)层[Laceration](最多8层，每回合最多1次)"
                 }
               ]
             },
@@ -191,7 +191,7 @@
         {
           "level": 1,
           "name": "防御",
-          "desc": "[StartBattle] 恢复5点理智值\n[StartBattle] 下回合使自身获得1层[ResultEnhancement]",
+          "desc": "[StartBattle] 使自身恢复5点理智值\n[StartBattle] 下回合使自身获得1层[ResultEnhancement]",
           "coinlist": [
             {}
           ]
@@ -203,8 +203,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "别碰我……！",
-          "desc": "[WhenUse]\n- 若目标带有不低于6级[Vibration]强度，则使自身的硬币威力+1\n- [ChargeNoir]层数不低于10层时，使自身的硬币威力+1\n\n[WhenUse] 使自身获得2层[ChargeNoir]",
+          "name": "别碰我…！",
+          "desc": "[WhenUse]\n- 若目标的[Vibration]强度不低于6级，则使本技能的硬币威力+1\n- 若自身的[ChargeNoir]层数不低于10层，则使本技能的硬币威力+1\n\n[WhenUse] 使自身获得2层[ChargeNoir]",
           "coinlist": [
             {
               "coindescs": [
@@ -223,7 +223,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层[ChargeNoir]"
+                  "desc": "[OnSucceedAttack] 使目标获得2层[ChargeNoir]"
                 }
               ]
             }
@@ -236,8 +236,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "把手拿开……！",
-          "desc": "[WhenUse]\n- 若目标带有不低于6级[Vibration]强度，则使自身的硬币威力+1\n- [ChargeNoir]层数不低于10层时，使自身的硬币威力+1\n\n[WhenUse] 使自身获得4层[ChargeNoir]",
+          "name": "别摸我…！",
+          "desc": "[WhenUse]\n- 若目标的[Vibration]强度不低于6级，则使本技能的硬币威力+1\n- 若自身的[ChargeNoir]层数不低于10层，则使本技能的硬币威力+1\n\n[WhenUse] 使自身获得4层[ChargeNoir]",
           "coinlist": [
             {
               "coindescs": [
@@ -269,8 +269,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "我们不该做任何事……！",
-          "desc": "自身每带有1级[ChargeNoir]强度，造成的伤害+4%(最多+20%)\n\n[WhenUse] [ChargeNoir]层数不低于10层时，消耗10层[ChargeNoir]，使自身的硬币威力+1并使造成的伤害+20%",
+          "name": "都说了，我们什么事都不该做…！",
+          "desc": "自身每带有1级[ChargeNoir]强度，使本技能的造成的伤害+4%(最多20%)\n\n[WhenUse] 若自身的[ChargeNoir]层数不低于10层，则消耗10层[ChargeNoir]并使本技能的硬币威力+1，造成的伤害+20%",
           "coinlist": [
             {
               "coindescs": [
@@ -309,9 +309,9 @@
       "levelList": [
         {
           "level": 1,
-          "name": "翻找",
-          "desc": "若目标带有不低于6级[Laceration]强度，则使自身的最终威力+1",
-          "flavor": "这里一定有东西……有值得找到的东西……",
+          "name": "翻寻",
+          "desc": "若目标的[Laceration]强度不低于6级，则使本技能的最终威力+1",
+          "flavor": "理应会有的…理应会有什么东西才对…",
           "coinlist": [
             {
               "coindescs": [
@@ -330,7 +330,7 @@
         {
           "level": 1,
           "name": "抢夺",
-          "desc": "目标每带有3级[Laceration]强度，使自身的最终威力+1(最多+2)",
+          "desc": "目标每带有3级[Laceration]强度，使本技能的最终威力+1(最多+2)",
           "flavor": "这个是我的！",
           "coinlist": [
             {
@@ -359,8 +359,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "拿到了！",
-          "desc": "目标每带有3级[Laceration]强度，使自身的最终威力+1(最多+3)\n[WhenUse] 体力低于50%时，或目标带有不低于10级[Laceration]强度时，使所有硬币变为[SuperCoin]",
+          "name": "找到了！",
+          "desc": "目标每带有3级[Laceration]强度，使本技能的最终威力+1(最多+3)\n[WhenUse] 若现存体力低于50%或目标的[Laceration]强度不低于10级，则使本技能的所有硬币转化为[SuperCoin]",
           "coinlist": [
             {
               "coindescs": [
@@ -372,7 +372,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "暴击命中时造成的伤害+30%"
+                  "desc": "使本硬币暴击时造成的伤害+30%"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目标增加3级[Laceration]强度"
@@ -391,8 +391,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "不行，老兄！那是我的！",
-          "desc": "[WhenUse] 目标每带有2种效果，使自身增加2级[Breath]强度(最多5级)\n[WhenUse] 若目标带有不低于4种效果，则使自身获得1层[Breath]",
+          "name": "想得美！这个是我的！",
+          "desc": "[WhenUse] 目标每带有2种状态效果，使自身增加2级[Breath]强度(最多5级)\n[WhenUse] 若目标带有的状态效果数不少于4种，则使自身获得1层[Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -417,9 +417,9 @@
       "levelList": [
         {
           "level": 1,
-          "name": "翻找",
-          "desc": "若目标带有不低于6级[Laceration]强度，则使自身的最终威力+1",
-          "flavor": "这里一定有东西……有值得找到的东西……",
+          "name": "翻寻",
+          "desc": "若目标的[Laceration]强度不低于6级，则使本技能的最终威力+1",
+          "flavor": "理应会有的…理应会有什么东西才对…",
           "coinlist": [
             {
               "coindescs": [
@@ -438,7 +438,7 @@
         {
           "level": 1,
           "name": "抢夺",
-          "desc": "目标每带有3级[Laceration]强度，使自身的最终威力+1(最多+2)",
+          "desc": "目标每带有3级[Laceration]强度，使本技能的最终威力+1(最多+2)",
           "flavor": "这个是我的！",
           "coinlist": [
             {
@@ -467,8 +467,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "拿到了！",
-          "desc": "目标每带有3级[Laceration]强度，使自身的最终威力+1(最多+3)\n[WhenUse] 体力低于50%时，或目标带有不低于10级[Laceration]强度时，使所有硬币变为[SuperCoin]",
+          "name": "找到了！",
+          "desc": "目标每带有3级[Laceration]强度，使本技能的最终威力+1(最多+3)\n[WhenUse] 若现存体力低于50%或目标的[Laceration]强度不低于10级，则使本技能的所有硬币转化为[SuperCoin]",
           "coinlist": [
             {
               "coindescs": [
@@ -480,7 +480,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "暴击命中时造成的伤害+30%"
+                  "desc": "使本硬币暴击时造成的伤害+30%"
                 },
                 {
                   "desc": "[OnSucceedAttack] 对目标施加3层[Laceration]"
@@ -499,8 +499,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "不行，老兄！那是我的！",
-          "desc": "[WhenUse] 目标每带有2种效果，使自身增加2级[Breath]强度(最多5级)\n[WhenUse] 若目标带有不低于4种效果，则使自身获得1层[Breath]",
+          "name": "想得美！这个是我的！",
+          "desc": "[WhenUse] 目标每带有2种状态效果，使自身增加2级[Breath]强度(最多5级)\n[WhenUse] 若目标带有的状态效果数不少于4种，则使自身获得1层[Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -526,7 +526,7 @@
         {
           "level": 1,
           "name": "平针缝-经线",
-          "desc": "若目标带有不低于4级[Laceration]强度，则使自身的最终威力+1\n\n[WhenUse] 若目标带有不低于6级[Laceration]强度，则使所有硬币变为[SuperCoin]",
+          "desc": "若目标的[Laceration]强度不低于4级，则使本技能的最终威力+1\n\n[WhenUse] 若目标的[Laceration]强度不低于6级，则使本技能的所有硬币转化为[SuperCoin]",
           "coinlist": [
             {
               "coindescs": [
@@ -534,7 +534,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加3级[Laceration]强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加1级[PenetrateResistDown]强度"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层[PenetrateResistDown]"
                 }
               ]
             }
@@ -547,8 +547,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "假缝-经线",
-          "desc": "若目标带有不低于4级[Laceration]强度，则使自身的最终威力+1 ",
+          "name": "疏缝-经线",
+          "desc": "若目标的[Laceration]强度不低于4级，则使本技能的最终威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -560,10 +560,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级[NiddlePin]强度"
+                  "desc": "[OnSucceedAttack] 对目标施加1层[NiddlePin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加2级[Binding]强度"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层[Binding]"
                 }
               ]
             }
@@ -577,7 +577,7 @@
         {
           "level": 1,
           "name": "回针缝-经线",
-          "desc": "目标每带有4级[Laceration]强度，使自身的最终威力+1(最多+2)\n\n[WhenUse] 目标每带有1级[Laceration]强度，造成的伤害+1%(最多+20%)",
+          "desc": "目标每带有4级[Laceration]强度，使本技能的最终威力+1(最多+2)\n\n[WhenUse] 目标每带有1级[Laceration]强度，使本技能造成的伤害+1%(最多+20%)",
           "coinlist": [
             {
               "coindescs": [
@@ -588,13 +588,13 @@
                   "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度并对其施加2层[Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 重复使用该硬币1次(每个技能1次)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 重复使用本硬币1次(每个技能最多1次)"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 造成相当于目标[Laceration]强度的突刺伤害(最多30点)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 对目标造成相当于其[Laceration]强度的突刺伤害(最多30点)"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] 使目标增加1级[NiddlePin]强度"
+                  "desc": "[ReUseOnSucceedAttack] 对目标施加1层[NiddlePin]"
                 }
               ]
             }
@@ -619,7 +619,7 @@
         {
           "level": 1,
           "name": "平针缝-纬线",
-          "desc": "若目标带有不低于4级[Laceration]强度，则使自身的最终威力+1\n\n[WhenUse] 若目标带有不低于6级[Laceration]强度，则使所有硬币变为[SuperCoin]",
+          "desc": "若目标的[Laceration]强度不低于4级，则使本技能的最终威力+1\n\n[WhenUse] 若目标的[Laceration]强度不低于6级，则使本技能的所有硬币转化为[SuperCoin]",
           "coinlist": [
             {
               "coindescs": [
@@ -627,7 +627,7 @@
                   "desc": "[OnSucceedAttack] 对目标施加3层[Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加1级[PenetrateTakeDamageUp]强度"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层[PenetrateTakeDamageUp]"
                 }
               ]
             }
@@ -640,8 +640,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "假缝-纬线",
-          "desc": "若目标带有不低于4级[Laceration]强度，则使自身的最终威力+1 ",
+          "name": "疏缝-纬线",
+          "desc": "若目标的[Laceration]强度不低于4级，则使本技能的最终威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -653,10 +653,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级[NiddlePin]强度"
+                  "desc": "[OnSucceedAttack] 对目标施加1层[NiddlePin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加2级[Binding]强度"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层[Binding]"
                 }
               ]
             }
@@ -670,7 +670,7 @@
         {
           "level": 1,
           "name": "回针缝-纬线",
-          "desc": "目标每带有4级[Laceration]强度，使自身的最终威力+1(最多+2)\n\n[WhenUse] 目标每带有1级[Laceration]强度，造成的伤害+1%(最多+20%)",
+          "desc": "目标每带有4级[Laceration]强度，使本技能的最终威力+1(最多+2)\n\n[WhenUse] 目标每带有1级[Laceration]强度，使本技能造成的伤害+1%(最多+20%)",
           "coinlist": [
             {
               "coindescs": [
@@ -681,13 +681,13 @@
                   "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度并对其施加2层[Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 重复使用该硬币1次(每个技能1次)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 重复使用本硬币1次(每个技能最多1次)"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 造成相当于目标[Laceration]强度的突刺伤害(最多30点)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 对目标造成相当于其[Laceration]强度的突刺伤害(最多30点)"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] 使目标增加1级[NiddlePin]强度"
+                  "desc": "[ReUseOnSucceedAttack] 对目标施加1层[NiddlePin]"
                 }
               ]
             }

@@ -58,8 +58,8 @@ def main() -> int:
         print(f"    {name}: version={v.get('version')}  文件={len(glob.glob(os.path.join(p,'**','*.json'),recursive=True))}")
     if cur:
         ok(f"现行基准 = {os.path.relpath(cur, WS).split(os.sep)[0]}")
-        env = os.environ.get("LIMBUS_BASE_PACK", "(默认=最新包)")
-        print(f"      工具基准: {env}")
+        env = os.environ.get("LIMBUS_BASE_PACK")
+        print(f"      工具基准: {env or '(自动=最新包)'}")
     else:
         bad("找不到零协基础包"); problems += 1
 
@@ -130,8 +130,9 @@ def main() -> int:
         ok("环境就绪")
     print("\n  下一步：")
     print("    1) 读 workflow/与零协差距教材.md（开工前必读）")
-    print("    2) 算范围：见 workflow/更新与排障.md §6 第 3 步")
-    print("    3) 改完跑：python3 tools/verify_retrans.py --all")
+    print("    2) 算范围：python3 tools/scope.py        （新增在哪 + 逐条漏译清单）")
+    print("    3) 建骨架：python3 tools/scope.py --add-missing")
+    print("    4) 改完跑：python3 tools/verify_retrans.py --all")
     return 1 if problems else 0
 
 

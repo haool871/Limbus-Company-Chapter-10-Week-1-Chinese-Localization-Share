@@ -2,11 +2,11 @@
   "dataList": [
     {
       "key": "N101004",
-      "displayName": "红派店员 米莫萨"
+      "displayName": "红派店员 含羞草"
     },
     {
       "key": "N101006",
-      "displayName": "黑派店员 古斯塔夫"
+      "displayName": "黑派店员 居斯塔夫"
     },
     {
       "key": "N101009",
@@ -18,7 +18,7 @@
     },
     {
       "key": "N101011",
-      "displayName": "皮手套"
+      "displayName": "真皮手套"
     },
     {
       "key": "N101030",
@@ -26,7 +26,7 @@
     },
     {
       "key": "N101034",
-      "displayName": "针插手套"
+      "displayName": "针垫手套"
     }
   ]
 }

@@ -1386,19 +1386,19 @@
     },
     {
       "id": "10416_getCondition_normal",
-      "content": "获得 Haute Couture::黑派制鞋馆 良秀"
+      "content": "高级定制::黑派制鞋馆 良秀 获得时"
     },
     {
       "id": "10416_getCondition_gacksung",
-      "content": "将 Haute Couture::黑派制鞋馆 良秀同步至阶段3"
+      "content": "高级定制::黑派制鞋馆 良秀 3阶段同步完成"
     },
     {
       "id": "10816_getCondition_normal",
-      "content": "获得 Haute Couture::红派精品店 以实玛利"
+      "content": "高级定制::红派精品店 以实玛利 获得时"
     },
     {
       "id": "10816_getCondition_gacksung",
-      "content": "将 Haute Couture::红派精品店 以实玛利同步至阶段3"
+      "content": "高级定制::红派精品店 以实玛利 3阶段同步完成"
     }
   ]
 }

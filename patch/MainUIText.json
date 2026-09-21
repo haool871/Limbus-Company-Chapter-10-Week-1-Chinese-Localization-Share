@@ -130,7 +130,7 @@
     },
     {
       "id": "mainui_story_continue_next_desc",
-      "content": "要继续观看下一话吗？\n(将在领取可获得的首次观看奖励后继续进行)"
+      "content": "是否继续下一章节？\n（请先领取初次通关奖励再继续）"
     },
     {
       "id": "mainui_battleresult_reward",
@@ -518,7 +518,7 @@
     },
     {
       "id": "mainui_all",
-      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">全部</font>"
+      "content": "全部"
     },
     {
       "id": "mainui_opened",
@@ -2062,27 +2062,27 @@
     },
     {
       "id": "mainui_exp_dungeon_16_title",
-      "content": "经验采光迷宫 #10(斩击)"
+      "content": "经验采光 #10（斩击）"
     },
     {
       "id": "mainui_exp_dungeon_16_open_day",
-      "content": "经验采光迷宫 #10(斩击) 于周一、周二、周日开放。"
+      "content": "经验采光#10（斩击）将在周一、周二、周日开放。"
     },
     {
       "id": "mainui_exp_dungeon_17_title",
-      "content": "经验采光迷宫 #10(突刺)"
+      "content": "经验采光 #10（突刺）"
     },
     {
       "id": "mainui_exp_dungeon_17_open_day",
-      "content": "经验采光迷宫 #10(突刺) 于周三、周四、周日开放。"
+      "content": "经验采光#10（突刺）将在周三、周四、周日开放。"
     },
     {
       "id": "mainui_exp_dungeon_18_title",
-      "content": "经验采光迷宫 #10(打击)"
+      "content": "经验采光 #10（打击）"
     },
     {
       "id": "mainui_exp_dungeon_18_open_day",
-      "content": "经验采光迷宫 #10(打击) 于周五、周六、周日开放。"
+      "content": "经验采光#10（打击）将在周五、周六、周日开放。"
     }
   ]
 }

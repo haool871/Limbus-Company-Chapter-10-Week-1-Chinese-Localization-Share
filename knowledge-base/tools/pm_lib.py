@@ -38,12 +38,35 @@ OFFICIAL_LOCALIZE = os.path.join(
 # 工作区根（汉化包来源），默认取本文件上溯两级
 _KB_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WORKSPACE = os.environ.get("LIMBUS_WORKSPACE", os.path.dirname(_KB_DIR))
+def _pick_base_pack() -> str:
+    """零协基础包目录名。
+
+    优先环境变量 LIMBUS_BASE_PACK；否则扫描工作区里所有
+    LimbusLocalize_latest*，按 Info/version.json 的 version 取最大的那个。
+
+    ⚠️ 不要写死版本号——零协每次更新都会换目录名，写死会导致
+       零协一升级、旧目录一删，全部工具就指向不存在的路径。
+    """
+    env = os.environ.get("LIMBUS_BASE_PACK")
+    if env:
+        return env
+    import glob
+    best, best_v = None, -1
+    for d in sorted(glob.glob(os.path.join(WORKSPACE, "LimbusLocalize_latest*"))):
+        vj = os.path.join(d, "LimbusCompany_Data", "Lang", "LLC_zh-CN",
+                          "Info", "version.json")
+        try:
+            with open(vj, encoding="utf-8-sig") as fh:
+                v = json.load(fh).get("version", 0)
+        except Exception:
+            v = 0
+        if v > best_v:
+            best, best_v = os.path.basename(d), v
+    return best or "LimbusLocalize_latest"
+
+
 CN_LOCALIZE = os.path.join(
-    WORKSPACE,
-    os.environ.get("LIMBUS_BASE_PACK", "LimbusLocalize_latest20260921"),
-    "LimbusCompany_Data",
-    "Lang",
-    "LLC_zh-CN",
+    WORKSPACE, _pick_base_pack(), "LimbusCompany_Data", "Lang", "LLC_zh-CN",
 )
 
 LANG_PREFIX = {"kr": "KR_", "en": "EN_", "jp": "JP_"}

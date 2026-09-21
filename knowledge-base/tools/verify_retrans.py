@@ -37,8 +37,29 @@ PATCH = os.path.join(_KB, "patch_v2")
 # 零协汉化基础包：**覆盖文件**的权威基准。
 # 对「基础包已有该 id」的记录，零协原文就是唯一标准，
 # 不能拿官方英文源去比对（两者字段名/结构并不一致，会制造大量伪错误）。
-BASE = os.path.join(WORKSPACE,
-                    os.environ.get("LIMBUS_BASE_PACK", "LimbusLocalize_latest20260921"),
+def _pick_base_pack() -> str:
+    """零协基础包目录名：取工作区里 version 最大的 LimbusLocalize_latest*。
+
+    ⚠️ 不要写死版本号——零协一更新就会换目录名。
+    """
+    env = os.environ.get("LIMBUS_BASE_PACK")
+    if env:
+        return env
+    import glob
+    best, best_v = None, -1
+    for d in sorted(glob.glob(os.path.join(WORKSPACE, "LimbusLocalize_latest*"))):
+        try:
+            with open(os.path.join(d, "LimbusCompany_Data", "Lang", "LLC_zh-CN",
+                                   "Info", "version.json"), encoding="utf-8-sig") as fh:
+                v = json.load(fh).get("version", 0)
+        except Exception:
+            v = 0
+        if v > best_v:
+            best, best_v = os.path.basename(d), v
+    return best or "LimbusLocalize_latest"
+
+
+BASE = os.path.join(WORKSPACE, _pick_base_pack(),
                     "LimbusCompany_Data", "Lang", "LLC_zh-CN")
 GAME = os.environ.get("LIMBUS_GAME_ROOT",
                       "/home/shb/.local/share/Steam/steamapps/common/Limbus Company")

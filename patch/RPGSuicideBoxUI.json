@@ -2,63 +2,63 @@
   "dataList": [
     {
       "id": "rpg_suicidebox_reset_button_text",
-      "content": "清算\n（重置）"
+      "content": "整理库存\n（重置）"
     },
     {
       "id": "rpg_suicidebox_reset_confirm_desc",
-      "content": "是否进行清算？\n\n选择后，当前进行中的轮次记录将被重置，且无法恢复。"
+      "content": "要整理库存吗？\n\n选择后，将重置当前进行的周目记录，无法恢复。"
     },
     {
       "id": "rpg_suicidebox_hardreset_button_text",
-      "content": "停业\n（硬重置）"
+      "content": "关店\n（格式化）"
     },
     {
       "id": "rpg_suicidebox_hardreset_confirm_desc",
-      "content": "是否进行停业？\n\n选择后，所有轮次的记录都将被重置，且无法恢复。"
+      "content": "要关店吗？\n\n选择后，将重置所有周目记录，无法恢复。"
     },
     {
       "id": "rpg_suicidebox_main_screen_desc_default",
-      "content": "自我了断，无异于对未被理解的人生所作出的坦白。\n那么，你又要以何种方式了断性命，将其献给人生？"
+      "content": "亲手结束生命，\n无异于坦言自己未曾理解生活。\n那么，你会以怎样的方式结束生命，献身于生活。"
     },
     {
       "id": "rpg_suicidebox_coming_soon",
-      "content": "预计于{0}月{1}日（KST）更新"
+      "content": "预计于{0}月{1}日(KST)更新"
     },
     {
       "id": "rpg_suicidebox_intro_ab_1",
-      "content": "将一生仅此一次的瞬间，体验得更加鲜明。\n今天也感谢您使用本公司的自杀自动贩卖机。"
+      "content": "使一生仅此一次的瞬间更为鲜明。\n感谢您今日使用自杀贩卖机。"
     },
     {
       "id": "rpg_suicidebox_intro_ab_2",
-      "content": "本机型为家庭、朋友、情侣等多人共同使用的共享体验型设施。"
+      "content": "本型号属于共享体验型设施，可供家人、亲友、恋人等多名用户共同使用。"
     },
     {
       "id": "rpg_suicidebox_intro_ab_3",
-      "content": "大湖遇难、列车撞击、药物过量中毒、雷击、失温症等部分自杀体验无法选择。\n希望获得更丰富体验的顾客，请使用单人用自杀自动贩卖机。"
+      "content": "您无法选择大湖遇难、列车碰撞、药物过量、雷击、低体温症等部分自杀体验。\n需要更加多样化体验的用户，请使用单人用自杀贩卖机。"
     },
     {
       "id": "rpg_suicidebox_intro_ab_4",
-      "content": "毫无负担地体验惊悚的恐怖与刺激。\n请按下下方按钮之一，体验与众不同的死亡。"
+      "content": "轻松体验令人战栗不已的恐惧与激昂。\n请按下方任一按钮，体验非同一般的死亡。"
     },
     {
       "id": "rpg_suicidebox_pressed_dialog_ab",
-      "content": "孕妇、老弱者、药物使用者及心血管疾病患者请谨慎使用。\n因过度使用而引发的事故，责任全部由使用者本人承担。"
+      "content": "孕妇、老年人、体弱人士、服药人士以及心血管疾病患者请谨慎使用。\n若因过度使用而发生事故，一切责任将由用户自行承担。"
     },
     {
       "id": "rpg_suicidebox_enter_notice_condition_b",
-      "content": "- 人格：同步 4阶段\n- E.G.O：异想解析 4阶段"
+      "content": "- 人格：同步4阶段\n- E.G.O：异想解析4阶段"
     },
     {
       "id": "rpg_suicidebox_enter_notice_question_b",
-      "content": "是否使用自杀自动贩卖机？"
+      "content": "要使用自杀贩卖机吗？"
     },
     {
       "id": "rpg_suicidebox_enter_notice_condition_c",
-      "content": "- 人格：同步 4阶段\n- E.G.O：异想解析 4阶段"
+      "content": "- 人格：同步4阶段\n- E.G.O：异想解析4阶段"
     },
     {
       "id": "rpg_suicidebox_enter_notice_question_c",
-      "content": "是否使用自杀自动贩卖机？"
+      "content": "要使用自杀贩卖机吗？"
     }
   ]
 }

@@ -90,7 +90,7 @@
     },
     {
       "id": "serverstate_server_busy",
-      "content": "服务器目前繁忙。\n请稍后再试。"
+      "content": "当前服务器繁忙。\n请稍后重试。"
     },
     {
       "id": "forcequit_content",

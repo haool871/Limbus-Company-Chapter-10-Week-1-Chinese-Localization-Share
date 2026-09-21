@@ -2,7 +2,7 @@
   "dataList": [
     {
       "key": "N101002",
-      "displayName": "克罗默的姐姐"
+      "displayName": "克罗默姐姐"
     },
     {
       "key": "N101003",
@@ -22,27 +22,27 @@
     },
     {
       "key": "N101012",
-      "displayName": "观望的顾客"
+      "displayName": "正在浏览商品的顾客"
     },
     {
       "key": "N101013",
-      "displayName": "正在接受治疗的顾客"
+      "displayName": "正在接受手术的顾客"
     },
     {
       "key": "N101014",
-      "displayName": "正在接受治疗的顾客"
+      "displayName": "正在接受手术的顾客"
     },
     {
       "key": "N101015",
-      "displayName": "观望的顾客"
+      "displayName": "正在浏览商品的顾客"
     },
     {
       "key": "N101016",
-      "displayName": "寒酸的克罗默姐姐"
+      "displayName": "衣衫褴褛的克罗默姐姐"
     },
     {
       "key": "N101017",
-      "displayName": "???"
+      "displayName": "？？？"
     },
     {
       "key": "N101018",
@@ -94,11 +94,11 @@
     },
     {
       "key": "N999901",
-      "displayName": "발소리 Fixed 예시(참고용 — 스폰 미배치)"
+      "displayName": "脚步声fixed示例（参考用-未配置定位）"
     },
     {
       "key": "N101031",
-      "displayName": "焦躁的顾客"
+      "displayName": "焦虑的顾客"
     },
     {
       "key": "N101032",
@@ -106,7 +106,7 @@
     },
     {
       "key": "N101033",
-      "displayName": "穷困的顾客"
+      "displayName": "贫困的顾客"
     }
   ]
 }

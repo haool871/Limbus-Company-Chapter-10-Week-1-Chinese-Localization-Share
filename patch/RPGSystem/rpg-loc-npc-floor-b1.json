@@ -22,7 +22,7 @@
     },
     {
       "key": "N201005",
-      "displayName": "口部试味员"
+      "displayName": "口部试吃员"
     },
     {
       "key": "N201007",
@@ -38,7 +38,7 @@
     },
     {
       "key": "N201008",
-      "displayName": "口渴的褐派"
+      "displayName": "干渴的褐派"
     },
     {
       "key": "N201009",
@@ -50,23 +50,23 @@
     },
     {
       "key": "N201011",
-      "displayName": "达尔蓬的尸体"
+      "displayName": "蜗牛的尸骸"
     },
     {
       "key": "N201019",
-      "displayName": "口渴的褐派"
+      "displayName": "干渴的褐派"
     },
     {
       "key": "N201020",
-      "displayName": "贪食的褐派"
+      "displayName": "贪婪的褐派"
     },
     {
       "key": "N201021",
-      "displayName": "口渴的褐派"
+      "displayName": "干渴的褐派"
     },
     {
       "key": "N201022",
-      "displayName": "腹中空空的褐派"
+      "displayName": "饥饿的褐派"
     },
     {
       "key": "N201023",
@@ -74,27 +74,27 @@
     },
     {
       "key": "N201024",
-      "displayName": "贪食的褐派"
+      "displayName": "贪婪的褐派"
     },
     {
       "key": "N201025",
-      "displayName": "口渴的褐派"
+      "displayName": "干渴的褐派"
     },
     {
       "key": "N201026",
-      "displayName": "无法辨认的尸体"
+      "displayName": "某物的尸体"
     },
     {
       "key": "N201027",
-      "displayName": "通向黑暗的门"
+      "displayName": "黑暗中的门"
     },
     {
       "key": "N201028",
-      "displayName": "口渴的褐派"
+      "displayName": "干渴的褐派"
     },
     {
       "key": "N201029",
-      "displayName": "腹中空空的褐派"
+      "displayName": "饥饿的褐派"
     },
     {
       "key": "N201032",
@@ -102,7 +102,7 @@
     },
     {
       "key": "N201033",
-      "displayName": "起疑的褐派"
+      "displayName": "多疑的褐派"
     }
   ]
 }

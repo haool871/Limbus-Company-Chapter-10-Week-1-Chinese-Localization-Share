@@ -10,3 +10,6 @@ Thumbs.db
 knowledge-base/data/corpus.jsonl
 knowledge-base/data/_align.pkl
 knowledge-base/data/voice_samples.md
+
+# 合并审计报告（7 千余行，每次合并重新生成；工作区 _kb/terms/_review/ 里保留）
+knowledge-base/terms/_review/merge_zeroasso.tsv

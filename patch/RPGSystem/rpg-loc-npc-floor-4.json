@@ -2,15 +2,15 @@
   "dataList": [
     {
       "key": "N104010",
-      "displayName": "???"
+      "displayName": "？？？"
     },
     {
       "key": "N104012",
-      "displayName": "四足"
+      "displayName": "四脚人"
     },
     {
       "key": "N104011",
-      "displayName": "单足"
+      "displayName": "单脚人"
     },
     {
       "key": "N104009",
@@ -22,23 +22,23 @@
     },
     {
       "key": "N104005",
-      "displayName": "皮肉沙发"
+      "displayName": "人皮沙发"
     },
     {
       "key": "N104003",
-      "displayName": "弧形落地灯"
+      "displayName": "驼背落地灯"
     },
     {
       "key": "N104002",
-      "displayName": "挂骨架"
+      "displayName": "骨衣架"
     },
     {
       "key": "N104004",
-      "displayName": "剥制皮革窗帘"
+      "displayName": "剥制皮窗帘"
     },
     {
       "key": "N104006",
-      "displayName": "幸福衣柜"
+      "displayName": "快乐衣橱"
     },
     {
       "key": "N101018",
@@ -54,15 +54,15 @@
     },
     {
       "key": "N104015",
-      "displayName": "双生灯"
+      "displayName": "双子台灯"
     },
     {
       "key": "N104016",
-      "displayName": "红垫凳"
+      "displayName": "红色软凳"
     },
     {
       "key": "N104017",
-      "displayName": "柔软皮床"
+      "displayName": "舒服的皮床"
     },
     {
       "key": "N104018",
@@ -74,19 +74,19 @@
     },
     {
       "key": "N104020",
-      "displayName": "皮肉沙发"
+      "displayName": "人皮沙发"
     },
     {
       "key": "N104021",
-      "displayName": "红垫凳"
+      "displayName": "红色软凳"
     },
     {
       "key": "N104022",
-      "displayName": "长柄灯"
+      "displayName": "长条灯"
     },
     {
       "key": "N104023",
-      "displayName": "皮肉沙发"
+      "displayName": "人皮沙发"
     }
   ]
 }

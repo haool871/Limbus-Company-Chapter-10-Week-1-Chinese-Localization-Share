@@ -2,542 +2,542 @@
   "dataList": [
     {
       "key": "I104002",
-      "displayName": "幸福衣柜的衣服",
-      "description": "幸福衣柜赠予的一套衣服。把它交给弧形落地灯吧。"
+      "displayName": "快乐衣橱中的衣服",
+      "description": "快乐衣橱给予的衣服。给驼背落地灯穿上吧。"
     },
     {
       "key": "I104003",
       "displayName": "纸片",
-      "description": "从幸福衣柜的残骸中回收的纸片。上面写着“幸福”二字。它对结构毫无用处，却让幸福衣柜得以继续存在。"
+      "description": "从快乐衣橱的残骸中发现的纸片。上面写着“快乐”。虽然在结构上没有发挥任何作用，但它使快乐衣橱得以继续存在。"
     },
     {
       "key": "I1201",
       "displayName": "录音带",
-      "description": "赤色之神旧日的声音再度响起，重复着它曾经念诵过的话语。那正是红派们曾听见的声音。信仰更坚者，能听见更深刻的故事。"
+      "description": "赤红之神曾吟诵着的往昔之声不断反复播放着。红派们所听见的声音。某些虔信者能从中听到更为深刻的话语。"
     },
     {
       "key": "I1206",
-      "displayName": "磨得锋利的裁缝剪",
-      "description": "剪刀借两极之结合，切开存在。"
+      "displayName": "锋利的缝衣剪",
+      "description": "剪刀通过将对立的两极结合来划分存在。"
     },
     {
       "key": "I1207",
-      "displayName": "黑派正品认证书",
-      "description": "兹证明该顾客为黑派的模范顾客，并为维护本品牌的价值作出了贡献。"
+      "displayName": "黑派的鉴定报告",
+      "description": "该顾客为黑派的优秀顾客，致力于品牌价值的保存。"
     },
     {
       "key": "I1208",
-      "displayName": "黑红之线",
-      "statText": "在象征界中<color=#00ff9c>HP</color> +1\n\n在象征界中<color=#fe4b48>攻击速度</color> +10%\n\n在象征界中<color=#F8C200>移动速度</color> +5%\n\n对象征界中的黑派店员[阳光]与红派店员[阳光]类敌人：\n- 受到的<color=#fe4b48>伤害</color> -1\n- 造成的<color=#fe4b48>伤害</color> +1",
-      "description": "当光从裂缝中洒落，触及每一个人时，百货店里的顾客们开始发生变化。他们变成了自己所追寻的价值，变成了他们所追随的品牌所追寻的价值。在变化中失去理性者，后来被称为人体模型。然而本质上，他们与我们并无不同。"
+      "displayName": "黑与红之丝",
+      "statText": "在象征界中<color=#00ff9c>体力</color>+1\n\n在象征界中<color=#fe4b48>攻击速度</color>+10%\n\n在象征界中<color=#F8C200>移动速度</color>+5%\n\n在象征界中受到黑派店员[阳光]与红派店员[阳光]的<color=#fe4b48>伤害</color>-1，对其造成的<color=#fe4b48>伤害</color>+1",
+      "description": "当光线透过裂隙，接触到百货店中的所有人时，他们逐渐发生了改变。那是向着他们所追求的价值的姿态、他们所信奉的品牌所追求的价值的姿态的改变。若在这种变化中失去了理性，就只能被称之为人台，本质上并没有任何改变。"
     },
     {
       "key": "I990001",
-      "displayName": "钉子",
-      "statText": "在象征界中，<color=#F8C200>弱点攻击</color>造成的<color=#fe4b48>伤害</color> +1\n弱点攻击：从敌人背后攻击时触发（部分敌人除外）",
-      "description": "一根钉子。钉子能把对象固定住。没有锤子便钉不进去。可是，若是自己扑向钉子，无论有没有锤子，都会把自己钉死。"
+      "displayName": "尖钉",
+      "statText": "在象征界中<color=#F8C200>弱点攻击</color>造成的<color=#fe4b48>伤害</color>+1\n- 弱点攻击：在敌方单位后方攻击时触发(不包括部分敌方单位)",
+      "description": "一根尖钉。钉子会将其对象固定。若没有锤子，就无法钉入。但，即便没有锤子，投身于钉中的人们也会自行将自己钉起。"
     },
     {
       "key": "I990006",
-      "displayName": "钝了的裁缝剪",
-      "description": "你是在问，改衣师是否该保持中立？黑派偏爱面料，红派偏爱皮革。想想看：那么，哪个品牌更需要改衣师……她又更愿意把剪刀交给谁呢？"
+      "displayName": "用钝的缝衣剪",
+      "description": "你问我裁缝不应该保持中立吗？黑派喜好面料，红派喜好皮革，那么裁缝到底更需要哪一方，又应该给哪一方更多的剪刀呢？"
     },
     {
       "key": "I990101",
-      "displayName": "黑派现代开衫",
-      "statText": "象征界<color=#00ff9c>HP</color> +2",
-      "description": "你还记得西西弗百货的墙壁上出现的第一道裂缝吗？"
+      "displayName": "黑派当代开衫毛衣",
+      "statText": "在象征界中<color=#00ff9c>体力</color>+2",
+      "description": "你还记得百货店的墙壁第一次出现裂隙的时候吗？"
     },
     {
       "key": "I990102",
-      "displayName": "黑派现代帽",
-      "statText": "象征界<color=#00ff9c>HP</color> +2",
-      "description": "西西弗百货，理当被永久保存。"
+      "displayName": "黑派当代礼帽",
+      "statText": "在象征界中<color=#00ff9c>体力</color>+2",
+      "description": "百货店，必须被保存下来。"
     },
     {
       "key": "I990103",
-      "displayName": "黑派现代绅士帽",
-      "statText": "若玩家不进行任何操作，每5秒<color=#00ff9c>恢复</color>1点象征界<color=#00ff9c>HP</color>（3次）\n- 在泉眼休息可重新充能",
-      "description": "裂缝扩散得更宽，成倍增加。为什么？"
+      "displayName": "黑派当代绅士帽",
+      "statText": "在象征界中未进行任何操作时，每5秒<color=#00ff9c>恢复</color>1点在象征界中的<color=#00ff9c>体力</color>(最多3次)\n- 在泉休息时重置",
+      "description": "裂隙变得越来越大、越来越多。为什么？"
     },
     {
       "key": "I990104",
-      "displayName": "红派休闲装拉链连帽衫",
-      "statText": "在象征界中造成的<color=#fe4b48>伤害</color> +1",
-      "description": "我们的神到哪里去了？"
+      "displayName": "红派快销品拉链连帽衫",
+      "statText": "在象征界中攻击造成的<color=#fe4b48>伤害</color>+1",
+      "description": "我们的神去了哪里……"
     },
     {
       "key": "I990105",
-      "displayName": "红派休闲装裙",
-      "statText": "在象征界中<color=#F8C200>移动速度</color> +5%\n\n象征界<color=#00ff9c>HP</color> +1",
-      "description": "我已经听不到赤色之神的声音了……"
+      "displayName": "红派快销品短裙",
+      "statText": "在象征界中<color=#F8C200>移动速度</color>+5%\n\n在象征界中<color=#00ff9c>体力</color>+1",
+      "description": "赤红之神的声音，我再也没能听见……"
     },
     {
       "key": "I990106",
-      "displayName": "红派现代拉链",
-      "statText": "在象征界中解锁<color=#F8C200>疾跑</color>\n- 疾跑：<color=#F8C200>移动速度</color> +30%",
-      "description": "红派们在生活与生命的每一次脉动中寻得价值与意义。他们满怀期待地等待着经验。"
+      "displayName": "红派当代拉链",
+      "statText": "在象征界中解锁<color=#F8C200>奔跑</color>\n- 奔跑时<color=#F8C200>移动速度</color>+30%",
+      "description": "红派为生命及其搏动赋予价值与意义。并期待其经验。"
     },
     {
       "key": "I990107",
-      "displayName": "红派现代袜",
-      "statText": "在影界中进入战斗时，对所有敌人施加2级<color=#F8C200>流血</color>强度并施加2层<color=#F8C200>流血</color>\n\n象征界<color=#00ff9c>HP</color> +1",
-      "description": "红是血，是肉，是皮。"
+      "displayName": "红派当代短袜",
+      "statText": "在阴影界中，进入战斗时，使全体敌方单位增加2级<color=#F8C200>流血</color>强度并对其施加2层<color=#F8C200>流血</color>\n\n在象征界中<color=#00ff9c>体力</color>+1",
+      "description": "赤色乃是血、肉与皮。"
     },
     {
       "key": "I990108",
-      "displayName": "巨大的利针（43cm）",
-      "description": "听见温暖声音者变成了人体模型。而在这些之中，被那声音拥抱得最深的，还能再往前多走一步。"
+      "displayName": "长43cm的大而锋利的尖钉",
+      "description": "聆听温暖的声音后，变成了人台的存在。人台中那些在声音的怀抱中陷落得更深的存在，能够藉此得以更进一步。"
     },
     {
       "key": "I990110",
       "displayName": "能量饮料",
-      "statText": "在象征界中，命中敌人后5秒内不再攻击，则下一次攻击的<color=#fe4b48>伤害</color> +3",
-      "description": "在西西弗百货，食物不是为了补充能量或维持生存而吃的。它只为一个目的而被享用：填饱心里的饥饿。"
+      "statText": "在象征界中，攻击命中后的5秒内未攻击时，使下次在象征界中的攻击造成的<color=#fe4b48>伤害</color>+3",
+      "description": "在西西弗百货里，进食并非是为了获取热量或是生存。只是为了填满那饥饿的心而不断摄取。"
     },
     {
       "key": "I990303",
-      "displayName": "改衣室出售的面料",
-      "statText": "象征界<color=#00ff9c>HP</color> +1",
-      "description": "我不属于红派，也不属于黑派。我属于中立的价值。无论哪个品牌来求面料，我都乐意与之交易。"
+      "displayName": "改衣室所售的布料",
+      "statText": "在象征界中<color=#00ff9c>体力</color>+1",
+      "description": "既非红派也非黑派的我，追求的是中立的价值。不管是哪个品牌想要面料，我都乐于与他们做些交易。"
     },
     {
       "key": "I990304",
       "displayName": "红派精品店太阳镜",
-      "statText": "在象征界中，<color=#F8C200>弱点攻击</color>造成的<color=#fe4b48>伤害</color> +1\n\n象征界<color=#00ff9c>HP</color> +1",
-      "description": "你戴上太阳镜，是因为光太刺眼。然后你又回头去看太阳。戴太阳镜不是为了避开阳光，而是为了更清楚地看见它。"
+      "statText": "在象征界中<color=#F8C200>弱点攻击</color>造成的<color=#fe4b48>伤害</color>+1\n\n在象征界中<color=#00ff9c>体力</color>+1",
+      "description": "由于日光太过刺眼，因此戴上了太阳镜。而后又继续注视着日光。戴上太阳镜并不是为了不去注视日光，而是为了能看得更清楚。"
     },
     {
       "key": "I990305",
-      "displayName": "红派精品店 T恤",
-      "statText": "在象征界中，命中攻击时<color=#F8C200>移动速度</color> +5%\n\n象征界<color=#00ff9c>HP</color> +1",
-      "description": "当我们的神沉默下来，裂缝张得更开时……我们之中有些人又听见了那声音。"
+      "displayName": "红派精品店T恤衫",
+      "statText": "在象征界中攻击命中后的5秒内<color=#F8C200>移动速度</color>+5%\n\n在象征界中<color=#00ff9c>体力</color>+1",
+      "description": "当我们的神陷入沉默，裂隙越来越宽……有些人再次听到了那声音。"
     },
     {
       "key": "I990306",
-      "displayName": "红派精品店牛仔布",
-      "statText": "在象征界中<color=#fe4b48>攻击速度</color> +10%",
-      "description": "红派们偏爱修身剪裁。比之更能彰显时装价值的，莫过于把身体本身的线条显露出来。"
+      "displayName": "红派精品店牛仔裤",
+      "statText": "在象征界中攻击的<color=#fe4b48>攻击速度</color>+10%",
+      "description": "红派追求的是修身。因为展现身体的曲线才是时尚的价值所在。"
     },
     {
       "key": "I990307",
-      "displayName": "Maison du Noir领带",
-      "statText": "象征界<color=#00ff9c>HP</color> +2",
-      "description": "我们提供的——由黑派们设计的精致衣装——遮掩顾客的身体，并矫正其下的轮廓。时尚的价值在于它遮蔽之物。"
+      "displayName": "黑派品牌世家领带",
+      "statText": "在象征界中<color=#00ff9c>体力</color>+2",
+      "description": "黑派的服饰能够遮盖客人们的身体，从而修饰体型。被遮住的身体，才是时尚的价值。"
     },
     {
       "key": "I990308",
-      "displayName": "Maison du Noir长裤",
-      "statText": "在象征界中，受击时<color=#F8C200>无敌帧</color> +0.05秒",
-      "description": "这奇怪的声音似乎会让听见它的人发疯，无论是黑派还是红派。"
+      "displayName": "黑派品牌世家休闲裤",
+      "statText": "在象征界中受到攻击时的<color=#F8C200>无敌</color>时间+0.05秒",
+      "description": "无论是黑派还是红派……在听过某人的声音后，都出现了一些疯子。"
     },
     {
       "key": "I990309",
-      "displayName": "Maison du Noir衬衫",
-      "statText": "在影界中进入战斗时，对所有敌人施加2级<color=#F8C200>震颤</color>强度并施加2层<color=#F8C200>震颤</color>\n\n影界中的战斗期间：友方单位受到攻击时，该友方单位获得2层<color=#F8C200>充能</color>（每回合5次）",
-      "description": "西西弗百货里满是人体模型。在阳光开始从裂缝渗出之前，他们都有两条手臂和两条腿，而衣装也是照着那个形状缝制的。"
+      "displayName": "黑派品牌世家衬衫",
+      "statText": "在阴影界中，进入战斗时，使全体敌方单位增加2级<color=#F8C200>震颤</color>强度并对其施加2层<color=#F8C200>震颤</color>\n\n在阴影界中，友方单位受到攻击时，使其获得2层<color=#F8C200>充能</color>(每回合最多5次)",
+      "description": "百货店里挤满了人台。在光线穿透裂隙之前，每个人都有着两只手臂和两条腿，制作的是与他们的样子相称的服饰。"
     },
     {
       "key": "I990310",
       "displayName": "鸟笼",
-      "statText": "在象征界中，受击时有20%概率使<color=#fe4b48>受到的伤害</color> -20%（向下取整）\n\n在影界中进入战斗时，所有罪人获得4层<color=#F8C200>充能</color>",
-      "description": "笼子让自由得以存eeeeee在。没有笼子，自由便毫无意义义义义。"
+      "statText": "在象征界中受到攻击时，以20%的概率使受到的<color=#fe4b48>伤害</color>-20%(向下取整)\n\n在阴影界中，进入战斗时，使全体罪人获得4层<color=#F8C200>充能</color>",
+      "description": "有鸟笼才有自由哦哦哦。在没有鸟笼的地方，连自由这一意义都不存在哎哎哎……"
     },
     {
       "key": "I990312",
-      "displayName": "黄金钉",
-      "description": "以文明最尊贵的材料，将原初的脊骨包裹其中，黄金钉便由此而成。\n这根针刺穿一切境界，自最低至最高。然后，撕裂。"
+      "displayName": "黄金之钉",
+      "description": "以最为高贵的文明之材料包裹最为原始的脊骨，所制成的黄金之钉。自最低之物至最高之物，这根针能将其间所有的边界贯穿。而后将其撕裂。"
     },
     {
       "key": "I990401",
       "displayName": "黑派玛丽珍鞋",
-      "statText": "象征界<color=#00ff9c>HP</color> +3",
-      "description": "名字在西西弗百货里消逝。留下的只有商品与品牌之名。正因如此，才必须一层又一层地穿戴上身。"
+      "statText": "在象征界中<color=#00ff9c>体力</color>+3",
+      "description": "在西西弗百货，人们的名字逐渐变得模糊。剩下的只有商品与品牌的名字。正因如此，才必须多穿几件衣服。"
     },
     {
       "key": "I990402",
-      "displayName": "黑派焦特布尔靴",
-      "statText": "在象征界中攻击的<color=#F8C200>受击硬直</color> +0.1秒\n\n象征界<color=#00ff9c>HP</color> +2",
-      "description": "把我固定住。把我紧紧束起。给这具不安定的身体赋予形态。我把我的自由献给你。"
+      "displayName": "黑派短筒马靴",
+      "statText": "在象征界中攻击的<color=#F8C200>僵直</color>时间+0.1秒\n\n在象征界中<color=#00ff9c>体力</color>+2",
+      "description": "请将我固定好。请把我紧紧绑起。请赋予不稳定的我以形态。我将双手奉上我的自由。"
     },
     {
       "key": "I990403",
       "displayName": "黑派经典鞋楦",
-      "statText": "在象征界中，受到会导致死亡的<color=#fe4b48>伤害</color>时，<color=#00ff9c>以1点HP存活</color>（1次）\n- 在泉眼休息可重新充能\n- 不包括即死等部分伤害",
-      "description": "世界不可改变。必须原封不动地停在原处。直到永远。"
+      "statText": "在象征界中受到致死<color=#fe4b48>伤害</color>时，<color=#00ff9c>以1点体力存活</color>(最多1次)\n- 在泉休息时重置\n- 不包括特定立即死亡的伤害",
+      "description": "世界不容改变。世界必须如那般存在于彼处。永恒地存在着。"
     },
     {
       "key": "I990404",
-      "displayName": "红派芭蕾平底鞋",
-      "statText": "在象征界中，击杀敌人时<color=#F8C200>移动速度</color> +30%\n\n象征界<color=#00ff9c>HP</color> +3",
-      "description": "衣装的种类繁多，但鞋最为要紧。它是最先触及世界的衣物。"
+      "displayName": "红派芭蕾软鞋",
+      "statText": "在象征界中击杀敌方单位后的5秒内<color=#F8C200>移动速度</color>+30%\n\n在象征界中<color=#00ff9c>体力</color>+3",
+      "description": "虽然服装有许多种，但其中最重要的是鞋子。因为鞋子是最先触及世界的服装。"
     },
     {
       "key": "I990405",
       "displayName": "红派切尔西靴",
-      "statText": "在象征界中解锁<color=#F8C200>Avant</color>\n- Avant：在最后一次攻击后再按一次攻击键，即可发动<color=#F8C200>Avant</color>\n- 发动Avant时，向前方大范围横扫，使命中的敌人<color=#F8C200>击退</color>\n- 在<color=#F8C200>Garde</color>期间发动时，<color=#F8C200>攻击范围</color>与<color=#F8C200>击退距离</color>会随Garde等级增加",
-      "description": "鞋需要呼吸。黑派们搞错了——鞋不该被密不透风地封住。它得保持柔软，让脚透气。只有这样，你才真正站在大地上。否则，你只是被摆在地上，与下方的地面隔绝。"
+      "statText": "在象征界中解锁<color=#F8C200>Avant</color>\n- 在最后的攻击后再次按攻击键以触发<color=#F8C200>Avant</color>\n- 触发Avant时，对前方进行范围横扫攻击，<color=#F8C200>击退</color>命中的敌方单位\n- 在<color=#F8C200>Garde</color>中触发时，根据Garde阶段，相应使<color=#F8C200>攻击范围</color>与<color=#F8C200>击退距离</color>增加",
+      "description": "鞋子需要呼吸。不能像黑派的鞋子一样，一直封闭起来。只有鞋子足够柔软，能够呼吸，我才能站在这大地之上。若非如此，便只是以分离的状态被承载于其上而已。"
     },
     {
       "key": "I990406",
       "displayName": "躺椅",
-      "statText": "自上次受到<color=#fe4b48>伤害</color>起每15秒<color=#00ff9c>恢复</color>1点象征界<color=#00ff9c>HP</color>（最多4次）\n- 在泉眼休息可重新充能",
-      "description": "食、衣、住。那么家具属于哪一类？是我们栖居其中的东西，还是像衣服一样穿戴在身上的东西？\n啊，都不是。家具是衣与住之间的桥。"
+      "statText": "从在象征界中未受到<color=#fe4b48>伤害</color>的时间起，每15秒<color=#00ff9c>恢复</color>1点在象征界中的<color=#00ff9c>体力</color>(最多4点)\n- 在泉休息时重置",
+      "description": "你认为家具在衣食住中属于哪一类？是用于居住其中的事物，还是像服装一样穿在身上的事物？\n两种都不是。家具是连接服装和住所的桥梁。"
     },
     {
       "key": "I990407",
       "displayName": "床垫",
-      "statText": "在象征界中，静止不动时受击，<color=#fe4b48>受到的伤害</color> -1（最低1）\n\n象征界<color=#00ff9c>HP</color> +2",
-      "description": "想停止思考的顾客与员工，都成了西西弗百货里的家具。后来裂缝开始扩大，当刺眼的阳光从缝隙中洒落并向他们低语时，家具们被强行唤醒，不得不动了起来。"
+      "statText": "在象征界中，未移动时受到的<color=#fe4b48>伤害</color>-1(受到的伤害最少为1点)\n\n在象征界中<color=#00ff9c>体力</color>+2",
+      "description": "西西弗百货里想要停止思考的顾客和店员们都变成了家具。从某一天开始，缝隙变得越来越宽，直到强烈的阳光透过缝隙向他们附耳低语，家具们被强行唤醒，被迫开始移动。"
     },
     {
       "key": "I990408",
       "displayName": "实木桌",
-      "statText": "在象征界中，命中攻击时有15%概率触发<color=#F8C200>追加攻击</color>（0.2秒受击硬直）\n- 以命中的敌人为中心，对十字形5格造成3点<color=#fe4b48>伤害</color>\n- 每有1名1格内已发现默尔索的敌人，触发概率+10%",
-      "description": "曾有个红派的混账问，为什么吃饭要坐在桌边。何必这么麻烦，直接在地上吃不好吗？可正是这套仪式让食物更美味。靠辛苦与忍耐得来的更为甘甜，因而更有价值。照这个道理，桌椅越不舒服，用餐者便越文明。您不这么认为吗？"
+      "statText": "在象征界中攻击命中时，以15%的概率触发<color=#F8C200>额外攻击</color>(僵直0.2秒)\n- 以命中的敌方单位为中心，对十字范围的5格造成3点<color=#fe4b48>伤害</color>\n- 周围1格内每有1名感知到默尔索的敌方单位，触发概率+10%",
+      "description": "为什么要坐在椅子上，把食物放在桌子上用餐呢，红派的一位末流人物这样问道。不在地板上用餐，而是特意经过这样的程序，当然是为了令食物更加美味。因为越是经过忍耐、辛苦所得到的东西，其滋味就越是甘美，因而也就越有价值。那么，桌椅越不方便，用餐者不就越文明吗？"
     },
     {
       "key": "I990409",
-      "displayName": "舌头",
-      "description": "曾让幸福衣柜得以品尝滋味的器官。"
+      "displayName": "舌",
+      "description": "让快乐衣橱得以体验味道的器官"
     },
     {
       "key": "I990410",
-      "displayName": "骨束",
-      "description": "曾让幸福衣柜得以支撑自身的骨头。"
+      "displayName": "骨捆",
+      "description": "让快乐衣橱得以支撑起自己的骨骼"
     },
     {
       "key": "I990411",
-      "displayName": "胫骨",
-      "description": "曾让幸福衣柜得以行走的东西。"
+      "displayName": "小腿",
+      "description": "让快乐衣橱得以迈开步伐的事物"
     },
     {
       "key": "I990412",
-      "displayName": "纠缠的肠子",
-      "description": "曾让幸福衣柜得以消化食物的器官。"
+      "displayName": "打结的肠子",
+      "description": "让快乐衣橱得以消化食物的脏器"
     },
     {
       "key": "I990413",
-      "displayName": "一颗眼球",
-      "description": "曾让幸福衣柜得以目睹世界之美的器官。"
+      "displayName": "一枚眼球",
+      "description": "让快乐衣橱得以看见世界之美好的器官"
     },
     {
       "key": "I990414",
-      "displayName": "两颗眼球",
-      "description": "曾让幸福衣柜得以目睹世界之丑的器官。"
+      "displayName": "两枚眼球",
+      "description": "让快乐衣橱得以看见世界之丑恶的器官"
     },
     {
       "key": "I990415",
-      "displayName": "脸部皮肤",
-      "description": "曾让幸福衣柜得以用表情流露情感之物。"
+      "displayName": "面部皮肤",
+      "description": "让快乐衣橱得以用表情传达自身情感的事物"
     },
     {
       "key": "I990416",
       "displayName": "血管网",
-      "description": "曾让幸福衣柜的器官、骨头、物件与肠子得以汇聚并共同运作的机制。"
+      "description": "让快乐衣橱的器官与骨骼与事物与脏器得以相互联结并运作的装置"
     },
     {
       "key": "I990801",
-      "displayName": "汽水",
-      "statText": "象征界<color=#00ff9c>HP</color>降至5以下时，<color=#00ff9c>恢复</color>5点象征界<color=#00ff9c>HP</color>（1次）\n- 在泉眼休息可重新充能",
-      "description": "奢侈品馆正遭受攻击！红派们冲进了黑派把守的馆内，如今已开始大快朵颐！"
+      "displayName": "碳酸饮料",
+      "statText": "在象征界中<color=#00ff9c>体力</color>不高于5点时，<color=#00ff9c>恢复</color>5点在象征界中的<color=#00ff9c>体力</color>(最多1次)\n- 在泉休息时重置",
+      "description": "奢侈品馆发生袭击事件！红派突袭了黑派所占据的奢侈品馆，开始举行宴会！"
     },
     {
       "key": "I990802",
       "displayName": "吸管",
-      "statText": "在象征界中，命中攻击时有10%概率<color=#00ff9c>恢复</color>1点象征界<color=#00ff9c>HP</color>\n\n象征界<color=#00ff9c>HP</color> +2",
-      "description": "摄取需要一条从那边到这边的通道。所谓摄取，就是把某物从别处拉进自身。正因如此，快感才会随之而来。"
+      "statText": "在象征界中攻击命中时，以10%的概率<color=#00ff9c>恢复</color>1点在象征界中的<color=#00ff9c>体力</color>\n\n在象征界中<color=#00ff9c>体力</color>+2",
+      "description": "要进行摄取，需要从此端通往彼端的通道。摄取，就是从对方处向自己引入某些事物，因而会带来快感。"
     },
     {
       "key": "I990803",
-      "displayName": "“你听见了吗？”",
-      "statText": "在象征界中，命中攻击时有30%概率触发<color=#F8C200>追加攻击</color>\n- 对命中敌人4格内的1名随机敌人造成3点<color=#fe4b48>伤害</color>",
-      "description": "美食广场做出来的东西或许是美味佳肴，却已不再是一餐饭。问题不在烹饪，而在于吃它的地方。这是结构上的难题。"
+      "displayName": "我说噢",
+      "statText": "在象征界中攻击命中时，以30%的概率触发<color=#F8C200>额外攻击</color>\n- 对命中的敌方单位周围4格内的随机1名敌方单位造成3点<color=#fe4b48>伤害</color>",
+      "description": "在美食广场做出的料理固然好吃，但那就算不上一顿饭了。这不是料理的问题，而是在何处进食的结构性问题。"
     },
     {
       "key": "I990804",
       "displayName": "折叠伞",
-      "statText": "在象征界中，命中可破坏的投掷物时，<color=#F8C200>破坏该投掷物</color>\n\n象征界<color=#00ff9c>HP</color> +2",
-      "description": "褐派的招牌商品。对于一个苦苦想做出时装而不得的品牌来说，伞不过是它为数不多的真正创造之一。"
+      "statText": "在象征界中攻击命中可移除的投射物时，<color=#F8C200>移除该投射物</color>\n\n在象征界中<color=#00ff9c>体力</color>+2",
+      "description": "褐派的旗舰商品。对于难以创造出时尚的褐派而言，伞是其为数不多的造物。"
     },
     {
       "key": "I990805",
-      "displayName": "一张纸巾",
-      "statText": "象征界<color=#00ff9c>HP</color> +1",
-      "description": "很难想象一张纸巾能成什么事。不过据说在某个地方，有人光用一张就能在洗手间里把事办完。"
+      "displayName": "一张抽纸",
+      "statText": "在象征界中<color=#00ff9c>体力</color>+1",
+      "description": "虽然不知道一张薄薄的抽纸能用来做什么，但据说有些人只用一张抽纸就能完成泉的善后处理。"
     },
     {
       "key": "I990806",
-      "displayName": "副主厨尸体上的纽扣",
-      "statText": "在象征界中，触发“你听见了吗？”的<color=#F8C200>追加攻击</color>时，投掷物数量+1\n\n影界中的战斗期间，击杀敌人的友方单位<color=#00ff9c>恢复</color>15点象征界<color=#00ff9c>HP</color>与10点SP",
-      "description": "那些外来者想杀我，你听见了吗？！本来好好谈就能解决的，可他们非要我死，你听见了吗？！"
+      "displayName": "副主厨处置纽扣",
+      "statText": "在象征界中触发“我说噢”的<color=#F8C200>额外攻击</color>时，投射物+1\n\n在阴影界中，在战斗中友方单位击杀敌方单位时，使该友方单位<color=#00ff9c>恢复</color>15点<color=#00ff9c>体力</color>与10点理智值",
+      "description": "我说异乡人们想杀了我噢。我说明明可以通过交谈解决，他们却想杀了我噢！"
     },
     {
       "key": "I990901",
-      "displayName": "针插",
-      "statText": "象征界<color=#00ff9c>HP</color> +3",
-      "description": "要缝纫，就需要针。\n而针，不过是钉子的另一个名字罢了。缝纫就是为了固定，针正是为此而用……和钉子一样。"
+      "displayName": "针垫",
+      "statText": "在象征界中<color=#00ff9c>体力</color>+3",
+      "description": "要缝纫，就得有针。且针和钉子并无什么不同。缝纫的目的就是固定，针是用来固定的，钉子的用途也是一样。"
     },
     {
       "key": "I990902",
-      "displayName": "针人的钉",
-      "statText": "在象征界中攻击的受击硬直+0.2秒\n\n象征界<color=#00ff9c>HP</color> +1",
-      "description": "针人们侍奉一位王。那位王是位美食家，要求臣下不停地刺。刺，是借由美味发出的欢愉呻吟与痛苦尖叫声来衡量价值的标尺。针人们遵王之命而刺，再悄悄舔净渗出的汁液。"
+      "displayName": "针族之钉",
+      "statText": "在象征界中攻击的僵直时间+0.2秒\n\n在象征界中<color=#00ff9c>体力</color>+1",
+      "description": "针族所侍奉的王。国王渴求美食，也渴求不断地穿刺。因为只要穿刺，就能从对方的弹性和惨叫中推断其价值。针族们遵从王的命令不断穿刺，然后安静地舔舐被刺处流出的汁液。"
     },
     {
       "key": "I990904",
       "displayName": "刮舌器",
-      "statText": "在象征界中，击杀敌人后，下一次攻击的<color=#fe4b48>伤害</color> +2",
-      "description": "穿衣服前得先把自己弄干净。别怕下手重——得这样<i>使劲</i>刮才行。"
+      "statText": "在象征界中击杀敌方单位时，使下次攻击造成的<color=#fe4b48>伤害</color>+2",
+      "description": "穿衣服前要先清洁自己。要想清洁干净，就要这样刺啦刺啦地刮。"
     },
     {
       "key": "I990905",
-      "displayName": "内基德的顶针",
-      "statText": "在象征界中受击时<color=#fe4b48>受到的伤害</color> -2（冷却10秒）",
-      "description": "这些蠢针肯定全疯了。刺、刺、刺——它们只会这一件事。看到不顺眼的？<i>刺！</i>它们就是这么干的。有东西渗出来，它们就舔干净。\n还好我带着顶针……要是在这下面被逮住又没带它，我可就惨了。"
+      "displayName": "裸体的顶针",
+      "statText": "在象征界中受到攻击时，受到的<color=#fe4b48>伤害</color>-2(冷却时间10秒)",
+      "description": "这些蠢货针族肯定是发疯了。觉得有地方不满意，就要到处刺上几下。刺了又刺，有什么流出来就凑上去尝尝味。幸好我有顶针。要是没带着顶针还要在这里到处转悠，肯定会遇到大麻烦。"
     },
     {
       "key": "I990906",
       "displayName": "调色板",
-      "statText": "在象征界中受击时，在默尔索1格内生成<color=#F8C200>红色染色格</color>。\n- 站在其上的敌人每2秒受到1点<color=#fe4b48>伤害</color>",
-      "description": "一块摆放着各色染料的板。\n\n基本色在它上面混合，调出想要的色调。要做出想要的东西，比例与速度都至关重要。\n\n那混杂在一起的脓液气味，倒是相当斑斓。"
+      "statText": "在象征界中受到攻击时，在默尔索周围1格生成<color=#F8C200>染红的格子</color>\n- 在染红的格子上的敌方单位每2秒受到1点<color=#fe4b48>伤害</color>",
+      "description": "承载着各种颜料的调色板。在这块板子上混合各种染料，得到期望中的颜色。要想得到期望中的东西，适当的用量与速度的配合非常重要。这样混合在一起的脓液，味道相当多彩。"
     },
     {
       "key": "I990907",
-      "displayName": "长柄刷",
-      "statText": "在象征界中，对敌人发动<color=#F8C200>Garde</color>命中时，攻击延伸至命中敌人身后1格",
-      "description": "搅拌眼泪需要长柄刷。刷子太短，眼泪就会落到手臂上，甚至被径直吸进去。一旦被眼泪淹没，在颜色褪去之前，便会无止境地哭下去。"
+      "displayName": "长笔",
+      "statText": "在象征界中<color=#F8C200>Garde</color>命中时，攻击延续至命中的敌方单位后方1格",
+      "description": "为了混合眼泪，需要一支长笔。笔太短，眼泪就会流到手臂上被吸收进去。若沉浸于眼泪之中，就会不停地哭泣，直到完全失去色彩为止。"
     },
     {
       "key": "I990908",
-      "displayName": "大刷子",
-      "statText": "在象征界中解锁<color=#F8C200>Garde</color>\n- 长按攻击键一定时间后松开，发动高伤害的<color=#F8C200>Garde</color>\n- Garde蓄力时间：2秒\n- Garde伤害：象征界中攻击<color=#fe4b48>伤害</color> +1\n- Garde期间<color=#F8C200>移动速度</color>降至50%",
-      "description": "要画出斑斓的色彩，就需要大刷子。小刷子自然更适合多刷几笔，但笔数必须压到最少。每一次涂抹都会在我身上留下泪滴，连同它的气味。\n\n那气味让我流泪，可我仍在画。我为那个已经忘却眼泪与疼痛的人而画。"
+      "displayName": "大笔",
+      "statText": "在象征界中解锁<color=#F8C200>Garde</color>\n- 按住攻击键一段时间以触发造成大量伤害的<color=#F8C200>Garde</color>\n- Garde充能时间：2秒\n- Garde伤害量：在象征界中攻击造成的<color=#fe4b48>伤害</color>+1\n- Garde中的<color=#F8C200>移动速度</color>-50%",
+      "description": "为了用上所有颜色的眼泪来涂鸦，需要一支大笔。如果笔不够大，就需要涂抹更多次。但，最好把挥笔的次数减到最少。因为每次挥笔，眼泪都会溅出，那气味浸染了身体，于是又会流起泪来。为了某个已不再会哭泣也不再会感到疼痛的人，我至今仍在不停地挥笔。"
     },
     {
       "key": "I990909",
-      "displayName": "两张纸巾",
-      "statText": "象征界<color=#00ff9c>HP</color> +3",
-      "description": "在这一层，纸巾有两种用途：被刺穿，或者吸干眼泪。它薄得容易被穿透，却又满是细小的孔洞，足以吸下大量的脓液。"
+      "displayName": "两张抽纸",
+      "statText": "在象征界中<color=#00ff9c>体力</color>+3",
+      "description": "在这一层使用抽纸的原因有两类。为了被刺出孔洞，或是为了吸走眼泪。因为抽纸足够轻薄，容易穿孔；孔洞多了，就能吸走更多的脓液。"
     },
     {
       "key": "I990910",
       "displayName": "果汁",
-      "statText": "在象征界中，将<color=#F8C200>Garde</color>期间的<color=#F8C200>移动速度</color>降低改为25%\n\n象征界<color=#00ff9c>HP</color> +1",
-      "description": "被刺穿后流出来的，都是果汁。喝掉它。戳破那眼泪的气泡，喝下迸出来的东西。或者刺穿别人，让他们流出脓来。\n滋味随悲伤的味道而定。"
+      "statText": "在象征界中<color=#F8C200>Garde</color>时减少的<color=#F8C200>移动速度</color>改为25%\n\n在象征界中<color=#00ff9c>体力</color>+1",
+      "description": "刺破之后涌出来的都是果汁。只要喝掉就好了。将涌出的眼泪刺破，再把它喝下去就好。或是刺穿某人，让他们流出脓液般的眼泪。尝起来如同悲伤的滋味。"
     },
     {
       "key": "I990911",
-      "displayName": "缝纫之王的牙刷",
-      "statText": "在象征界中，每1秒对追击默尔索的敌人触发<color=#F8C200>追加攻击</color>\n- 对5格内1名随机追击中的敌人造成2点<color=#fe4b48>伤害</color>\n- 不锁定巡逻中或逃跑中的敌人\n- <color=#F8C200>疾跑</color>期间不触发\n",
-      "description": "一把刷头是一片细密钉子林的牙刷。\n\n钉子刮擦皮肤，撕开并捅穿嵌在里面的东西。这会把皮下的液体吸出来。\n\n然后，它会被呈给王品尝。"
+      "displayName": "裁缝之王的牙刷",
+      "statText": "在象征界中，每1秒对正在追踪默尔索的敌方单位触发<color=#F8C200>额外攻击</color>\n- 随机对5格内正在追踪的1名敌方单位造成2点<color=#fe4b48>伤害</color>\n- 不包括巡逻与逃离的敌方单位\n- <color=#F8C200>奔跑</color>中不会触发",
+      "description": "牙刷上嵌满了细细的钉子。这些钉子一边将肉刮去，一边将被刺入的东西扎出孔洞，其中的事物滴滴答答地泄漏出来。而后国王将品尝它。"
     },
     {
       "key": "I992701",
-      "displayName": "正午之蓝",
-      "description": "正午时分，太阳升至最高处。太阳越高，影子越短。影子缩到再看不见时，阳光便是蓝色的。"
+      "displayName": "正午蓝",
+      "description": "正午时太阳升得最高。升到最高处的太阳所投射出的阴影最短。阴影短到看不见的时候，日光是蓝色的。"
     },
     {
       "key": "I992702",
-      "displayName": "猎物的沉思",
-      "description": "这道菜能带来被吃掉的完整体验。品尝它即意味着死亡，因为品尝者已经成了被吞食的猎物。"
+      "displayName": "猎物思维",
+      "description": "通过这道料理，能够完整体验到被吃掉的人的经验。一旦知晓了那种滋味，就会因被吃掉而死。"
     },
     {
       "key": "I992704",
-      "displayName": "黄金茧",
-      "statText": "在象征界中解锁<color=#F8C200>提灯</color>\n- 按提灯键（键盘F）开/关<color=#F8C200>提灯</color>，照亮角色面向的方向",
-      "description": "茧在啼哭，像是在呼唤着谁。那孩子从已然逝去的过去被带到这里，冲上岸，一路漂到美食广场……如今成了一道菜。"
+      "displayName": "黄金之茧",
+      "statText": "在象征界中解锁<color=#F8C200>灯</color>\n- 按灯键(F键)打开或关闭照亮面向方向的<color=#F8C200>灯</color>",
+      "description": "茧如同在呼唤着谁一般悲鸣着。那孩子从一个现今已然消逝的过去搁浅到了海边，又流落到了美食广场，如今被做成了料理。"
     },
     {
       "key": "I990934",
       "displayName": "脏围裙",
-      "statText": "在象征界中，将显示敌人HP槽的HP阈值改为100%\n- 持有期间，敌人HP槽从第一次命中起即显示",
-      "description": "看不见的东西，必须被涂上颜色，轮廓才会显出来。往足够多看不见的东西上泼颜色，你就会发现，自己的身体也已经被染脏了。"
+      "statText": "在象征界中，显示敌方单位体力条的体力阈值改为100%\n- 拥有时，首次命中后显示敌方单位的体力条",
+      "description": "在不可视的事物上覆上颜色，以此描摹轮廓。像那样为难以计数的事物泼洒过颜色、量定过轮廓的话，自己的身体也会被浸染得斑驳吧。"
     },
     {
       "key": "I992806",
       "displayName": "深海染料",
-      "description": "有一种眼泪，每隔很久才会从最深的海底被捞起，涨得浮肿。在腐臭的气味与污黑的涂抹中翻搅许久之后……那眼泪终于恢复了原本的澄澈。\n\n深海染料，便是用这些古老存在的眼泪制成的。"
+      "description": "偶尔会有从极深的场所被抽取上来的，膨胀的眼泪。在搅拌并提炼那些刺鼻的腐臭与翻腾的漆黑污物后……眼泪将找回它原本那无比透明的色彩。深海染料就是用这些古老的眼泪制成的。"
     },
     {
       "key": "I992807",
       "displayName": "黄金染料",
-      "description": "把黄金松脂的分泌物与脓液混合。\n\n每一分黄金都密密地饱和着意义与价值，足以把任何染料都染成金色。难的是弄到那份分泌物。"
+      "description": "将黄金松脂中的汁液与脓液混合。黄金的意义与价值都很高，足以将任何染料都变为黄金的颜色。只是想得到那汁液非常困难。"
     },
     {
       "key": "I992808",
       "displayName": "黄金线团",
-      "description": "为便于搬运而卷起的织线。纺啊，纺啊，纺啊……线在它一生中的每一步都在纺。"
+      "description": "为了便于运输将线缠成了线团。线无论是在被织出时还是在运输时，都一圈圈地转了又转。"
     },
     {
       "key": "I993002",
       "displayName": "黄色眼泪",
-      "description": "眼泪像黄色的脓一样涌出。"
+      "description": "眼泪涌出，如同黄色的脓液。"
     },
     {
       "key": "I993003",
       "displayName": "红色眼泪",
-      "description": "红肿的眼泪像脓疮一样爆开。"
+      "description": "积存的红色眼泪，如同迸裂的脓液喷涌而出。"
     },
     {
       "key": "I993004",
       "displayName": "蓝色眼泪",
-      "description": "蓝色染料带着脓的气味。"
+      "description": "蓝色的眼泪散发着脓液的气味。"
     },
     {
       "key": "I990925",
       "displayName": "锯末",
-      "statText": "在象征界中攻击的<color=#F8C200>受击硬直</color>+0.2秒",
-      "description": "为什么要在黑暗里为了那点意义的碎屑而摸索？\n是碎屑本身就有意义，还是这份寻找赋予了它们意义？"
+      "statText": "在象征界中攻击的<color=#F8C200>僵直</color>时间+0.2秒",
+      "description": "在黑暗之中寻找有意义的碎屑，究竟有什么意义呢。究竟是在碎屑中找到了有意义的事物，还是在探寻的过程中为事物赋予了意义呢。"
     },
     {
       "key": "I990924",
-      "displayName": "天蓝染料",
-      "statText": "影界中的战斗期间：\n在遭遇战中获胜后，<color=#00ff9c>恢复</color>10%象征界<color=#00ff9c>HP</color>",
-      "description": "西西弗百货的人把这种染料叫做“天蓝”，可这里没人看得见天空，这不是很好笑吗？再说，哪有什么“天空的颜色”——真正的天空会随时辰、天气，或是……观察者的心境而变色。"
+      "displayName": "天空色的染料",
+      "statText": "在阴影界中的战斗胜利时，在象征界中<color=#00ff9c>恢复</color><color=#00ff9c>体力</color>上限10%的<color=#00ff9c>体力</color>",
+      "description": "在西西弗百货这个根本见不到天空的地方，把这种染料称作天空色，不觉得很可笑吗？真正的天空会根据时间、天气以及心的不同，表现出不同的颜色。"
     },
     {
       "key": "I990923",
       "displayName": "线",
-      "statText": "在象征界中，命中攻击后5秒内：\n- 目标<color=#F8C200>移动速度</color> -10%\n- 目标造成的<color=#fe4b48>伤害</color> -2 \n\n（冷却15秒）",
-      "description": "用切成薄片的默尔索捻成的线。颜色相当眼熟。"
+      "statText": "在象征界中，攻击命中后的5秒内使目标的<color=#F8C200>移动速度</color>-10%，造成的<color=#fe4b48>伤害</color>-2(冷却时间15秒)",
+      "description": "将默尔索细细抽出后捻成的线。熟悉的颜色。"
     },
     {
       "key": "I990922",
-      "displayName": "“哇哈哈哈！”",
-      "statText": "影界中的战斗期间：\n友方单位对西西弗的敌人造成的<color=#fe4b48>伤害</color> +5%",
-      "description": "你觉得西西弗百货的墙壁，是用什么做成的？"
+      "displayName": "噗哈哈哈",
+      "statText": "在阴影界中，战斗中友方单位对属于西西弗的敌方单位造成的<color=#fe4b48>伤害</color>+5%",
+      "description": "你觉得西西弗百货的墙壁，是用什么材料砌成的？"
     },
     {
       "key": "I990815",
-      "displayName": "残羹剩饭",
-      "statText": "影界中的战斗期间：\n回合开始时：<color=#00ff9c>HP</color>低于50%的友方单位获得1层<color=#00ff9c>HP回复量提升</color>（每次遭遇战4次）",
-      "description": "你知道食物到哪里为止，剩饭又从哪里开始吗？\n\n咬一口就把剩下的扔掉，那便成了垃圾。但对某些人来说，那份垃圾却是极难得的食材，会被津津有味地吞下。我的意思是，什么算剩饭，在美食广场可是个极其重要的问题……而眼下，凡不是黑派的，都被算作剩饭。"
+      "displayName": "食物残渣",
+      "statText": "在阴影界中，战斗中回合开始时，使现存<color=#00ff9c>体力</color>低于50%的友方单位获得1层<color=#00ff9c>体力恢复提升</color>(每场战斗最多4次)",
+      "description": "你知道划分食物和残渣的界限是什么吗？即使是只咬了一口就扔掉的食物，也会被算作残渣，不过也会有把这些残渣当作珍贵的食材而大快朵颐的人。因此，用什么标准来区分残渣在美食广场是很重要的问题……现在的情况是，只要不是黑派的东西，就都算作残渣。"
     },
     {
       "key": "I990814",
-      "displayName": "地图碎片",
-      "statText": "在影界中进入战斗时，获得1层<color=#F8C200>E.G.O资源增幅</color>，持续1回合",
-      "description": "一张标出直通奢侈品馆路线的地图，但如今已被用过，字迹难辨。西西弗系统整体是层层叠叠的叠加体，正因如此才能容纳多得不像话的顾客。\n这张地图出自少数能解析这多重结构的头脑之手，价值高得不可估量。\n\n而它落到了红派手里。"
+      "displayName": "地图残片",
+      "statText": "在阴影界中，进入战斗时，1回合内获得1层<color=#F8C200>E.G.O资源获取量提升</color>",
+      "description": "描绘了能用于突袭奢侈品馆的楼层通道的地图。但已被使用过，无法辨认其内容。西西弗系统是由多层重叠构成，这正是它能够为如此多顾客提供沉眠之所的原因。只有能够分析多重构造的极少数人才能制作出的这份地图，其价值是天文数字。红派把它搞到手了。"
     },
     {
       "key": "I990320",
       "displayName": "黄金面料",
-      "description": "若一件衣装是用世上最有价值、最有意义的材料做成的……那这件衣装是否就和那材料一样尊贵？"
+      "description": "以最有价值、最富意义的素材制作的服饰，真能与制作它所用的材料同等高贵吗。"
     },
     {
       "key": "I990008",
       "displayName": "李箱",
-      "statText": "<color=#F8C200>移动速度</color> +10%（在象征界中）\n\n在象征界中，命中攻击时，目标的<color=#fe4b48>造成的伤害</color> -1，持续5秒（冷却10秒）",
-      "description": "翼的象征。变得自由。"
+      "statText": "在象征界中<color=#F8C200>移动速度</color>+10%\n\n在象征界中，攻击命中后的5秒内使目标造成的<color=#fe4b48>伤害</color>-1(冷却时间10秒)",
+      "description": "翅膀的象征。会变得自由。"
     },
     {
       "key": "I990009",
       "displayName": "浮士德",
-      "statText": "在象征界中，<color=#F8C200>弱点攻击</color>造成的<color=#fe4b48>伤害</color> +2",
-      "description": "知识的象征。变得聪慧。"
+      "statText": "在象征界中<color=#F8C200>弱点攻击</color>造成的<color=#fe4b48>伤害</color>+2",
+      "description": "知识的象征。会更加智慧。"
     },
     {
       "key": "I990010",
       "displayName": "堂吉诃德",
-      "statText": "在象征界中，击杀敌人时<color=#00ff9c>恢复</color>5%象征界<color=#00ff9c>HP</color>（冷却10秒）",
-      "description": "行动的象征。变得矫健。"
+      "statText": "在象征界中击杀敌方单位时，<color=#00ff9c>恢复</color>在象征界中的<color=#00ff9c>体力</color>上限5%的体力(冷却时间10秒)",
+      "description": "行动的象征。会变得健康。"
     },
     {
       "key": "I990011",
       "displayName": "良秀",
-      "statText": "在象征界中，命中攻击时有20%概率施加1层<color=#F8C200>易损标记</color>\n（<color=#F8C200>易损标记</color>：<color=#fe4b48>受到的伤害</color> +10%）",
-      "description": "爱憎的象征。去<s>斩断</s>缠绕。"
+      "statText": "在象征界中，攻击命中时以20%的概率对目标施加1层<color=#F8C200>易损标记</color>\n(<color=#F8C200>易损标记</color>：受到的<color=#fe4b48>伤害</color>+10%)",
+      "description": "爱憎的象征。会被<s>斩断。</s>联结起来。"
     },
     {
       "key": "I990012",
       "displayName": "鸿璐",
-      "statText": "通过默尔索的攻击在影界中进入战斗时，场上所有友方单位<color=#F8C200>恢复5~10点SP</color>",
-      "description": "洞察的象征。加以守望。"
+      "statText": "通过默尔索的攻击进入阴影界中的战斗时，使场上的全体友方单位<color=#F8C200>恢复5~10点理智值</color>",
+      "description": "洞见的象征。会去注视着。"
     },
     {
       "key": "I990013",
       "displayName": "希斯克利夫",
-      "statText": "<color=#F8C200>移动速度</color> +10%（在象征界中）\n\n在象征界中，击杀敌人后攻击<color=#fe4b48>伤害</color> +2，持续20秒（冷却30秒）",
-      "description": "风暴的象征。铭记 !@#!$。"
+      "statText": "在象征界中<color=#F8C200>移动速度</color>+10%\n\n在象征界中击杀敌方单位后的20秒内，使攻击造成的<color=#fe4b48>伤害</color>+2(冷却时间30秒)",
+      "description": "风暴的象征。会铭记着!@#!$。"
     },
     {
       "key": "I990014",
       "displayName": "以实玛利",
-      "statText": "在象征界中，命中攻击时使目标的<color=#F8C200>移动速度</color>降低20%，持续10秒（冷却13秒）",
-      "description": "冒险的象征。扬帆起航。"
+      "statText": "在象征界中攻击命中后的10秒内，使目标的<color=#F8C200>移动速度</color>-20%(冷却时间13秒)",
+      "description": "冒险的象征。会去航海。"
     },
     {
       "key": "I990015",
       "displayName": "罗佳",
-      "statText": "若目标的象征界<color=#00ff9c>HP</color>在50%以上，攻击<color=#fe4b48>伤害</color> +1",
-      "description": "英雄的象征。静静等待。"
+      "statText": "在象征界中，若目标的<color=#00ff9c>体力</color>不低于50%，则使攻击造成的<color=#fe4b48>伤害</color>+1",
+      "description": "英雄的象征。会继续等待。"
     },
     {
       "key": "I990016",
       "displayName": "辛克莱",
-      "statText": "在象征界中：\n- 对前方敌人造成的<color=#fe4b48>伤害</color> +2\n- 来自后方敌人的<color=#fe4b48>受到的伤害</color> -2",
-      "description": "觉醒的象征。醒转过来。"
+      "statText": "在象征界中对前方的敌方单位造成的<color=#fe4b48>伤害</color>+2\n\n在象征界中受到来自后方的敌方单位的<color=#fe4b48>伤害</color>-2",
+      "description": "觉醒的象征。终将醒来。"
     },
     {
       "key": "I990017",
       "displayName": "奥提斯",
-      "statText": "若目标的象征界<color=#00ff9c>HP</color>低于50%，<color=#fe4b48>伤害</color> +1",
-      "description": "谋略的象征。四处徘徊。"
+      "statText": "在象征界中，若目标的<color=#00ff9c>体力</color>低于50%，则使攻击造成的<color=#fe4b48>伤害</color>+1",
+      "description": "策略的象征。尚在彷徨。"
     },
     {
       "key": "I990018",
       "displayName": "格里高尔",
-      "statText": "若象征界HP低于25%，则<color=#00ff9c>恢复</color>15点象征界<color=#00ff9c>HP</color>，且接下来10秒内<color=#fe4b48>受到的伤害</color> -20%（冷却19秒）",
-      "description": "变化的象征。发生改变。"
+      "statText": "在象征界中，体力低于25%时，<color=#00ff9c>恢复</color>在象征界中的15点<color=#00ff9c>体力</color>并在10秒内受到的<color=#fe4b48>伤害</color>-20%(冷却时间19秒)",
+      "description": "变形的象征。会继续摄取。"
     },
     {
       "key": "I990432",
-      "displayName": "提灯拉绳",
-      "statText": "在象征界中，若玩家3秒未移动，则下一次攻击的<color=#fe4b48>伤害</color> +2（冷却10秒）",
-      "description": "拉一下绳，灯就亮。再拉一下，灯就灭。灯被绳子捆着。这正是绳子与钉子相同之处……也是它们不同的地方。"
+      "displayName": "电灯的灯绳",
+      "statText": "在象征界中3秒未移动后攻击时，使攻击造成的<color=#fe4b48>伤害</color>+2(冷却时间10秒)",
+      "description": "拉一下灯绳就能把电灯点亮。再拉一下灯绳就能把电灯熄灭。因为电灯被绑在灯绳上。这就是灯绳和钉子的共同点和不同点。"
     },
     {
       "key": "I990117",
-      "displayName": "过季的红派衣服",
-      "statText": "象征界<color=#00ff9c>HP</color> +4",
-      "description": "一根来自往季的钉子，钉进了砖里。它或许曾经流行，但如今只是过季了。"
+      "displayName": "过时的红派服饰",
+      "statText": "在象征界中<color=#00ff9c>体力</color>+4",
+      "description": "刺入砖头的已过季的钉子。也许它也曾经引领风潮，但现在已经十分土气。"
     },
     {
       "key": "I990321",
       "displayName": "旧录音机",
-      "statText": "在影界中进入战斗时，场上所有友方单位<color=#F8C200>恢复4点SP</color>",
-      "description": "录制下来的声音从机器中流出。它流动着，却仍被囚禁。连声音都能被钉住。"
+      "statText": "在阴影界中进入战斗时，使场上的全体友方单位<color=#F8C200>恢复4点理智值</color>",
+      "description": "录音机中有被录下的声音流淌出来。它虽然还在流淌，却仍被封闭其中。就连声音也能被钉住。"
     },
     {
       "key": "I990322",
-      "displayName": "死鸟",
-      "statText": "在象征界中，<color=#F8C200>弱点攻击</color>造成的<color=#fe4b48>伤害</color> +1",
-      "description": "一只鸟穷尽一生对着喇叭歌唱。有一天，它把头伸进喇叭里，唱到死去。下一只鸟则被关在笼子里歌唱。"
+      "displayName": "死去的鸟儿",
+      "statText": "在象征界中<color=#F8C200>弱点攻击</color>造成的<color=#fe4b48>伤害</color>+1",
+      "description": "一生都对着喇叭歌唱的鸟儿，某一天将喇叭塞进脑袋里，一直歌唱着直到死去。下一只到来的鸟儿被关进鸟笼里继续歌唱。"
     },
     {
       "key": "I990323",
       "displayName": "袜子",
-      "statText": "象征界<color=#00ff9c>HP</color> +4",
-      "description": "鞋需要袜子，这点很奇怪。我们穿鞋是为了保护脚，可又在脚和鞋之间垫了一层，为的是把两者都保护起来？\n或者……也许正是这份多余，赋予了袜子尊严。鞋属于本能——没有鞋脚会疼，所以我们<i>需要</i>它；而袜子则属于文明的领域，因为我们<i>想要</i>那份舒适。"
+      "statText": "在象征界中<color=#00ff9c>体力</color>+4",
+      "description": "穿鞋的时候还要穿上袜子，这很奇怪。已经为了保护脚穿上了鞋子，却还要在鞋子和脚之间套上些东西。\n不，正因如此袜子才有品位。鞋子是因为脚部疼痛而去寻求的本能的领域，而袜子则是为了舒适而去寻求的文明的分野。"
     },
     {
       "key": "I102023",
       "displayName": "品牌总监的遗物",
-      "statText": "在象征界中受击时有10%概率对攻击者回敬3点<color=#fe4b48>伤害</color>",
-      "description": "红派的品牌总监。\n\n品牌的一切意义与方向，都在她的指挥下被决定。没有人比她更清楚地听见赤色之神的声音。令人敬佩的是，即便那声音消失之后，品牌总监仍试图造出一个新的存在，好让那声音再度被听见。若她愿意，赤色之神的缺席本可以一直隐瞒下去，但她选择了不。"
+      "statText": "在象征界中受到攻击时，以10%的概率对攻击者造成3点<color=#fe4b48>伤害</color>",
+      "description": "红派的品牌总监。红派品牌所应有的意义与方向性，这一切都是在品牌总监的指示下决定的。品牌总监比任何人都更善于聆听赤红之神的声音。甚至赤红之神的声音消失后，她也曾试图创造出一个能让那声音再度响起的新存在。实际上，赤红之神的消失，是一个她只要想隐瞒便能轻易隐瞒下去的事实。"
     },
     {
       "key": "I990919",
       "displayName": "重复",
-      "statText": "在象征界中解锁<color=#F8C200>自动攻击</color>。\n\n按自动攻击键（键盘T）开/关。根据角色朝向侦测敌人，并<color=#F8C200>自动使用基础攻击</color>\n- 侦测范围：前方4格，左右各1格\n- 优先执行移动或防御等其他行动；其他行动结束后恢复自动攻击\n- 无论开关状态如何，均移除攻击后的移动延迟\n- 以下情况会自动关闭：\n  - 楼层间移动时\n  - 进入影界中的战斗时",
-      "description": "自动重复。只管执行。但愿这份重复，至少能为您带来方便。"
+      "statText": "在象征界中切换(T键)开启<color=#F8C200>自动攻击</color>，感知面向的敌方单位，<color=#F8C200>自动重复基础攻击</color>\n- 感知范围：前方4格，左右1格\n- 移动、防御等行动优先，结束后再次进行攻击\n- 移除攻击后的移动硬直(无论开关状态常驻生效)\n- 在楼层间移动与在阴影界中进入战斗时切换关闭",
+      "description": "自动重播。不断执行。希望这重复对你算得上有用。"
     },
     {
       "key": "I1209",
-      "displayName": "精炼的裁缝剪",
-      "statText": "在象征界中，命中攻击时有30%概率触发<color=#F8C200>咔嚓裁缝剪追加攻击</color>，造成1点<color=#fe4b48>伤害</color>（0.3秒受击硬直）\n\n在影界中进入战斗时，对所有敌人施加等于其被本效果命中次数的流血层数（最多5）",
-      "description": "改衣师剪开面料，再按纸样把它接合起来。近来那咔嚓声大了许多——黑派们一定是下了笔极大的订单。也许，一场大冲突就要爆发了？"
+      "displayName": "磨利的缝衣剪",
+      "statText": "在象征界中攻击命中时，以30%的概率触发<color=#F8C200>剪刀额外攻击</color>，造成1点<color=#fe4b48>伤害</color>(僵直0.3秒)\n\n在阴影界中进入战斗时，对全体敌方单位施加层数相当于该效果攻击次数的流血(最多5层)",
+      "description": "裁缝的工作是裁剪面料，并按纸样进行拼接。最近，裁剪声变大了许多。黑派似乎下了大量的订单。是有什么大规模冲突要发生了吗？"
     }
   ]
 }

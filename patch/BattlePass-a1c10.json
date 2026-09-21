@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "battlepass_season_8",
-      "content": "PUNCTUM"
+      "content": "刺点"
     },
     {
       "id": "battle_pass_season_8_product_package_with_limbus_desc_summary",
@@ -14,11 +14,11 @@
     },
     {
       "id": "until_season_8_start",
-      "content": "- 到第9赛季更新前"
+      "content": "- 到第9赛季开始前"
     },
     {
       "id": "until_season_8_end_on_shop",
-      "content": "到第9赛季更新前"
+      "content": "到第9赛季开始前"
     }
   ]
 }
