@@ -21,7 +21,6 @@ _HERE = os.path.dirname(os.path.abspath(__file__))
 _KB = os.path.dirname(_HERE)
 WORKSPACE = os.path.dirname(_KB)
 PATCH = os.path.join(_KB, "patch_v2")
-KR = os.path.join(WORKSPACE, "LimbusLocalize_latest", "..", ".local")
 GAME = os.environ.get(
     "LIMBUS_GAME_ROOT",
     "/home/shb/.local/share/Steam/steamapps/common/Limbus Company",

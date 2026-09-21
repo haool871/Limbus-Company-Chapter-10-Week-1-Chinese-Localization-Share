@@ -37,7 +37,8 @@ PATCH = os.path.join(_KB, "patch_v2")
 # 零协汉化基础包：**覆盖文件**的权威基准。
 # 对「基础包已有该 id」的记录，零协原文就是唯一标准，
 # 不能拿官方英文源去比对（两者字段名/结构并不一致，会制造大量伪错误）。
-BASE = os.path.join(WORKSPACE, "LimbusLocalize_latest",
+BASE = os.path.join(WORKSPACE,
+                    os.environ.get("LIMBUS_BASE_PACK", "LimbusLocalize_latest20260921"),
                     "LimbusCompany_Data", "Lang", "LLC_zh-CN")
 GAME = os.environ.get("LIMBUS_GAME_ROOT",
                       "/home/shb/.local/share/Steam/steamapps/common/Limbus Company")

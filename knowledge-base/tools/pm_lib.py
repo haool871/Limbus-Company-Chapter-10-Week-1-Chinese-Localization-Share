@@ -40,7 +40,7 @@ _KB_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WORKSPACE = os.environ.get("LIMBUS_WORKSPACE", os.path.dirname(_KB_DIR))
 CN_LOCALIZE = os.path.join(
     WORKSPACE,
-    "LimbusLocalize_latest",
+    os.environ.get("LIMBUS_BASE_PACK", "LimbusLocalize_latest20260921"),
     "LimbusCompany_Data",
     "Lang",
     "LLC_zh-CN",
