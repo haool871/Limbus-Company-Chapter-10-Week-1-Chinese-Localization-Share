@@ -337,6 +337,14 @@ def main() -> int:
     else:
         ap.error("需要指定文件，或 --all-story / --all-rpg / --all")
 
+    # ⚠️ 硬断言：目标集合为空时绝不能报「通过」。
+    #    本会话在排练树上就出现过「错误 0 / 警告 0（0 个文件）」——
+    #    看起来是绿灯，其实什么都没检查（目录名不对时会静默走空）。
+    if not targets:
+        print(f"❌ 没有找到任何待检查文件（PATCH={PATCH}）")
+        print("   检查 patch 目录是否存在、目录名是否为 patch_v2。")
+        return 2
+
     total_err = total_warn = 0
     bad_files = []
     redline = []

@@ -92,10 +92,37 @@ def recs(p) -> int:
     for r in dl:
         if not isinstance(r, dict):
             continue
-        if any(isinstance(v, str) and v.strip()
-               for k, v in r.items()
-               if k not in ("id", "key", "model", "teller", "index", "speaker")):
+        # ⚠️ 必须递归：RPG 记录只有 `key` + `texts:[{index,speaker,text}]`，
+        #    顶层没有任何字符串字段。旧写法只看顶层，会让这类文件恒为 0，
+        #    进而误报「官方无韩文」（本会话排练时踩到）。
+        if texts(r):
             n += 1
+    return n
+
+
+# 非文本字段：定位键、说话人、枚举值等，不参与「有没有译文」的统计
+SKIP_FIELDS = ("id", "key", "index", "model", "teller", "place",
+               "speaker", "nickName", "icon", "sprite", "type")
+
+
+def str_count(p) -> int:
+    """文件里**递归**可译字符串的条数（文件不存在返回 -1）。
+
+    ⚠️ 为什么不能只看 `len(dataList)`：
+    RPG 分组记录的正文在 `texts: [{index, speaker, text}]` 这种**对象数组**里。
+    零协「记录数一样、但组内少了一条对话」时，比记录数完全测不出来——
+    实测 `rpg-loc-dialogue-*.json` 新增一条台词就属于这种情况。
+    所以文件级判据用本函数，递归进所有嵌套结构数「有内容的字符串」。
+    """
+    j = load(p)
+    if not isinstance(j, dict):
+        return -1
+    dl = j.get("dataList")
+    if not isinstance(dl, list):
+        return 0
+    n = 0
+    for r in dl:
+        n += len(texts(r))
     return n
 
 
@@ -108,13 +135,37 @@ def texts(rec) -> list[str]:
                 out.append(o)
         elif isinstance(o, dict):
             for k, v in o.items():
-                if k in ("id", "key", "index", "speaker", "model", "teller", "place"):
+                if k in SKIP_FIELDS:
                     continue
                 go(v)
         elif isinstance(o, list):
             for v in o:
                 go(v)
     go(rec)
+    return out
+
+
+def str_paths(rec, prefix="") -> list:
+    """递归收集 (路径, 文本) —— 路径形如 `content` 或 `texts[1].text`。
+
+    逐条漏译清单要能指出「是哪一条对话漏了」，所以必须带路径。
+    """
+    out = []
+
+    def go(o, path):
+        if isinstance(o, str):
+            if o.strip():
+                out.append((path, o))
+        elif isinstance(o, dict):
+            for k, v in o.items():
+                if k in SKIP_FIELDS:
+                    continue
+                go(v, f"{path}.{k}" if path else k)
+        elif isinstance(o, list):
+            for i, v in enumerate(o):
+                tag = f"[{v.get('index')}]" if isinstance(v, dict) and "index" in v else f"[{i}]"
+                go(v, f"{path}{tag}")
+    go(rec, prefix)
     return out
 
 
@@ -154,25 +205,18 @@ def untranslated(rel: str, base: str) -> list[dict]:
     out = []
     for k, er in E.items():
         br = B.get(k)
+        epaths = str_paths(er)
         if br is None:
-            # ① 零协完全没有这条
-            fields = [f for f, v in er.items()
-                      if isinstance(v, str) and v.strip()
-                      and f not in ("id", "key", "model", "teller", "index", "speaker")]
-            out.append({"id": k, "fields": fields, "why": "零协缺此记录"})
+            # ① 零协完全没有这条记录
+            out.append({"id": k, "fields": [p for p, _ in epaths],
+                        "why": "零协缺此记录"})
             continue
-        # ② 零协有这条，但哪些文本字段是空的
-        empty = []
-        for f, v in er.items():
-            if f in ("id", "key", "model", "teller", "index", "speaker"):
-                continue
-            if not isinstance(v, str) or not v.strip():
-                continue
-            bv = br.get(f)
-            if not isinstance(bv, str) or not bv.strip():
-                empty.append(f)
+        # ② 零协有这条，但某个嵌套字段为空/缺失
+        #    （递归比路径，所以 `texts[1].text` 这种组内漏译也能报出来）
+        bmap = dict(str_paths(br))
+        empty = [p for p, _ in epaths if not (bmap.get(p) or "").strip()]
         if empty:
-            out.append({"id": k, "fields": empty, "why": "零协该字段为空"})
+            out.append({"id": k, "fields": empty, "why": "零协缺此条目/字段"})
     return out
 
 
@@ -187,7 +231,13 @@ def main() -> int:
                     help="指定零协基础包目录（默认取工作区里版本号最大的 LimbusLocalize_latest*）")
     ap.add_argument("--patch", default=None, help="指定本补丁目录（默认 _kb/patch_v2）")
     ap.add_argument("--add-missing", action="store_true",
-                    help="把 A 类文件（零协没有的）从官方 en 复制结构进补丁，供翻译")
+                    help="把 A 类文件（零协没有的）从官方 en 复制结构进补丁，供翻译"
+                         "（默认只列计划，加 --yes 才真正写入）")
+    ap.add_argument("--yes", action="store_true",
+                    help="确认执行 --add-missing 的写入")
+    ap.add_argument("--from", dest="from_tsv", default=None,
+                    help="按清单文件建骨架（每行一个 rel，取第一列）；"
+                         "用于处理本次缺口之外的已知新文件，如官方新增但尚未纳入扫描的")
     args = ap.parse_args()
 
     global BASE_OVERRIDE, PATCH, EN, KR
@@ -228,11 +278,13 @@ def main() -> int:
         if not os.path.exists(kp):
             kp = os.path.join(KR, rel)
 
-        en_n = recs(enp)
+        # 判据用「递归可译字符串条数」而不是记录数：
+        # 记录数测不出「组内少一条对话」，而那正是 RPG 最常见的新增形态。
+        en_n = str_count(enp)
         if en_n <= 0:
             continue                      # 官方这文件也是空的 → 还没内容
-        base_n = recs(bp) if os.path.exists(bp) else -1
-        pat_n = recs(pp) if os.path.exists(pp) else -1
+        base_n = str_count(bp) if os.path.exists(bp) else -1
+        pat_n = str_count(pp) if os.path.exists(pp) else -1
 
         # ── 关键判据：游戏有内容、而零协包「没有」或「是空占位」
         #    这正是「游戏刚更新、零协还没跟上」的情形，也是下次翻译最可能遇到的。
@@ -276,17 +328,50 @@ def main() -> int:
             print(f"     …还有 {len(rows_k)-args.top} 个")
 
     # ── --add-missing：把零协没有的文件按官方 en 的结构建进补丁（待译）
-    if args.add_missing:
-        made = 0
-        for rel, kind, en_n, base_n, pat_n, kr_n in scope:
-            if not kind.startswith("A"):
-                continue
+    if args.add_missing or args.from_tsv:
+        # 目标文件集：默认取本次 A 类缺口；给了 --from 就按清单（清单优先）
+        if args.from_tsv:
+            rels = []
+            with open(args.from_tsv, encoding="utf-8") as fh:
+                for line in fh:
+                    line = line.strip()
+                    if line and not line.startswith("#"):
+                        rels.append(line.split("\t")[0].strip())
+        else:
+            rels = [r for r, kind, *_ in scope if kind.startswith("A")]
+        # ⚠️ 安全闸：这一步会按官方英文的结构**新建文件**。
+        #    一旦基准包指错（例如忘了传 --base，拿真实零协包去比合成树），
+        #    A 类会膨胀成「几乎整个官方 en 目录」，一次写出几千个文件。
+        #    本会话排练时就误操作过一次（写了 2147 个）。所以默认只列计划。
+        to_make = [r for r in rels
+                   if os.path.exists(os.path.join(EN, os.path.dirname(r),
+                                                  "EN_" + os.path.basename(r)))
+                   and not os.path.exists(os.path.join(PATCH, r))]
+        # 基准包通常形如 <工作区>/<包名>/LimbusCompany_Data/Lang/LLC_zh-CN
+        _bp = base
+        for _ in range(3):
+            _bp = os.path.dirname(_bp)
+        print(f"\n  待建骨架 {len(to_make)} 个文件"
+              f"（基准包 {os.path.basename(_bp) or base}，写入 {os.path.relpath(PATCH, WS)}）")
+        if len(to_make) > 30:
+            print(f"  🚨 数量异常大（>30）。请确认 --base 指向的是**当前游戏版本对应的零协包**；")
+            print(f"     若基准包比游戏旧，几乎所有文件都会被判为 A 类。")
+        if not args.yes:
+            for rel in to_make[:40]:
+                print(f"     ＋ {rel}")
+            if len(to_make) > 40:
+                print(f"     …还有 {len(to_make)-40} 个")
+            print("\n  ⏸  未写入。确认无误后加 --yes 执行。")
+            return 0
+
+        made = skipped = 0
+        for rel in to_make:
             enp = os.path.join(EN, os.path.dirname(rel), "EN_" + os.path.basename(rel))
             pp = os.path.join(PATCH, rel)
-            if os.path.exists(pp):
-                continue
             j = load(enp)
             if not isinstance(j, dict):
+                print(f"  ⚠️ {rel} 结构异常，跳过")
+                skipped += 1
                 continue
             os.makedirs(os.path.dirname(pp), exist_ok=True)
             # 结构照抄官方 en（键序/嵌套一致），文本暂留英文作为待译标记
@@ -295,7 +380,8 @@ def main() -> int:
             made += 1
             print(f"  ➕ 已建 {rel}")
         if made:
-            print(f"\n  共建 {made} 个文件。注意：文本仍是英文，需逐个翻译后跑 verify_retrans。")
+            print(f"\n  共建 {made} 个文件（跳过 {skipped}：已存在或官方也没有）。")
+            print("  ⚠️ 文本仍是英文，需逐个翻译后跑 verify_retrans。")
 
     # ── 对「零协未译完」的文件，逐条列出漏译记录（这是下次翻译的真实工作清单）
     detail = {}
@@ -330,7 +416,7 @@ def main() -> int:
                 for u in us:
                     fh.write(f"{rel}\t{u['id']}\t{u['why']}\t{','.join(u['fields'])}\n")
         tot = sum(x[2] - max(x[3], 0) for x in scope if x[2] > max(x[3], 0))
-        print(f"\n📄 已写出 {os.path.relpath(p, WS)}（{len(scope)} 个文件，待补记录约 {tot}）")
+        print(f"\n📄 已写出 {os.path.relpath(p, WS)}（{len(scope)} 个文件，待补文本约 {tot} 条）")
         if detail:
             print(f"   📄 逐条清单: terms/_review/scope_untranslated.tsv"
                   f"（{sum(len(v) for v in detail.values())} 条）")

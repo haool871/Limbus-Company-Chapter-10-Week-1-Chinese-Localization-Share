@@ -129,10 +129,11 @@ def main() -> int:
     else:
         ok("环境就绪")
     print("\n  下一步：")
-    print("    1) 读 workflow/与零协差距教材.md（开工前必读）")
-    print("    2) 算范围：python3 tools/scope.py        （新增在哪 + 逐条漏译清单）")
-    print("    3) 建骨架：python3 tools/scope.py --add-missing")
-    print("    4) 改完跑：python3 tools/verify_retrans.py --all")
+    print("    1) 读 workflow/与零协差距教材.md + 重译手册 §0.6b（两条裁决线）")
+    print("    2) 零协有更新 → python3 tools/merge_zeroasso.py --dry-run（先合并）")
+    print("    3) 算范围：python3 tools/scope.py     （缺口 + 逐条漏译清单）")
+    print("    4) 建骨架：python3 tools/scope.py --add-missing   （默认只列计划，加 --yes 才写）")
+    print("    5) 改完跑：python3 tools/verify_retrans.py --all  （须有「✅ 红线」行）")
     return 1 if problems else 0
 
 
