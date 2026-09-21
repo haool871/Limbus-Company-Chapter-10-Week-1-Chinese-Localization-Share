@@ -20,7 +20,7 @@
     },
     {
       "id": 1104,
-      "panicName": "FOMO",
+      "panicName": "错失恐惧症",
       "lowMoraleDescription": "每失去自身的20%体力，使自身的攻击等级+1(最多+2)\n使自身获得1层[Vulnerable]",
       "panicDescription": "每失去自身的20%体力，使自身的攻击等级+1(最多+2)\n使自身获得1层[Vulnerable]"
     },

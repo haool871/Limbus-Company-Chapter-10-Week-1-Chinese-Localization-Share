@@ -13,7 +13,7 @@
     {
       "key": "I1201",
       "displayName": "录音带",
-      "description": "赤色之神旧日的声音再度响起，重复着它曾经念诵过的话语。那正是Le Rouge们曾听见的声音。信仰更坚者，能听见更深刻的故事。"
+      "description": "赤色之神旧日的声音再度响起，重复着它曾经念诵过的话语。那正是红派们曾听见的声音。信仰更坚者，能听见更深刻的故事。"
     },
     {
       "key": "I1206",
@@ -22,13 +22,13 @@
     },
     {
       "key": "I1207",
-      "displayName": "Le Noir正品认证书",
-      "description": "兹证明该顾客为Le Noir的模范顾客，并为维护本品牌的价值作出了贡献。"
+      "displayName": "黑派正品认证书",
+      "description": "兹证明该顾客为黑派的模范顾客，并为维护本品牌的价值作出了贡献。"
     },
     {
       "key": "I1208",
       "displayName": "黑红之线",
-      "statText": "在象征界中<color=#00ff9c>HP</color> +1\n\n在象征界中<color=#fe4b48>攻击速度</color> +10%\n\n在象征界中<color=#F8C200>移动速度</color> +5%\n\n对象征界中的Le Noir店员[阳光]与Le Rouge店员[阳光]类敌人：\n- 受到的<color=#fe4b48>伤害</color> -1\n- 造成的<color=#fe4b48>伤害</color> +1",
+      "statText": "在象征界中<color=#00ff9c>HP</color> +1\n\n在象征界中<color=#fe4b48>攻击速度</color> +10%\n\n在象征界中<color=#F8C200>移动速度</color> +5%\n\n对象征界中的黑派店员[阳光]与红派店员[阳光]类敌人：\n- 受到的<color=#fe4b48>伤害</color> -1\n- 造成的<color=#fe4b48>伤害</color> +1",
       "description": "当光从裂缝中洒落，触及每一个人时，百货店里的顾客们开始发生变化。他们变成了自己所追寻的价值，变成了他们所追随的品牌所追寻的价值。在变化中失去理性者，后来被称为人体模型。然而本质上，他们与我们并无不同。"
     },
     {
@@ -40,47 +40,47 @@
     {
       "key": "I990006",
       "displayName": "钝了的裁缝剪",
-      "description": "你是在问，改衣师是否该保持中立？Le Noir偏爱面料，Le Rouge偏爱皮革。想想看：那么，哪个品牌更需要改衣师……她又更愿意把剪刀交给谁呢？"
+      "description": "你是在问，改衣师是否该保持中立？黑派偏爱面料，红派偏爱皮革。想想看：那么，哪个品牌更需要改衣师……她又更愿意把剪刀交给谁呢？"
     },
     {
       "key": "I990101",
-      "displayName": "Le Noir现代开衫",
+      "displayName": "黑派现代开衫",
       "statText": "象征界<color=#00ff9c>HP</color> +2",
       "description": "你还记得西西弗百货的墙壁上出现的第一道裂缝吗？"
     },
     {
       "key": "I990102",
-      "displayName": "Le Noir现代帽",
+      "displayName": "黑派现代帽",
       "statText": "象征界<color=#00ff9c>HP</color> +2",
       "description": "西西弗百货，理当被永久保存。"
     },
     {
       "key": "I990103",
-      "displayName": "Le Noir现代绅士帽",
+      "displayName": "黑派现代绅士帽",
       "statText": "若玩家不进行任何操作，每5秒<color=#00ff9c>恢复</color>1点象征界<color=#00ff9c>HP</color>（3次）\n- 在泉眼休息可重新充能",
       "description": "裂缝扩散得更宽，成倍增加。为什么？"
     },
     {
       "key": "I990104",
-      "displayName": "Le Rouge休闲装拉链连帽衫",
+      "displayName": "红派休闲装拉链连帽衫",
       "statText": "在象征界中造成的<color=#fe4b48>伤害</color> +1",
       "description": "我们的神到哪里去了？"
     },
     {
       "key": "I990105",
-      "displayName": "Le Rouge休闲装裙",
+      "displayName": "红派休闲装裙",
       "statText": "在象征界中<color=#F8C200>移动速度</color> +5%\n\n象征界<color=#00ff9c>HP</color> +1",
       "description": "我已经听不到赤色之神的声音了……"
     },
     {
       "key": "I990106",
-      "displayName": "Le Rouge现代拉链",
+      "displayName": "红派现代拉链",
       "statText": "在象征界中解锁<color=#F8C200>疾跑</color>\n- 疾跑：<color=#F8C200>移动速度</color> +30%",
-      "description": "Le Rouge们在生活与生命的每一次脉动中寻得价值与意义。他们满怀期待地等待着经验。"
+      "description": "红派们在生活与生命的每一次脉动中寻得价值与意义。他们满怀期待地等待着经验。"
     },
     {
       "key": "I990107",
-      "displayName": "Le Rouge现代袜",
+      "displayName": "红派现代袜",
       "statText": "在影界中进入战斗时，对所有敌人施加2级<color=#F8C200>流血</color>强度并施加2层<color=#F8C200>流血</color>\n\n象征界<color=#00ff9c>HP</color> +1",
       "description": "红是血，是肉，是皮。"
     },
@@ -99,37 +99,37 @@
       "key": "I990303",
       "displayName": "改衣室出售的面料",
       "statText": "象征界<color=#00ff9c>HP</color> +1",
-      "description": "我不属于Le Rouge，也不属于Le Noir。我属于中立的价值。无论哪个品牌来求面料，我都乐意与之交易。"
+      "description": "我不属于红派，也不属于黑派。我属于中立的价值。无论哪个品牌来求面料，我都乐意与之交易。"
     },
     {
       "key": "I990304",
-      "displayName": "Boutique du Rouge太阳镜",
+      "displayName": "红派精品店太阳镜",
       "statText": "在象征界中，<color=#F8C200>弱点攻击</color>造成的<color=#fe4b48>伤害</color> +1\n\n象征界<color=#00ff9c>HP</color> +1",
       "description": "你戴上太阳镜，是因为光太刺眼。然后你又回头去看太阳。戴太阳镜不是为了避开阳光，而是为了更清楚地看见它。"
     },
     {
       "key": "I990305",
-      "displayName": "Boutique du Rouge T恤",
+      "displayName": "红派精品店 T恤",
       "statText": "在象征界中，命中攻击时<color=#F8C200>移动速度</color> +5%\n\n象征界<color=#00ff9c>HP</color> +1",
       "description": "当我们的神沉默下来，裂缝张得更开时……我们之中有些人又听见了那声音。"
     },
     {
       "key": "I990306",
-      "displayName": "Boutique du Rouge牛仔布",
+      "displayName": "红派精品店牛仔布",
       "statText": "在象征界中<color=#fe4b48>攻击速度</color> +10%",
-      "description": "Le Rouge们偏爱修身剪裁。比之更能彰显时装价值的，莫过于把身体本身的线条显露出来。"
+      "description": "红派们偏爱修身剪裁。比之更能彰显时装价值的，莫过于把身体本身的线条显露出来。"
     },
     {
       "key": "I990307",
       "displayName": "Maison du Noir领带",
       "statText": "象征界<color=#00ff9c>HP</color> +2",
-      "description": "我们提供的——由Le Noir们设计的精致衣装——遮掩顾客的身体，并矫正其下的轮廓。时尚的价值在于它遮蔽之物。"
+      "description": "我们提供的——由黑派们设计的精致衣装——遮掩顾客的身体，并矫正其下的轮廓。时尚的价值在于它遮蔽之物。"
     },
     {
       "key": "I990308",
       "displayName": "Maison du Noir长裤",
       "statText": "在象征界中，受击时<color=#F8C200>无敌帧</color> +0.05秒",
-      "description": "这奇怪的声音似乎会让听见它的人发疯，无论是Le Noir还是Le Rouge。"
+      "description": "这奇怪的声音似乎会让听见它的人发疯，无论是黑派还是红派。"
     },
     {
       "key": "I990309",
@@ -150,33 +150,33 @@
     },
     {
       "key": "I990401",
-      "displayName": "Le Noir玛丽珍鞋",
+      "displayName": "黑派玛丽珍鞋",
       "statText": "象征界<color=#00ff9c>HP</color> +3",
       "description": "名字在西西弗百货里消逝。留下的只有商品与品牌之名。正因如此，才必须一层又一层地穿戴上身。"
     },
     {
       "key": "I990402",
-      "displayName": "Le Noir焦特布尔靴",
+      "displayName": "黑派焦特布尔靴",
       "statText": "在象征界中攻击的<color=#F8C200>受击硬直</color> +0.1秒\n\n象征界<color=#00ff9c>HP</color> +2",
       "description": "把我固定住。把我紧紧束起。给这具不安定的身体赋予形态。我把我的自由献给你。"
     },
     {
       "key": "I990403",
-      "displayName": "Le Noir经典鞋楦",
+      "displayName": "黑派经典鞋楦",
       "statText": "在象征界中，受到会导致死亡的<color=#fe4b48>伤害</color>时，<color=#00ff9c>以1点HP存活</color>（1次）\n- 在泉眼休息可重新充能\n- 不包括即死等部分伤害",
       "description": "世界不可改变。必须原封不动地停在原处。直到永远。"
     },
     {
       "key": "I990404",
-      "displayName": "Le Rouge芭蕾平底鞋",
+      "displayName": "红派芭蕾平底鞋",
       "statText": "在象征界中，击杀敌人时<color=#F8C200>移动速度</color> +30%\n\n象征界<color=#00ff9c>HP</color> +3",
       "description": "衣装的种类繁多，但鞋最为要紧。它是最先触及世界的衣物。"
     },
     {
       "key": "I990405",
-      "displayName": "Le Rouge切尔西靴",
+      "displayName": "红派切尔西靴",
       "statText": "在象征界中解锁<color=#F8C200>Avant</color>\n- Avant：在最后一次攻击后再按一次攻击键，即可发动<color=#F8C200>Avant</color>\n- 发动Avant时，向前方大范围横扫，使命中的敌人<color=#F8C200>击退</color>\n- 在<color=#F8C200>Garde</color>期间发动时，<color=#F8C200>攻击范围</color>与<color=#F8C200>击退距离</color>会随Garde等级增加",
-      "description": "鞋需要呼吸。Le Noir们搞错了——鞋不该被密不透风地封住。它得保持柔软，让脚透气。只有这样，你才真正站在大地上。否则，你只是被摆在地上，与下方的地面隔绝。"
+      "description": "鞋需要呼吸。黑派们搞错了——鞋不该被密不透风地封住。它得保持柔软，让脚透气。只有这样，你才真正站在大地上。否则，你只是被摆在地上，与下方的地面隔绝。"
     },
     {
       "key": "I990406",
@@ -194,7 +194,7 @@
       "key": "I990408",
       "displayName": "实木桌",
       "statText": "在象征界中，命中攻击时有15%概率触发<color=#F8C200>追加攻击</color>（0.2秒受击硬直）\n- 以命中的敌人为中心，对十字形5格造成3点<color=#fe4b48>伤害</color>\n- 每有1名1格内已发现默尔索的敌人，触发概率+10%",
-      "description": "曾有个Le Rouge的混账问，为什么吃饭要坐在桌边。何必这么麻烦，直接在地上吃不好吗？可正是这套仪式让食物更美味。靠辛苦与忍耐得来的更为甘甜，因而更有价值。照这个道理，桌椅越不舒服，用餐者便越文明。您不这么认为吗？"
+      "description": "曾有个红派的混账问，为什么吃饭要坐在桌边。何必这么麻烦，直接在地上吃不好吗？可正是这套仪式让食物更美味。靠辛苦与忍耐得来的更为甘甜，因而更有价值。照这个道理，桌椅越不舒服，用餐者便越文明。您不这么认为吗？"
     },
     {
       "key": "I990409",
@@ -240,7 +240,7 @@
       "key": "I990801",
       "displayName": "汽水",
       "statText": "象征界<color=#00ff9c>HP</color>降至5以下时，<color=#00ff9c>恢复</color>5点象征界<color=#00ff9c>HP</color>（1次）\n- 在泉眼休息可重新充能",
-      "description": "奢侈品馆正遭受攻击！Le Rouge们冲进了Le Noir把守的馆内，如今已开始大快朵颐！"
+      "description": "奢侈品馆正遭受攻击！红派们冲进了黑派把守的馆内，如今已开始大快朵颐！"
     },
     {
       "key": "I990802",
@@ -258,7 +258,7 @@
       "key": "I990804",
       "displayName": "折叠伞",
       "statText": "在象征界中，命中可破坏的投掷物时，<color=#F8C200>破坏该投掷物</color>\n\n象征界<color=#00ff9c>HP</color> +2",
-      "description": "勒卡基的招牌商品。对于一个苦苦想做出时装而不得的品牌来说，伞不过是它为数不多的真正创造之一。"
+      "description": "褐派的招牌商品。对于一个苦苦想做出时装而不得的品牌来说，伞不过是它为数不多的真正创造之一。"
     },
     {
       "key": "I990805",
@@ -412,13 +412,13 @@
       "key": "I990815",
       "displayName": "残羹剩饭",
       "statText": "影界中的战斗期间：\n回合开始时：<color=#00ff9c>HP</color>低于50%的友方单位获得1层<color=#00ff9c>HP回复量提升</color>（每次遭遇战4次）",
-      "description": "你知道食物到哪里为止，剩饭又从哪里开始吗？\n\n咬一口就把剩下的扔掉，那便成了垃圾。但对某些人来说，那份垃圾却是极难得的食材，会被津津有味地吞下。我的意思是，什么算剩饭，在美食广场可是个极其重要的问题……而眼下，凡不是Le Noir的，都被算作剩饭。"
+      "description": "你知道食物到哪里为止，剩饭又从哪里开始吗？\n\n咬一口就把剩下的扔掉，那便成了垃圾。但对某些人来说，那份垃圾却是极难得的食材，会被津津有味地吞下。我的意思是，什么算剩饭，在美食广场可是个极其重要的问题……而眼下，凡不是黑派的，都被算作剩饭。"
     },
     {
       "key": "I990814",
       "displayName": "地图碎片",
       "statText": "在影界中进入战斗时，获得1层<color=#F8C200>E.G.O资源增幅</color>，持续1回合",
-      "description": "一张标出直通奢侈品馆路线的地图，但如今已被用过，字迹难辨。西西弗系统整体是层层叠叠的叠加体，正因如此才能容纳多得不像话的顾客。\n这张地图出自少数能解析这多重结构的头脑之手，价值高得不可估量。\n\n而它落到了Le Rouge手里。"
+      "description": "一张标出直通奢侈品馆路线的地图，但如今已被用过，字迹难辨。西西弗系统整体是层层叠叠的叠加体，正因如此才能容纳多得不像话的顾客。\n这张地图出自少数能解析这多重结构的头脑之手，价值高得不可估量。\n\n而它落到了红派手里。"
     },
     {
       "key": "I990320",
@@ -499,7 +499,7 @@
     },
     {
       "key": "I990117",
-      "displayName": "过季的Le Rouge衣服",
+      "displayName": "过季的红派衣服",
       "statText": "象征界<color=#00ff9c>HP</color> +4",
       "description": "一根来自往季的钉子，钉进了砖里。它或许曾经流行，但如今只是过季了。"
     },
@@ -525,7 +525,7 @@
       "key": "I102023",
       "displayName": "品牌总监的遗物",
       "statText": "在象征界中受击时有10%概率对攻击者回敬3点<color=#fe4b48>伤害</color>",
-      "description": "Le Rouge的品牌总监。\n\n品牌的一切意义与方向，都在她的指挥下被决定。没有人比她更清楚地听见赤色之神的声音。令人敬佩的是，即便那声音消失之后，品牌总监仍试图造出一个新的存在，好让那声音再度被听见。若她愿意，赤色之神的缺席本可以一直隐瞒下去，但她选择了不。"
+      "description": "红派的品牌总监。\n\n品牌的一切意义与方向，都在她的指挥下被决定。没有人比她更清楚地听见赤色之神的声音。令人敬佩的是，即便那声音消失之后，品牌总监仍试图造出一个新的存在，好让那声音再度被听见。若她愿意，赤色之神的缺席本可以一直隐瞒下去，但她选择了不。"
     },
     {
       "key": "I990919",
@@ -537,7 +537,7 @@
       "key": "I1209",
       "displayName": "精炼的裁缝剪",
       "statText": "在象征界中，命中攻击时有30%概率触发<color=#F8C200>咔嚓裁缝剪追加攻击</color>，造成1点<color=#fe4b48>伤害</color>（0.3秒受击硬直）\n\n在影界中进入战斗时，对所有敌人施加等于其被本效果命中次数的流血层数（最多5）",
-      "description": "改衣师剪开面料，再按纸样把它接合起来。近来那咔嚓声大了许多——Le Noir们一定是下了笔极大的订单。也许，一场大冲突就要爆发了？"
+      "description": "改衣师剪开面料，再按纸样把它接合起来。近来那咔嚓声大了许多——黑派们一定是下了笔极大的订单。也许，一场大冲突就要爆发了？"
     }
   ]
 }

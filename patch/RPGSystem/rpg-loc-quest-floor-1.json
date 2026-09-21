@@ -128,7 +128,7 @@
     },
     {
       "key": "Q1042",
-      "title": "击退敌对的Le Noir店员",
+      "title": "击退敌对的黑派店员",
       "description": "",
       "steps": [
         {
@@ -138,19 +138,19 @@
     },
     {
       "key": "Q1051",
-      "title": "前往Le Rouge的卖场",
-      "description": "从Le Noir店员那里听说了黄金松脂的事。这次去上面的Le Rouge现代馆看看吧。",
+      "title": "前往红派的卖场",
+      "description": "从黑派店员那里听说了黄金松脂的事。这次去上面的红派当代服饰馆看看吧。",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "前往Le Rouge现代馆"
+          "goalDescription1": "前往红派当代服饰馆"
         }
       ]
     },
     {
       "key": "Q1052",
       "title": "寻找巨大的针",
-      "description": "Le Rouge现代馆的店员奎利安拜托我们带一根巨大的针回来。找到拿着那根针的人体模型，取得针后回到奎利安那里吧。",
+      "description": "红派当代服饰馆的店员奎利安拜托我们带一根巨大的针回来。找到拿着那根针的人体模型，取得针后回到奎利安那里吧。",
       "steps": [
         {
           "index": 0,

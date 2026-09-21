@@ -46,19 +46,19 @@
     },
     {
       "key": "Q3005",
-      "title": "与Boutique du Rouge的Le Rouge交谈",
-      "description": "我们走进了一家叫“Boutique du Rouge”的店。店内某处不断传来一个声音，多半属于那位“巨人”。\n去跟店员谈谈，看看能不能多了解这个地方。",
+      "title": "与红派精品店的红派交谈",
+      "description": "我们走进了一家叫“红派精品店”的店。店内某处不断传来一个声音，多半属于那位“巨人”。\n去跟店员谈谈，看看能不能多了解这个地方。",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "与Boutique du Rouge的店员交谈"
+          "goalDescription1": "与红派精品店的店员交谈"
         }
       ]
     },
     {
       "key": "Q3006",
       "title": "前往广播室",
-      "description": "Le Rouge店员L'Inamovible神情沮丧，因为那“声音”只是不断重复它已经说过的话，她想知道原因。\n可那声音的主人，是早已离世的默尔索的母亲……尽管如此，我们还是按她所说，决定前往广播室。",
+      "description": "红派店员不可动摇者神情沮丧，因为那“声音”只是不断重复它已经说过的话，她想知道原因。\n可那声音的主人，是早已离世的默尔索的母亲……尽管如此，我们还是按她所说，决定前往广播室。",
       "steps": [
         {
           "index": 0,
@@ -68,23 +68,23 @@
     },
     {
       "key": "Q3007",
-      "title": "回到L'Inamovible那里",
-      "description": "从3F楼层经理那里拿到了广播室录音带。这盘带子里，或许就录着巨人的声音？\n\n回到Boutique du Rouge，把它交给L'Inamovible吧。",
+      "title": "回到不可动摇者那里",
+      "description": "从3F楼层经理那里拿到了广播室录音带。这盘带子里，或许就录着巨人的声音？\n\n回到红派精品店，把它交给不可动摇者吧。",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "回到L'Inamovible那里"
+          "goalDescription1": "回到不可动摇者那里"
         }
       ]
     },
     {
       "key": "Q3008",
-      "title": "回到L'Inamovible那里",
-      "description": "从3F楼层经理那里拿到了广播室录音带。这盘带子里，或许就录着巨人的声音？\n\n回到Boutique du Rouge，把它交给L'Inamovible吧。",
+      "title": "回到不可动摇者那里",
+      "description": "从3F楼层经理那里拿到了广播室录音带。这盘带子里，或许就录着巨人的声音？\n\n回到红派精品店，把它交给不可动摇者吧。",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "回到L'Inamovible那里"
+          "goalDescription1": "回到不可动摇者那里"
         }
       ]
     },
@@ -123,12 +123,12 @@
     },
     {
       "key": "Q3013",
-      "title": "清除被蛊惑的Le Noir",
-      "description": "我们来到了Maison du Noir。\n经营这家店的两位Le Noir——弗兰内尔和菲尔特——想让自家品牌“高级化”，于是拜托我们清除几个被外来的“声音”蛊惑的Le Noir。\n先清除三个左右被蛊惑的Le Noir，再回去跟他们谈吧。",
+      "title": "清除被蛊惑的黑派",
+      "description": "我们来到了Maison du Noir。\n经营这家店的两位黑派——弗兰内尔和菲尔特——想让自家品牌“高级化”，于是拜托我们清除几个被外来的“声音”蛊惑的黑派。\n先清除三个左右被蛊惑的黑派，再回去跟他们谈吧。",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "清除3名被蛊惑的Le Noir"
+          "goalDescription1": "清除3名被蛊惑的黑派"
         },
         {
           "index": 1,
@@ -153,8 +153,8 @@
     },
     {
       "key": "Q4014",
-      "title": "把情况告知Le Noir们",
-      "description": "我们在幸福衣柜的残骸里找到一张纸条，上面写着“黄金面料”和“钉子”。这或许就是单足提到的、那把传说武器的制作配方？\n按约定，先把这带回去给4F的Le Noir鞋履馆里的那个单足，然后再回到3F的Maison du Noir找弗兰内尔和菲尔特。",
+      "title": "把情况告知黑派们",
+      "description": "我们在幸福衣柜的残骸里找到一张纸条，上面写着“黄金面料”和“钉子”。这或许就是单足提到的、那把传说武器的制作配方？\n按约定，先把这带回去给4F的黑派制鞋馆里的那个单足，然后再回到3F的Maison du Noir找弗兰内尔和菲尔特。",
       "steps": [
         {
           "index": 0,
@@ -162,7 +162,7 @@
         },
         {
           "index": 1,
-          "goalDescription1": "与4F的Le Noir鞋履馆里的单足交谈"
+          "goalDescription1": "与4F的黑派制鞋馆里的单足交谈"
         },
         {
           "index": 2,
@@ -183,23 +183,23 @@
     },
     {
       "key": "Q4017",
-      "title": "前往Boutique du Rouge",
-      "description": "从改衣师安妮特那里拿到了黄金面料……接下来，该去取得那根“钉子”了。\n我们应该能在Boutique du Rouge拿到那根“钉子”——或者按Le Noir们的说法，“L'Inamovible的脊骨”。",
+      "title": "前往红派精品店",
+      "description": "从改衣师安妮特那里拿到了黄金面料……接下来，该去取得那根“钉子”了。\n我们应该能在红派精品店拿到那根“钉子”——或者按黑派们的说法，“不可动摇者的脊骨”。",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "回到L'Inamovible那里"
+          "goalDescription1": "回到不可动摇者那里"
         }
       ]
     },
     {
       "key": "Q4016",
       "title": "取得“钉子”，回到Maison du Noir",
-      "description": "L'Inamovible的扭曲在我们眼前迅速加剧，我们只好将她斩杀。\n现在，把她的脊——“钉子”取下来吧。\n接下来，只要把黄金面料缠上那根钉子，Le Noir们那把能撕裂一切面料的传说武器就完成了。\n\n回到Maison du Noir，把消息告诉弗兰内尔和菲尔特吧。",
+      "description": "不可动摇者的扭曲在我们眼前迅速加剧，我们只好将她斩杀。\n现在，把她的脊——“钉子”取下来吧。\n接下来，只要把黄金面料缠上那根钉子，黑派们那把能撕裂一切面料的传说武器就完成了。\n\n回到Maison du Noir，把消息告诉弗兰内尔和菲尔特吧。",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "从L'Inamovible的遗骸上取得“钉子”"
+          "goalDescription1": "从不可动摇者的遗骸上取得“钉子”"
         },
         {
           "index": 2,

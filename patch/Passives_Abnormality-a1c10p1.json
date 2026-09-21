@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": 146501,
-      "name": "Le Noir：面料",
+      "name": "黑派：面料",
       "desc": "关卡开始时：使自身获得5层[NoirBindArmor]\n回合开始时：使自身获得相当于体力上限([NoirBindArmor]层数)%的护盾",
-      "flavor": "Le Noir的精纺毛料如铠甲般包裹身体，以坚实而不变形的轮廓修饰穿着者的身形。"
+      "flavor": "黑派的精纺毛料如铠甲般包裹身体，以坚实而不变形的轮廓修饰穿着者的身形。"
     },
     {
       "id": 146502,
       "name": "引导顾客",
       "desc": "目标每带有1层[NoirNoComply]，对其造成的伤害+10%，且受到其造成的伤害+10%\n对带有3层[NoirNoComply]的目标造成的伤害+200%",
-      "flavor": "Le Noir严格按照总公司的管理规程，为尊贵的顾客服务。"
+      "flavor": "黑派严格按照总公司的管理规程，为尊贵的顾客服务。"
     },
     {
       "id": 146503,
@@ -25,7 +25,7 @@
     },
     {
       "id": 149401,
-      "name": "Le Rouge：夹克",
+      "name": "红派：夹克",
       "desc": "回合结束时：使自身获得或失去最多10层[ChargeRouge]\n\n受到攻击时，若攻击者使用了可获得[Charge]的技能，则将自身的1层[ChargeRouge]作为[Charge]层数转移给攻击者(攻击者的每个技能1次)\n上述效果每次触发时，使自身获得1层[AttackUp]\n回合开始时：消耗自身超出15层的[ChargeRouge]层数最多5层，使自身恢复(消耗的[ChargeRouge]层数)%的体力"
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "id": 149301,
-      "name": "Le Rouge：夹克",
+      "name": "红派：夹克",
       "desc": "回合结束时：使自身获得或失去最多10层[ChargeRouge]\n\n受到攻击时，若攻击者使用了可获得[Charge]的技能，则将自身的1层[ChargeRouge]作为[Charge]层数转移给攻击者(攻击者的每个技能1次)\n上述效果每次触发时，使自身获得1层[AttackUp]"
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "id": 146601,
-      "name": "Le Rouge精品店：新品图鉴",
+      "name": "红派精品店：新品图鉴",
       "desc": "[RougeThreeNormal] 模式\n\n解除自身的[RougeThreeCocoon]与[RougeThreeCocoonShield]，并获得[RougeThreeNormal]\n<color=#ff6000><mark=#ff000040><b><u>受到攻击时，获得1层[RougeThreeNormal]\n回合结束时：若[RougeThreeNormal]层数为20层，则下回合进入[RougeThreeCocoon]模式</u></b></mark></color>\n\n处于[RougeThreeNormal]状态期间：\n若自身受到的伤害会使其体力低于10点，则使该伤害无效，恢复30%的体力并结束本回合。随后，自身进入[RougeThreeCocoon]状态，并在本场战斗剩余时间内获得2层[Enhancement](每场战斗1次)"
     },
     {
@@ -133,9 +133,9 @@
     },
     {
       "id": 149201,
-      "name": "Le Noir：面料",
+      "name": "黑派：面料",
       "desc": "关卡开始时：使自身获得5层[NoirBindArmor]\n\n回合开始时：使自身获得相当于体力上限([NoirBindArmor]层数/2)%的护盾\n\n陷入混乱时，失去所有的[NoirBindArmor]\n回合开始时：自身解除混乱时，获得5层[NoirBindArmor]",
-      "flavor": "Le Noir的精纺毛料如铠甲般包裹身体，以坚实而不变形的轮廓修饰穿着者的身形。"
+      "flavor": "黑派的精纺毛料如铠甲般包裹身体，以坚实而不变形的轮廓修饰穿着者的身形。"
     },
     {
       "id": 149202,
@@ -157,9 +157,9 @@
     },
     {
       "id": 148201,
-      "name": "Le Noir：面料",
+      "name": "黑派：面料",
       "desc": "关卡开始时：使自身获得3层[NoirBindArmor]\n\n回合开始时：使自身获得相当于体力上限([NoirBindArmor]层数)%的护盾(陷入混乱时除外)",
-      "flavor": "Le Noir的精纺毛料如铠甲般包裹身体，以坚实而不变形的轮廓修饰穿着者的身形。"
+      "flavor": "黑派的精纺毛料如铠甲般包裹身体，以坚实而不变形的轮廓修饰穿着者的身形。"
     },
     {
       "id": 148202,
@@ -181,9 +181,9 @@
     },
     {
       "id": 148301,
-      "name": "Le Noir：华达呢面料",
+      "name": "黑派：华达呢面料",
       "desc": "关卡开始时：使自身获得30层[NoirSuit]\n\n回合开始时：使自身获得相当于体力上限([NoirSuit]层数/5)%的护盾(陷入混乱时除外)",
-      "flavor": "Le Noir的招牌华达呢，为正式感而剪裁，却不牺牲挺括。"
+      "flavor": "黑派的招牌华达呢，为正式感而剪裁，却不牺牲挺括。"
     },
     {
       "id": 148302,
@@ -195,7 +195,7 @@
       "id": 148303,
       "name": "反馈",
       "desc": "回合开始时：若自身带有[Realisation]，则将“单腿踢”改为以“单腿踢-高定连击”发动\n\n触发[VibrationExplosion]时，使[VibrationExplosion]造成的混乱阈值前移量+20%\n- [ChargeNoir]层数不低于12层时，触发[VibrationExplosion]时消耗自身的1层[ChargeNoir]，改为使[VibrationExplosion]造成的混乱阈值前移量+40%(对各目标分别计算)\n\n触发[VibrationExplosion]时，若目标没有混乱阈值，则造成相当于自身[DefenseUp]层数的固定伤害(最多20点)",
-      "flavor": "Le Noir相信，只要让对手承受剧烈的震颤，就能使其价值崩塌——目标震颤得越剧烈，每时每刻都必须经历的改变就越多。\n\nLe Noir的战斗技术正是建立在这一信念之上。"
+      "flavor": "黑派相信，只要让对手承受剧烈的震颤，就能使其价值崩塌——目标震颤得越剧烈，每时每刻都必须经历的改变就越多。\n\n黑派的战斗技术正是建立在这一信念之上。"
     },
     {
       "id": 148304,

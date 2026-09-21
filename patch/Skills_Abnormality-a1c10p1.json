@@ -743,7 +743,7 @@
           "level": 1,
           "name": "磨蹭",
           "desc": "[WhenUse] 使自身获得(目标的[Laceration]强度×5)点护盾",
-          "flavor": "只要没什么事可做，大多数勒卡基都会发呆，什么也不干。",
+          "flavor": "只要没什么事可做，大多数褐派都会发呆，什么也不干。",
           "coinlist": [
             {
               "coindescs": [
@@ -1393,7 +1393,7 @@
         {
           "level": 1,
           "name": "那条腿，我帮你切掉。就当是慈悲。",
-          "flavor": "不知这位在遇见Le Noir的品牌经理时会作何反应？",
+          "flavor": "不知这位在遇见黑派的品牌经理时会作何反应？",
           "desc": "无论速度值高低均可与本技能拼点\n[WhenUse] 若自身带有[NoirSuit]，每带有30层本效果，使自身的拼点威力+1(最多+3)\n[WhenUse] 若自身带有[Realisation]，每带有2层本效果，造成的伤害+1%(最多+50%)\n[WhenUse]\n- [ChargeNoir]层数不低于10层时，消耗10层[ChargeNoir]，使自身的硬币威力+2\n- [ChargeNoir]层数低于10层时，使自身获得5层[ChargeNoir]\n[DefeatDuel]\n- 造成的伤害-50%\n- 使自身的混乱阈值前移相当于自身[DefenseUp]层数的数值",
           "coinlist": [
             {

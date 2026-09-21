@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "3F Le Rouge精品店",
+      "place": "3F 红派精品店",
       "model": "뫼르소",
       "content": "……你是在甜甜圈巷那家餐厅吃玛格丽特披萨那天穿的它。你当时确实抱怨过，那身行头带来的不适让你肠胃出了问题。"
     },
@@ -51,7 +51,7 @@
     },
     {
       "id": 11,
-      "content": "<color=#a5ab8e>这也恰好可以用来比喻那位Le Rouge……只不过，与我不同，她拒绝换上更舒服的衣服。</color>"
+      "content": "<color=#a5ab8e>这也恰好可以用来比喻那位红派……只不过，与我不同，她拒绝换上更舒服的衣服。</color>"
     },
     {
       "id": 12,
@@ -60,15 +60,15 @@
     {
       "id": 13,
       "model": "3층하이도메루주번데기",
-      "teller": "L'Inamovible",
-      "title": "Le Rouge",
+      "teller": "不可动摇者",
+      "title": "红派",
       "content": "是的，是的……我所做的一切……那一切一定都有其意义……有其目的……"
     },
     {
       "id": 14,
       "model": "3층하이도메루주번데기",
-      "teller": "L'Inamovible",
-      "title": "Le Rouge",
+      "teller": "不可动摇者",
+      "title": "红派",
       "content": "我一直在把黄金皮革剥下来，是因为……对，就是这样。"
     },
     {
@@ -91,15 +91,15 @@
     {
       "id": 19,
       "model": "3층하이도메루주번데기",
-      "teller": "L'Inamovible",
-      "title": "Le Rouge",
+      "teller": "不可动摇者",
+      "title": "红派",
       "content": "它在对我说话……再一次……它传来得如此清晰，没有中断，没有衰减……"
     },
     {
       "id": 20,
       "model": "3층하이도메루주번데기",
-      "teller": "L'Inamovible",
-      "title": "Le Rouge",
+      "teller": "不可动摇者",
+      "title": "红派",
       "content": "它让我用指甲去抓这身衣服……把它整个撕扯下来……说只有在赤裸的身体里，我才能找到真正的自己……"
     },
     {
@@ -110,27 +110,27 @@
     {
       "id": 22,
       "model": "단테",
-      "content": "<尽管进度各不相同，但我们在西西弗百货遇到的所有Le Rouge与Le Noir员工，无一例外都在扭曲。可是……她的情况进展得快得多……>"
+      "content": "<尽管进度各不相同，但我们在西西弗百货遇到的所有红派与黑派员工，无一例外都在扭曲。可是……她的情况进展得快得多……>"
     },
     {
       "id": 23,
       "model": "3층하이도메루주번데기",
-      "teller": "L'Inamovible",
-      "title": "Le Rouge",
+      "teller": "不可动摇者",
+      "title": "红派",
       "content": "它终于……在脱落，在从我身上脱落。把这些令人窒息的东西从我身上拿开……我想成为真正的自己……"
     },
     {
       "id": 24,
       "model": "3층하이도메루주",
-      "teller": "L'Inamovible",
-      "title": "Le Rouge人体模型",
+      "teller": "不可动摇者",
+      "title": "红派人体模型",
       "content": "也有人把那些谎言披到了你们身上吗？"
     },
     {
       "id": 25,
       "model": "3층하이도메루주",
-      "teller": "L'Inamovible",
-      "title": "Le Rouge人体模型",
+      "teller": "不可动摇者",
+      "title": "红派人体模型",
       "content": "来吧，我来把你们从那些压抑人的衣服里解放出来……然后你们也能感受到……和我一样的东西……"
     }
   ]
