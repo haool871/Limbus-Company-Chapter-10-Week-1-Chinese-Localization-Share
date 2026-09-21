@@ -243,6 +243,7 @@ Sum	总计	211	71	MirrorDungeonUI_6.json
 Pirates	海盗	126	156	StageNode-a1c5p1.json
 Ammo	弹药	136	143	BattleKeywords.json
 Assist [援]	援	0	279	BattleKeywords.json
+Normal	Normal	273	1	MirrorDungeonUI_5.json
 Guaranteed	确定	31	242	MirrorDungeonUI_4.json
 Hard Difficulty	困难难度	135	138	MirrorDungeonUI_6.json
 Regular	常规	190	81	BattlePass.json
@@ -1019,7 +1020,6 @@ Hatching	孵化	2	28	StageNode-a1c9p3.json
 Prosthetic Fixers	义体收尾人	3	27	StageNode91-10.json
 Hell’s Chicken	地狱鸡	0	30	StageNode91-3.json
 Steam Transport Machine	蒸汽运输机	16	13	AbEvents_Refraction2.json
-Fairy Queen	精灵女王	13	16	AbnormalityGuides.json
 Assist Attack	援护攻击	16	13	BattleKeywords-a1c5p3.json
 Focused Attack	集中攻击	12	17	BattleKeywords-a1c7p1.json
 Corpus Theater	人体观剧	13	16	BattleKeywords-a1c9p3.json
@@ -2390,7 +2390,6 @@ Projection Rewards	投影度奖励	3	3	MirrorDungeonUI_5_InfinityFloor.json
 Selected Adversities	选择制约	1	5	MirrorDungeonUI_6.json
 Swordplay of the Homeland [Sal] - Shift Battleform	本国剑术[肉]-姿态变化	0	6	Passives-BossRaid.json
 Tigermark Round Reload	虎标弹装填	3	3	Passives-BossRaid.json
-Great Mountain	安若泰山	5	1	Passives.json
 Stubbornness	固执己见	3	3	Passives.json
 Joy of Execution	处刑的欢喜	3	3	Passives.json
 Cornering	无处可逃	2	4	Passives.json

@@ -72,11 +72,13 @@
 "kr": "KR_AbDlg_YiSang.json"
 },
 "AbEvents-a1c5p1.json": {
+"cn": "AbEvents-a1c5p1.json",
 "en": "EN_AbEvents-a1c5p1.json",
 "jp": "JP_AbEvents-a1c5p1.json",
 "kr": "KR_AbEvents-a1c5p1.json"
 },
 "AbEvents-a1c5p2.json": {
+"cn": "AbEvents-a1c5p2.json",
 "en": "EN_AbEvents-a1c5p2.json",
 "jp": "JP_AbEvents-a1c5p2.json",
 "kr": "KR_AbEvents-a1c5p2.json"
@@ -172,11 +174,13 @@
 "kr": "KR_AbEvents.json"
 },
 "AbEventsResultLog-a1c5p1.json": {
+"cn": "AbEventsResultLog-a1c5p1.json",
 "en": "EN_AbEventsResultLog-a1c5p1.json",
 "jp": "JP_AbEventsResultLog-a1c5p1.json",
 "kr": "KR_AbEventsResultLog-a1c5p1.json"
 },
 "AbEventsResultLog-a1c5p2.json": {
+"cn": "AbEventsResultLog-a1c5p2.json",
 "en": "EN_AbEventsResultLog-a1c5p2.json",
 "jp": "JP_AbEventsResultLog-a1c5p2.json",
 "kr": "KR_AbEventsResultLog-a1c5p2.json"
@@ -380,11 +384,13 @@
 "kr": "KR_AbEvents_twth.json"
 },
 "AbnormalityGuides-a1c5p1.json": {
+"cn": "AbnormalityGuides-a1c5p1.json",
 "en": "EN_AbnormalityGuides-a1c5p1.json",
 "jp": "JP_AbnormalityGuides-a1c5p1.json",
 "kr": "KR_AbnormalityGuides-a1c5p1.json"
 },
 "AbnormalityGuides-a1c5p2.json": {
+"cn": "AbnormalityGuides-a1c5p2.json",
 "en": "EN_AbnormalityGuides-a1c5p2.json",
 "jp": "JP_AbnormalityGuides-a1c5p2.json",
 "kr": "KR_AbnormalityGuides-a1c5p2.json"
@@ -522,11 +528,13 @@
 "kr": "KR_AbnormalityGuides_exme.json"
 },
 "ActionEvents-a1c5p1.json": {
+"cn": "ActionEvents-a1c5p1.json",
 "en": "EN_ActionEvents-a1c5p1.json",
 "jp": "JP_ActionEvents-a1c5p1.json",
 "kr": "KR_ActionEvents-a1c5p1.json"
 },
 "ActionEvents-a1c5p2.json": {
+"cn": "ActionEvents-a1c5p2.json",
 "en": "EN_ActionEvents-a1c5p2.json",
 "jp": "JP_ActionEvents-a1c5p2.json",
 "kr": "KR_ActionEvents-a1c5p2.json"
@@ -748,6 +756,7 @@
 "kr": "KR_ActionEvents_twth.json"
 },
 "Announcer-a1c10p1.json": {
+"cn": "Announcer-a1c10p1.json",
 "en": "EN_Announcer-a1c10p1.json",
 "jp": "JP_Announcer-a1c10p1.json",
 "kr": "KR_Announcer-a1c10p1.json"
@@ -939,6 +948,7 @@
 "kr": "BattleAnnouncerDlg/KR_Announcer_DonQuixote_21.json"
 },
 "BattleAnnouncerDlg/Announcer_Emporium_55.json": {
+"cn": "BattleAnnouncerDlg/Announcer_Emporium_55.json",
 "en": "BattleAnnouncerDlg/EN_Announcer_Emporium_55.json",
 "jp": "BattleAnnouncerDlg/JP_Announcer_Emporium_55.json",
 "kr": "BattleAnnouncerDlg/KR_Announcer_Emporium_55.json"
@@ -1268,6 +1278,7 @@
 "kr": "KR_BattleKeywords-Refraction2BokGak.json"
 },
 "BattleKeywords-a1c10p1.json": {
+"cn": "BattleKeywords-a1c10p1.json",
 "en": "EN_BattleKeywords-a1c10p1.json",
 "jp": "JP_BattleKeywords-a1c10p1.json",
 "kr": "KR_BattleKeywords-a1c10p1.json"
@@ -1537,6 +1548,7 @@
 "kr": "KR_BattleKeywords_Refraction6.json"
 },
 "BattlePass-a1c10.json": {
+"cn": "BattlePass-a1c10.json",
 "en": "EN_BattlePass-a1c10.json",
 "jp": "JP_BattlePass-a1c10.json",
 "kr": "KR_BattlePass-a1c10.json"
@@ -1566,11 +1578,13 @@
 "kr": "KR_BattlePass.json"
 },
 "BattlePass_Banner-a1c6.json": {
+"cn": "BattlePass_Banner-a1c6.json",
 "en": "EN_BattlePass_Banner-a1c6.json",
 "jp": "JP_BattlePass_Banner-a1c6.json",
 "kr": "KR_BattlePass_Banner-a1c6.json"
 },
 "BattlePass_Banner-a1c7.json": {
+"cn": "BattlePass_Banner-a1c7.json",
 "en": "EN_BattlePass_Banner-a1c7.json",
 "jp": "JP_BattlePass_Banner-a1c7.json",
 "kr": "KR_BattlePass_Banner-a1c7.json"
@@ -1582,11 +1596,13 @@
 "kr": "KR_BattlePass_Banner-a1c8.json"
 },
 "BattlePass_Banner.json": {
+"cn": "BattlePass_Banner.json",
 "en": "EN_BattlePass_Banner.json",
 "jp": "JP_BattlePass_Banner.json",
 "kr": "KR_BattlePass_Banner.json"
 },
 "BattlePass_Banner_2.json": {
+"cn": "BattlePass_Banner_2.json",
 "en": "EN_BattlePass_Banner_2.json",
 "jp": "JP_BattlePass_Banner_2.json",
 "kr": "KR_BattlePass_Banner_2.json"
@@ -1598,6 +1614,7 @@
 "kr": "KR_BattlePass_Mission.json"
 },
 "BattleResultHint-a1c10p1.json": {
+"cn": "BattleResultHint-a1c10p1.json",
 "en": "EN_BattleResultHint-a1c10p1.json",
 "jp": "JP_BattleResultHint-a1c10p1.json",
 "kr": "KR_BattleResultHint-a1c10p1.json"
@@ -1633,6 +1650,7 @@
 "kr": "KR_BattleResultHint-twth.json"
 },
 "BattleSpeechBubbleDlg-a1c10p1.json": {
+"cn": "BattleSpeechBubbleDlg-a1c10p1.json",
 "en": "EN_BattleSpeechBubbleDlg-a1c10p1.json",
 "jp": "JP_BattleSpeechBubbleDlg-a1c10p1.json",
 "kr": "KR_BattleSpeechBubbleDlg-a1c10p1.json"
@@ -1830,6 +1848,7 @@
 "kr": "KR_Bufs-Refraction2BokGak.json"
 },
 "Bufs-a1c10p1.json": {
+"cn": "Bufs-a1c10p1.json",
 "en": "EN_Bufs-a1c10p1.json",
 "jp": "JP_Bufs-a1c10p1.json",
 "kr": "KR_Bufs-a1c10p1.json"
@@ -2117,6 +2136,7 @@
 "kr": "KR_Ch8VideoEffectSettings.json"
 },
 "ChapterBannerConfig.json": {
+"cn": "ChapterBannerConfig.json",
 "en": "EN_ChapterBannerConfig.json",
 "jp": "JP_ChapterBannerConfig.json",
 "kr": "KR_ChapterBannerConfig.json"
@@ -2128,16 +2148,19 @@
 "kr": "KR_Characters.json"
 },
 "ChoiceEventEffect-a1c5p1.json": {
+"cn": "ChoiceEventEffect-a1c5p1.json",
 "en": "EN_ChoiceEventEffect-a1c5p1.json",
 "jp": "JP_ChoiceEventEffect-a1c5p1.json",
 "kr": "KR_ChoiceEventEffect-a1c5p1.json"
 },
 "ChoiceEventEffect-a1c5p2.json": {
+"cn": "ChoiceEventEffect-a1c5p2.json",
 "en": "EN_ChoiceEventEffect-a1c5p2.json",
 "jp": "JP_ChoiceEventEffect-a1c5p2.json",
 "kr": "KR_ChoiceEventEffect-a1c5p2.json"
 },
 "ChoiceEventEffect-a1c5p3.json": {
+"cn": "ChoiceEventEffect-a1c5p3.json",
 "en": "EN_ChoiceEventEffect-a1c5p3.json",
 "jp": "JP_ChoiceEventEffect-a1c5p3.json",
 "kr": "KR_ChoiceEventEffect-a1c5p3.json"
@@ -2563,11 +2586,13 @@
 "kr": "KR_EGOgift_MirrorDungeon_7.json"
 },
 "EGOgift_StoryDungeon-a1c5p1.json": {
+"cn": "EGOgift_StoryDungeon-a1c5p1.json",
 "en": "EN_EGOgift_StoryDungeon-a1c5p1.json",
 "jp": "JP_EGOgift_StoryDungeon-a1c5p1.json",
 "kr": "KR_EGOgift_StoryDungeon-a1c5p1.json"
 },
 "EGOgift_StoryDungeon-a1c5p2.json": {
+"cn": "EGOgift_StoryDungeon-a1c5p2.json",
 "en": "EN_EGOgift_StoryDungeon-a1c5p2.json",
 "jp": "JP_EGOgift_StoryDungeon-a1c5p2.json",
 "kr": "KR_EGOgift_StoryDungeon-a1c5p2.json"
@@ -2675,6 +2700,7 @@
 "kr": "KR_Egos.json"
 },
 "Enemies-a1c10p1.json": {
+"cn": "Enemies-a1c10p1.json",
 "en": "EN_Enemies-a1c10p1.json",
 "jp": "JP_Enemies-a1c10p1.json",
 "kr": "KR_Enemies-a1c10p1.json"
@@ -3064,11 +3090,13 @@
 "kr": "KR_HellsChickenDungeonNode.json"
 },
 "IAPProduct-a1c10.json": {
+"cn": "IAPProduct-a1c10.json",
 "en": "EN_IAPProduct-a1c10.json",
 "jp": "JP_IAPProduct-a1c10.json",
 "kr": "KR_IAPProduct-a1c10.json"
 },
 "IAPProduct-a1c6.json": {
+"cn": "IAPProduct-a1c6.json",
 "en": "EN_IAPProduct-a1c6.json",
 "jp": "JP_IAPProduct-a1c6.json",
 "kr": "KR_IAPProduct-a1c6.json"
@@ -3122,11 +3150,13 @@
 "kr": "KR_IntroductionPreset.json"
 },
 "Items-BossRaid.json": {
+"cn": "Items-BossRaid.json",
 "en": "EN_Items-BossRaid.json",
 "jp": "JP_Items-BossRaid.json",
 "kr": "KR_Items-BossRaid.json"
 },
 "Items-a1c10p1.json": {
+"cn": "Items-a1c10p1.json",
 "en": "EN_Items-a1c10p1.json",
 "jp": "JP_Items-a1c10p1.json",
 "kr": "KR_Items-a1c10p1.json"
@@ -3216,6 +3246,7 @@
 "kr": "KR_LoginUIText.json"
 },
 "MainUIText-a1c10p1.json": {
+"cn": "MainUIText-a1c10p1.json",
 "en": "EN_MainUIText-a1c10p1.json",
 "jp": "JP_MainUIText-a1c10p1.json",
 "kr": "KR_MainUIText-a1c10p1.json"
@@ -3371,6 +3402,7 @@
 "kr": "KR_NightCleanUpEvent.json"
 },
 "PanicInfo-a1c10p1.json": {
+"cn": "PanicInfo-a1c10p1.json",
 "en": "EN_PanicInfo-a1c10p1.json",
 "jp": "JP_PanicInfo-a1c10p1.json",
 "kr": "KR_PanicInfo-a1c10p1.json"
@@ -3538,15 +3570,18 @@
 "kr": "KR_Passive-walpu2.json"
 },
 "Passive_Ego-a1c5p2.json": {
+"cn": "Passive_Ego-a1c5p2.json",
 "en": "EN_Passive_Ego-a1c5p2.json",
 "jp": "JP_Passive_Ego-a1c5p2.json",
 "kr": "KR_Passive_Ego-a1c5p2.json"
 },
 "Passive_Ego-a1c9p2.json": {
+"cn": "Passive_Ego-a1c9p2.json",
 "jp": "JP_Passive_Ego-a1c9p2.json",
 "kr": "KR_Passive_Ego-a1c9p2.json"
 },
 "Passive_Ego-a1c9p3.json": {
+"cn": "Passive_Ego-a1c9p3.json",
 "en": "EN_Passive_Ego-a1c9p3.json",
 "jp": "JP_Passive_Ego-a1c9p3.json",
 "kr": "KR_Passive_Ego-a1c9p3.json"
@@ -3570,14 +3605,17 @@
 "kr": "KR_Passives-a1c9116.json"
 },
 "Passives-a1c9p1.json": {
+"cn": "Passives-a1c9p1.json",
 "jp": "JP_Passives-a1c9p1.json",
 "kr": "KR_Passives-a1c9p1.json"
 },
 "Passives-a1c9p2.json": {
+"cn": "Passives-a1c9p2.json",
 "jp": "JP_Passives-a1c9p2.json",
 "kr": "KR_Passives-a1c9p2.json"
 },
 "Passives-a1c9p3.json": {
+"cn": "Passives-a1c9p3.json",
 "jp": "JP_Passives-a1c9p3.json",
 "kr": "KR_Passives-a1c9p3.json"
 },
@@ -3600,16 +3638,19 @@
 "kr": "KR_Passives.json"
 },
 "Passives_Abnormality-a1c10p1.json": {
+"cn": "Passives_Abnormality-a1c10p1.json",
 "en": "EN_Passives_Abnormality-a1c10p1.json",
 "jp": "JP_Passives_Abnormality-a1c10p1.json",
 "kr": "KR_Passives_Abnormality-a1c10p1.json"
 },
 "Passives_Abnormality-a1c5p1.json": {
+"cn": "Passives_Abnormality-a1c5p1.json",
 "en": "EN_Passives_Abnormality-a1c5p1.json",
 "jp": "JP_Passives_Abnormality-a1c5p1.json",
 "kr": "KR_Passives_Abnormality-a1c5p1.json"
 },
 "Passives_Abnormality-a1c5p2.json": {
+"cn": "Passives_Abnormality-a1c5p2.json",
 "en": "EN_Passives_Abnormality-a1c5p2.json",
 "jp": "JP_Passives_Abnormality-a1c5p2.json",
 "kr": "KR_Passives_Abnormality-a1c5p2.json"
@@ -3903,6 +3944,7 @@
 "kr": "KR_Passives_Assist.json"
 },
 "Passives_Enemy-a1c10p1.json": {
+"cn": "Passives_Enemy-a1c10p1.json",
 "en": "EN_Passives_Enemy-a1c10p1.json",
 "jp": "JP_Passives_Enemy-a1c10p1.json",
 "kr": "KR_Passives_Enemy-a1c10p1.json"
@@ -3986,6 +4028,7 @@
 "kr": "KR_Passives_Enemy-a1c9p1.json"
 },
 "Passives_Enemy-a1c9p3.json": {
+"cn": "Passives_Enemy-a1c9p3.json",
 "jp": "JP_Passives_Enemy-a1c9p3.json",
 "kr": "KR_Passives_Enemy-a1c9p3.json"
 },
@@ -4068,6 +4111,7 @@
 "kr": "KR_Passives_fools.json"
 },
 "Personalities-a1c9p2.json": {
+"cn": "Personalities-a1c9p2.json",
 "jp": "JP_Personalities-a1c9p2.json",
 "kr": "KR_Personalities-a1c9p2.json"
 },
@@ -4570,6 +4614,7 @@
 "kr": "PersonalityVoiceDlg/KR_Voice_Ishmael_Butler_10809.json"
 },
 "PersonalityVoiceDlg/Voice_Ishmael_Contem_10816.json": {
+"cn": "PersonalityVoiceDlg/Voice_Ishmael_Contem_10816.json",
 "en": "PersonalityVoiceDlg/EN_Voice_Ishmael_Contem_10816.json",
 "jp": "PersonalityVoiceDlg/JP_Voice_Ishmael_Contem_10816.json",
 "kr": "PersonalityVoiceDlg/KR_Voice_Ishmael_Contem_10816.json"
@@ -4947,6 +4992,7 @@
 "kr": "PersonalityVoiceDlg/KR_Voice_Ryoshu_Butler_10408.json"
 },
 "PersonalityVoiceDlg/Voice_Ryoshu_Contem_10416.json": {
+"cn": "PersonalityVoiceDlg/Voice_Ryoshu_Contem_10416.json",
 "en": "PersonalityVoiceDlg/EN_Voice_Ryoshu_Contem_10416.json",
 "jp": "PersonalityVoiceDlg/JP_Voice_Ryoshu_Contem_10416.json",
 "kr": "PersonalityVoiceDlg/KR_Voice_Ryoshu_Contem_10416.json"
@@ -5252,230 +5298,276 @@
 "kr": "KR_Quest.json"
 },
 "RPGSuicideBoxUI.json": {
+"cn": "RPGSuicideBoxUI.json",
 "en": "EN_RPGSuicideBoxUI.json",
 "jp": "JP_RPGSuicideBoxUI.json",
 "kr": "KR_RPGSuicideBoxUI.json"
 },
 "RPGSystem/rpg-loc-dialogue-choice-common-a1c10p1.json": {
+"cn": "RPGSystem/rpg-loc-dialogue-choice-common-a1c10p1.json",
 "en": "RPGSystem/EN_rpg-loc-dialogue-choice-common-a1c10p1.json",
 "jp": "RPGSystem/JP_rpg-loc-dialogue-choice-common-a1c10p1.json",
 "kr": "RPGSystem/KR_rpg-loc-dialogue-choice-common-a1c10p1.json"
 },
 "RPGSystem/rpg-loc-dialogue-choice-floor-1.json": {
+"cn": "RPGSystem/rpg-loc-dialogue-choice-floor-1.json",
 "en": "RPGSystem/EN_rpg-loc-dialogue-choice-floor-1.json",
 "jp": "RPGSystem/JP_rpg-loc-dialogue-choice-floor-1.json",
 "kr": "RPGSystem/KR_rpg-loc-dialogue-choice-floor-1.json"
 },
 "RPGSystem/rpg-loc-dialogue-choice-floor-2.json": {
+"cn": "RPGSystem/rpg-loc-dialogue-choice-floor-2.json",
 "en": "RPGSystem/EN_rpg-loc-dialogue-choice-floor-2.json",
 "jp": "RPGSystem/JP_rpg-loc-dialogue-choice-floor-2.json",
 "kr": "RPGSystem/KR_rpg-loc-dialogue-choice-floor-2.json"
 },
 "RPGSystem/rpg-loc-dialogue-choice-floor-3.json": {
+"cn": "RPGSystem/rpg-loc-dialogue-choice-floor-3.json",
 "en": "RPGSystem/EN_rpg-loc-dialogue-choice-floor-3.json",
 "jp": "RPGSystem/JP_rpg-loc-dialogue-choice-floor-3.json",
 "kr": "RPGSystem/KR_rpg-loc-dialogue-choice-floor-3.json"
 },
 "RPGSystem/rpg-loc-dialogue-choice-floor-b1.json": {
+"cn": "RPGSystem/rpg-loc-dialogue-choice-floor-b1.json",
 "en": "RPGSystem/EN_rpg-loc-dialogue-choice-floor-b1.json",
 "jp": "RPGSystem/JP_rpg-loc-dialogue-choice-floor-b1.json",
 "kr": "RPGSystem/KR_rpg-loc-dialogue-choice-floor-b1.json"
 },
 "RPGSystem/rpg-loc-dialogue-choice-floor-b2.json": {
+"cn": "RPGSystem/rpg-loc-dialogue-choice-floor-b2.json",
 "en": "RPGSystem/EN_rpg-loc-dialogue-choice-floor-b2.json",
 "jp": "RPGSystem/JP_rpg-loc-dialogue-choice-floor-b2.json",
 "kr": "RPGSystem/KR_rpg-loc-dialogue-choice-floor-b2.json"
 },
 "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json": {
+"cn": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
 "en": "RPGSystem/EN_rpg-loc-dialogue-common-a1c10p1.json",
 "jp": "RPGSystem/JP_rpg-loc-dialogue-common-a1c10p1.json",
 "kr": "RPGSystem/KR_rpg-loc-dialogue-common-a1c10p1.json"
 },
 "RPGSystem/rpg-loc-dialogue-floor-1.json": {
+"cn": "RPGSystem/rpg-loc-dialogue-floor-1.json",
 "en": "RPGSystem/EN_rpg-loc-dialogue-floor-1.json",
 "jp": "RPGSystem/JP_rpg-loc-dialogue-floor-1.json",
 "kr": "RPGSystem/KR_rpg-loc-dialogue-floor-1.json"
 },
 "RPGSystem/rpg-loc-dialogue-floor-2.json": {
+"cn": "RPGSystem/rpg-loc-dialogue-floor-2.json",
 "en": "RPGSystem/EN_rpg-loc-dialogue-floor-2.json",
 "jp": "RPGSystem/JP_rpg-loc-dialogue-floor-2.json",
 "kr": "RPGSystem/KR_rpg-loc-dialogue-floor-2.json"
 },
 "RPGSystem/rpg-loc-dialogue-floor-3.json": {
+"cn": "RPGSystem/rpg-loc-dialogue-floor-3.json",
 "en": "RPGSystem/EN_rpg-loc-dialogue-floor-3.json",
 "jp": "RPGSystem/JP_rpg-loc-dialogue-floor-3.json",
 "kr": "RPGSystem/KR_rpg-loc-dialogue-floor-3.json"
 },
 "RPGSystem/rpg-loc-dialogue-floor-4.json": {
+"cn": "RPGSystem/rpg-loc-dialogue-floor-4.json",
 "en": "RPGSystem/EN_rpg-loc-dialogue-floor-4.json",
 "jp": "RPGSystem/JP_rpg-loc-dialogue-floor-4.json",
 "kr": "RPGSystem/KR_rpg-loc-dialogue-floor-4.json"
 },
 "RPGSystem/rpg-loc-dialogue-floor-b1.json": {
+"cn": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
 "en": "RPGSystem/EN_rpg-loc-dialogue-floor-b1.json",
 "jp": "RPGSystem/JP_rpg-loc-dialogue-floor-b1.json",
 "kr": "RPGSystem/KR_rpg-loc-dialogue-floor-b1.json"
 },
 "RPGSystem/rpg-loc-dialogue-floor-b2.json": {
+"cn": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
 "en": "RPGSystem/EN_rpg-loc-dialogue-floor-b2.json",
 "jp": "RPGSystem/JP_rpg-loc-dialogue-floor-b2.json",
 "kr": "RPGSystem/KR_rpg-loc-dialogue-floor-b2.json"
 },
 "RPGSystem/rpg-loc-dialogue-route-a.json": {
+"cn": "RPGSystem/rpg-loc-dialogue-route-a.json",
 "en": "RPGSystem/EN_rpg-loc-dialogue-route-a.json",
 "jp": "RPGSystem/JP_rpg-loc-dialogue-route-a.json",
 "kr": "RPGSystem/KR_rpg-loc-dialogue-route-a.json"
 },
 "RPGSystem/rpg-loc-dialogue-theater.json": {
+"cn": "RPGSystem/rpg-loc-dialogue-theater.json",
 "en": "RPGSystem/EN_rpg-loc-dialogue-theater.json",
 "jp": "RPGSystem/JP_rpg-loc-dialogue-theater.json",
 "kr": "RPGSystem/KR_rpg-loc-dialogue-theater.json"
 },
 "RPGSystem/rpg-loc-item-common-a1c10p1.json": {
+"cn": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
 "en": "RPGSystem/EN_rpg-loc-item-common-a1c10p1.json",
 "jp": "RPGSystem/JP_rpg-loc-item-common-a1c10p1.json",
 "kr": "RPGSystem/KR_rpg-loc-item-common-a1c10p1.json"
 },
 "RPGSystem/rpg-loc-location-floor-1.json": {
+"cn": "RPGSystem/rpg-loc-location-floor-1.json",
 "en": "RPGSystem/EN_rpg-loc-location-floor-1.json",
 "jp": "RPGSystem/JP_rpg-loc-location-floor-1.json",
 "kr": "RPGSystem/KR_rpg-loc-location-floor-1.json"
 },
 "RPGSystem/rpg-loc-location-floor-2.json": {
+"cn": "RPGSystem/rpg-loc-location-floor-2.json",
 "en": "RPGSystem/EN_rpg-loc-location-floor-2.json",
 "jp": "RPGSystem/JP_rpg-loc-location-floor-2.json",
 "kr": "RPGSystem/KR_rpg-loc-location-floor-2.json"
 },
 "RPGSystem/rpg-loc-location-floor-3.json": {
+"cn": "RPGSystem/rpg-loc-location-floor-3.json",
 "en": "RPGSystem/EN_rpg-loc-location-floor-3.json",
 "jp": "RPGSystem/JP_rpg-loc-location-floor-3.json",
 "kr": "RPGSystem/KR_rpg-loc-location-floor-3.json"
 },
 "RPGSystem/rpg-loc-location-floor-4.json": {
+"cn": "RPGSystem/rpg-loc-location-floor-4.json",
 "en": "RPGSystem/EN_rpg-loc-location-floor-4.json",
 "jp": "RPGSystem/JP_rpg-loc-location-floor-4.json",
 "kr": "RPGSystem/KR_rpg-loc-location-floor-4.json"
 },
 "RPGSystem/rpg-loc-location-floor-b1.json": {
+"cn": "RPGSystem/rpg-loc-location-floor-b1.json",
 "en": "RPGSystem/EN_rpg-loc-location-floor-b1.json",
 "jp": "RPGSystem/JP_rpg-loc-location-floor-b1.json",
 "kr": "RPGSystem/KR_rpg-loc-location-floor-b1.json"
 },
 "RPGSystem/rpg-loc-location-floor-b2.json": {
+"cn": "RPGSystem/rpg-loc-location-floor-b2.json",
 "en": "RPGSystem/EN_rpg-loc-location-floor-b2.json",
 "jp": "RPGSystem/JP_rpg-loc-location-floor-b2.json",
 "kr": "RPGSystem/KR_rpg-loc-location-floor-b2.json"
 },
 "RPGSystem/rpg-loc-narration-floor-1.json": {
+"cn": "RPGSystem/rpg-loc-narration-floor-1.json",
 "jp": "RPGSystem/JP_rpg-loc-narration-floor-1.json",
 "kr": "RPGSystem/KR_rpg-loc-narration-floor-1.json"
 },
 "RPGSystem/rpg-loc-narration-floor-3.json": {
+"cn": "RPGSystem/rpg-loc-narration-floor-3.json",
 "en": "RPGSystem/EN_rpg-loc-narration-floor-3.json",
 "jp": "RPGSystem/JP_rpg-loc-narration-floor-3.json",
 "kr": "RPGSystem/KR_rpg-loc-narration-floor-3.json"
 },
 "RPGSystem/rpg-loc-npc-common-a1c10p1.json": {
+"cn": "RPGSystem/rpg-loc-npc-common-a1c10p1.json",
 "en": "RPGSystem/EN_rpg-loc-npc-common-a1c10p1.json",
 "jp": "RPGSystem/JP_rpg-loc-npc-common-a1c10p1.json",
 "kr": "RPGSystem/KR_rpg-loc-npc-common-a1c10p1.json"
 },
 "RPGSystem/rpg-loc-npc-floor-1-a-enemy.json": {
+"cn": "RPGSystem/rpg-loc-npc-floor-1-a-enemy.json",
 "en": "RPGSystem/EN_rpg-loc-npc-floor-1-a-enemy.json",
 "jp": "RPGSystem/JP_rpg-loc-npc-floor-1-a-enemy.json",
 "kr": "RPGSystem/KR_rpg-loc-npc-floor-1-a-enemy.json"
 },
 "RPGSystem/rpg-loc-npc-floor-1.json": {
+"cn": "RPGSystem/rpg-loc-npc-floor-1.json",
 "en": "RPGSystem/EN_rpg-loc-npc-floor-1.json",
 "jp": "RPGSystem/JP_rpg-loc-npc-floor-1.json",
 "kr": "RPGSystem/KR_rpg-loc-npc-floor-1.json"
 },
 "RPGSystem/rpg-loc-npc-floor-2-a-enemy.json": {
+"cn": "RPGSystem/rpg-loc-npc-floor-2-a-enemy.json",
 "en": "RPGSystem/EN_rpg-loc-npc-floor-2-a-enemy.json",
 "jp": "RPGSystem/JP_rpg-loc-npc-floor-2-a-enemy.json",
 "kr": "RPGSystem/KR_rpg-loc-npc-floor-2-a-enemy.json"
 },
 "RPGSystem/rpg-loc-npc-floor-2.json": {
+"cn": "RPGSystem/rpg-loc-npc-floor-2.json",
 "en": "RPGSystem/EN_rpg-loc-npc-floor-2.json",
 "jp": "RPGSystem/JP_rpg-loc-npc-floor-2.json",
 "kr": "RPGSystem/KR_rpg-loc-npc-floor-2.json"
 },
 "RPGSystem/rpg-loc-npc-floor-3-a-enemy.json": {
+"cn": "RPGSystem/rpg-loc-npc-floor-3-a-enemy.json",
 "en": "RPGSystem/EN_rpg-loc-npc-floor-3-a-enemy.json",
 "jp": "RPGSystem/JP_rpg-loc-npc-floor-3-a-enemy.json",
 "kr": "RPGSystem/KR_rpg-loc-npc-floor-3-a-enemy.json"
 },
 "RPGSystem/rpg-loc-npc-floor-3.json": {
+"cn": "RPGSystem/rpg-loc-npc-floor-3.json",
 "en": "RPGSystem/EN_rpg-loc-npc-floor-3.json",
 "jp": "RPGSystem/JP_rpg-loc-npc-floor-3.json",
 "kr": "RPGSystem/KR_rpg-loc-npc-floor-3.json"
 },
 "RPGSystem/rpg-loc-npc-floor-4-a-enemy.json": {
+"cn": "RPGSystem/rpg-loc-npc-floor-4-a-enemy.json",
 "en": "RPGSystem/EN_rpg-loc-npc-floor-4-a-enemy.json",
 "jp": "RPGSystem/JP_rpg-loc-npc-floor-4-a-enemy.json",
 "kr": "RPGSystem/KR_rpg-loc-npc-floor-4-a-enemy.json"
 },
 "RPGSystem/rpg-loc-npc-floor-4.json": {
+"cn": "RPGSystem/rpg-loc-npc-floor-4.json",
 "en": "RPGSystem/EN_rpg-loc-npc-floor-4.json",
 "jp": "RPGSystem/JP_rpg-loc-npc-floor-4.json",
 "kr": "RPGSystem/KR_rpg-loc-npc-floor-4.json"
 },
 "RPGSystem/rpg-loc-npc-floor-b1-a-enemy.json": {
+"cn": "RPGSystem/rpg-loc-npc-floor-b1-a-enemy.json",
 "en": "RPGSystem/EN_rpg-loc-npc-floor-b1-a-enemy.json",
 "jp": "RPGSystem/JP_rpg-loc-npc-floor-b1-a-enemy.json",
 "kr": "RPGSystem/KR_rpg-loc-npc-floor-b1-a-enemy.json"
 },
 "RPGSystem/rpg-loc-npc-floor-b1.json": {
+"cn": "RPGSystem/rpg-loc-npc-floor-b1.json",
 "en": "RPGSystem/EN_rpg-loc-npc-floor-b1.json",
 "jp": "RPGSystem/JP_rpg-loc-npc-floor-b1.json",
 "kr": "RPGSystem/KR_rpg-loc-npc-floor-b1.json"
 },
 "RPGSystem/rpg-loc-npc-floor-b2-a-enemy.json": {
+"cn": "RPGSystem/rpg-loc-npc-floor-b2-a-enemy.json",
 "en": "RPGSystem/EN_rpg-loc-npc-floor-b2-a-enemy.json",
 "jp": "RPGSystem/JP_rpg-loc-npc-floor-b2-a-enemy.json",
 "kr": "RPGSystem/KR_rpg-loc-npc-floor-b2-a-enemy.json"
 },
 "RPGSystem/rpg-loc-npc-floor-b2.json": {
+"cn": "RPGSystem/rpg-loc-npc-floor-b2.json",
 "en": "RPGSystem/EN_rpg-loc-npc-floor-b2.json",
 "jp": "RPGSystem/JP_rpg-loc-npc-floor-b2.json",
 "kr": "RPGSystem/KR_rpg-loc-npc-floor-b2.json"
 },
 "RPGSystem/rpg-loc-npc-route-a-warden.json": {
+"cn": "RPGSystem/rpg-loc-npc-route-a-warden.json",
 "en": "RPGSystem/EN_rpg-loc-npc-route-a-warden.json",
 "jp": "RPGSystem/JP_rpg-loc-npc-route-a-warden.json",
 "kr": "RPGSystem/KR_rpg-loc-npc-route-a-warden.json"
 },
 "RPGSystem/rpg-loc-quest-floor-1.json": {
+"cn": "RPGSystem/rpg-loc-quest-floor-1.json",
 "en": "RPGSystem/EN_rpg-loc-quest-floor-1.json",
 "jp": "RPGSystem/JP_rpg-loc-quest-floor-1.json",
 "kr": "RPGSystem/KR_rpg-loc-quest-floor-1.json"
 },
 "RPGSystem/rpg-loc-quest-floor-2.json": {
+"cn": "RPGSystem/rpg-loc-quest-floor-2.json",
 "en": "RPGSystem/EN_rpg-loc-quest-floor-2.json",
 "jp": "RPGSystem/JP_rpg-loc-quest-floor-2.json",
 "kr": "RPGSystem/KR_rpg-loc-quest-floor-2.json"
 },
 "RPGSystem/rpg-loc-quest-floor-3.json": {
+"cn": "RPGSystem/rpg-loc-quest-floor-3.json",
 "en": "RPGSystem/EN_rpg-loc-quest-floor-3.json",
 "jp": "RPGSystem/JP_rpg-loc-quest-floor-3.json",
 "kr": "RPGSystem/KR_rpg-loc-quest-floor-3.json"
 },
 "RPGSystem/rpg-loc-quest-floor-4.json": {
+"cn": "RPGSystem/rpg-loc-quest-floor-4.json",
 "en": "RPGSystem/EN_rpg-loc-quest-floor-4.json",
 "jp": "RPGSystem/JP_rpg-loc-quest-floor-4.json",
 "kr": "RPGSystem/KR_rpg-loc-quest-floor-4.json"
 },
 "RPGSystem/rpg-loc-quest-floor-b1.json": {
+"cn": "RPGSystem/rpg-loc-quest-floor-b1.json",
 "en": "RPGSystem/EN_rpg-loc-quest-floor-b1.json",
 "jp": "RPGSystem/JP_rpg-loc-quest-floor-b1.json",
 "kr": "RPGSystem/KR_rpg-loc-quest-floor-b1.json"
 },
 "RPGSystem/rpg-loc-quest-floor-b2.json": {
+"cn": "RPGSystem/rpg-loc-quest-floor-b2.json",
 "en": "RPGSystem/EN_rpg-loc-quest-floor-b2.json",
 "jp": "RPGSystem/JP_rpg-loc-quest-floor-b2.json",
 "kr": "RPGSystem/KR_rpg-loc-quest-floor-b2.json"
 },
 "RPGSystem/rpg-loc-ui-common-a1c10p1.json": {
+"cn": "RPGSystem/rpg-loc-ui-common-a1c10p1.json",
 "en": "RPGSystem/EN_rpg-loc-ui-common-a1c10p1.json",
 "jp": "RPGSystem/JP_rpg-loc-ui-common-a1c10p1.json",
 "kr": "RPGSystem/KR_rpg-loc-ui-common-a1c10p1.json"
@@ -5727,11 +5819,13 @@
 "kr": "KR_Skills_Abnormality-BossRaid.json"
 },
 "Skills_Abnormality-a1c10p1.json": {
+"cn": "Skills_Abnormality-a1c10p1.json",
 "en": "EN_Skills_Abnormality-a1c10p1.json",
 "jp": "JP_Skills_Abnormality-a1c10p1.json",
 "kr": "KR_Skills_Abnormality-a1c10p1.json"
 },
 "Skills_Abnormality-a1c5p1.json": {
+"cn": "Skills_Abnormality-a1c5p1.json",
 "en": "EN_Skills_Abnormality-a1c5p1.json",
 "jp": "JP_Skills_Abnormality-a1c5p1.json",
 "kr": "KR_Skills_Abnormality-a1c5p1.json"
@@ -5857,6 +5951,7 @@
 "kr": "KR_Skills_Abnormality-mowe.json"
 },
 "Skills_Abnormality-night-clean-up-re.json": {
+"cn": "Skills_Abnormality-night-clean-up-re.json",
 "en": "EN_Skills_Abnormality-night-clean-up-re.json",
 "jp": "JP_Skills_Abnormality-night-clean-up-re.json",
 "kr": "KR_Skills_Abnormality-night-clean-up-re.json"
@@ -6054,6 +6149,7 @@
 "kr": "KR_Skills_Assist.json"
 },
 "Skills_Ego-a1c5p2.json": {
+"cn": "Skills_Ego-a1c5p2.json",
 "en": "EN_Skills_Ego-a1c5p2.json",
 "jp": "JP_Skills_Ego-a1c5p2.json",
 "kr": "KR_Skills_Ego-a1c5p2.json"
@@ -6137,6 +6233,7 @@
 "kr": "KR_Skills_Ego_Personality-12.json"
 },
 "Skills_Ego_Personality-a1c9p2.json": {
+"cn": "Skills_Ego_Personality-a1c9p2.json",
 "jp": "JP_Skills_Ego_Personality-a1c9p2.json",
 "kr": "KR_Skills_Ego_Personality-a1c9p2.json"
 },
@@ -6147,6 +6244,7 @@
 "kr": "KR_Skills_Ego_Personality-a1c9p3.json"
 },
 "Skills_Enemy-a1c10p1.json": {
+"cn": "Skills_Enemy-a1c10p1.json",
 "en": "EN_Skills_Enemy-a1c10p1.json",
 "jp": "JP_Skills_Enemy-a1c10p1.json",
 "kr": "KR_Skills_Enemy-a1c10p1.json"
@@ -6254,6 +6352,7 @@
 "kr": "KR_Skills_Enemy-a1c9p1.json"
 },
 "Skills_Enemy-a1c9p2.json": {
+"cn": "Skills_Enemy-a1c9p2.json",
 "jp": "JP_Skills_Enemy-a1c9p2.json",
 "kr": "KR_Skills_Enemy-a1c9p2.json"
 },
@@ -6431,10 +6530,12 @@
 "kr": "KR_Skills_personality-12.json"
 },
 "Skills_personality-a1c9p1.json": {
+"cn": "Skills_personality-a1c9p1.json",
 "jp": "JP_Skills_personality-a1c9p1.json",
 "kr": "KR_Skills_personality-a1c9p1.json"
 },
 "Skills_personality-a1c9p2.json": {
+"cn": "Skills_personality-a1c9p2.json",
 "jp": "JP_Skills_personality-a1c9p2.json",
 "kr": "KR_Skills_personality-a1c9p2.json"
 },
@@ -6469,6 +6570,7 @@
 "kr": "KR_StageContinueText.json"
 },
 "StageNode-a1c10p1.json": {
+"cn": "StageNode-a1c10p1.json",
 "en": "EN_StageNode-a1c10p1.json",
 "jp": "JP_StageNode-a1c10p1.json",
 "kr": "KR_StageNode-a1c10p1.json"
@@ -9378,6 +9480,7 @@
 "kr": "StoryData/KR_P10415.json"
 },
 "StoryData/P10416.json": {
+"cn": "StoryData/P10416.json",
 "en": "StoryData/EN_P10416.json",
 "jp": "StoryData/JP_P10416.json",
 "kr": "StoryData/KR_P10416.json"
@@ -9737,6 +9840,7 @@
 "kr": "StoryData/KR_P10815.json"
 },
 "StoryData/P10816.json": {
+"cn": "StoryData/P10816.json",
 "en": "StoryData/EN_P10816.json",
 "jp": "StoryData/JP_P10816.json",
 "kr": "StoryData/KR_P10816.json"
@@ -10246,76 +10350,91 @@
 "kr": "StoryData/KR_S004B.json"
 },
 "StoryData/S1000B.json": {
+"cn": "StoryData/S1000B.json",
 "en": "StoryData/EN_S1000B.json",
 "jp": "StoryData/JP_S1000B.json",
 "kr": "StoryData/KR_S1000B.json"
 },
 "StoryData/S1001B.json": {
+"cn": "StoryData/S1001B.json",
 "en": "StoryData/EN_S1001B.json",
 "jp": "StoryData/JP_S1001B.json",
 "kr": "StoryData/KR_S1001B.json"
 },
 "StoryData/S1002B.json": {
+"cn": "StoryData/S1002B.json",
 "en": "StoryData/EN_S1002B.json",
 "jp": "StoryData/JP_S1002B.json",
 "kr": "StoryData/KR_S1002B.json"
 },
 "StoryData/S1003B.json": {
+"cn": "StoryData/S1003B.json",
 "en": "StoryData/EN_S1003B.json",
 "jp": "StoryData/JP_S1003B.json",
 "kr": "StoryData/KR_S1003B.json"
 },
 "StoryData/S1004B.json": {
+"cn": "StoryData/S1004B.json",
 "en": "StoryData/EN_S1004B.json",
 "jp": "StoryData/JP_S1004B.json",
 "kr": "StoryData/KR_S1004B.json"
 },
 "StoryData/S1005B.json": {
+"cn": "StoryData/S1005B.json",
 "en": "StoryData/EN_S1005B.json",
 "jp": "StoryData/JP_S1005B.json",
 "kr": "StoryData/KR_S1005B.json"
 },
 "StoryData/S1008B.json": {
+"cn": "StoryData/S1008B.json",
 "en": "StoryData/EN_S1008B.json",
 "jp": "StoryData/JP_S1008B.json",
 "kr": "StoryData/KR_S1008B.json"
 },
 "StoryData/S1009B.json": {
+"cn": "StoryData/S1009B.json",
 "en": "StoryData/EN_S1009B.json",
 "jp": "StoryData/JP_S1009B.json",
 "kr": "StoryData/KR_S1009B.json"
 },
 "StoryData/S1010B.json": {
+"cn": "StoryData/S1010B.json",
 "en": "StoryData/EN_S1010B.json",
 "jp": "StoryData/JP_S1010B.json",
 "kr": "StoryData/KR_S1010B.json"
 },
 "StoryData/S1011B.json": {
+"cn": "StoryData/S1011B.json",
 "en": "StoryData/EN_S1011B.json",
 "jp": "StoryData/JP_S1011B.json",
 "kr": "StoryData/KR_S1011B.json"
 },
 "StoryData/S1012B.json": {
+"cn": "StoryData/S1012B.json",
 "en": "StoryData/EN_S1012B.json",
 "jp": "StoryData/JP_S1012B.json",
 "kr": "StoryData/KR_S1012B.json"
 },
 "StoryData/S1013B.json": {
+"cn": "StoryData/S1013B.json",
 "en": "StoryData/EN_S1013B.json",
 "jp": "StoryData/JP_S1013B.json",
 "kr": "StoryData/KR_S1013B.json"
 },
 "StoryData/S1014B.json": {
+"cn": "StoryData/S1014B.json",
 "en": "StoryData/EN_S1014B.json",
 "jp": "StoryData/JP_S1014B.json",
 "kr": "StoryData/KR_S1014B.json"
 },
 "StoryData/S1015B.json": {
+"cn": "StoryData/S1015B.json",
 "en": "StoryData/EN_S1015B.json",
 "jp": "StoryData/JP_S1015B.json",
 "kr": "StoryData/KR_S1015B.json"
 },
 "StoryData/S1016B.json": {
+"cn": "StoryData/S1016B.json",
 "en": "StoryData/EN_S1016B.json",
 "jp": "StoryData/JP_S1016B.json",
 "kr": "StoryData/KR_S1016B.json"
@@ -10351,16 +10470,19 @@
 "kr": "StoryData/KR_S105B.json"
 },
 "StoryData/S1060B.json": {
+"cn": "StoryData/S1060B.json",
 "en": "StoryData/EN_S1060B.json",
 "jp": "StoryData/JP_S1060B.json",
 "kr": "StoryData/KR_S1060B.json"
 },
 "StoryData/S1061B.json": {
+"cn": "StoryData/S1061B.json",
 "en": "StoryData/EN_S1061B.json",
 "jp": "StoryData/JP_S1061B.json",
 "kr": "StoryData/KR_S1061B.json"
 },
 "StoryData/S1062B.json": {
+"cn": "StoryData/S1062B.json",
 "en": "StoryData/EN_S1062B.json",
 "jp": "StoryData/JP_S1062B.json",
 "kr": "StoryData/KR_S1062B.json"
@@ -12352,6 +12474,7 @@
 "kr": "StoryData/KR_S951B.json"
 },
 "StoryData/S9991B.json": {
+"cn": "StoryData/S9991B.json",
 "en": "StoryData/EN_S9991B.json",
 "jp": "StoryData/JP_S9991B.json",
 "kr": "StoryData/KR_S9991B.json"
@@ -12706,6 +12829,7 @@
 "kr": "KR_UI_x1p1c1.json"
 },
 "UnitKeyword-a1c10p1.json": {
+"cn": "UnitKeyword-a1c10p1.json",
 "en": "EN_UnitKeyword-a1c10p1.json",
 "jp": "JP_UnitKeyword-a1c10p1.json",
 "kr": "KR_UnitKeyword-a1c10p1.json"
@@ -12821,6 +12945,7 @@
 "kr": "KR_UserInfo_Friends.json"
 },
 "UserTicket-EGOBg-a1c10p1.json": {
+"cn": "UserTicket-EGOBg-a1c10p1.json",
 "en": "EN_UserTicket-EGOBg-a1c10p1.json",
 "jp": "JP_UserTicket-EGOBg-a1c10p1.json",
 "kr": "KR_UserTicket-EGOBg-a1c10p1.json"
@@ -12840,6 +12965,7 @@
 "kr": "KR_UserTicket-EGOBg-a1c9p1.json"
 },
 "UserTicket-EGOBg-a1c9p3.json": {
+"cn": "UserTicket-EGOBg-a1c9p3.json",
 "jp": "JP_UserTicket-EGOBg-a1c9p3.json",
 "kr": "KR_UserTicket-EGOBg-a1c9p3.json"
 },
@@ -12850,6 +12976,7 @@
 "kr": "KR_UserTicket-EGOBg.json"
 },
 "UserTicket-L-a1c10p1.json": {
+"cn": "UserTicket-L-a1c10p1.json",
 "en": "EN_UserTicket-L-a1c10p1.json",
 "jp": "JP_UserTicket-L-a1c10p1.json",
 "kr": "KR_UserTicket-L-a1c10p1.json"
@@ -12869,6 +12996,7 @@
 "kr": "KR_UserTicket-L-a1c9p1.json"
 },
 "UserTicket-L-a1c9p3.json": {
+"cn": "UserTicket-L-a1c9p3.json",
 "jp": "JP_UserTicket-L-a1c9p3.json",
 "kr": "KR_UserTicket-L-a1c9p3.json"
 },
@@ -12879,6 +13007,7 @@
 "kr": "KR_UserTicket-L.json"
 },
 "UserTicket-R-a1c10p1.json": {
+"cn": "UserTicket-R-a1c10p1.json",
 "en": "EN_UserTicket-R-a1c10p1.json",
 "jp": "JP_UserTicket-R-a1c10p1.json",
 "kr": "KR_UserTicket-R-a1c10p1.json"
@@ -12898,6 +13027,7 @@
 "kr": "KR_UserTicket-R-a1c9p1.json"
 },
 "UserTicket-R-a1c9p3.json": {
+"cn": "UserTicket-R-a1c9p3.json",
 "jp": "JP_UserTicket-R-a1c9p3.json",
 "kr": "KR_UserTicket-R-a1c9p3.json"
 },

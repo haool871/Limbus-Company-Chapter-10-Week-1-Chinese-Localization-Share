@@ -8,34 +8,35 @@ The Hierarch of Hongyuan …….	鸿园的家主 ……	29	StoryData/E801B.json
 Left Arm Part	左臂 部位	26	Enemies-a1c5p1.json
 Reward Exchange	奖励兑换	23	EventLCBCheckupText.json
 Event Period	活动时间	23	TutorialMainUIText.json
-But...	但是……	20	StoryData/8D203A.json
+But...	但是……	21	StoryData/8D203A.json
 I...	我……	18	StoryData/1D303B.json
 Some time later...	不久之后……	17	StoryData/8D209A.json
 Right Arm Part	右臂 部位	16	Enemies-a1c5p1.json
+Jia Family …….	贾家 ……	16	StoryData/8D206B.json
+*puff*	呼……	16	StoryData/E901B.json
+Evade	闪避	15	BattleUIText.json
 Enkephalin Charged	脑啡肽已补充	15	LoginUIText.json
 Ryōshū Sinner #4	良秀 4号罪人	15	ScenarioModelCodes-AutoCreated.json
-Jia Family …….	贾家 ……	15	StoryData/8D206B.json
-*puff*	呼……	15	StoryData/E901B.json
 Event Encounters	活动战斗	15	TutorialMainUIText.json
-Evade	闪避	14	BattleUIText.json
 Event Closed	活动结束	13	BossRaidUI-2.json
+Ah...	啊……	13	StoryData/5D203B.json
 No.	不。	13	StoryData/7D111I3.json
 Doomsday Calendar Core	终末日历 本体	12	Enemies.json
 Anonymous	匿名	12	ScenarioModelCodes-AutoCreated.json
 Mm.	嗯。	12	Skills_personality-x1p1c1.json
-Ah...	啊……	12	StoryData/5D203B.json
 Hm...	嗯……	12	StoryData/E070X.json
 Hard	困难	11	DawnOfGreenEventText.json
-Extraction
-Purchase from Dispenser	提取
-从自动贩卖机处购买	11	EGO_Get_Condition.json
+Extraction\nPurchase from Dispenser	提取\n从自动贩卖机处购买	11	EGO_Get_Condition.json
 Hard Difficulty	困难难度	11	MirrorDungeonUI_6.json
 ... Hah.	……哈。	11	StoryData/E907B.json
 Level Boost All Enemy Levels +3	等级强化 全体敌方单位提升3级	10	BattleKeywords_Mirror6.json
 Frailness -10% Max HP for all allies	衰弱 全体友方单位的体力上限-10%	10	BattleKeywords_Mirror6.json
 To Theater	跳转至放映室	10	DawnOfGreenEventText.json
+Thirsty Kaki	干渴的褐派	10	Enemies-a1c10p1.json
 E.G.O Gifts	E.G.O饰品	10	MainUIText.json
+<It's just a corpse.>	<好像是尸体。>	10	RPGSystem/rpg-loc-dialogue-common-a1c10p1.json
 Heathcliff Sinner #7	希斯克利夫 7号罪人	10	ScenarioModelCodes-AutoCreated.json
+K Corp. Dept. of Food Resource Development ……	K公司 粮食资源改良部门 ……	10	StoryData/4D105B.json
 Dante.	但丁。	10	StoryData/7D107B.json
 M-04-04-05 Doomsday Calendar Core	M-04-04-05 终末日历 本体	9	AbnormalityGuides.json
 Counter	反击	9	BattleUIText.json
@@ -43,10 +44,12 @@ E.G.O Corrosion	E.G.O侵蚀	9	BattleUIText.json
 Missions	任务列表	9	DawnOfGreenEventText.json
 Body BongBong [Orange] Body	躯干 噗扭扭[橙子味] 躯干	9	Enemies-walpu8.json
 Event Currency Guide	活动道具介绍	9	EventLCBCheckupText.json
+Storming Noir	突击中的黑派	9	RPGSystem/rpg-loc-npc-floor-2-a-enemy.json
 Banner Requisites	横幅获取条件	9	RailwayDungeonUI.json
 Elder Daguanyuan	长辈 大观园	9	ScenarioModelCodes-AutoCreated.json
-Yuri Grade 8 Fixer ......	尤莉 8阶收尾人 ……	9	StoryData/1D101A.json
+Grade 8 Fixer ......	8阶收尾人 ……	9	StoryData/1D101A.json
 You...	你……	9	StoryData/1D306A.json
+Eunbong’s Bar & Fryers ……	银凤炸鸡酒吧 ……	9	StoryData/E304A.json
 Accessing the Event	活动开放	9	TutorialMainUIText.json
 Combat	战斗	8	BattlePass.json
 (Lalulula lalulula hun)	（Lalulula lalulula hun）	8	BgmLyrics/BgmLyrics_TianTian.json
@@ -54,28 +57,35 @@ Number-nuts Hooligan Enemy Unit	不识数的流氓 敌方单位	8	Enemies.json
 Stages	关卡	8	EventLCBCheckupText.json
 Target Extraction: Hong Lu	定向提取：鸿璐	8	GachaTitle.json
 Sinners	罪人	8	MainUIText.json
+Shop	商店	8	MirrorDungeonUI_2.json
+Le Rouge Staff	红派 工作人员	8	RPGSystem/rpg-loc-npc-floor-2-a-enemy.json
 Jia Mu The Hierarch of Hongyuan	贾母 鸿园的家主	8	ScenarioModelCodes-AutoCreated.json
 Clumsy Chop	拙劣斩击	8	Skills_Enemy.json
-Dongrang K Corp. Dept. of Food Resource Development ……	东朗 K公司 粮食资源改良部门 ……	8	StoryData/4D105B.json
 ... Hm.	……嗯。	8	StoryData/E050X.json
 Details	详情	7	BattleUIText.json
 When I look back on those memories	当我回顾那些记忆时	7	BgmLyrics/BgmLyrics_Credit.json
+Hungry Kaki	饥饿的褐派	7	Enemies-a1c10p1.json
 Flower Part	花 部位	7	Enemies_Refraction2.json
 Target Extraction: Gregor	定向提取：格里高尔	7	GachaTitle.json
 Target Extraction: Rodion	定向提取：罗佳	7	GachaTitle.json
 Target Extraction: Don Quixote	定向提取：堂吉诃德	7	GachaTitle.json
 Target Extraction: Faust	定向提取：浮士德	7	GachaTitle.json
+Target Extraction: Meursault	定向提取：默尔索	7	GachaTitle.json
 Target Extraction: Outis	定向提取：奥提斯	7	GachaTitle.json
 Target Extraction: Ryōshū	定向提取：良秀	7	GachaTitle.json
 Target Extraction: Ishmael	定向提取：以实玛利	7	GachaTitle.json
 Cancel	取消	7	LoginUIText.json
 E.G.O Gift Compendium	E.G.O饰品图鉴	7	MirrorDungeonUI.json
 Weekly Bonuses	每周加成	7	MirrorDungeonUI_2.json
+Le Rouge Store Manager	红派店铺经理	7	RPGSystem/rpg-loc-npc-floor-2-a-enemy.json
 Hong Lu Sinner #6	鸿璐 6号罪人	7	ScenarioModelCodes-AutoCreated.json
 Clunky Stab	笨重突刺	7	Skills_Enemy.json
+However...	但是……	7	StoryData/4D302B.json
 Yes.	是的。	7	StoryData/5D205B.json
 Hm.	嗯。	7	StoryData/5D304A.json
+Heh.	呵。	7	StoryData/5D304A.json
 Family …….	家族 ……	7	StoryData/7D102B.json
+La Manchaland …….	拉·曼却领 ……	7	StoryData/7D104B.json
 But...	但……	7	StoryData/7D112A.json
 ... What?	……什么？	7	StoryData/E063X.json
 And...	还有……	7	StoryData/E507A.json
@@ -83,6 +93,8 @@ The Thumb Nursefather .......	拇指 父辈 ……	7	StoryData/P10716.json
 Exploring Mirror Dungeons	镜像迷宫探索	7	TutorialMainUIText.json
 Mirror Dungeon Rewards	镜像迷宫奖励	7	TutorialMainUIText.json
 Clear Easy Difficulty to Unlock	通过简单难度后解锁	7	Walpu3EventText.json
+Heathcliff	希斯克利夫	6	Announcer.json
+Don Quixote	堂吉诃德	6	Announcer.json
 One!	一！	6	BattleSpeechBubbleDlg.json
 Two!	二！	6	BattleSpeechBubbleDlg.json
 Then...	那么……	6	BgmLyrics/BgmLyrics_Credit7.json
@@ -97,31 +109,29 @@ Person Part	人类 部位	6	Enemies.json
 Items Owned	持有道具数	6	EventLCBCheckupText.json
 The Ring	环指	6	FormationNameEtcFilter.json
 Target Extraction: Heathcliff	定向提取：希斯克利夫	6	GachaTitle.json
-Target Extraction: Meursault	定向提取：默尔索	6	GachaTitle.json
 Target Extraction: Sinclair	定向提取：辛克莱	6	GachaTitle.json
 Target Extraction: Yi Sang	定向提取：李箱	6	GachaTitle.json
-Shop	商店	6	MirrorDungeonUI_2.json
 Starting E.G.O Gift Choice	选择初始E.G.O饰品	6	MirrorDungeonUI_3.json
 Encounter Reward Cards	遭遇战奖励卡	6	MirrorDungeonUI_4.json
 Easy	简单	6	MirrorDungeonUI_4.json
 Cost	经费	6	MirrorDungeonUI_5.json
 Achievements	成就	6	MirrorDungeonUI_5_InfinityFloor.json
+Resisting Rouge	反抗中的红派	6	RPGSystem/rpg-loc-npc-floor-2-a-enemy.json
 Clear Info	通关信息	6	RailwayDungeonUI_5.json
 Dihui Star The Pinky Nursefather	地慧星 小指 父辈	6	ScenarioModelCodes-AutoCreated.json
 Weak Blow	软弱打击	6	Skills_Enemy.json
 Haah...	哈……	6	StoryData/4D104B.json
-However...	但是……	6	StoryData/4D302B.json
 And...	而且……	6	StoryData/5D103B.json
-Heh.	呵。	6	StoryData/5D304A.json
-La Manchaland …….	拉·曼却领 ……	6	StoryData/7D104B.json
 ... Yes.	……是的。	6	StoryData/8D105B.json
 <Ah...>	<啊……>	6	StoryData/E003I3.json
 Hmm...	嗯……	6	StoryData/E061X.json
 Xichun's Clan …….	惜春的势力 ……	6	StoryData/E808A.json
+Technology Liberation Alliance ……	技术解放联盟 ……	6	StoryData/P10104.json
 【To Faust】	【致浮士德】	6	StoryData/P10214.json
 The Index Apprentice …….	食指 子辈 ……	6	StoryData/P10314.json
 The Thumb Apprentice .......	拇指 子辈 ……	6	StoryData/P10716.json
-Strange Dead Rabbits Henchman The Dead Rabbits …….	诡异的死兔帮成员 死兔帮 ……	6	StoryData/S616B.json
+LCA Vanguard Team 3 …….	LCA 先锋三队 ……	6	StoryData/P11114.json
+The Dead Rabbits …….	死兔帮 ……	6	StoryData/S616B.json
 XX/XX	X月X日	6	StoryData/S619A.json
 Shops	商店	6	TutorialMainUIText.json
 Event Stages	活动关卡	6	TutorialMainUIText.json
@@ -129,7 +139,10 @@ Hard Difficulty Encounter	困难难度战斗	6	TutorialMainUIText.json
 Observation Logs	图鉴	6	TutorialMainUIText.json
 Complete Suppression without any ally deaths	全体友方单位存活的状态下镇压成功	6	Walpu3EventText.json
 Defeat a Gear Worshipper in an Encounter	单次战斗中击杀齿轮教团信徒	6	Walpu5EventText.json
-Heathcliff	希斯克利夫	5	Announcer.json
+Yi Sang	李箱	5	Announcer-x1p1c1.json
+Faust	浮士德	5	Announcer-x1p1c1.json
+Gregor	格里高尔	5	Announcer.json
+Hong Lu	鸿璐	5	Announcer.json
 Regular	常规	5	BattlePass.json
 'Tis the finisher!	结束了！	5	BattleSpeechBubbleDlg.json
 ... Fulfilled.	……满足。	5	BattleSpeechBubbleDlg.json
@@ -144,14 +157,18 @@ Not Owned	未拥有	5	EventLCBCheckupText.json
 Limbus Company	边狱公司	5	FormationNameEtcFilter.json
 The Thumb	拇指	5	FormationNameEtcFilter.json
 Identities	人格	5	FormationUI_S6.json
+Owned	已拥有	5	LobbyBGMUI.json
+Close	关闭	5	LoginUIText.json
 Lunacy	狂气	5	MainUIText.json
 Mirror Dungeons	镜像迷宫	5	MainUIText.json
+All	全部	5	MainUIText.json
 Line 1	1号线	5	MirrorDungeonTheme-1.json
 The Dusk of Amber	琥珀色的黄昏	5	MirrorDungeonTheme-1.json
 Active Effects	当前效果	5	MirrorDungeonUI_2.json
 Starlight	星芒	5	MirrorDungeonUI_2.json
 Theme Pack Compendium	主题卡包图鉴	5	MirrorDungeonUI_4.json
 Staggered Ah!	自身混乱 啊！	5	PersonalityVoiceDlg/Voice_Faust_Yuri_10203.json
+단테 SD	但丁 SD	5	RPGSystem/rpg-loc-npc-floor-1.json
 Lost & Found	失物招领处	5	RailwayDungeonUI.json
 Refraction Railway Opening	折射轨道 开放	5	RailwayDungeonUI_1001.json
 Moses LCD	摩西 LCD	5	ScenarioModelCodes-AutoCreated.json
@@ -166,57 +183,17 @@ After some time...	过了一段时间……	5	StoryData/5D304A.json
 So...	所以……	5	StoryData/7D112A.json
 Daiyu...	黛玉……	5	StoryData/8D105B.json
 Oh.	啊。	5	StoryData/E001X.json
-Sinners LCB …….	罪人们 LCB ……	5	StoryData/E001X.json
+LCB …….	LCB ……	5	StoryData/E001X.json
 Oh...	啊……	5	StoryData/E514B.json
 And...	然后……	5	StoryData/E626B.json
 The Hierarch of Hongyuan …!	鸿园的家主 ……！	5	StoryData/E811B.json
 Hah.	哈。	5	StoryData/E902B.json
 The Manager of La Manchaland …….	拉·曼却领 总督 ……	5	StoryData/P10310.json
-LCA Vanguard Team 3 …….	LCA 先锋三队 ……	5	StoryData/P11114.json
-싱클레어
-남
-9월 23일
-A
-163CM
-54KG	辛克莱
-男
-9月23日
-A
-163CM
-54KG	5	StoryTheaterPersonality.json
-Faust
-F
-September 23rd
-A
-174CM (5'9")
-57KG (130.07lbs)	浮士德
-女
-9月23日
-A
-174CM
-59KG	5	StoryTheaterPersonality.json
-Yi Sang
-M
-Sep. 23
-A
-176cm (5'9")
-70kg (154.3lbs)	李箱
-男
-9月23日
-A
-176CM
-70KG	5	StoryTheaterPersonality.json
-Outis
-F
-September 23rd
-A
-177CM (5'9")
-64KG (141.1lbs)	奥提斯
-女
-9月23日
-A
-177CM
-64KG	5	StoryTheaterPersonality.json
+The House of Spiders .......	蜘蛛巢 ……	5	StoryData/P10716.json
+싱클레어\n남\n9월 23일\nA\n163CM\n54KG	辛克莱\n男\n9月23日\nA\n163CM\n54KG	5	StoryTheaterPersonality.json
+Faust\nF\nSeptember 23rd\nA\n174CM (5'9")\n57KG (130.07lbs)	浮士德\n女\n9月23日\nA\n174CM\n59KG	5	StoryTheaterPersonality.json
+Yi Sang\nM\nSep. 23\nA\n176cm (5'9")\n70kg (154.3lbs)	李箱\n男\n9月23日\nA\n176CM\n70KG	5	StoryTheaterPersonality.json
+Outis\nF\nSeptember 23rd\nA\n177CM (5'9")\n64KG (141.1lbs)	奥提斯\n女\n9月23日\nA\n177CM\n64KG	5	StoryTheaterPersonality.json
 Breaking Records	记录更新	5	TutorialMainUIText.json
 You can view your currently deployed Sinners here.	能够确认罪人编队情况。	5	TutorialMainUIText.json
 Sinner Status	罪人状态	5	TutorialMainUIText.json
@@ -226,9 +203,10 @@ Chain Battle Encounters	连续遭遇战关卡	5	TutorialMainUIText.json
 Team Loadout	编队	5	TutorialMainUIText.json
 Easy Difficulty Encounter	简单难度战斗	5	Walpu3EventText.json
 Gear Worshipper	齿轮教团信徒	5	Walpu5EventText.json
-Yi Sang	李箱	4	Announcer-x1p1c1.json
+Ryōshū	良秀	4	Announcer-a1c9p3.json
+Outis	奥提斯	4	Announcer-x1p1c1.json
+Sinclair	辛克莱	4	Announcer.json
 Ishmael	以实玛利	4	Announcer.json
-Don Quixote	堂吉诃德	4	Announcer.json
 Red String -	赤丝 -	4	BattleKeywords-a1c9p3.json
 Battle Pass	战斗通行证	4	BattlePass.json
 5스킬 Return to me.	5스킬 回收。	4	BattleSpeechBubbleDlg-a1c9p2.json
@@ -238,6 +216,7 @@ I will unlock you myself!	为您解封！	4	BattleSpeechBubbleDlg.json
 Tread the Air, Brandish the Spear (踏空槍零).	踏空枪零。	4	BattleSpeechBubbleDlg.json
 Three!	三！	4	BattleSpeechBubbleDlg.json
 The gallery's closing hour is here, everyone.	闭馆时间到了啊。	4	BattleSpeechBubbleDlg.json
+Settings	设置	4	BattleUIText.json
 Resistances	抗性信息	4	BattleUIText.json
 Story	故事	4	BattleUIText.json
 Event	事件	4	BattleUIText.json
@@ -260,6 +239,7 @@ Max HP {0}%	体力上限{0}%	4	BuffAbilities.json
 Life or Death -	生死决断 -	4	Bufs_Refraction5.json
 Hard	困难难度	4	DawnOfGreenEventText.json
 Normal	一般	4	DawnOfGreenEventText.json
+Leather Wallet	真皮钱包	4	Enemies-a1c10p1.json
 Old Umbrella Core	旧伞 本体	4	Enemies-a1c5p1.json
 Umbrella Part	伞 部位	4	Enemies-a1c5p1.json
 Sturdy Little Brother of the Middle Core	可靠的中指幼弟 本体	4	Enemies-a1c5p2.json
@@ -282,28 +262,24 @@ The Middle	中指	4	FormationNameEtcFilter.json
 The Pinky	小指	4	FormationNameEtcFilter.json
 Façades	外观投影	4	FormationUI_S6.json
 Enkephalin	脑啡肽	4	IntroductionPreset.json
-Owned	已拥有	4	LobbyBGMUI.json
-Close	关闭	4	LoginUIText.json
 Clear Rewards	通关奖励	4	MainUIText.json
 Pilgrimage of Compassion	善意的巡礼	4	MirrorDungeonTheme-1.json
 Mirror Projection / Achievements	镜像投影 / 成就	4	MirrorDungeonUI.json
 Starter Buffs	开局增益	4	MirrorDungeonUI_3.json
 Rest Bonus	休息奖励	4	MirrorDungeonUI_3.json
-[Shops]
-Sells higher Tier E.G.O Gifts	[商店]
-出现E.G.O饰品等级上升	4	MirrorDungeonUI_4.json
-[Encounters]
-Deal +2.5% damage	[战斗]
-造成伤害量 +2.5%	4	MirrorDungeonUI_4.json
-[Encounters]
-Take -2.5% damage	[战斗]
-受到的伤害 -2.5%	4	MirrorDungeonUI_4.json
+[Shops]\nSells higher Tier E.G.O Gifts	[商店]\n出现E.G.O饰品等级上升	4	MirrorDungeonUI_4.json
+[Encounters]\nDeal +2.5% damage	[战斗]\n造成伤害量 +2.5%	4	MirrorDungeonUI_4.json
+[Encounters]\nTake -2.5% damage	[战斗]\n受到的伤害 -2.5%	4	MirrorDungeonUI_4.json
 Starlight Bonus	星芒奖励	4	MirrorDungeonUI_5.json
 Parallel Superposition Mode	平行叠加模式	4	MirrorDungeonUI_5_InfinityFloor.json
 E.G.O Gift Search	E.G.O饰品观测	4	MirrorDungeonUI_6.json
 Default	基础	4	MirrorDungeonUI_6.json
 Selecting E.G.O	选择E.G.O	4	MissionUIText.json
 Staggered Mm...	自身混乱 嗯……	4	PersonalityVoiceDlg/Voice_Faust_ShiAsso2_10213.json
+Enter.	进入。	4	RPGSystem/rpg-loc-dialogue-choice-floor-b1.json
+Don't enter.	不进入。	4	RPGSystem/rpg-loc-dialogue-choice-floor-b1.json
+The door is open. Should we enter?	门开了。要进去吗？	4	RPGSystem/rpg-loc-dialogue-floor-b1.json
+Charging Noir	冲刺中的黑派	4	RPGSystem/rpg-loc-npc-floor-2-a-enemy.json
 Packs	组合包	4	ReturnPolicy.json
 Don Quixote Sinner #3	堂吉诃德 3号罪人	4	ScenarioModelCodes-AutoCreated.json
 Ishmael Sinner #8	以实玛利 8号罪人	4	ScenarioModelCodes-AutoCreated.json
@@ -322,8 +298,7 @@ Proximity Shooting	开始近距摄影	4	Skills_Abnormality.json
 Multi-block	连续招架	4	Skills_Enemy.json
 Weave Projection	投影制作	4	SkinUI.json
 Then…	随后……	4	StoryData/3D308B.json
-Dongbaek League of Nine Littérateurs ……	冬柏 九人会 ……	4	StoryData/4D202B.json
-The Indigo Elder ??? …….	靛蓝老人 ？？？ ……	4	StoryData/5D101B.json
+League of Nine Littérateurs ……	九人会 ……	4	StoryData/4D202B.json
 Haah.	哈啊。	4	StoryData/5D105A.json
 Father …….	亲族 ……	4	StoryData/7D111A.json
 After some time passed…	一段时间后……	4	StoryData/7D112A.json
@@ -339,102 +314,24 @@ Vergilius.	维吉里乌斯。	4	StoryData/E501B.json
 <Hm...>	<嗯……>	4	StoryData/E619B.json
 But...	然而……	4	StoryData/E627B.json
 <Faust.>	<浮士德。>	4	StoryData/E726A.json
+The Index Nursefather …….	食指 父辈 ……	4	StoryData/P10115.json
 The Priest of La Manchaland …….	拉·曼却领 神父 ……	4	StoryData/P10310.json
-Inquisitor …….	审判官 ……	4	StoryData/PC06B.json
-Dongbaek Technology Liberation Alliance …….	冬柏 技术解放联盟 ……	4	StoryData/S448B.json
+Heishou Pack - Si Branch …….	黑兽 - 巳 ……	4	StoryData/P10912.json
+*sigh*	……唉。	4	StoryData/S1003B.json
+Technology Liberation Alliance …….	技术解放联盟 ……	4	StoryData/S448B.json
 I see.	是吗。	4	StoryData/S526A.json
 What?	什么？	4	StoryData/S535B.json
 Mm…	嗯……	4	StoryData/S806B.json
 Mirror Worlds	镜像世界	4	StoryTheaterDanteNote_8.json
 Fairy Festival	精灵盛宴	4	StoryTheaterOther.json
-뫼르소
-남
-9월 23일
-A
-188CM
-82KG	默尔索
-男
-9月23日
-A
-188CM
-82KG	4	StoryTheaterPersonality.json
-홍루
-남
-9월 23일
-A
-178CM
-74KG	鸿璐
-男
-9月23日
-A
-178CM
-74KG	4	StoryTheaterPersonality.json
-히스클리프
-남
-9월 23일
-A
-180CM
-78KG	希斯克利夫
-男
-9月23日
-A
-180CM
-78KG	4	StoryTheaterPersonality.json
-이스마엘
-여
-9월 23일
-A
-171CM
-57KG	以实玛利
-女
-9月23日
-A
-171CM
-57KG	4	StoryTheaterPersonality.json
-로쟈
-여
-9월 23일
-A
-182CM
-65KG	罗佳
-女
-9月23日
-A
-182CM
-65KG	4	StoryTheaterPersonality.json
-그레고르
-남
-9월 23일
-A
-167CM
-68KG	格里高尔
-男
-9月23日
-A
-167CM
-68KG	4	StoryTheaterPersonality.json
-Meursault
-M
-September 23rd
-A
-188CM (6'2")
-82KG (180lbs)	默尔索
-男
-9月23日
-A
-188CM
-82KG	4	StoryTheaterPersonality.json
-Gregor
-M
-September 23rd
-A
-167CM (5'6")
-68KG (149.914lbs)	格里高尔
-男
-9月23日
-A
-167CM
-68KG	4	StoryTheaterPersonality.json
+뫼르소\n남\n9월 23일\nA\n188CM\n82KG	默尔索\n男\n9月23日\nA\n188CM\n82KG	4	StoryTheaterPersonality.json
+홍루\n남\n9월 23일\nA\n178CM\n74KG	鸿璐\n男\n9月23日\nA\n178CM\n74KG	4	StoryTheaterPersonality.json
+히스클리프\n남\n9월 23일\nA\n180CM\n78KG	希斯克利夫\n男\n9月23日\nA\n180CM\n78KG	4	StoryTheaterPersonality.json
+이스마엘\n여\n9월 23일\nA\n171CM\n57KG	以实玛利\n女\n9月23日\nA\n171CM\n57KG	4	StoryTheaterPersonality.json
+로쟈\n여\n9월 23일\nA\n182CM\n65KG	罗佳\n女\n9月23日\nA\n182CM\n65KG	4	StoryTheaterPersonality.json
+그레고르\n남\n9월 23일\nA\n167CM\n68KG	格里高尔\n男\n9月23日\nA\n167CM\n68KG	4	StoryTheaterPersonality.json
+Meursault\nM\nSeptember 23rd\nA\n188CM (6'2")\n82KG (180lbs)	默尔索\n男\n9月23日\nA\n188CM\n82KG	4	StoryTheaterPersonality.json
+Gregor\nM\nSeptember 23rd\nA\n167CM (5'6")\n68KG (149.914lbs)	格里高尔\n男\n9月23日\nA\n167CM\n68KG	4	StoryTheaterPersonality.json
 Story Voice Management	剧情语音管理	4	StoryVoiceSettingUI.json
 Creating your Team	编队	4	TutorialMainUIText.json
 Selecting Sinners	选择罪人	4	TutorialMainUIText.json
@@ -445,22 +342,17 @@ Twining Threads Obtained from the Twining Threads event	绞丝结线 通过绞�
 Every Catherine's both hands gain %{2} {1}/% for {0} turn(s)	所有凯瑟琳的双手在{0}回合内获得%{2} {1}/%	3	AbEventsResultLog-a1c6p3.json
 All allies gain %{1} {0}/% for this Encounter	本场战斗中全体友方单位获得%{0} {1}/%。	3	AbEventsResultLog_Refraction4.json
 - Gain +50% max HP (max 200; excluding Peccatula Invidiae)	- 自身的体力上限+50%(最多200点，不包括嫉妒罪种)	3	AbEventsResultLog_Refraction6.json
-Ryōshū	良秀	3	Announcer-a1c9p3.json
-Outis	奥提斯	3	Announcer-x1p1c1.json
-Faust	浮士德	3	Announcer-x1p1c1.json
 Dante	但丁	3	Announcer.json
-Gregor	格里高尔	3	Announcer.json
-Sinclair	辛克莱	3	Announcer.json
 Rodion	罗佳	3	Announcer.json
 Nelly	耐莉	3	Announcer.json
 Hohenheim	霍恩海姆	3	Announcer.json
-Hong Lu	鸿璐	3	Announcer.json
 Blade Lineage	剑契组	3	AssociationName.json
 Kurokumo Clan	黑云会	3	AssociationName.json
 Yurodiviye	圣愚	3	AssociationName.json
 Take Less Damage Damage Taken -5%	受到的伤害减少强化 受到的伤害 -5%	3	BattleKeywords_Mirror4.json
 Mounting Trials	追加的苦难	3	BattleKeywords_Mirror5.json
 Free	免费	3	BattlePass.json
+바늘이 3스킬 적중 시 Shaddap! Shaddap!	바늘이 3스킬 적중 시 按静！按静！	3	BattleSpeechBubbleDlg-a1c10p1.json
 3스킬 Gungnir.	3스킬 冈格尼尔。	3	BattleSpeechBubbleDlg-a1c9p2.json
 에즈라 모제스 붉은숨 상호작용 Gotcha!!	以斯拉 摩西 红色吐息 互动 是！！！！	3	BattleSpeechBubbleDlg-a1c9p3.json
 중지 제자 skill 2 One, two! Three! Hyah!	中指子辈 2技能 一！二！三！哈！	3	BattleSpeechBubbleDlg-a1c9p3.json
@@ -478,7 +370,8 @@ Arc for the blade, in my sight.	刀路已定。	3	BattleSpeechBubbleDlg.json
 Twinslash.	二连。	3	BattleSpeechBubbleDlg.json
 Tripleslash. Dispatched.	三连，斩杀。	3	BattleSpeechBubbleDlg.json
 Hah... I'll carve the pain upon you myself!	哈……将痛苦……铭刻于你！	3	BattleSpeechBubbleDlg.json
-Settings	设置	3	BattleUIText.json
+르루즈 이스마엘 3스킬 2타 Pinned!	르루즈 이스마엘 3스킬 2타 固定！	3	BattleSpeechBubbleDlg.json
+르루즈 이스마엘 3스킬 3타 Smacked down!	르루즈 이스마엘 3스킬 3타 击打！	3	BattleSpeechBubbleDlg.json
 Status	能力值	3	BattleUIText.json
 Regular Encounter	常规遭遇战	3	BattleUIText.json
 Focused Encounter	集中遭遇战	3	BattleUIText.json
@@ -507,8 +400,11 @@ Progression	流程说明	3	BossRaidUI.json
 Total Turns	累计回合数	3	BossRaidUI.json
 Reflectrial][lairtcelfeR	映射战斗][斗战射映	3	BossRaidUI.json
 Max Speed {0}	最大速度值{0}	3	BuffAbilities.json
+Meursault	默尔索	3	Characters.json
 All Deployed Identities gain 2 Levels	编队中的所有人格提升2级	3	ChoiceEventEffect.json
 Return	返回	3	DanteAbilityUIText_a1c9p3.json
+L'Inamovible	不可动摇者	3	Enemies-a1c10p1.json
+3F Floor Manager	3F 楼层经理	3	Enemies-a1c10p1.json
 So That No One Will Cry Core	因而无人哭泣 本体	3	Enemies-a1c5p1.json
 Drifting Fox Core	流浪狐狸 本体	3	Enemies-a1c5p1.json
 Fairy Gentleman Core	绅士精灵 本体	3	Enemies-a1c5p1.json
@@ -558,6 +454,7 @@ Clear {0}-{1} to Unlock the Hard Difficulty	通关{0}-{1}后解锁困难难度	3
 Scrap Box	废料回收箱	3	EventUmidaText.json
 Uptie Tier	同步阶段	3	Filter.json
 Recent	最近获得	3	Filter.json
+Other	杂项	3	FormationNameEtcFilter.json
 H Corp.	H公司	3	FormationNameEtcFilter.json
 R Corp.	R公司	3	FormationNameEtcFilter.json
 T Corp.	T公司	3	FormationNameEtcFilter.json
@@ -567,10 +464,12 @@ The House of Spiders	蜘蛛巢	3	FormationNameEtcFilter.json
 ???'s Fathoms	？？？的心象	3	HellsChickenDungeonNode.json
 Playlist	播放列表	3	LobbyBGMUI.json
 Jukebox	点唱机	3	LobbyBGMUI.json
+Confirm	确认	3	LoginUIText.json
 Rewards	奖励	3	MainUIText.json
 E.G.O List	E.G.O列表	3	MainUIText.json
 Identity List	人格列表	3	MainUIText.json
 Paid	付费	3	MainUIText.json
+Progress	进度	3	MainUIText.json
 Edit Team	编辑编队	3	MainUIText.json
 Egoshards	自我碎片	3	MainUIText.json
 E.G.O Resources	E.G.O资源	3	MainUIText.json
@@ -584,27 +483,20 @@ Not enough Starlight.	星芒不足。	3	MirrorDungeonUI_2.json
 Higher Tier Gifts appear	出现饰品等级上升	3	MirrorDungeonUI_2.json
 Selectable E.G.O Gift +1	出现的饰品数量+1	3	MirrorDungeonUI_2.json
 Starting Cost +50	初始经费+50	3	MirrorDungeonUI_2.json
-[Universal]
-Gain +50 Starting Cost	[通用]
-初始经费+50	3	MirrorDungeonUI_4.json
-[Shops]
-E.G.O Gift purchase Cost -5%	[商店]
-购买E.G.O饰品所需经费减少 -5%	3	MirrorDungeonUI_4.json
-[Encounters]
-Defense Level +1	[战斗]
-防御等级 +1	3	MirrorDungeonUI_4.json
+[Universal]\nGain +50 Starting Cost	[通用]\n初始经费+50	3	MirrorDungeonUI_4.json
+[Shops]\nE.G.O Gift purchase Cost -5%	[商店]\n购买E.G.O饰品所需经费减少 -5%	3	MirrorDungeonUI_4.json
+[Encounters]\nDefense Level +1	[战斗]\n防御等级 +1	3	MirrorDungeonUI_4.json
 Tier 1	1级	3	MirrorDungeonUI_4.json
 Tier 2	2级	3	MirrorDungeonUI_4.json
 Tier 3	3级	3	MirrorDungeonUI_4.json
 Tier 4	4级	3	MirrorDungeonUI_4.json
-Clear Canto 8
-to Unlock	通过主线剧情
-第8章后开放	3	MirrorDungeonUI_5.json
+Clear Canto 8\nto Unlock	通过主线剧情\n第8章后开放	3	MirrorDungeonUI_5.json
 Projection Rewards	投影度奖励	3	MirrorDungeonUI_5_InfinityFloor.json
 Collection	收集	3	MirrorDungeonUI_5_InfinityFloor.json
 Clears	清剿	3	MirrorDungeonUI_5_InfinityFloor.json
 Loadout	编队	3	MirrorDungeonUI_5_InfinityFloor.json
 Completionist	完成度	3	MirrorDungeonUI_5_InfinityFloor.json
+Reward	奖励	3	MirrorDungeonUI_6.json
 Reset	重置	3	MirrorDungeonUI_6.json
 Parallel Superposition EXTREME	平行叠加极限模式	3	MirrorDungeonUI_6.json
 Set Adversities	设置制约	3	MirrorDungeonUI_6.json
@@ -613,6 +505,12 @@ NOTHING TO SEE HERE NOTHING TO SEE HERE	不该出现的文本 不该出现的文
 Staggered Ugh!	自身混乱 呃！	3	PersonalityVoiceDlg/Voice_Faust_LCB_10201.json
 Staggered Tch!	自身混乱 嘁！	3	PersonalityVoiceDlg/Voice_Faust_WCorp6_10202.json
 Staggered Ngh...	自身混乱 呃……	3	PersonalityVoiceDlg/Voice_Ishmael_Kurokumo_10811.json
+Kromer's Sister	克罗默姐姐	3	RPGSystem/rpg-loc-npc-floor-1.json
+Brand Director	品牌总监	3	RPGSystem/rpg-loc-npc-floor-2-a-enemy.json
+Skinhide Couch	人皮沙发	3	RPGSystem/rpg-loc-npc-floor-4.json
+Red Needlekin	赤红的针族	3	RPGSystem/rpg-loc-npc-floor-b2-a-enemy.json
+Queued Needlekin	待命中的针族	3	RPGSystem/rpg-loc-npc-floor-b2.json
+Laboring Needlekin	劳作中的针族	3	RPGSystem/rpg-loc-npc-floor-b2.json
 Travel Collection	累计记录	3	RailwayDungeonUI.json
 - E.G.O : Threadspin Tier 4	- E.G.O：异想解析4阶段	3	RailwayDungeonUI_1001.json
 Select Buffs	选择BUFF	3	RailwayDungeonUI_2.json
@@ -647,7 +545,6 @@ Lei Heng The Thumb's Capo ⅠⅠⅠⅠ	雷横 拇指 指挥官ⅠⅠⅠⅠ	3	Sce
 Lin Daiyu Baochai's Clan	林黛玉 宝钗的势力	3	ScenarioModelCodes-AutoCreated.json
 Xue Pan Xue Family	薛蟠 薛家	3	ScenarioModelCodes-AutoCreated.json
 ??? Daguanyuan	？？？ 大观园	3	ScenarioModelCodes-AutoCreated.json
-??? Shi Family	？？？ 史家	3	ScenarioModelCodes-AutoCreated.json
 Jia Xichun The Hierarch of Hongyuan	贾惜春 鸿园的家主	3	ScenarioModelCodes-AutoCreated.json
 Callisto The Ring Nursefather	卡利斯托 环指 父辈	3	ScenarioModelCodes-AutoCreated.json
 Albina The Ring Apprentice	阿尔比娜 环指 子辈	3	ScenarioModelCodes-AutoCreated.json
@@ -674,10 +571,11 @@ The 8th Walpurgis Night	第8次 瓦尔普吉斯之夜	3	StageNode91-23.json
 The 2nd Walpurgis Night	第2次 瓦尔普吉斯之夜	3	StageNode91-6.json
 The 3rd Walpurgis Night	第3次 瓦尔普吉斯之夜	3	StageNode91-8.json
 ... Hmph.	……哼。	3	StoryData/1D202A.json
-Sonya Yurodivy ……	索尼亚 圣愚 ……	3	StoryData/2D306A.json
+Yurodivy ……	圣愚 ……	3	StoryData/2D306A.json
 Sometime later…	不久之后……	3	StoryData/2D306A.json
 Nothing.	没什么。	3	StoryData/4D102A.json
 Yet...	但是……	3	StoryData/4D305I.json
+... I see.	……是吗。	3	StoryData/5D103B.json
 Haaah...	哈啊……	3	StoryData/5D304A.json
 Yeah.	嗯。	3	StoryData/7D102A.json
 Fathoms of Ego - La Mancha Eye …….	自我心道 - 拉·曼却之眼 ……	3	StoryData/7D110B.json
@@ -694,132 +592,59 @@ Phew...	呼……	3	StoryData/E070X.json
 What?	啊？	3	StoryData/E502B.json
 <Haah...>	<哈啊……>	3	StoryData/E503B.json
 Huh?	嗯？	3	StoryData/E509B.json
-Bamboo-hatted Kim? Blade Lineage? …….	金笠？ 剑契组？ ……	3	StoryData/E517B.json
+No.	不是。	3	StoryData/E512B.json
+Blade Lineage? …….	剑契组？ ……	3	StoryData/E517B.json
+T Corp. …….	T公司 ……	3	StoryData/E602A.json
 Mm...	嗯……	3	StoryData/E604B.json
 <Well, that's...>	<那是……>	3	StoryData/E607B.json
 Correct.	没错。	3	StoryData/E612B.json
 <Hm?>	<嗯？>	3	StoryData/E613B.json
 Um...	嗯……	3	StoryData/E620B.json
 ... Dante.	……但丁。	3	StoryData/E622B.json
+Correct.	是的。	3	StoryData/E625A.json
 And yet…	但是……	3	StoryData/E626B.json
+Besides...	而且……	3	StoryData/E718B.json
+Heishou Pack - Mao Branch …….	黑兽 - 卯 ……	3	StoryData/E726A.json
+The Middle's Big Brother …….	中指 幼兄 ……	3	StoryData/E726I.json
 Ahh...	啊……	3	StoryData/E728B.json
+The Pinky …….	小指 ……	3	StoryData/E802B.json
 Yet...	然而……	3	StoryData/E811I1.json
 ... Ah.	……啊。	3	StoryData/E903B.json
 Huh...?	嗯……？	3	StoryData/E903B.json
 *sigh*	哈啊……	3	StoryData/E904B.json
 Yes, Manager.	是，经理。	3	StoryData/E917B.json
 <Faust?>	<浮士德？>	3	StoryData/E923B.json
-Yi Sang The Index Nursefather …….	李箱 食指 父辈 ……	3	StoryData/P10115.json
-Interviewer ??? …….	记者 ？？？ ……	3	StoryData/P10213.json
 Dawn Office Fixer [.......]	黎明事务所 收尾人 [……]	3	StoryData/P10216.json
-Outis Blade Lineage Salsu …….	奥提斯 剑契组 杀手 ……	3	StoryData/P10308.json
-Faust Heishou Pack - Mao Branch Adept .......	浮士德 黑兽 - 卯 魁首 ……	3	StoryData/P10313.json
-Excision Management Staff K Corp. …….	摘除监管人员 K公司 ……	3	StoryData/P10605.json
-Levelheaded Resident District 19 .......	冷静的居民 19区 ……	3	StoryData/P10615.json
+Blade Lineage Salsu …….	剑契组 杀手 ……	3	StoryData/P10308.json
+Heishou Pack - Mao Branch Adept .......	黑兽 - 卯 魁首 ……	3	StoryData/P10313.json
+K Corp. …….	K公司 ……	3	StoryData/P10605.json
+District 19 .......	19区 ……	3	StoryData/P10615.json
 Huh?	哈？	3	StoryData/P10704.json
-Sailors The Pequod AYE!!!	船员们 裴廓德号 是！！！	3	StoryData/P10808.json
-Rodion Welfare Team Agent …….	罗佳 福利部 员工 ……	3	StoryData/P10913.json
-The Lord of Flies G Corp. .......	苍蝇之王 G公司 ……	3	StoryData/P10916.json
-*sigh*	……唉。	3	StoryData/S101B.json
-Saude LCCB ……	索德 LCCB ……	3	StoryData/S203B.json
+The Pequod AYE!!!	裴廓德号 是！！！	3	StoryData/P10808.json
+Welfare Team Agent …….	福利部 员工 ……	3	StoryData/P10913.json
+G Corp. .......	G公司 ……	3	StoryData/P10916.json
+Shut up.	闭嘴。	3	StoryData/S1002B.json
+Heathcliff...	希斯克利夫……	3	StoryData/S1005B.json
 Yeah.	对。	3	StoryData/S313A.json
-Shrenne K Corp. Laboratory ……	施伦妮 K公司研究所 ……	3	StoryData/S417A.json
+K Corp. Laboratory ……	K公司研究所 ……	3	StoryData/S417A.json
 After an indeterminate amount of time...	过了一段时间……	3	StoryData/S501B.json
 So...	因此……	3	StoryData/S606B.json
 A Distant World …….	另一个世界 ……	3	StoryData/S643B.json
+No.	不对。	3	StoryData/S648B.json
 Catherine.	凯瑟琳。	3	StoryData/S648I.json
 Indeed.	嗯。	3	StoryData/S801B.json
 *exhale*	呼……	3	StoryData/S927B.json
 Araya.	阿赖耶。	3	StoryData/S931B.json
+Gesellschaft …….	Gesellschaft ……	3	StoryData/S951B.json
 Grant Us Love	请给我们爱	3	StoryTheaterOther.json
-이상
-남
-9월 23일
-A
-176CM
-70KG	李箱
-男
-9月23日
-A
-176CM
-70KG	3	StoryTheaterPersonality.json
-파우스트
-여
-9월 23일
-A
-174CM
-59KG	浮士德
-女
-9月23日
-A
-174CM
-59KG	3	StoryTheaterPersonality.json
-돈키호테
-여
-9월 23일
-A
-163CM
-52KG	堂吉诃德
-女
-9月23日
-A
-163CM
-52KG	3	StoryTheaterPersonality.json
-료슈
-여
-9월 23일
-A
-171CM
-58KG	良秀
-女
-9月23日
-A
-171CM
-58KG	3	StoryTheaterPersonality.json
-오티스
-여
-9월 23일
-A
-177CM
-64KG	奥提斯
-女
-9月23日
-A
-177CM
-64KG	3	StoryTheaterPersonality.json
-Rodion
-F
-September 23rd
-A
-182CM (5'11")
-65KG (143.3lbs)	罗佳
-女
-9月23日
-A
-182CM
-65KG	3	StoryTheaterPersonality.json
-Sinclair
-M
-September 23rd
-A
-163CM (5'4")
-54KG (119.05lbs)	辛克莱
-男
-9月23日
-A
-163CM
-54KG	3	StoryTheaterPersonality.json
-Heathcliff
-M
-September 23rd
-A
-180CM (5'11")
-54KG (171.96lbs)	希斯克利夫
-男
-9月23日
-A
-180CM
-78KG	3	StoryTheaterPersonality.json
+이상\n남\n9월 23일\nA\n176CM\n70KG	李箱\n男\n9月23日\nA\n176CM\n70KG	3	StoryTheaterPersonality.json
+파우스트\n여\n9월 23일\nA\n174CM\n59KG	浮士德\n女\n9月23日\nA\n174CM\n59KG	3	StoryTheaterPersonality.json
+돈키호테\n여\n9월 23일\nA\n163CM\n52KG	堂吉诃德\n女\n9月23日\nA\n163CM\n52KG	3	StoryTheaterPersonality.json
+료슈\n여\n9월 23일\nA\n171CM\n58KG	良秀\n女\n9月23日\nA\n171CM\n58KG	3	StoryTheaterPersonality.json
+오티스\n여\n9월 23일\nA\n177CM\n64KG	奥提斯\n女\n9月23日\nA\n177CM\n64KG	3	StoryTheaterPersonality.json
+Rodion\nF\nSeptember 23rd\nA\n182CM (5'11")\n65KG (143.3lbs)	罗佳\n女\n9月23日\nA\n182CM\n65KG	3	StoryTheaterPersonality.json
+Sinclair\nM\nSeptember 23rd\nA\n163CM (5'4")\n54KG (119.05lbs)	辛克莱\n男\n9月23日\nA\n163CM\n54KG	3	StoryTheaterPersonality.json
+Heathcliff\nM\nSeptember 23rd\nA\n180CM (5'11")\n54KG (171.96lbs)	希斯克利夫\n男\n9月23日\nA\n180CM\n78KG	3	StoryTheaterPersonality.json
 Selecting Identities	选择人格	3	TutorialMainUIText.json
 Sinner Health	罪人体力情况	3	TutorialMainUIText.json
 Total Record	累计记录	3	TutorialMainUIText.json
@@ -831,6 +656,9 @@ Choosing the Theme Pack Difficulty	更改主题卡包难易度	3	TutorialMirrorD
 Effective Attacks & Cost Rewards	关卡有利属性与获得经费	3	TutorialMirrorDungeon.json
 Nodes before Theme Pack Boss Encounters are shops.	在主题卡包头目遭遇战之前的节点，配置了商店。	3	TutorialMirrorDungeon.json
 E.G.O Gifts & Mounting Trials	E.G.O饰品 & 追加的苦难	3	TutorialMirrorDungeon.json
+??? Obtained at Season 8 Free Pass Level 70	？？？ 第8赛季 刺点 达到等级70的免费通行证奖励	3	UserTicket-EGOBg-a1c10p1.json
+??? Obtained at Season 8 Limbus Pass Level 90	？？？ 第8赛季 刺点 边狱通行证达到等级90的奖励	3	UserTicket-EGOBg-a1c10p1.json
+??? Obtained at Season 8 Free Pass Level 110	？？？ 第8赛季 刺点 达到等级110的免费通行证奖励	3	UserTicket-EGOBg-a1c10p1.json
 The Raid Obtained at Season 7 Free Pass Level 70	袭击 第7赛季 蛛丝赤 达到等级70的免费通行证奖励	3	UserTicket-EGOBg-a1c9p1.json
 Limbus Company Base	边狱公司 基础	3	UserTicket-EGOBg.json
 Sin: Wrath Base	罪孽：暴怒 基础	3	UserTicket-EGOBg.json
@@ -860,6 +688,7 @@ The Dawn of Violet	紫罗兰的黎明	3	Walpu4EventText.json
 Dongrang has been confronted	东朗被阻拦了	2	AbEventsResultLog.json
 - Remove the first Stagger Threshold	- 移除自身的第一混乱阈值	2	AbEventsResultLog_Refraction6.json
 Physical Intervention Shield Activated	物理屏蔽力场已激活	2	AbEventsResultLog_walpu4.json
+G.M. Sisyphe\nCustomer Announcement	西西弗百货 店内广播	2	Announcer-a1c10p1.json
 Araya	阿赖耶	2	Announcer-a1c9p3.json
 Charon	卡戎	2	Announcer-m4d1.json
 Yuri	尤莉	2	Announcer.json
@@ -873,6 +702,7 @@ Victory Cry	战斗胜利	2	AnnouncerVoiceType.json
 Defeat Wail	战斗失败	2	AnnouncerVoiceType.json
 Vespa Assist Unit Name	韦斯帕 援助单位名称	2	Assist-a1c9p2.json
 Wrath	暴怒	2	AttributeText.json
+Topaz - No effect	托帕石 - 无效果	2	BattleKeywords-a1c10p1.json
 Blind Obsession At 3+ value, this unit becomes staggered. -	盲目 层数不低于3层时陷入混乱。 -	2	BattleKeywords-a1c5p3.json
 Deep Bereavement Inflict 5 SP damage at Attack End. -	深切的丧失感 攻击结束后，对目标造成5点理智伤害。 -	2	BattleKeywords-a1c6p3.json
 An Actual Bear - It eats people. How fearsome! -	真正的熊 - 这头可怕的熊连人都吃 -	2	BattleKeywords-a1c7p1.json
@@ -881,29 +711,19 @@ Irresponsible Dream Killed when hit by Don Quixote. -	不负责任的梦 被堂�
 Torn Memory Max Stack: 7	撕裂的回忆 最大值：7	2	BattleKeywords-a1c8p3.json
 Malattunement - Base Offense Level +2, Base Defense Level +2	未感应 - 基础攻击等级+2，基础防御等级+2	2	BattleKeywords-a1c8p3.json
 Responsibility In Clashes against Gubo, Clash Power +2	责任感 与仇甫进行拼点时，使自身的拼点威力+2	2	BattleKeywords-a1c8p3.json
-Stigmatized - Tageted by Gubo
-- Expires at Turn End	标记 - 成为仇甫的目标
-- 回合结束时解除本效果	2	BattleKeywords-a1c8p3.json
+Stigmatized - Tageted by Gubo\n- Expires at Turn End	标记 - 成为仇甫的目标\n- 回合结束时解除本效果	2	BattleKeywords-a1c8p3.json
 Untroubled Analysis - Deal +25% damage to Faelantern -	冷静分析 - 对精灵提灯造成的伤害+25% -	2	BattleKeywords-a1c9p1.json
 The Thumb Nursefather's Command - Lose 5 Offense Levels -	拇指父辈的命令 - 攻击等级-5 -	2	BattleKeywords-a1c9p1.json
 Ragged Breath Turn Start: Lose 3 Poise Potency -	紊乱的呼吸 回合开始时，使自身减少3级呼吸法 强度 -	2	BattleKeywords-a1c9p1.json
 Ragged Breath Turn Start: Lose 5 Poise Potency -	紊乱的呼吸 回合开始时，使自身减少5级呼吸法 强度 -	2	BattleKeywords-a1c9p1.json
 Silent Regard UNUSED BUFF -	观望 未使用buff -	2	BattleKeywords-a1c9p2.json
 K Corp. Ampule Used Used K Corp. Ampule -	使用K公司安瓿 已使用的K公司的安瓿 -	2	BattleKeywords-a1c9p3.json
-Faint Guilt - Offense Level -15
-- Defense Level -15	微弱的负罪感 - 攻击等级-15
-- 防御等级-15	2	BattleKeywords-cultivation.json
-Snake Venom - Offense Level -1
-- Defense Level -1	蛇毒 - 攻击等级-1
-- 防御等级-1	2	BattleKeywords-cultivation.json
-Candy? - Max Value: 1
-- Where's the candy? -	糖果？ - 最大值：1
-- 糖果在哪里？ -	2	BattleKeywords-fools.json
+Faint Guilt - Offense Level -15\n- Defense Level -15	微弱的负罪感 - 攻击等级-15\n- 防御等级-15	2	BattleKeywords-cultivation.json
+Snake Venom - Offense Level -1\n- Defense Level -1	蛇毒 - 攻击等级-1\n- 防御等级-1	2	BattleKeywords-cultivation.json
+Candy? - Max Value: 1\n- Where's the candy? -	糖果？ - 最大值：1\n- 糖果在哪里？ -	2	BattleKeywords-fools.json
 Tick-Tock?! - Heal 10 SP at Turn End -	滴答滴答？！ - 回合结束时，恢复10点理智值 -	2	BattleKeywords-fools.json
 The Knight's Corpus Take +80% damage	骑士骨血 受到的伤害+80%	2	BattleKeywords-pilgrimage.json
-Misery and Calamity - Offense Level -??
-- Defense Level -??	苦厄灾难 - 攻击等级-？？
-- 防御等级-？？	2	BattleKeywords-pilgrimage.json
+Misery and Calamity - Offense Level -??\n- Defense Level -??	苦厄灾难 - 攻击等级-？？\n- 防御等级-？？	2	BattleKeywords-pilgrimage.json
 !!!OUDATED EFFECT!!!	过期状态	2	BattleKeywords-walpu4.json
 Golden Recipe Sauce - Clash Power +2	黄金秘传酱汁 - 使自身的拼点威力+2	2	BattleKeywords-x1p1c1.json
 Struggle Speed +1 for this battle. SPD +1	挣扎 本场战斗速度值+1。 速度值+1	2	BattleKeywords.json
@@ -918,19 +738,13 @@ Emptiness At 4+ Count, Dongrang becomes staggered.	空虚 层数高于4时，东
 Nutrient Drain Turn End: Dongrang heals 10 HP	吸收养分 每回合结束时，使东朗恢复10点体力	2	BattleKeywords.json
 사용하지 않음 사용하지 않음	未使用 未使用	2	BattleKeywords.json
 Reverse Compulsion Heal 15 SP at every Turn Start	反转强迫 每回合开始时，使自身恢复15点理智值	2	BattleKeywords.json
-Torn Memory - Max Value : 7
-- Used for certain Skills	撕裂的回忆 - 最大值：7
-- 用于特定技能	2	BattleKeywords.json
+Torn Memory - Max Value : 7\n- Used for certain Skills	撕裂的回忆 - 最大值：7\n- 用于特定技能	2	BattleKeywords.json
 E.G.O Passives Active E.G.O Passives -	E.G.O被动技能 激活的E.G.O被动技能 -	2	BattleKeywords.json
 Assist Defense -	援护防御 -	2	BattleKeywords.json
 Razor Thorn -	刃棘 -	2	BattleKeywords.json
 Hornet [Rifle] Current Mode: Hornet [Rifle] -	黄蜂[步枪] 现在的模式：黄蜂[步枪] -	2	BattleKeywords.json
-Solitude - Low Morale
-- Turn End: Gain +2 Sinking Count -	孤独 - 士气低落
-- 回合结束时，对自身施加2层沉沦  -	2	BattleKeywords.json
-Solitude - Panic
-- Turn End: Gain +3 Sinking Count -	孤独 - 陷入恐慌
-- 回合结束时，对自身施加3层沉沦  -	2	BattleKeywords.json
+Solitude - Low Morale\n- Turn End: Gain +2 Sinking Count -	孤独 - 士气低落\n- 回合结束时，对自身施加2层沉沦  -	2	BattleKeywords.json
+Solitude - Panic\n- Turn End: Gain +3 Sinking Count -	孤独 - 陷入恐慌\n- 回合结束时，对自身施加3层沉沦  -	2	BattleKeywords.json
 Inflict additional Burn Inflict +1 more Burn with Skills	烧伤追加 技能使目标增加的烧伤 强度额外+1	2	BattleKeywords_Mirror3.json
 Inflict additional Bleed Inflict +1 more Bleed with Skills	流血追加 技能使目标增加的流血 强度额外+1	2	BattleKeywords_Mirror3.json
 Inflict additional Tremor Inflict +1 more Tremor with Skills	震颤追加 技能使目标增加的震颤 强度额外+1	2	BattleKeywords_Mirror3.json
@@ -999,9 +813,8 @@ Insufficient Paid Lunacy	付费狂气不足	2	BattlePass.json
 {0}d left	剩余{0}天	2	BattlePass.json
 {0}h left	剩余{0}小时	2	BattlePass.json
 Buy	购买	2	BattlePass.json
-Various Rewards
-Including the Special Banner	附带特别横幅
-可获得各种奖励	2	BattlePass.json
+Various Rewards\nIncluding the Special Banner	附带特别横幅\n可获得各种奖励	2	BattlePass.json
+붉은 신 스킬3 Tiiii... Tock!	붉은 신 스킬3 滴……答	2	BattleSpeechBubbleDlg-a1c10p1.json
 베스파 10스킬 This is where it ends.	韦斯帕 10技能 结束了。	2	BattleSpeechBubbleDlg-a1c9p3.json
 에즈라 네스터 망치 4 One! Two! Diffuse!	以斯拉 涅斯托尔 锤子 4 一！二！扩散！	2	BattleSpeechBubbleDlg-a1c9p3.json
 중지 아비 4단계 3스킬 Hah! Bullseye!	中指父辈 4阶段 3技能 正中靶心啊！	2	BattleSpeechBubbleDlg-a1c9p3.json
@@ -1025,7 +838,7 @@ Leap upon the first.	越过一个。	2	BattleSpeechBubbleDlg.json
 ... The crimson Contempt.	血色轻蔑。	2	BattleSpeechBubbleDlg.json
 You were full of openings.	破绽百出啊。	2	BattleSpeechBubbleDlg.json
 Stiletto...!	穿刺！	2	BattleSpeechBubbleDlg.json
-Bloodtalons, conflagrate (血爪炎化)!	血爪炎火！	2	BattleSpeechBubbleDlg.json
+Bloodtalons, conflagrate (血爪炎化)!	血爪炎化！	2	BattleSpeechBubbleDlg.json
 Get behind me.	到我身后。	2	BattleSpeechBubbleDlg.json
 Whirlwind (回風)!	回风！	2	BattleSpeechBubbleDlg.json
 Ult time, right?	该放大招了对吧？	2	BattleSpeechBubbleDlg.json
@@ -1037,6 +850,7 @@ Hah!	哈！	2	BattleSpeechBubbleDlg.json
 Remember, Kiddo?	闺女，记得吗？	2	BattleSpeechBubbleDlg.json
 Demonfire Spinecleaver (鬼火腰擊).	鬼火腰击。	2	BattleSpeechBubbleDlg.json
 Lucent Rippling Flame (淸潾火)!	清潾火！	2	BattleSpeechBubbleDlg.json
+르루즈 이스마엘 3스킬 재사용 And nailed!	르루즈 이스마엘 3스킬 재사용 钉入！	2	BattleSpeechBubbleDlg.json
 카세티 피격시 Curses, curses!	카세티 피격시 妈的，妈的！	2	BattleSpeechBubbleDlg_mowe.json
 Awakening	觉醒技能	2	BattleUIText.json
 Corrosion	侵蚀技能	2	BattleUIText.json
@@ -1130,13 +944,21 @@ Bloody Banquet -	染血宴会 -	2	Bufs_Refraction5.json
 Power Roulette -	威力轮盘赌 -	2	Bufs_Refraction5.json
 Glass Cannon -	玻璃大炮 -	2	Bufs_Refraction5.json
 High-risk -	高风险 -	2	Bufs_Refraction5.json
-Meursault	默尔索	2	Characters.json
 Jia Xichun	贾惜春	2	Characters.json
 This coupon is invalid.	兑换码无效。	2	CouponUIText.json
 Complete Suppression without any ally deaths	全体友方单位存活的条件下完成镇压	2	DawnOfGreenEventText.json
 Ground Level Laboratory - Entrance n	地上实验室 第n入口	2	DungeonArea-a1c8p2.json
 Waste Disposal	垃圾处理场	2	DungeonArea-a1c8p2.json
 Molding Chamber	注塑室	2	DungeonArea1-2.json
+Le Noir Sales Associate [Sunshone]	黑派店员[阳光]	2	Enemies-a1c10p1.json
+The Crimson God [Inchoate Life]	赤红之神[未诞]	2	Enemies-a1c10p1.json
+Le Rouge Sales Associate [Sunshone]	红派店员[阳光]	2	Enemies-a1c10p1.json
+Sous Chef	副主厨	2	Enemies-a1c10p1.json
+Four-legs	四脚人	2	Enemies-a1c10p1.json
+One-leg	单脚人	2	Enemies-a1c10p1.json
+Warp Needlekin	经线之针族	2	Enemies-a1c10p1.json
+Weft Needlekin	纬线之针族	2	Enemies-a1c10p1.json
+King of Needleworks	裁缝之王	2	Enemies-a1c10p1.json
 Revived K Corp. Security Core	复活的K公司检查站安保人员 本体	2	Enemies-a1c5p1.json
 Revived K Corp. Class 1 Staff Core	复活的K公司1级员工 本体	2	Enemies-a1c5p1.json
 Fairy-Long-Legs Core	长腿精灵 本体	2	Enemies-a1c5p1.json
@@ -1242,7 +1064,7 @@ Lured Guido Enemy Unit	受诱的圭多 敌方单位	2	Enemies.json
 Lured Aida Enemy Unit	受诱的艾达 敌方单位	2	Enemies.json
 Lured Festered G Corp. H. Manager Enemy Unit	受诱且溃烂的G公司部长 敌方单位	2	Enemies.json
 Kromer Enemy Unit	克罗默 敌方单位	2	Enemies.json
-Fairy Queen Core	精灵女王 本体	2	Enemies.json
+Fairy Queen Core	女王精灵 本体	2	Enemies.json
 Fairy Mass Core	精灵畸块 本体	2	Enemies.json
 Portrait Core	肖像画 本体	2	Enemies.json
 Famished Hooligan	饥肠辘辘的流氓	2	Enemies.json
@@ -1277,6 +1099,8 @@ Account Unlinked	已解除绑定	2	IntegrateAccountUI.json
 Nagel und Hammer	钉与锤	2	IntroductionPreset.json
 Hook Office	吊钩事务所	2	IntroductionPreset.json
 First Class	头等舱	2	IntroductionPreset.json
+Le Noir	黑派	2	IntroductionPreset.json
+Le Rouge	红派	2	IntroductionPreset.json
 Always Available	常驻	2	Limbus3rdAnniversary.json
 Set Window BGM	设置玻璃窗BGM	2	LobbyBGMUI.json
 Set Sinner BGM	设置罪人BGM	2	LobbyBGMUI.json
@@ -1284,9 +1108,11 @@ Tracks in Playlist ({0}/{1})	列表曲目（{0}/{1}）	2	LobbyBGMUI.json
 Clear Selection	重置选择	2	LobbyBGMUI.json
 Terms of Service	服务条款	2	LoginUIText.json
 Retry	重试	2	LoginUIText.json
-Confirm	确认	2	LoginUIText.json
 Select Custom Language	选择自定义语言	2	LoginUIText.json
+Battle Lost	战斗失败	2	MainUIText-a1c10p1.json
+Forfeit	放弃	2	MainUIText-a1c10p1.json
 Theater	放映室	2	MainUIText.json
+Extract	提取	2	MainUIText.json
 EXP	经验	2	MainUIText.json
 Announcer	播报员	2	MainUIText.json
 To Battle!	开始战斗	2	MainUIText.json
@@ -1304,13 +1130,11 @@ Currency Req.	所需道具数	2	MainUIText.json
 Purchased	已购买	2	MainUIText.json
 Pre-battle	战前	2	MainUIText.json
 Post-battle	战后	2	MainUIText.json
-Progress	进度	2	MainUIText.json
 ※ Free Lunacy is used first.	※将优先使用免费狂气。	2	MainUIText.json
 Resume	继续	2	MainUIText.json
 Category	提取类型	2	MainUIText.json
 Season 1	第1赛季	2	MainUIText.json
 Pass Level	通行证等级	2	MainUIText.json
-All	全部	2	MainUIText.json
 Basic	基础	2	MainUIText.json
 Cannot Purchase	无法购买	2	MainUIText.json
 To Window	返回玻璃窗	2	MainUIText.json
@@ -1358,24 +1182,12 @@ Take -3% damage	受到的伤害-3%	2	MirrorDungeonUI_2.json
 Refresh	刷新	2	MirrorDungeonUI_3.json
 Selected E.G.O Gift	选择E.G.O饰品	2	MirrorDungeonUI_3.json
 Cannot Fuse	无法合成	2	MirrorDungeonUI_3.json
-[Shops]
-Refresh Cost -20%	[商店]
-刷新经费 -20%	2	MirrorDungeonUI_4.json
-[Shops]
-Skill Replacement Cost -20%	[商店]
-技能替换经费 -20%	2	MirrorDungeonUI_4.json
-[Rest Stops]
-E.G.O Gift Enhance Cost -7.5%	[休息点]
-强化E.G.O饰品所需经费减少 -7.5%	2	MirrorDungeonUI_4.json
-[Floor Theme]
-Number of Floor Theme Choices +1	[阶层主题]
-阶层主题出现数量 +1	2	MirrorDungeonUI_4.json
-[Encounters]
-Offense Level +1	[战斗]
-攻击等级 +1	2	MirrorDungeonUI_4.json
-[Encounters]
-Max Speed +1	[战斗]
-最大速度值+1	2	MirrorDungeonUI_4.json
+[Shops]\nRefresh Cost -20%	[商店]\n刷新经费 -20%	2	MirrorDungeonUI_4.json
+[Shops]\nSkill Replacement Cost -20%	[商店]\n技能替换经费 -20%	2	MirrorDungeonUI_4.json
+[Rest Stops]\nE.G.O Gift Enhance Cost -7.5%	[休息点]\n强化E.G.O饰品所需经费减少 -7.5%	2	MirrorDungeonUI_4.json
+[Floor Theme]\nNumber of Floor Theme Choices +1	[阶层主题]\n阶层主题出现数量 +1	2	MirrorDungeonUI_4.json
+[Encounters]\nOffense Level +1	[战斗]\n攻击等级 +1	2	MirrorDungeonUI_4.json
+[Encounters]\nMax Speed +1	[战斗]\n最大速度值+1	2	MirrorDungeonUI_4.json
 Combining Gifts with different Keywords	不同关键词的情况	2	MirrorDungeonUI_4.json
 Tier 1 + Tier 3 => Tier 2	1级 + 3级 => 2级	2	MirrorDungeonUI_4.json
 Tier 2 + Tier 2 => Tier 2	2级 + 2级 => 2级	2	MirrorDungeonUI_4.json
@@ -1402,7 +1214,6 @@ Starlight Retention Units	星芒保留单位	2	MirrorDungeonUI_6.json
 Grace of the Immortal Star	永生之星的恩惠	2	MirrorDungeonUI_6.json
 Starting Starlight Spent	初始星芒消耗	2	MirrorDungeonUI_6.json
 Spent in Dungeon	迷宫探索中的消耗量	2	MirrorDungeonUI_6.json
-Reward	奖励	2	MirrorDungeonUI_6.json
 Adversity Bonus	制约加成	2	MirrorDungeonUI_6.json
 Weekly Projection Cap	每周可获得的投影度	2	MirrorDungeonUI_6.json
 Return to Stage Select	前往关卡入场界面	2	MirrorDungeonUI_6.json
@@ -1439,6 +1250,32 @@ Staggered Ach...	自身混乱 咳……	2	PersonalityVoiceDlg/Voice_Outis_LEGO_1
 Staggered Tsk.	自身混乱 啧。	2	PersonalityVoiceDlg/Voice_Outis_Molar_11105.json
 Staggered Ngh…!	自身混乱 呃……！	2	PersonalityVoiceDlg/Voice_Rodion_LCB_10901.json
 Staggered Tch…	自身混乱 啧……	2	PersonalityVoiceDlg/Voice_Ryoshu_23GuCooker_10404.json
+- Identities : Uptie Tier 4\n- E.G.O : Threadspinning Tier 4	- 人格：同步4阶段\n- E.G.O：异想解析4阶段	2	RPGSuicideBoxUI.json
+Activate the Suicide Vending Machine?	要使用自杀贩卖机吗？	2	RPGSuicideBoxUI.json
+(No response. Couldn't be bothered, it seems.)	就算向其搭话也纹丝不动。似乎是嫌麻烦。	2	RPGSystem/rpg-loc-dialogue-floor-4.json
+Entered through the open door.	进门。	2	RPGSystem/rpg-loc-dialogue-floor-b1.json
+Putty ......	油灰 ……	2	RPGSystem/rpg-loc-dialogue-floor-b2.json
+Corridor	走廊	2	RPGSystem/rpg-loc-location-floor-4.json
+Denim Wallet	牛仔布钱包	2	RPGSystem/rpg-loc-npc-floor-1-a-enemy.json
+Dubois	杜布瓦	2	RPGSystem/rpg-loc-npc-floor-1.json
+Eye-shopping Customer	正在浏览商品的顾客	2	RPGSystem/rpg-loc-npc-floor-1.json
+Treatment Customer	正在接受手术的顾客	2	RPGSystem/rpg-loc-npc-floor-1.json
+Mobile-Go-Spin	动态旋转雕塑	2	RPGSystem/rpg-loc-npc-floor-3-a-enemy.json
+오티스 SD	奥提斯 SD	2	RPGSystem/rpg-loc-npc-floor-3.json
+Rattling Drawer	晃动的抽屉	2	RPGSystem/rpg-loc-npc-floor-4-a-enemy.json
+Creaking Drawer	嘎吱作响的抽屉	2	RPGSystem/rpg-loc-npc-floor-4-a-enemy.json
+Red-cushioned Stool	红色软凳	2	RPGSystem/rpg-loc-npc-floor-4.json
+Leather Bed	皮床	2	RPGSystem/rpg-loc-npc-floor-4.json
+Mouth Taste Tester	口部试吃员	2	RPGSystem/rpg-loc-npc-floor-b1-a-enemy.json
+Voracious Kaki	贪婪的褐派	2	RPGSystem/rpg-loc-npc-floor-b1.json
+Starving Kaki	饥饿的褐派	2	RPGSystem/rpg-loc-npc-floor-b1.json
+Queued Noir	待命中的黑派	2	RPGSystem/rpg-loc-npc-floor-b2.json
+Purchase	购买	2	RPGSystem/rpg-loc-ui-common-a1c10p1.json
+Grand Magasin Sisyphe	西西弗百货	2	RPGSystem/rpg-loc-ui-common-a1c10p1.json
+Restore Savepoint	恢复存档	2	RPGSystem/rpg-loc-ui-common-a1c10p1.json
+Sisyphe	西西弗	2	RPGSystem/rpg-loc-ui-common-a1c10p1.json
+Interact	交互	2	RPGSystem/rpg-loc-ui-common-a1c10p1.json
+Current E.G.O Resources	现有E.G.O资源	2	RPGSystem/rpg-loc-ui-common-a1c10p1.json
 Clear Turns	通关回合数	2	RailwayDungeonUI.json
 Unlock Requirements	解锁条件	2	RailwayDungeonUI_1001.json
 Recommended Level & Tier	入场推荐配置	2	RailwayDungeonUI_1001.json
@@ -1469,6 +1306,7 @@ Jia Qiu Jia Family	贾丘 贾家	2	ScenarioModelCodes-AutoCreated.json
 Xiren Daguanyuan	袭人 大观园	2	ScenarioModelCodes-AutoCreated.json
 Jia Xichun Jia Family	贾惜春 贾家	2	ScenarioModelCodes-AutoCreated.json
 Kong Sihui Kong Family	孔思晦 孔家	2	ScenarioModelCodes-AutoCreated.json
+??? Shi Family	？？？ 史家	2	ScenarioModelCodes-AutoCreated.json
 Shi Sijing Shi Family	史思静 史家	2	ScenarioModelCodes-AutoCreated.json
 Prisoner of Hongyuan Hongyuan	鸿园的囚犯 鸿园	2	ScenarioModelCodes-AutoCreated.json
 Claw The Head	爪牙 首脑	2	ScenarioModelCodes-AutoCreated.json
@@ -1534,6 +1372,7 @@ Unprojectable	无法投影	2	SkinUI.json
 Exchange for {0}?	要兑换{0}吗？	2	SkinUI.json
 Façade Projection	外观投影	2	SkinUI.json
 ?? ?? Intervallo VII 9.5 Twining Threads 985-02	？？ ？？ 间章VII 9.5 绞丝结线 985-02	2	StageChapterText.json
+N Corp. District 14 Canto X 10 The Gaze Bearing 985-03	N公司 14区 章节X 10 凝视之下 985-03	2	StageChapterText.json
 Notice	说明	2	StageContinueText.json
 Butlers	管家	2	StageNode-a1c6p1.json
 The Dead Rabbits	死兔帮	2	StageNode-a1c6p1.json
@@ -1575,8 +1414,10 @@ Wayfarer	旅者	2	StageNode91-25.json
 ... Okay.	……好的。	2	StoryData/1D302B.json
 Hrk...	呕……	2	StoryData/1D305B.json
 ... Hm.	……哼。	2	StoryData/1D306A.json
+J Corp. Casino ……	J公司 赌场 ……	2	StoryData/2D102B.json
 Ah.	啊。	2	StoryData/2D306B.json
-Guido Nagel und Hammer ……	圭多 钉与锤 ……	2	StoryData/3D102A.json
+Nagel und Hammer ……	钉与锤 ……	2	StoryData/3D102A.json
+Nagel und Hammer Disgraceful and defiled are they.	钉与锤 何等肮脏，何等无耻。	2	StoryData/3D301B.json
 Ah…	啊……	2	StoryData/3D301B.json
 However…	但是。	2	StoryData/3D306B.json
 Huh…?	嗯……？	2	StoryData/3D306B.json
@@ -1586,20 +1427,19 @@ D-Don’t you lie to me…	别、别说谎了……	2	StoryData/3D308B.json
 Stop it…!	闭嘴……！	2	StoryData/3D308B.json
 No…	不对……	2	StoryData/3D308B.json
 You’re lying!!!	你说谎！！！	2	StoryData/3D308B.json
-Kromer Nagel und Hammer Ufu.	克罗默 钉与锤 唔呼。	2	StoryData/3D308B.json
+Nagel und Hammer Ufu.	钉与锤 唔呼。	2	StoryData/3D308B.json
 <The Golden Bough…!>	<金枝……！>	2	StoryData/3D308B.json
 A mass of flesh engulfs her lower half.	肉块将她的下半身包裹了起来。	2	StoryData/3D308B.json
 As if desire and madness were made manifest…	宛如欲望与疯狂的集合体一般……	2	StoryData/3D308B.json
-Kromer Nagel und Hammer Come… Sinclair.	克罗默 钉与锤 来吧……辛克莱。	2	StoryData/3D308B.json
+Nagel und Hammer Come… Sinclair.	钉与锤 来吧……辛克莱。	2	StoryData/3D308B.json
 Alas...	但是……	2	StoryData/4D103B.json
 It's what I call Yeonsim.	我称其为研心。	2	StoryData/4D105B.json
-Stephanette ??? ……	斯蒂芬妮 ？？？ ……	2	StoryData/4D106B.json
 And...	以及……	2	StoryData/4D206A.json
+K Corp. ……	K公司 ……	2	StoryData/4D208B.json
 <I…>	<我……>	2	StoryData/4D305A.json
-Dongrang K Corp. Dept. of Food Resource Development …….	东朗 K公司 粮食资源改良部门 ……	2	StoryData/4D305B.json
+K Corp. Dept. of Food Resource Development …….	K公司 粮食资源改良部门 ……	2	StoryData/4D305B.json
 Dante.	但丁阁下。	2	StoryData/4D305I.json
 Simply...	只是……	2	StoryData/4D305I.json
-... I see.	……是吗。	2	StoryData/5D103B.json
 Ah...!	啊……！	2	StoryData/5D206B.json
 <That's...>	<那是……>	2	StoryData/5D302B.json
 That's...	那……	2	StoryData/5D302B.json
@@ -1608,6 +1448,7 @@ That's...	那……	2	StoryData/5D302B.json
 District 21 Resident …….	21区居民 ……	2	StoryData/5D304I7.json
 Thus...	因此……	2	StoryData/7D101B.json
 Get out of my way.	让开。	2	StoryData/7D108B.json
+??? Indeed... you must be the promised timepiece...	？？？ 这样啊……汝就是那个约定的时钟吗……	2	StoryData/7D111A.json
 Mhm.	嗯。	2	StoryData/7D111I2.json
 Aboard Mephistopheles …….	梅菲斯托费勒斯 内部 ……	2	StoryData/7D112A.json
 Which is... our adventure, as well.	而且……也会是属于我们的冒险。	2	StoryData/7D112I2.json
@@ -1620,6 +1461,7 @@ I wanna play a Bolus making game!	我想玩做丸的游戏！	2	StoryData/8D106A
 It cannot be helped, young master.	没办法的，少爷。	2	StoryData/8D202A.json
 Welcome, little Baoyu.	宝玉来了啊。	2	StoryData/8D203A.json
 We have waited long for your arrival.	吾等朝思暮想地等着你呢。	2	StoryData/8D203A.json
+... What?	……啊？	2	StoryData/8D203B.json
 Little Baoyu.	宝玉啊。	2	StoryData/8D205B.json
 Xichun's Clan My lady...	惜春的势力 小姐……	2	StoryData/8D206B.json
 You... never should have said that. To me.	哥哥你刚才……对我说了绝对不该说的话。	2	StoryData/8D206B.json
@@ -1656,44 +1498,42 @@ What?	啥？	2	StoryData/E091X.json
 We...	我们……	2	StoryData/E091X.json
 Hmm…	嗯……	2	StoryData/E301A.json
 <I see… >	<这样啊……>	2	StoryData/E301A.json
-Heathcliff? Distorted Thing? ……	希斯克利夫？ 扭曲之物？ ……	2	StoryData/E302B.json
+Distorted Thing? ……	扭曲之物？ ……	2	StoryData/E302B.json
 Hmph.	哼。	2	StoryData/E302B.json
 Precisely.	没错。	2	StoryData/E403B.json
 Sigh...	唉……	2	StoryData/E407A.json
-Sinners LCB .......	罪人们 LCB ……	2	StoryData/E501B.json
+LCB .......	LCB ……	2	StoryData/E501B.json
 ... Ahem.	……咳哼。	2	StoryData/E502B.json
 Boom!	咚！	2	StoryData/E505A.json
 Nelly.	耐莉。	2	StoryData/E509B.json
 ... Oho.	……嚯。	2	StoryData/E511B.json
 What...?	哈……？	2	StoryData/E512A.json
-No.	不是。	2	StoryData/E512B.json
 <Well, then...>	<那么……>	2	StoryData/E601B.json
-Class 4 Collection Staff T Corp. …….	4级征收人员 T公司 ……	2	StoryData/E602A.json
 Oho...	嚯……	2	StoryData/E603B.json
 Gah...!	呃……	2	StoryData/E610A.json
 Clock.	时钟。	2	StoryData/E613B.json
 Ha... Ha ha...	哈……哈哈……	2	StoryData/E615A.json
 <... What?>	<……诶？>	2	StoryData/E616B.json
 ... Miss Faust.	……浮士德女士。	2	StoryData/E616B.json
+... Yes.	……是。	2	StoryData/E617B.json
 ... Right?	……对吧？	2	StoryData/E618B.json
 That is...	那是……	2	StoryData/E618B.json
 ... Is that so.	……是吗。	2	StoryData/E624A.json
-Correct.	是的。	2	StoryData/E625A.json
 <D-Don Quixote...>	<堂、堂吉诃德……>	2	StoryData/E626B.json
-Don Quixote? ??? Rocinante, to me...	堂吉诃德？ ？？？ 把驽骍难得给吾……	2	StoryData/E626B.json
-Don Quixote? ??? ... I beseech you.	堂吉诃德？ ？？？ 拜托了……	2	StoryData/E626B.json
+??? No...	？？？ 不……	2	StoryData/E626B.json
+??? ... Ah.	？？？ ……啊。	2	StoryData/E626B.json
+??? Rocinante, to me...	？？？ 把驽骍难得给吾……	2	StoryData/E626B.json
+??? ... I beseech you.	？？？ 拜托了……	2	StoryData/E626B.json
 … Mm.	……嗯。	2	StoryData/E702B.json
+No.	没有。	2	StoryData/E703B.json
 Tsk.	啧。	2	StoryData/E709B.json
-Besides...	而且……	2	StoryData/E718B.json
 Ahem...	咳咳……	2	StoryData/E720B.json
 Then...	随后……	2	StoryData/E721B.json
 <Sinclair?>	<辛克莱？>	2	StoryData/E723B.json
 Tsk...	啧……	2	StoryData/E725B.json
 Master Yihua...?	易华大人……？	2	StoryData/E726B.json
-Ricardo The Middle's Big Brother …….	里卡多 中指 幼兄 ……	2	StoryData/E726I.json
 Jia Family …!	贾家 ……！	2	StoryData/E728B.json
 - FIN -	— 完 —	2	StoryData/E728B.json
-The Pinky …….	小指 ……	2	StoryData/E802B.json
 Next…	下一个……	2	StoryData/E803B.json
 The Hierarch of Hongyuan …?	鸿园的家主 ……？	2	StoryData/E803B.json
 The Hierarch of Hongyuan What...?	鸿园的家主 什么……？	2	StoryData/E809B.json
@@ -1709,58 +1549,66 @@ Now departing. Vroom-vroom.	出发咯。布隆布隆。	2	StoryData/E914B.json
 Yes.	是。	2	StoryData/E917B.json
 <Uh...>	<啊……>	2	StoryData/E917B.json
 *POP!*	啪！	2	StoryData/E918A.json
+... Manager.	……经理。	2	StoryData/E919A.json
 Okay.	好。	2	StoryData/E920B.json
 <i>*POP!*</i>	啪！	2	StoryData/E923B.json
 ... Gyeong-eop.	……庆业。	2	StoryData/E925B.json
 I did.	是。	2	StoryData/E927B.json
 Confirmed.	是。	2	StoryData/E927B.json
-Shi Huazhen …….	史华贞 ……	2	StoryData/ES061A.json
+S-so where are ya taking him?	你、你们要去哪儿？	2	StoryData/E927B.json
 What…?	什么……？	2	StoryData/ES180A.json
-Man Tied to a Chair ??? …….	被绑在椅子上的人 ？？？ ……	2	StoryData/P10115.json
+Uh...	嗯……	2	StoryData/ES290B.json
+??? Oh...	？？？ 啊……	2	StoryData/P10115.json
 Then…	然后……	2	StoryData/P10213.json
 W Corp. Cleanup Agent They are not.	W公司 清扫人员 不是。	2	StoryData/P10302.json
-Don Quixote Heishou Pack - Wei Branch ...!	堂吉诃德 黑兽 - 未 ……！	2	StoryData/P10313.json
+The Barber of La Manchaland …….	拉·曼却领 理发师 ……	2	StoryData/P10310.json
+Heishou Pack - Wei Branch ...!	黑兽 - 未 ……！	2	StoryData/P10313.json
 Effloresced E.G.O::Procuration.	绽放E.G.O::代行。	2	StoryData/P10314.json
-Ryōshū LCCB Assistant Manager ……	良秀 LCCB 系长 ……	2	StoryData/P10406.json
+LCCB Assistant Manager ……	LCCB 系长 ……	2	StoryData/P10406.json
 Clack, clack.	哒、哒。	2	StoryData/P10408.json
-Ryōshū District 20 Yurodivy Four.	良秀 20区 圣愚 四颗。	2	StoryData/P10409.json
+District 20 Yurodivy Four.	20区 圣愚 四颗。	2	StoryData/P10409.json
 Safety Team Captain …….	安保部 队长 ……	2	StoryData/P10410.json
+Shi Family	史家	2	StoryData/P10413.json
 Welfare Team Agent .......	福利部 员工 ……	2	StoryData/P10414.json
 Clatter, clatter.	咔哒，咔哒。	2	StoryData/P10504.json
-Meursault Welfare Team Captain Mm.	默尔索 福利部 队长 嗯。	2	StoryData/P10514.json
+The Middle …….	中指 ……	2	StoryData/P10507.json
+Welfare Team Captain Mm.	福利部 队长 嗯。	2	StoryData/P10514.json
 R Corp. 4th Pack Reindeer …….	R公司 第四集团军 驯鹿队 ……	2	StoryData/P10612.json
-Chronicler Daguanyuan …….	史官 大观园 ……	2	StoryData/P10613.json
-Interviewer ??? Ah.	记者 ？？？ 啊啊。	2	StoryData/P10616.json
-Heathcliff Öufi South Section 3 …….	希斯克利夫 Öufi协会 3科 ……	2	StoryData/P10708.json
+Daguanyuan …….	大观园 ……	2	StoryData/P10613.json
+Heishou Pack - Mao Branch Adept …….	黑兽 - 卯 魁首 ……	2	StoryData/P10613.json
+??? Ah.	？？？ 啊啊。	2	StoryData/P10616.json
+Öufi South Section 3 …….	Öufi协会 3科 ……	2	StoryData/P10708.json
 W Corp. Cleanup Agent .......	W公司 清扫人员 ……	2	StoryData/P10713.json
 *splatter*	唰！	2	StoryData/P10714.json
 AYE!!!	是！！！	2	StoryData/P10808.json
+Edgar Family …….	埃德加家族 ……	2	StoryData/P10809.json
 Then...	然后……	2	StoryData/P10810.json
-Heishou Pack - Si Branch …….	黑兽 - 巳 ……	2	StoryData/P10912.json
+Ohh...	啊啊……	2	StoryData/P10911.json
 Heishou Pack - Si Branch ……	黑兽 - 巳 ……	2	StoryData/P10912.json
-Commander R Corp. 4th Pack .......	指挥官 R公司第四集团军 ……	2	StoryData/P10914.json
-R Corp. 4th Pack Reindeer .......	R公司第四集团军
-驯鹿队 ……	2	StoryData/P10914.json
+R Corp. 4th Pack .......	R公司第四集团军 ……	2	StoryData/P10914.json
+R Corp. 4th Pack Reindeer .......	R公司第四集团军\n驯鹿队 ……	2	StoryData/P10914.json
 Heishou Pack - You Branch …….	黑兽 - 酉 ……	2	StoryData/P11014.json
-??? LCA …….	？？？ LCA ……	2	StoryData/P11114.json
-Novice Snakes Heishou Pack - Si Branch …….	新来的蛇们 黑兽 - 巳 ……	2	StoryData/P11212.json
-Gregor Night Awls Capitano .......	格里高尔 夜锥组 队长 ……	2	StoryData/P11213.json
+??? You...	？？？ 你……	2	StoryData/P11014.json
+LCA …….	LCA ……	2	StoryData/P11114.json
+Night Awls .......	夜锥组 ……	2	StoryData/P11213.json
+Night Awls Capitano .......	夜锥组 队长 ……	2	StoryData/P11213.json
 Ooh...	哦哦……	2	StoryData/PC03B.json
 < ... Your thoughts, Faust?>	<……你怎么想，浮士德？>	2	StoryData/PC07B.json
 But—	但是……	2	StoryData/PC07B.json
 The clock turns.	时钟转动。	2	StoryData/PC07B.json
+No.	不行。	2	StoryData/PC13B.json
 Vessel Masas Decks …….	大众号，甲板 ……	2	StoryData/PC13B.json
 ... Pfft.	……噗。	2	StoryData/S002B.json
 ... Tch.	……啧。	2	StoryData/S004B.json
+Kromer.	克罗默。	2	StoryData/S1002B.json
+That option is not available.	没有那种制度。	2	StoryData/S1003B.json
+Yes, that is correct.	是，没错。	2	StoryData/S1004B.json
 Off the bus.	全员下车。	2	StoryData/S107B.json
-Checkpoint Official K Corp. …All checked out. Next.	检查站工作人员 K公司 ……检查完毕。下一位。	2	StoryData/S303B.json
+K Corp. …All checked out. Next.	K公司 ……检查完毕。下一位。	2	StoryData/S303B.json
 <Ishmael!>	<以实玛利！>	2	StoryData/S412B.json
-Samjo K Corp. Dept. of Food Resource Development ……	三朝 K公司 粮食资源改良部门 ……	2	StoryData/S421B.json
-Dongbaek Technology Liberation Alliance ……	冬柏 技术解放联盟 ……	2	StoryData/S447B.json
-Dongbaek Technology Liberation Alliance ……	冬柏 绽放E.G.O::山茶花 ……	2	StoryData/S448A.json
+Technology Liberation Alliance ……	绽放E.G.O::山茶花 ……	2	StoryData/S448A.json
 Ahem.	咳。	2	StoryData/S454B.json
 HEAVE!	嘿！	2	StoryData/S502B.json
-Shut up.	闭嘴。	2	StoryData/S503B.json
 Me.	我。	2	StoryData/S506B.json
 Heh...	呵……	2	StoryData/S514B.json
 Wait.	等等。	2	StoryData/S514B.json
@@ -1771,11 +1619,12 @@ Tsk...	嘁……	2	StoryData/S526A.json
 <Heathcliff!>	<希斯克利夫！>	2	StoryData/S611B.json
 Wha... what?	什……什么？	2	StoryData/S612B.json
 I no longer fear the ghosts.	我不再害怕幽灵了。	2	StoryData/S612B.json
-Heathcliff...	希斯克利夫……	2	StoryData/S613B.json
 The basement.	地下室。	2	StoryData/S619A.json
 ... Hah.	……呵。	2	StoryData/S621A.json
+Öufi …….	Öufi协会 ……	2	StoryData/S624B.json
 Huh?	什么？	2	StoryData/S632I.json
 ... Yeah.	……是啊。	2	StoryData/S634B.json
+Distortion …….	扭曲 ……	2	StoryData/S635B.json
 Oh...!	啊……	2	StoryData/S636B.json
 No...	不……	2	StoryData/S648B.json
 That counts as a diary still.	那也是日记。	2	StoryData/S648I.json
@@ -1793,7 +1642,6 @@ The key to my Heathcliff's happiness...	能让我的希斯克利夫获得幸福�
 So I...	所以我……	2	StoryData/S648I.json
 I don't love every Heathcliff in every world.	我爱的不是所有世界中的希斯克利夫……	2	StoryData/S648I.json
 I love you. As you are now.	我只爱此刻的你。	2	StoryData/S648I.json
-Don Quixote? ??? …….	堂吉诃德？ ？？？ ……	2	StoryData/S701B.json
 <Uh...>	<嗯……>	2	StoryData/S708B.json
 ... Xichun.	……惜春。	2	StoryData/S725B.json
 I see.	原来如此。	2	StoryData/S735B.json
@@ -1810,16 +1658,14 @@ Right.	没错。	2	StoryData/S913B.json
 Boss.	组长。	2	StoryData/S916B.json
 LCE Research Team Hallway …….	LCE研究组 走廊 ……	2	StoryData/S923B.json
 Yeah.	没错。	2	StoryData/S925B.json
-LCE Research Team
-Elevator .......	LCE研究组 电梯 ……	2	StoryData/S926A.json
+LCE Research Team\nElevator .......	LCE研究组 电梯 ……	2	StoryData/S926A.json
 I'm sorry...	对不起……	2	StoryData/S929A.json
 Yeah. A-ra-ya. That's how you read it.	没错。阿赖耶。这样读。	2	StoryData/S931B.json
 Go on, read it.	来，读读看。	2	StoryData/S931B.json
 No... That's not how you read those letters...	不。那个词不应该那么念……	2	StoryData/S931B.json
-??? ??? ... Bya!	？？？ ？？？ ……呀！	2	StoryData/S940B.json
+??? ... Bya!	？？？ ……呀！	2	StoryData/S940B.json
 It's Mommy!	是妈妈！	2	StoryData/S940B.json
 ... -ou...	你……	2	StoryData/S941B.json
-... wi-hou- -evering... -he spi-er's --read...	不圆部割惹……就不人……	2	StoryData/S941B.json
 Corridor of the Ring .......	环指的走廊 ……	2	StoryData/S943A.json
 So that peanut's yer leash, huh.	敢情那小不点就是拴你的项圈对不。	2	StoryData/S947B.json
 Mommy, ILY so much!	妈妈对我来说是“最爱”的。	2	StoryData/S947B.json
@@ -1828,8 +1674,6 @@ It'll be...	这里面……	2	StoryData/S947B.json
 Mommy... used to hide here all the time.	妈妈……曾经在里面藏过很多次。	2	StoryData/S947B.json
 I promise I'll come back for you.	我一定会回来的。	2	StoryData/S947B.json
 Araya...	阿赖耶……	2	StoryData/S947B.json
-??? No.	？？？ 不对。	2	StoryData/S948A.json
-Naive Faust? Gesellschaft …….	纯真的浮士德？ Gesellschaft ……	2	StoryData/S951B.json
 K Corp.	K公司	2	StoryTheaterDanteNote.json
 The Backstreets	后巷	2	StoryTheaterDanteNote.json
 Refraction Railway Line 5	折射轨道5号线	2	StoryTheaterDanteNote_10.json

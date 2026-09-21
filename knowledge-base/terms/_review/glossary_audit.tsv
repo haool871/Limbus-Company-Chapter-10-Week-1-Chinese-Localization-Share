@@ -1,104 +1,104 @@
 # en	cn	freq	source	en_ids	support	prec	level
-...	…	0	32117	27975	22296	0.797	weak
-3	3	8738	9087	9545	8913	0.934	ok
-Person	人	337	17415	828	454	0.548	suspect
+...	…	0	32117	27974	24114	0.862	ok
+3	3	8738	9087	9539	9258	0.971	ok
+Person	人	337	17415	828	466	0.563	suspect
 Goals	目标	21	15480	32	17	0.531	suspect
-ON	ON	13580	18	66477	18	0.000	noise
--	-	0	8767	16841	8399	0.499	suspect
-10	10	3679	3895	4031	3812	0.946	ok
+ON	ON	13580	18	64899	20	0.000	noise
+-	-	0	8767	16636	8760	0.527	suspect
+10	10	3679	3895	4030	3959	0.982	ok
 Floor 1	1层	43	6258	14	12	0.857	ok
-E.G.O	E.G.O	3414	2856	2923	2782	0.952	ok
-6	6	1830	2678	2844	2652	0.932	ok
-Combat	战斗	781	3608	810	679	0.838	weak
+E.G.O	E.G.O	3414	2856	2923	2819	0.964	ok
+6	6	1830	2678	2844	2759	0.970	ok
+Combat	战斗	781	3608	810	684	0.844	weak
 Floor 2	2层	4	4153	2	2	1.000	ok
-The Heart	心	125	3639	195	158	0.810	weak
-Sinners	罪人	1158	2605	1327	1199	0.904	ok
-Hands	手	404	3256	589	272	0.462	suspect
+The Heart	心	125	3639	194	164	0.845	weak
+Sinners	罪人	1158	2605	1315	1211	0.921	ok
+Hands	手	404	3256	589	282	0.479	suspect
 Shin (心)	心	0	3639	58	58	1.000	ok
 Launcher [始]	始	0	3615	5	5	1.000	ok
-Identities	人格	1055	2509	921	857	0.931	ok
-Apply	使用	1142	2365	1002	106	0.106	noise
+Identities	人格	1055	2509	921	875	0.950	ok
+Apply	使用	1142	2365	1002	107	0.107	noise
 Coin	铜钱	3231	173	5583	164	0.029	suspect
-???	？？？	0	3157	3231	3041	0.941	ok
-Sinking	沉沦	2451	595	2090	565	0.270	suspect
-Faust	浮士德	1366	1483	1557	1399	0.899	ok
-Charge	充能	2050	589	1690	574	0.340	suspect
+???	？？？	0	3157	2144	2109	0.984	ok
+Sinking	沉沦	2451	595	2090	575	0.275	suspect
+Faust	浮士德	1366	1483	1278	1226	0.959	ok
+Charge	充能	2050	589	1690	600	0.355	suspect
 Nirmāna	变	0	2607	2	2	1.000	ok
 End Stage	结束	1	2549	1	1	1.000	ok
-30	30	1213	1306	1413	1290	0.913	ok
+30	30	1213	1306	1413	1333	0.943	ok
 Floor 3	3层	8	2406	8	8	1.000	ok
-15	15	1230	1122	1172	1114	0.951	ok
-Bleed	流血	1228	1081	1132	1019	0.900	ok
-Heathcliff	希斯克利夫	1055	1210	1306	1146	0.877	ok
+15	15	1230	1122	1172	1164	0.993	ok
+Bleed	流血	1228	1081	1132	1042	0.920	ok
+Heathcliff	希斯克利夫	1055	1210	1093	1041	0.952	ok
 Tier 1	1级	70	2102	42	39	0.929	ok
-Class 1	1级	28	2102	29	26	0.897	ok
-Don Quixote	堂吉诃德	956	1105	1163	1038	0.893	ok
+Class 1	1级	28	2102	17	14	0.824	weak
+Don Quixote	堂吉诃德	956	1105	963	940	0.976	ok
 Tier 2	2级	75	1981	46	42	0.913	ok
-K Corp.	K公司	956	1040	964	960	0.996	ok
-{0}	{0}	0	1986	1960	1926	0.983	ok
-The Present	现在	61	1910	82	34	0.415	suspect
-Fixer	收尾人	842	1109	1113	987	0.887	ok
+K Corp.	K公司	956	1040	950	947	0.997	ok
+{0}	{0}	0	1986	1960	1960	1.000	ok
+The Present	现在	61	1910	82	35	0.427	suspect
+Fixer	收尾人	842	1109	1007	884	0.878	ok
 Tier 3	3级	273	1670	247	66	0.267	suspect
 Present [現在]	现在	0	1910	8	8	1.000	ok
-Team	编队	1535	362	1655	183	0.111	suspect
+Team	编队	1535	362	1642	183	0.111	suspect
 Children	孩子	91	1735	132	75	0.568	suspect
-Ishmael	以实玛利	850	904	1066	856	0.803	weak
-Family	家人	1447	261	1593	218	0.137	suspect
-Sinclair	辛克莱	812	846	981	794	0.809	weak
-T Corp.	T公司	769	800	775	751	0.969	ok
-Hong Lu	鸿璐	737	819	879	771	0.877	ok
-Meursault	默尔索	946	592	1143	573	0.501	suspect
-Select	选择	456	1079	742	457	0.616	weak
+Ishmael	以实玛利	850	904	909	832	0.915	ok
+Family	家人	1447	261	1592	221	0.139	suspect
+Sinclair	辛克莱	812	846	862	801	0.929	ok
+T Corp.	T公司	769	800	758	738	0.974	ok
+Hong Lu	鸿璐	737	819	734	707	0.963	ok
+Meursault	默尔索	946	592	925	833	0.901	ok
+Select	选择	456	1079	742	463	0.624	weak
 Mang (望)	望	0	1527	12	12	1.000	ok
-Tremor	震颤	727	798	581	533	0.917	ok
+Tremor	震颤	727	798	581	547	0.941	ok
 The Middle	中指	692	806	887	738	0.832	weak
-Outis	奥提斯	776	697	935	672	0.719	weak
-Rupture	破裂	725	746	653	620	0.949	ok
-Default	基础	15	1447	23	5	0.217	suspect
-Fixers	收尾人	316	1109	324	274	0.846	weak
-Core	本体	717	687	762	660	0.866	ok
+Outis	奥提斯	776	697	752	691	0.919	ok
+Rupture	破裂	725	746	653	630	0.965	ok
+Default	基础	15	1447	23	7	0.304	suspect
+Fixers	收尾人	316	1109	323	274	0.848	weak
+Core	本体	717	687	762	663	0.870	ok
 La Manchaland	拉·曼却领	688	715	717	705	0.983	ok
-Yi Sang	李箱	626	763	765	734	0.959	ok
+Yi Sang	李箱	626	763	553	545	0.986	ok
 The Associations	协会	10	1371	10	9	0.900	ok
-Brain	脑	81	1294	157	117	0.745	weak
-Gregor	格里高尔	666	687	782	656	0.839	weak
-Body	躯干	949	364	1250	354	0.283	suspect
+Brain	脑	81	1294	157	119	0.758	weak
+Gregor	格里高尔	666	687	574	564	0.983	ok
+Body	躯干	949	364	1248	357	0.286	suspect
 The Letter	信	6	1277	31	8	0.258	suspect
-Burn	烧伤	694	558	878	472	0.538	suspect
-Nothing	没什么	899	331	1009	62	0.061	suspect
-Rodion	罗佳	511	683	647	412	0.637	weak
+Burn	烧伤	694	558	878	482	0.549	suspect
+Nothing	没什么	899	331	1009	64	0.063	suspect
+Rodion	罗佳	511	683	455	322	0.708	weak
 Tier 5	5级	2	1180	2	2	1.000	ok
-Leave	离开	605	575	831	155	0.187	suspect
+Leave	离开	605	575	831	170	0.205	suspect
 Enter	完成	378	789	915	15	0.016	suspect
-N Corp.	N公司	600	553	629	478	0.760	weak
-OFF	OFF	1137	5	3878	5	0.001	suspect
+N Corp.	N公司	600	553	629	614	0.976	ok
+OFF	OFF	1137	5	3869	6	0.002	suspect
 Heishou Pack	黑兽	462	675	440	439	0.998	ok
 Family Hierarch	家主	228	896	290	284	0.979	ok
-Ryōshū	良秀	0	1116	989	891	0.901	ok
+Ryōshū	良秀	0	1116	797	777	0.975	ok
 E.G.O Gifts	E.G.O饰品	258	845	246	226	0.919	ok
 Abnormalities	异想体	300	782	324	315	0.972	ok
 Identities	参战人格	1055	8	921	6	0.007	suspect
-Bloodfiend	血魔	415	641	631	600	0.951	ok
-Head	头部	925	128	3123	122	0.039	suspect
-Poise	呼吸法	517	487	383	347	0.906	ok
-The Ring	环指	450	533	494	467	0.945	ok
+Bloodfiend	血魔	415	641	501	470	0.938	ok
+Head	头部	925	128	3070	125	0.041	suspect
+Poise	呼吸法	517	487	383	360	0.940	ok
+The Ring	环指	450	533	494	469	0.949	ok
 Activate	激活	728	233	1037	102	0.098	suspect
 Tier 4	4级	42	915	47	17	0.362	suspect
 Nursefathers	父辈	57	891	78	73	0.936	ok
-Flower	花	99	843	241	223	0.925	ok
+Flower	花	99	843	241	226	0.938	ok
 Gift	礼物	753	178	1236	146	0.118	suspect
 Ready [待]	待	0	924	2	2	1.000	ok
-Reward	奖励	295	612	542	432	0.797	weak
-Rewards	奖励	295	612	309	279	0.903	ok
-Fragile	易损	375	523	386	341	0.883	ok
+Reward	奖励	295	612	542	435	0.803	weak
+Rewards	奖励	295	612	309	280	0.906	ok
+Fragile	易损	375	523	386	362	0.938	ok
 LCE	LCE	440	452	401	394	0.983	ok
 Enhance	强化	69	821	419	134	0.320	suspect
-Power Up	威力提升	636	248	640	214	0.334	suspect
-Continue	继续	253	624	444	154	0.347	suspect
-Memories	记忆	303	574	367	255	0.695	weak
-The Past	过去	152	724	209	87	0.416	suspect
+Power Up	威力提升	636	248	640	220	0.344	suspect
+Continue	继续	253	624	444	161	0.363	suspect
+Memories	记忆	303	574	367	262	0.714	weak
+The Past	过去	152	724	209	90	0.431	suspect
 The Hierarch of Hongyuan	鸿园的家主	431	440	431	430	0.998	ok
-Wrath	暴怒	468	387	460	367	0.798	weak
+Wrath	暴怒	468	387	460	368	0.800	weak
 Activate	发动	728	124	1037	27	0.026	suspect
 Jia Family	贾家	406	435	430	426	0.991	ok
 The Thumb	拇指	358	476	428	422	0.986	ok
@@ -106,88 +106,88 @@ Offices	事务所	39	791	42	39	0.929	ok
 Protection	守护	500	325	471	204	0.433	suspect
 Prescript	指令	355	466	533	416	0.780	weak
 Bloodfiends	血魔	176	641	193	179	0.927	ok
-Run	跑	368	432	936	128	0.137	suspect
+Run	跑	368	432	927	127	0.137	suspect
 The Index	食指	360	437	372	358	0.962	ok
 Hard	困难	497	294	1398	195	0.139	suspect
-The City	都市	306	485	463	392	0.847	weak
-Bind	束缚	343	441	892	373	0.418	suspect
+The City	都市	306	485	463	400	0.864	ok
+Bind	束缚	343	441	892	374	0.419	suspect
 Gloom	忧郁	384	383	400	353	0.882	ok
-Envy	嫉妒	392	374	342	326	0.953	ok
-Refraction	折射	275	487	294	237	0.806	weak
-Heart	心脏	583	173	1030	166	0.161	suspect
-Blade Lineage	剑契组	396	355	363	348	0.959	ok
-The House of Spiders	蜘蛛巢	336	411	351	341	0.972	ok
-Gaze	视线	367	377	463	193	0.417	suspect
+Envy	嫉妒	392	374	342	328	0.959	ok
+Refraction	折射	275	487	294	238	0.810	weak
+Heart	心脏	583	173	1007	172	0.171	suspect
+Blade Lineage	剑契组	396	355	349	334	0.957	ok
+The House of Spiders	蜘蛛巢	336	411	350	340	0.971	ok
+Gaze	视线	367	377	463	202	0.436	suspect
 Past [過去]	过去	0	724	8	8	1.000	ok
 Person	人类	337	377	828	20	0.024	suspect
 The Nests	巢	18	689	23	23	1.000	ok
 Heishou Packs	黑兽	17	675	24	23	0.958	ok
 The Heishou Pack	黑兽	15	675	25	25	1.000	ok
 Kurokumo Clan	黑云会	324	363	257	251	0.977	ok
-Vergilius	维吉里乌斯	307	361	357	330	0.924	ok
+Vergilius	维吉里乌斯	307	361	316	291	0.921	ok
 Pride	傲慢	339	316	347	284	0.818	weak
 Resume	继续	23	624	77	10	0.130	suspect
 W Corp.	W公司	314	333	269	260	0.967	ok
-The Golden Bough	金枝	199	442	341	311	0.912	ok
+The Golden Bough	金枝	199	442	341	329	0.965	ok
 Happiness	喜	74	564	93	39	0.419	suspect
 HARD	困难难度	497	138	1398	138	0.099	suspect
-Owned	拥有	81	554	198	18	0.091	suspect
+Owned	拥有	81	554	198	20	0.101	suspect
 Tier	稀有度	614	13	539	4	0.007	suspect
-The Backstreets	后巷	176	451	244	226	0.926	ok
-Distortions	扭曲	103	517	107	100	0.935	ok
-Lust	色欲	323	290	370	280	0.757	weak
-Attack Power Up	强壮	276	330	296	291	0.983	ok
+The Backstreets	后巷	176	451	244	227	0.930	ok
+Distortions	扭曲	103	517	107	104	0.972	ok
+Lust	色欲	323	290	366	283	0.773	weak
+Attack Power Up	强壮	276	330	296	292	0.986	ok
 Floor 4	4层	8	598	1	1	1.000	ok
-Understanding	理解	104	500	160	68	0.425	suspect
-Enter	进入战斗	378	219	915	16	0.017	suspect
-Rest	安息	555	32	1606	17	0.011	suspect
+Understanding	理解	104	500	160	71	0.444	suspect
+Enter	进入战斗	378	219	915	26	0.028	suspect
+Rest	安息	555	32	1604	20	0.012	suspect
 Unlock	解放	235	347	431	73	0.169	suspect
-Damage Up	伤害强化	235	337	239	220	0.921	ok
-Return	返回	492	64	895	24	0.027	suspect
-Corrosion	侵蚀	222	328	230	210	0.913	ok
+Damage Up	伤害强化	235	337	239	234	0.979	ok
+Return	返回	492	64	895	33	0.037	suspect
+Corrosion	侵蚀	222	328	230	214	0.930	ok
 Hard	Hard	497	52	1398	52	0.037	suspect
-Offense Level Up	攻击等级提升	296	246	254	239	0.941	ok
-Gluttony	暴食	260	279	259	253	0.977	ok
-Easy	简单	269	269	346	83	0.240	suspect
+Offense Level Up	攻击等级提升	296	246	254	242	0.953	ok
+Gluttony	暴食	260	279	259	254	0.981	ok
+Easy	简单	269	269	330	84	0.255	suspect
 Face	面部	527	10	1005	9	0.009	suspect
 Binding	纽带	521	13	496	4	0.008	suspect
-The Pinky	小指	246	282	251	245	0.976	ok
+The Pinky	小指	246	282	251	246	0.980	ok
 Bonus	星芒	387	126	450	47	0.104	suspect
 Sloth	怠惰	251	260	245	242	0.988	ok
 The LCE	LCE	59	452	67	63	0.940	ok
 Cost	经费	284	223	385	214	0.556	suspect
 Ticket	券券	457	47	377	47	0.125	suspect
-The Golden Boughs	金枝	62	442	78	73	0.936	ok
+The Golden Boughs	金枝	62	442	78	75	0.962	ok
 Jade	玉	53	449	72	63	0.875	ok
 Haste	迅捷	238	262	274	198	0.723	weak
-Normal	普通	273	220	1085	112	0.103	suspect
-Thread	纺锤	318	172	540	169	0.313	suspect
+Normal	普通	273	220	1085	124	0.114	suspect
+Thread	纺锤	318	172	540	182	0.337	suspect
 Mirror Refraction	折射	1	487	1	1	1.000	ok
-Kromer	克罗默	234	249	281	242	0.861	ok
-Flesh	血肉	391	89	445	60	0.135	suspect
-Waiting	等待	279	197	318	77	0.242	suspect
+Kromer	克罗默	234	249	138	137	0.993	ok
+Flesh	血肉	391	89	445	66	0.148	suspect
+Waiting	等待	279	197	318	85	0.267	suspect
 Fairy	精灵	227	248	220	197	0.895	ok
-Gaze	凝视	367	103	463	37	0.080	suspect
+Gaze	凝视	367	103	463	45	0.097	suspect
 Run.	跑	37	432	43	17	0.395	suspect
-The Corridor	走廊	72	397	105	79	0.752	weak
+The Corridor	走廊	72	397	105	98	0.933	ok
 Mirror Dungeons	镜像迷宫	73	395	93	81	0.871	ok
 Observation	观察	171	291	191	102	0.534	suspect
-LCC	LCC	20	436	425	424	0.998	ok
+LCC	LCC	20	436	418	417	0.998	ok
 Wuthering Heights	呼啸山庄	219	236	236	229	0.970	ok
 Loadout	编队	91	362	96	88	0.917	ok
 The LCC	LCC	11	436	34	33	0.971	ok
 Les Clous	钉	1	442	1	1	1.000	ok
 Rage	暴怒	51	387	352	7	0.020	suspect
-Free	免费	335	98	515	95	0.184	suspect
-Syndicate	帮派	103	322	164	144	0.878	ok
-R Corp.	R公司	206	216	213	211	0.991	ok
-Dimension	次元	104	317	428	307	0.717	weak
+Free	免费	335	98	515	105	0.204	suspect
+Syndicate	帮派	103	322	164	146	0.890	ok
+R Corp.	R公司	206	216	206	204	0.990	ok
+Dimension	次元	104	317	428	308	0.720	weak
 Lobotomy Corporation	脑叶公司	46	374	63	61	0.968	ok
-Mephistopheles	梅菲斯托费勒斯	175	243	246	236	0.959	ok
-Wei	卫	137	278	1073	87	0.081	suspect
-Defense Level Down	防御等级降低	195	217	201	198	0.985	ok
-Catherine	凯瑟琳	146	262	249	239	0.960	ok
-Possibilities	可能性	149	257	160	125	0.781	weak
+Mephistopheles	梅菲斯托费勒斯	175	243	246	238	0.967	ok
+Wei	卫	137	278	1065	79	0.074	suspect
+Defense Level Down	防御等级降低	195	217	201	201	1.000	ok
+Catherine	凯瑟琳	146	262	226	216	0.956	ok
+Possibilities	可能性	149	257	160	138	0.863	ok
 Paralyze	麻痹	180	223	181	180	0.994	ok
 The Kurokumo Clan	黑云会	38	363	44	41	0.932	ok
 Grasp	掌	62	336	98	27	0.276	suspect
@@ -196,40 +196,40 @@ Technology Liberation Alliance	技术解放联盟	214	184	223	176	0.789	weak
 Section 3	第3区段	367	25	360	15	0.042	suspect
 Hohenheim	霍恩海姆	166	226	252	208	0.825	weak
 The Blade Lineage	剑契组	32	355	44	34	0.773	weak
-Tremor Burst	震颤引爆	174	211	152	142	0.934	ok
+Tremor Burst	震颤引爆	174	211	152	143	0.941	ok
 Dawn Office	黎明事务所	210	175	176	175	0.994	ok
 Limbus Company	边狱公司	164	218	216	197	0.912	ok
-LCA	LCA	188	189	198	188	0.949	ok
+LCA	LCA	188	189	196	187	0.954	ok
 Yurodiviye	圣愚	75	301	92	88	0.957	ok
 Nagel und Hammer	钉与锤	182	191	183	182	0.995	ok
-Refraction Railway	折射轨道	167	204	190	167	0.879	ok
-Fear	恐惧	195	175	294	118	0.401	suspect
-Device	装置	171	199	251	80	0.319	suspect
-E.G.O Gear	E.G.O装备	169	200	194	177	0.912	ok
-Care	悉心照料	365	2	812	2	0.002	suspect
+Refraction Railway	折射轨道	167	204	190	168	0.884	ok
+Fear	恐惧	195	175	290	118	0.407	suspect
+Device	装置	171	199	251	83	0.331	suspect
+E.G.O Gear	E.G.O装备	169	200	194	181	0.933	ok
+Care	悉心照料	365	2	809	2	0.002	suspect
 Butterfly	蝶	146	220	134	129	0.963	ok
-Collection	收集	151	214	216	15	0.069	suspect
+Collection	收集	151	214	156	15	0.096	suspect
 Walpurgis Night	瓦尔普吉斯之夜	177	187	188	181	0.963	ok
-Syndicates	帮派	41	322	47	40	0.851	ok
-Yuri	尤莉	174	182	207	179	0.865	ok
+Syndicates	帮派	41	322	47	41	0.872	ok
+Yuri	尤莉	174	182	106	78	0.736	weak
 The Wings	翼	36	320	43	30	0.698	weak
 Enkephalin	脑啡肽	171	184	176	173	0.983	ok
 Gifts	饰品观测	340	13	331	2	0.006	suspect
-Buy	购买	92	260	117	4	0.034	suspect
+Buy	购买	92	260	117	9	0.077	suspect
 Karmic Consequence	业	18	330	17	17	1.000	ok
-Close	关闭	288	58	786	17	0.022	suspect
-The Future	未来	83	255	116	79	0.681	weak
-E.G.O Corrosion	E.G.O侵蚀	165	171	168	161	0.958	ok
+Close	关闭	288	58	786	19	0.024	suspect
+The Future	未来	83	255	116	80	0.690	weak
+E.G.O Corrosion	E.G.O侵蚀	165	171	168	165	0.982	ok
 Encounters	战斗次数	334	1	368	1	0.003	suspect
-Shop	商店	126	207	701	195	0.278	suspect
+Shop	商店	126	207	700	198	0.283	suspect
 Section 4	第4区段	310	20	301	3	0.010	suspect
 Hardblood	硬血	185	137	137	137	1.000	ok
 Anamnaworm	虫	28	294	27	26	0.963	ok
 Curse	诅咒	187	131	278	97	0.349	suspect
 Contempt	轻蔑	153	164	182	152	0.835	weak
 Baoyu, the Precious Jade	宝玉	0	317	3	3	1.000	ok
-Jia Xichun	贾惜春	138	178	164	155	0.945	ok
-Hammer	铁锤	305	10	393	5	0.013	suspect
+Jia Xichun	贾惜春	138	178	163	154	0.945	ok
+Hammer	铁锤	305	10	393	6	0.015	suspect
 The Inquisitor	审判官	36	276	62	58	0.935	ok
 Workshops	工坊	23	287	25	19	0.760	weak
 Nagel	尖钉	185	122	184	1	0.005	suspect
@@ -237,222 +237,222 @@ NORMAL	普通难度	273	34	1085	33	0.030	suspect
 Cinq Association	Cinq协会	44	261	45	42	0.933	ok
 Offense Level Up	攻击等级强化	296	8	254	8	0.031	suspect
 S Corp.	S公司	157	147	157	140	0.892	ok
-Monsters	怪物	94	205	111	87	0.784	weak
+Monsters	怪物	94	205	111	89	0.802	weak
 Peccatula	罪种	103	195	103	99	0.961	ok
-Defense Level Up	防御等级提升	139	158	140	129	0.921	ok
+Defense Level Up	防御等级提升	139	158	140	134	0.957	ok
 Cycle	巡回	176	121	183	119	0.650	weak
-Aggro	挑衅值	206	89	199	89	0.447	suspect
+Aggro	挑衅值	206	89	199	95	0.477	suspect
 Keen Observation	观察	3	291	3	3	1.000	ok
 Acute Studies	观察	1	291	1	1	1.000	ok
 Backup	待命人员	172	117	147	104	0.707	weak
-Bamboo-hatted Kim	金笠	91	198	164	161	0.982	ok
-LCD	LCD	139	149	157	146	0.930	ok
+Bamboo-hatted Kim	金笠	91	198	142	140	0.986	ok
+LCD	LCD	139	149	157	150	0.955	ok
 The Beast	野兽	11	276	27	5	0.185	suspect
-Student	学徒	185	101	214	98	0.458	suspect
+Student	学徒	185	101	209	93	0.445	suspect
 Sum	总计	211	71	1990	21	0.011	suspect
-Pirates	海盗	126	156	140	108	0.771	weak
+Pirates	海盗	126	156	131	99	0.756	weak
 Ammo	弹药	136	143	124	100	0.806	weak
 Assist [援]	援	0	279	2	2	1.000	ok
-Normal	Normal	273	1	1085	1	0.001	suspect
+Normal	Normal	273	1	1085	3	0.003	suspect
 Guaranteed	确定	31	242	35	1	0.029	suspect
 Hard Difficulty	困难难度	135	138	129	112	0.868	ok
 Regular	常规	190	81	239	58	0.243	suspect
 Starlight	星芒	145	126	127	124	0.976	ok
-Hole	洞	68	201	565	50	0.088	suspect
+Hole	洞	68	201	565	55	0.097	suspect
 Talisman	符咒	167	100	250	98	0.392	suspect
 Chain	连续	146	121	276	62	0.225	suspect
 Butlers	管家	57	210	61	49	0.803	weak
 Potentialities	可能性	9	257	10	10	1.000	ok
-Wings	翅膀	174	92	251	79	0.315	suspect
-Alliance	同盟	251	14	264	7	0.027	suspect
+Wings	翅膀	174	92	251	80	0.319	suspect
+Alliance	同盟	251	14	254	7	0.028	suspect
 Designate Target	指定目标	2	261	2	2	1.000	ok
-Tears	眼泪	206	54	253	44	0.174	suspect
+Tears	眼泪	206	54	253	65	0.257	suspect
 The Cleanup Agent	清扫人员	3	256	7	6	0.857	ok
-LCB	LCB	121	138	145	134	0.924	ok
-Marked	标记	128	130	129	71	0.550	suspect
-Nails	尖钉	136	122	140	94	0.671	weak
-The Big Brother	幼兄	37	219	45	34	0.756	weak
-Araya	阿赖耶	93	163	168	155	0.923	ok
+LCB	LCB	121	138	145	135	0.931	ok
+Marked	标记	128	130	129	72	0.558	suspect
+Nails	尖钉	136	122	140	96	0.686	weak
+The Big Brother	幼兄	37	219	44	33	0.750	weak
+Araya	阿赖耶	93	163	127	120	0.945	ok
 Future [未來]	未来	0	255	8	8	1.000	ok
 Shi Family	史家	117	138	128	128	1.000	ok
 90%	90%	0	253	47	44	0.936	ok
-Reset	重置	140	113	186	87	0.468	suspect
+Reset	重置	140	113	186	92	0.495	suspect
 The Index Nursefather	食指 父辈	133	120	137	116	0.847	weak
-Corpse	尸体	72	180	167	89	0.533	suspect
+Corpse	尸体	72	180	167	122	0.731	weak
 Attack Power Down	虚弱	109	142	113	113	1.000	ok
-Desire	欲望	138	112	232	91	0.392	suspect
+Desire	欲望	138	112	232	95	0.409	suspect
 Rosespanner Workshop	玫瑰扳手工坊	122	126	123	123	1.000	ok
 The Pequod	裴廓德号	119	127	129	118	0.915	ok
-Sancho	桑丘	90	154	139	136	0.978	ok
-The Great Lake	大湖	89	155	123	100	0.813	weak
-Cold	寒冷	206	37	312	22	0.071	suspect
+Sancho	桑丘	90	154	117	114	0.974	ok
+The Great Lake	大湖	89	155	123	103	0.837	weak
+Cold	寒冷	206	37	305	22	0.072	suspect
 Into Full Bloom	绽放	1	242	1	1	1.000	ok
 MultiCrack Office	多裂纹事务所	121	121	58	57	0.983	ok
 Smoke	烟气	206	32	215	24	0.112	suspect
-G Corp.	G公司	113	125	122	117	0.959	ok
+G Corp.	G公司	113	125	108	104	0.963	ok
 Ambush	袭击	36	200	59	14	0.237	suspect
-Jia Baoyu	贾宝玉	100	132	129	127	0.984	ok
-Tree	树	73	157	730	76	0.104	suspect
+Jia Baoyu	贾宝玉	100	132	61	60	0.984	ok
+Tree	树	73	157	723	92	0.127	suspect
 Superiority	优势	11	216	11	1	0.091	suspect
 Lobotomy Corp. Branch	脑叶公司支部	72	154	97	70	0.722	weak
-Egoshards	自我碎片	54	171	50	46	0.920	ok
+Egoshards	自我碎片	54	171	50	50	1.000	ok
 Not Enough Cost	经费	2	223	2	2	1.000	ok
-Ahab	亚哈	99	125	137	124	0.905	ok
-Jia Qiu	贾丘	80	144	103	98	0.951	ok
+Ahab	亚哈	99	125	107	95	0.888	ok
+Jia Qiu	贾丘	80	144	96	91	0.948	ok
 Anxiety	不安	36	188	55	28	0.509	suspect
 The Duel	决斗	21	203	25	14	0.560	suspect
 Power Down	威力降低	183	39	182	34	0.187	suspect
 L Corp.	L公司	122	100	129	86	0.667	weak
 Zwei Association	Zwei协会	23	199	27	25	0.926	ok
 Kindred	眷属	97	124	141	118	0.837	weak
-Shell	壳	73	147	116	68	0.586	suspect
-Umbrella	伞	93	126	95	87	0.916	ok
-Fuse	合成	79	139	344	77	0.224	suspect
-Casino	赌场	84	134	111	98	0.883	ok
+Shell	壳	73	147	116	78	0.672	weak
+Umbrella	伞	93	126	95	89	0.937	ok
+Fuse	合成	79	139	343	77	0.224	suspect
+Casino	赌场	84	134	106	95	0.896	ok
 Liu Association	六协会	36	180	40	40	1.000	ok
-Docent	讲解员	106	110	116	110	0.948	ok
-Needle	针	44	171	130	44	0.338	suspect
+Docent	讲解员	106	110	98	92	0.939	ok
+Needle	针	44	171	130	98	0.754	weak
 Entanglement	纠缠	56	158	62	60	0.968	ok
 The LCA	LCA	24	189	33	29	0.879	ok
 School of Fauvism	野兽派	14	198	19	19	1.000	ok
 Refraction Railways	折射轨道	6	204	20	20	1.000	ok
 Safety Team	安保部	102	107	108	107	0.991	ok
-Vengeance	报复	164	44	197	38	0.193	suspect
+Vengeance	报复	164	44	195	38	0.195	suspect
 Duello	决斗	3	203	3	3	1.000	ok
 Mental Awakening	觉醒	2	201	2	2	1.000	ok
 "It"	鬼	0	201	3	3	1.000	ok
-Twinhook Pirates	双钩海盗团	105	96	113	84	0.743	weak
+Twinhook Pirates	双钩海盗团	105	96	106	77	0.726	weak
 Weak Morale	士气低落	1	199	1	1	1.000	ok
-Despair	绝望	78	120	121	87	0.719	weak
-Hatred	憎恶	109	89	117	65	0.556	suspect
+Despair	绝望	78	120	119	87	0.731	weak
+Hatred	憎恶	109	89	115	63	0.548	suspect
 Clash Power Up	拼点威力提升	104	93	105	82	0.781	weak
-Faith	信念	144	53	169	24	0.142	suspect
+Faith	信念	144	53	165	24	0.145	suspect
 Heishou Pack - Mao Branch	黑兽 - 卯	0	197	126	126	1.000	ok
-Offense Level Down	攻击等级降低	98	98	96	92	0.958	ok
-Running	溃退	194	2	200	2	0.010	suspect
+Offense Level Down	攻击等级降低	98	98	96	96	1.000	ok
+Running	溃退	194	2	195	2	0.010	suspect
 Buffs	增益	100	96	108	50	0.463	suspect
 Edgar Family	埃德加家族	97	99	101	98	0.970	ok
 Night Awls	夜锥组	98	97	98	95	0.969	ok
 Nail and Hammer	钉与锤	3	191	3	3	1.000	ok
-Lunacy	狂气	94	100	104	99	0.952	ok
+Lunacy	狂气	94	100	104	104	1.000	ok
 Backup	掩护	172	22	147	1	0.007	suspect
-The LCD	LCD	44	149	51	45	0.882	ok
-Bloodbag	血袋	60	132	128	127	0.992	ok
-Determined	觉悟	147	43	160	2	0.013	suspect
-P Corp.	P公司	87	103	99	96	0.970	ok
+The LCD	LCD	44	149	51	49	0.961	ok
+Bloodbag	血袋	60	132	126	125	0.992	ok
+Determined	觉悟	147	43	157	2	0.013	suspect
+P Corp.	P公司	87	103	93	90	0.968	ok
 Doubt	猜疑	176	13	244	6	0.025	suspect
-Struggle	挣扎	79	109	136	33	0.243	suspect
-Levelheaded	冷静	22	165	22	18	0.818	weak
+Struggle	挣扎	79	109	136	34	0.250	suspect
+Levelheaded	冷静	22	165	1	1	1.000	ok
 The LCB	LCB	49	138	57	49	0.860	ok
 Coffin	棺	88	98	100	89	0.890	ok
 Theme Pack	主题卡包	67	119	101	98	0.970	ok
-Yearning	渴望	70	115	77	36	0.468	suspect
+Yearning	渴望	70	115	77	37	0.481	suspect
 The Adept	魁首	3	182	5	5	1.000	ok
-Agitated	愤怒	11	173	14	3	0.214	suspect
+Agitated	愤怒	11	173	12	3	0.250	suspect
 The Assistant	助手	7	175	9	8	0.889	ok
 H Corp.	H公司	87	95	101	88	0.871	ok
 Lobotomy E.G.O	脑叶公司E.G.O	90	90	90	90	1.000	ok
 Basement	地下室	76	104	113	86	0.761	weak
 Starlight	星芒奖励	145	34	127	34	0.268	suspect
-The Backdoor	后门	55	124	81	77	0.951	ok
+The Backdoor	后门	55	124	81	78	0.963	ok
 Growing	生长	115	61	120	10	0.083	suspect
-Audience	观众	82	93	92	45	0.489	suspect
+Audience	观众	82	93	81	35	0.432	suspect
 Poised	冷静	9	165	9	2	0.222	suspect
 Colours	颜色	5	169	7	7	1.000	ok
-Prey	猎物	103	70	110	59	0.536	suspect
-Hunger	饥饿	87	86	93	51	0.548	suspect
+Prey	猎物	103	70	110	70	0.636	weak
+Hunger	饥饿	87	86	93	58	0.624	weak
 Resentment	仇怨	92	81	129	6	0.047	suspect
 Clears	清剿	30	143	26	3	0.115	suspect
 Resentment	怨恨	92	78	129	36	0.279	suspect
 Discard	丢弃	86	83	136	79	0.581	suspect
 Hidden	隐藏	67	102	74	17	0.230	suspect
-Taboo	禁忌	64	105	103	91	0.883	ok
+Taboo	禁忌	64	105	103	96	0.932	ok
 Tingtang Gang	豆豆帮	50	119	56	55	0.982	ok
-Cassetti	卡塞蒂	79	89	86	86	1.000	ok
-Jia Mu	贾母	93	75	119	74	0.622	weak
+Cassetti	卡塞蒂	79	89	23	23	1.000	ok
+Jia Mu	贾母	93	75	118	73	0.619	weak
 Focus	聚气	163	4	473	4	0.008	suspect
 The Waves	浪潮	64	103	76	50	0.658	weak
 Completed	达成	98	68	122	1	0.008	suspect
 Full-Stop Office	句点事务所	84	82	81	81	1.000	ok
 Los Mariachis	流浪乐队	66	100	66	66	1.000	ok
-Threadspinning	异想解析	66	98	60	55	0.917	ok
+Threadspinning	异想解析	66	98	60	60	1.000	ok
 Blazing	燃烧	20	143	20	5	0.250	suspect
 Regenerate	再生	19	144	42	32	0.762	weak
 The Fingers	手指	29	134	36	30	0.833	weak
-Decaextraction Ticket	十连提取券	83	78	82	78	0.951	ok
-60%	60%	0	161	161	156	0.969	ok
+Decaextraction Ticket	十连提取券	83	78	82	82	1.000	ok
+60%	60%	0	161	161	158	0.981	ok
 Effloresced E.G.O	绽放E.G.O	77	83	77	74	0.961	ok
-Nelly	耐莉	69	90	103	87	0.845	weak
+Nelly	耐莉	69	90	103	96	0.932	ok
 Thorns	荆棘	41	118	75	32	0.427	suspect
 The Barber	理发师	75	84	77	77	1.000	ok
 Available	可用	124	35	142	5	0.035	noise
 Trials	苦难	53	104	54	31	0.574	suspect
-Urge	欲望	43	112	224	11	0.049	suspect
+Urge	欲望	43	112	221	12	0.054	suspect
 Line 2	2号线	79	76	98	75	0.765	weak
 Lamp	目灯	135	18	166	18	0.108	suspect
-Identity Training Ticket IV	人格训练券IV	80	73	80	73	0.912	ok
+Identity Training Ticket IV	人格训练券IV	80	73	80	80	1.000	ok
 Support	呐喊助威	149	3	244	1	0.004	suspect
 Seven Association	Seven协会	31	121	31	30	0.968	ok
-Points	点数	86	65	103	4	0.039	suspect
-Sasha	萨莎	72	78	74	74	1.000	ok
+Points	点数	86	65	104	4	0.038	suspect
+Sasha	萨莎	72	78	14	14	1.000	ok
 The Priest	神父	63	87	72	72	1.000	ok
 Progress	当前进度	144	6	226	5	0.022	suspect
 Support	辣喊助威	149	1	244	1	0.004	suspect
 The Dead Rabbits	死兔帮	37	112	39	37	0.949	ok
 Inquisitors	异端审判官	50	99	56	13	0.232	suspect
-Ricardo	里卡多	73	75	89	73	0.820	weak
+Ricardo	里卡多	73	75	49	33	0.673	weak
 The Laws	规则	36	112	34	13	0.382	suspect
 Progress	成就进度	144	3	226	3	0.013	suspect
 Grade 8 Fixers	8阶收尾人	1	145	2	2	1.000	ok
 Defense Level Up	防御等级强化	139	6	140	6	0.043	suspect
 Wealth	富	23	122	31	14	0.452	suspect
-Challenge	挑战	68	77	100	30	0.300	suspect
+Challenge	挑战	68	77	98	28	0.286	suspect
 Tribulation	苦难	40	104	49	41	0.837	weak
 Marked	标识	128	15	129	10	0.078	suspect
 Lei Heng	雷横	67	76	75	72	0.960	ok
-Identity Training Ticket III	人格训练券III	75	68	75	68	0.907	ok
+Identity Training Ticket III	人格训练券III	75	68	75	75	1.000	ok
 Mr. Pilot	皮利托	6	137	6	6	1.000	ok
 Resurrect	复活	1	141	11	9	0.818	weak
 Activated	已激活	126	15	162	8	0.049	suspect
 Stigmatized	标记	10	130	10	8	0.800	weak
 Grace	恩义	137	2	190	2	0.011	suspect
 Defense Power Up	忍耐	34	104	35	33	0.943	ok
-Search	饰品观测	124	13	921	13	0.014	suspect
+Search	饰品观测	124	13	851	13	0.015	suspect
 Rampage	挣扎	27	109	86	2	0.023	suspect
-Queequeg	魁魁格	58	78	79	76	0.962	ok
+Queequeg	魁魁格	58	78	70	67	0.957	ok
 Slayer	杀手	8	128	22	5	0.227	suspect
 Damage Taken	受击之时	133	3	136	3	0.022	suspect
 First Class	头等舱	70	66	59	55	0.932	noise
-Details	详情	90	45	105	17	0.162	suspect
+Details	详情	90	45	105	18	0.171	suspect
 Singularities	奇点	22	113	26	24	0.923	ok
 Yield My Flesh	肉斩	64	70	66	63	0.955	ok
 Achievements	成就	42	91	44	36	0.818	weak
 Suffering	饱受折磨	129	3	163	2	0.012	suspect
 Revenge	复仇	30	101	34	22	0.647	weak
-Zilu	子路	56	75	93	72	0.774	weak
+Zilu	子路	56	75	91	70	0.769	weak
 The Guide	向导	20	111	28	20	0.714	weak
-Limbus Pass	边狱通行证	78	52	81	51	0.630	weak
-Season 5	第5赛季	74	56	74	56	0.757	weak
+Limbus Pass	边狱通行证	78	52	81	56	0.691	weak
+Season 5	第5赛季	74	56	74	57	0.770	weak
 Dieci Association	Dieci协会	20	110	22	22	1.000	ok
 Accelerating	加速	16	112	17	16	0.941	ok
-Hindley	亨德利	52	76	72	72	1.000	ok
+Hindley	亨德利	52	76	68	68	1.000	ok
 The Outskirts	郊区	50	78	69	68	0.986	ok
-Pequod Town	裴廓德镇	61	65	65	65	1.000	ok
-U Corp.	U公司	45	81	69	67	0.971	ok
+Pequod Town	裴廓德镇	61	65	62	62	1.000	ok
+U Corp.	U公司	45	81	69	68	0.986	ok
 Bloodfeast	血宴	64	61	58	57	0.983	ok
-Red Eyes	赤瞳	87	36	77	36	0.468	suspect
+Red Eyes	赤瞳	87	36	63	36	0.571	suspect
 Guides	向导	12	111	14	3	0.214	suspect
-School	学校	90	33	116	31	0.267	suspect
+School	学校	90	33	114	31	0.272	suspect
 Butterfly of Entangled Lives	罗生蝶	62	60	52	52	1.000	ok
-Wandering	徘徊	68	54	79	15	0.190	suspect
+Wandering	徘徊	68	54	79	17	0.215	suspect
 Desirous	渴望	6	115	6	6	1.000	ok
-Unbending	不动	9	112	9	2	0.222	suspect
+Unbending	不动	9	112	4	2	0.500	suspect
 The Sign	印记	31	90	57	20	0.351	suspect
 Grace of the Prescript	指令加护	67	53	53	53	1.000	ok
 The Master	师父	52	68	72	1	0.014	suspect
 Shi Association	し协会	13	107	21	19	0.905	ok
-The Indigo Elder	靛蓝老人	54	65	61	61	1.000	ok
-The Pallid Whale	白鲸	34	85	70	67	0.957	ok
+The Indigo Elder	靛蓝老人	54	65	15	15	1.000	ok
+The Pallid Whale	白鲸	34	85	69	66	0.957	ok
 Ardor Blossom Moth	红焰蛾	59	59	59	58	0.983	ok
 Spiral of Contempt	轻蔑螺旋	54	64	63	63	1.000	ok
 Poison	剧毒	57	61	125	43	0.344	suspect
@@ -464,19 +464,19 @@ Season 7	第7赛季	58	59	58	58	1.000	ok
 Fanghunt Office	猎牙事务所	58	59	58	58	1.000	ok
 Spark	点燃	58	58	125	14	0.112	suspect
 Shell	外壳	73	43	116	21	0.181	suspect
-Nightmare	噩梦	57	59	104	45	0.433	suspect
+Nightmare	噩梦	57	59	104	46	0.442	suspect
 Lightning	雷电	99	16	98	14	0.143	suspect
 Uncertainty	不确定性	103	12	109	6	0.055	suspect
 The Library	图书馆	28	87	45	40	0.889	ok
 Maestro	大师	44	71	78	68	0.872	ok
 Not Me	不是我	8	105	53	3	0.057	suspect
 Season 6	第6赛季	64	49	64	49	0.766	weak
-Petals	花瓣	65	47	75	42	0.560	suspect
+Petals	花瓣	65	47	75	43	0.573	suspect
 Big & Scary	可怕	0	112	1	1	1.000	ok
 Sea Terror	恐鱼	41	71	72	70	0.972	ok
 Defense Power Down	破绽	38	73	41	41	1.000	ok
 Timekilling Time	时间杀人时间	52	58	60	55	0.917	ok
-The Proof	证明	5	105	5	2	0.400	suspect
+The Proof	证明	5	105	5	3	0.600	weak
 Instincts	本能	34	75	38	31	0.816	weak
 Hardship	苦难	5	104	19	5	0.263	suspect
 The Time Ripper	时间杀人魔	26	82	34	32	0.941	ok
@@ -488,36 +488,36 @@ Interloper	不速之客	27	80	33	27	0.818	weak
 Seaborn	海嗣	16	91	85	84	0.988	ok
 The Contract	契约	76	31	108	9	0.083	suspect
 Details	详细信息	90	16	105	5	0.048	suspect
-Purity	纯粹	23	82	33	17	0.515	suspect
+Purity	纯粹	23	82	33	18	0.545	suspect
 Gossypium	棉花	52	53	47	47	1.000	ok
-Extraction Ticket	提取券	9	96	92	88	0.957	ok
+Extraction Ticket	提取券	9	96	92	92	1.000	ok
 Awe	敬畏	49	55	132	52	0.394	suspect
 Resentment	疙瘩	92	12	129	1	0.008	suspect
 Film	胶片	58	46	82	42	0.512	suspect
-Damage Down	伤害弱化	43	60	43	40	0.930	ok
+Damage Down	伤害弱化	43	60	43	42	0.977	ok
 Hate	憎恶之心	101	1	553	1	0.002	suspect
-The Client	委托人	37	65	48	30	0.625	weak
+The Client	委托人	37	65	38	20	0.526	suspect
 Identity Uptying	人格同步	1	101	1	1	1.000	ok
 Frozen	冻结	37	64	39	12	0.308	suspect
 Lasso	套索	54	47	49	46	0.939	ok
-Survivor	幸存者	31	70	71	45	0.634	weak
+Survivor	幸存者	31	70	67	45	0.672	weak
 Pursuit	追踪	65	36	73	2	0.027	suspect
 Determination	觉悟	57	43	73	6	0.082	suspect
 Blood-tinged Scissorblades	染血的剪刃	68	32	26	26	1.000	ok
 Responsibility	责任感	92	8	102	4	0.039	suspect
 Penitence	忏悔	55	44	24	22	0.917	ok
 Weekly	周常任务	97	2	84	2	0.024	suspect
-Dead Rabbits Boss	死兔帮 老大	51	48	50	47	0.940	ok
+Dead Rabbits Boss	死兔帮 老大	51	48	10	7	0.700	weak
 Ch'unokkun	推奴人	39	60	58	56	0.966	ok
 Sweepers	清道夫	31	68	40	37	0.925	ok
 Blooming	开花	68	30	100	19	0.190	suspect
-Fruit	果实	48	50	93	43	0.462	suspect
-Sell	售卖	52	46	152	20	0.132	suspect
-Season 4	第4赛季	49	49	50	49	0.980	ok
+Fruit	果实	48	50	93	44	0.473	suspect
+Sell	售卖	52	46	152	23	0.151	suspect
+Season 4	第4赛季	49	49	50	50	1.000	ok
 Self-charge	自体发电	59	38	39	38	0.974	ok
 Emptiness	空虚	32	65	40	9	0.225	suspect
 Palanquin	轿子	45	52	57	48	0.842	weak
-Legs	腿部	83	14	209	8	0.038	suspect
+Legs	腿部	83	14	206	8	0.039	suspect
 LCB Regular Check-up	LCB定期体检	51	46	51	46	0.902	ok
 Nocturnal Sweeping	深夜清扫	46	51	55	51	0.927	ok
 The Battle's End	战斗结束	5	92	5	5	1.000	ok
@@ -526,39 +526,39 @@ Fanatic	狂信	45	51	53	49	0.925	ok
 Details	详细内容	90	6	105	3	0.029	suspect
 Portrait	肖像画	80	15	83	14	0.169	suspect
 Magic Bullet	魔弹	43	52	43	43	1.000	ok
-Owned	已拥有	81	14	198	6	0.030	suspect
-Cans	罐头	28	67	32	14	0.438	suspect
+Owned	已拥有	81	14	198	7	0.035	suspect
+Cans	罐头	28	67	32	18	0.562	suspect
 Ruin	破灭	56	38	178	18	0.101	suspect
-Heathcliff?	希斯克利夫？	0	94	114	90	0.789	weak
+Heathcliff?	希斯克利夫？	0	94	42	18	0.429	suspect
 Analytic Eye	分析	1	93	1	1	1.000	ok
 Observational Eye	分析	1	93	1	1	1.000	ok
 Tieqiu Crew	铁工会	35	59	42	41	0.976	ok
 Refresh	刷新	41	52	71	43	0.606	weak
 Bud	花蕾	77	15	240	15	0.062	suspect
 Details	详细情报	90	2	105	2	0.019	suspect
-Immobilized	无法行动	21	70	32	24	0.750	weak
-Season 3	第3赛季	45	46	46	45	0.978	ok
+Immobilized	无法行动	21	70	32	27	0.844	weak
+Season 3	第3赛季	45	46	46	46	1.000	ok
 Bloodied Hand	染血之手	61	29	26	25	0.962	ok
-Candy	糖果	42	48	79	46	0.582	suspect
+Candy	糖果	42	48	78	48	0.615	weak
 The Terminus	终点站	36	54	44	34	0.773	weak
-Nervous	焦虑	65	24	163	5	0.031	suspect
+Nervous	焦虑	65	24	155	5	0.032	suspect
 The Uninvited	不速之客	9	80	9	9	1.000	ok
-Max Speed +1	最大速度值+1	0	89	55	53	0.964	ok
+Max Speed +1	最大速度值+1	0	89	55	55	1.000	ok
 Skip	脱离	28	61	49	1	0.020	suspect
 Cycle Count	巡回数	29	60	58	58	1.000	ok
 Pity	怜悯	51	38	74	21	0.284	suspect
-Map	地图	40	49	59	42	0.712	weak
+Map	地图	40	49	59	50	0.847	weak
 Louse	虫子	2	87	2	2	1.000	ok
 Fell Bullet	凶弹	34	54	36	36	1.000	ok
 Pilgrimage of Compassion	善意的巡礼	52	36	52	36	0.692	weak
-Shock	感电	84	3	142	3	0.021	suspect
-The Chain	锁链	26	61	43	22	0.512	suspect
+Shock	感电	84	3	141	3	0.021	suspect
+The Chain	锁链	26	61	43	23	0.535	suspect
 Loyalty	忠义	54	33	58	31	0.534	suspect
 to Unlock	通过主线剧情	66	20	68	3	0.044	suspect
 Owned	已持有	81	5	198	4	0.020	suspect
 Adaptation	适应	17	69	23	23	1.000	ok
 Kezhan	客栈	33	53	48	47	0.979	ok
-Dihui Star	地慧星	33	53	54	53	0.981	ok
+Dihui Star	地慧星	33	53	40	39	0.975	ok
 Keenness	锐利	7	78	7	3	0.429	suspect
 Powerless	无力	12	73	15	9	0.600	weak
 Hook Office	吊钩事务所	42	43	43	43	1.000	ok
@@ -568,15 +568,15 @@ Telepole	电线杆	32	51	36	36	1.000	ok
 Vanguard Team	先锋队	77	6	76	6	0.079	suspect
 The Pawnshop	当铺	4	79	9	7	0.778	weak
 Smoke War	烟霾战争	35	48	46	45	0.978	ok
-Tail	尾部	52	30	522	10	0.019	suspect
+Tail	尾部	52	30	521	10	0.019	suspect
 Enkephalin Module	脑啡肽模块	14	68	55	53	0.964	ok
-Identity Training Ticket I	人格训练券I	1	81	88	81	0.920	ok
+Identity Training Ticket I	人格训练券I	1	81	88	88	1.000	ok
 Line 1	1号线	42	40	42	40	0.952	ok
 N Corp. New League of Nine Littérateurs	N公司 新九人会	0	82	87	82	0.943	ok
 Parallel Superposition	平行叠加	43	39	37	37	1.000	ok
-Reflectrial	映射战斗	46	36	41	36	0.878	ok
+Reflectrial	映射战斗	46	36	41	37	0.902	ok
 Harpoons	鱼叉	9	73	14	7	0.500	suspect
-Ember	火种	31	50	1004	35	0.035	suspect
+Ember	火种	31	50	959	35	0.036	suspect
 Struggle	苦斗	79	1	136	1	0.007	suspect
 The First Mate	大副	10	70	12	12	1.000	noise
 Every World	所有世界	33	47	45	36	0.800	noise
@@ -590,7 +590,7 @@ Fairy Wine	精灵酒	36	43	34	34	1.000	ok
 Line 5	5号线	37	42	39	39	1.000	ok
 The Subject	拍摄对象	77	2	87	1	0.011	suspect
 Declared Duel	决斗宣告	47	31	28	28	1.000	ok
-Unbreakable Coin	不可摧毁的硬币	9	69	85	67	0.788	weak
+Unbreakable Coin	不可摧毁的硬币	9	69	85	85	1.000	ok
 Daily	日常任务	76	2	70	2	0.029	suspect
 Reunion	再会	35	43	42	15	0.357	suspect
 The Church	教团	38	39	38	21	0.553	suspect
@@ -598,11 +598,11 @@ Relief	安心	36	41	80	12	0.150	suspect
 Tipsy	醉意	37	40	36	36	1.000	ok
 Pocket Watch	怀表	46	31	32	30	0.938	ok
 Mnestic Experience	经验记忆	40	37	39	36	0.923	ok
-Offense Level +1	攻击等级+1	0	77	100	66	0.660	weak
+Offense Level +1	攻击等级+1	0	77	100	82	0.820	weak
 Hit the Road	旅途	1	76	2	1	0.500	suspect
 Witnessing	观望	21	56	22	5	0.227	suspect
 Miseries	不幸	5	72	6	2	0.333	suspect
-Immobilize	无法行动	6	70	39	26	0.667	weak
+Immobilize	无法行动	6	70	39	29	0.744	weak
 Adversity	制约	31	45	29	18	0.621	weak
 Lei Heng [雷橫]	雷横	0	76	3	3	1.000	ok
 Organizing	整理	5	71	6	5	0.833	weak
@@ -613,53 +613,53 @@ Weekly Bonuses	每周加成	35	39	28	24	0.857	ok
 Total Turns	最终累计回合	73	1	75	1	0.013	noise
 Application	入职	18	56	24	1	0.042	suspect
 Morale Boost	昂扬	28	45	28	27	0.964	ok
-Identity Training Ticket II	人格训练券II	3	70	77	70	0.909	ok
+Identity Training Ticket II	人格训练券II	3	70	77	77	1.000	ok
 Vessel Masas	大众号	30	43	37	37	1.000	ok
 Doomsday Calendar	终末日历	33	39	39	39	1.000	ok
 Bugger…	妈的…	0	72	5	3	0.600	weak
 Purification	净化	12	60	12	12	1.000	ok
 Regeneration Ampules	再生安瓿	16	56	21	20	0.952	ok
 Wayfarer	旅者	39	33	52	31	0.596	suspect
-Capture	捕获	39	32	89	14	0.157	suspect
+Capture	捕获	39	32	77	14	0.182	suspect
 Miracle in District 20	20区的奇迹	37	34	37	33	0.892	ok
 The Red Gaze	猩红视线	25	46	32	30	0.938	ok
 Line 6	6号线	35	36	38	35	0.921	ok
 Monolith	独石	26	45	45	43	0.956	ok
-Assist Defense	援护防御	31	39	27	22	0.815	weak
+Assist Defense	援护防御	31	39	27	26	0.963	ok
 Withered	衰老	28	42	30	22	0.733	weak
 Maddened	疯狂	5	65	5	5	1.000	ok
-Aida	艾达	33	37	35	35	1.000	ok
+Aida	艾达	33	37	9	9	1.000	ok
 Backing	援护	11	59	17	1	0.059	suspect
 Determination	决意	57	13	73	6	0.082	suspect
-Erlking	魔王	33	37	37	36	0.973	ok
+Erlking	魔王	33	37	23	22	0.957	ok
 Wayward	彷徨	30	40	30	2	0.067	suspect
 The Smoke War	烟霾战争	22	48	30	30	1.000	ok
 Charge Barrier	充能力场	37	32	28	27	0.964	ok
 Control Team Captain	控制部队长	58	11	61	11	0.180	suspect
-Anguish	烦恼	14	55	24	7	0.292	suspect
+Anguish	烦恼	14	55	24	8	0.333	suspect
 Bridle	枷锁	16	53	26	14	0.538	suspect
 Roots	根部	55	14	57	13	0.228	suspect
 Line 3	3号线	34	35	37	35	0.946	ok
 Deactivate	关闭	11	58	32	1	0.031	suspect
-Yihongyuan	怡红院	33	36	37	35	0.946	ok
+Yihongyuan	怡红院	33	36	37	36	0.973	ok
 Molar Office	臼齿事务所	34	35	35	35	1.000	ok
 Pallidified	白化	36	33	32	16	0.500	suspect
 Blind Obsession	盲目	22	46	24	24	1.000	ok
 Welfare Team Captain	福利部队长	58	10	59	10	0.169	suspect
 Twining Threads	绞丝结线	36	32	35	31	0.886	ok
-Hook	锈蚀吊钩	67	1	263	1	0.004	suspect
+Hook	锈蚀吊钩	67	1	255	1	0.004	suspect
 Blade Lineage Mentor	剑契组 头领	36	32	32	32	1.000	ok
 Cleaning	整顿	53	15	59	1	0.017	suspect
 Karma	业报	42	25	109	24	0.220	suspect
 Oracle	神谕	10	57	13	13	1.000	ok
-Intruders	入侵者	22	45	23	16	0.696	weak
+Intruders	入侵者	22	45	23	18	0.783	weak
 Jeong's Office	定事务所	33	34	33	33	1.000	ok
 Alleyway Watchdog	巷头恶犬	33	33	33	33	1.000	ok
 Tigermark Round	虎标弹	28	38	34	34	1.000	ok
 Entangled Life [羅生]	罗生	0	66	2	2	1.000	ok
 Left Arm	左臂	33	33	33	33	1.000	ok
-Participating	参与中	65	1	63	1	0.016	suspect
-Siegfried	齐格飞	32	34	36	32	0.889	ok
+Participating	参与中	65	1	61	1	0.016	suspect
+Siegfried	齐格飞	32	34	23	22	0.957	ok
 Rendezvous	会合	31	35	32	9	0.281	suspect
 Mirror Worlds	镜像世界	19	47	27	25	0.926	ok
 Fluid Sac	液囊	25	40	24	24	1.000	ok
@@ -668,21 +668,21 @@ Battle Pass	战斗通行证	30	35	29	21	0.724	weak
 Pearl	珍珠	33	32	43	31	0.721	weak
 Sin Resistance	罪孽抗性	8	57	11	11	1.000	ok
 Swordplay of the Homeland	本国剑术	37	27	29	27	0.931	ok
-Paid Lunacy	付费狂气	24	40	44	39	0.886	ok
+Paid Lunacy	付费狂气	24	40	44	42	0.955	ok
 Spring Cultivation	切磋琢春	33	31	50	31	0.620	weak
 Funeral	葬礼	36	28	45	22	0.489	suspect
 Xue Family	薛家	21	43	33	32	0.970	ok
 Textbook	教材	26	37	34	30	0.882	ok
-Every Catherine	所有凯瑟琳	31	32	36	31	0.861	noise
+Every Catherine	所有凯瑟琳	31	32	13	8	0.615	noise
 Fuse E.G.O Gift	合成E.G.O饰品	55	8	57	3	0.053	suspect
-Gamefowl	斗鸡	9	54	13	12	0.923	ok
+Gamefowl	斗鸡	9	54	7	6	0.857	ok
 The Ring's Docent of Fauvism	环指 野兽派讲解员	0	63	2	2	1.000	ok
 Shock Centipede	电击蜈蚣	31	31	35	31	0.886	ok
 Durable	硬化	14	48	16	2	0.125	suspect
 Resolution	觉悟	19	43	21	1	0.048	suspect
 Eye of Precognition	预知眼	28	33	27	27	1.000	ok
 Lordsguard	护卫	3	58	5	5	1.000	ok
-Reminiscence	追忆	25	36	28	14	0.500	suspect
+Reminiscence	追忆	25	36	28	18	0.643	weak
 A Bad Dream	噩梦	2	59	2	2	1.000	ok
 Screening Room	放映室	6	55	9	9	1.000	ok
 Silent Regard	观望	4	56	4	4	1.000	ok
@@ -690,8 +690,8 @@ Nethersea Brand	溟痕	31	29	29	29	1.000	ok
 Embers	余火	51	9	186	9	0.048	suspect
 Parallel Superposition Mode	平行叠加模式	29	31	29	29	1.000	ok
 Rhodes Island	罗德岛	24	36	34	34	1.000	ok
-Right Arm	右臂	26	33	28	23	0.821	weak
-Deal +3% damage	造成的伤害+3%	0	59	55	53	0.964	ok
+Right Arm	右臂	26	33	28	24	0.857	ok
+Deal +3% damage	造成的伤害+3%	0	59	55	55	1.000	ok
 Starlight Bonus	星芒奖励	25	34	40	33	0.825	weak
 Will of the Prescript	指令之意	22	37	26	25	0.962	ok
 Overwhelm	压制	12	47	83	4	0.048	suspect
@@ -715,7 +715,7 @@ Slash DMG Up	斩击伤害强化	27	29	27	27	1.000	ok
 Wild Hunt	狂猎	24	32	31	28	0.903	ok
 Candle	蜡烛	20	36	50	36	0.720	weak
 Stuffed Toy	玩偶	5	51	4	4	1.000	ok
-Recent	最近获得	52	4	96	3	0.031	suspect
+Recent	最近获得	52	4	97	3	0.031	suspect
 ...rity	…感	0	56	1	1	1.000	ok
 Terrorist Organization	恐怖组织	22	34	23	23	1.000	ok
 Green Slime	绿色黏液	30	25	28	23	0.821	weak
@@ -727,10 +727,10 @@ Slave	奴隶	39	16	53	15	0.283	suspect
 Mirror of the Dreaming	梦中之镜	29	26	26	26	1.000	ok
 Persistence	执念	13	42	23	4	0.174	suspect
 Disruption	妨碍	3	52	4	2	0.500	suspect
-Erlking Heathcliff	魔王希斯克利夫	25	29	26	25	0.962	ok
+Erlking Heathcliff	魔王希斯克利夫	25	29	12	11	0.917	ok
 Rose Hunter	玫瑰猎人	26	28	28	28	1.000	ok
 Grace of Stars	星之恩惠	19	35	24	24	1.000	ok
-Rampage	狂暴	27	27	86	2	0.023	suspect
+Rampage	狂暴	27	27	86	10	0.116	suspect
 Bhaishajya	修复	2	52	2	2	1.000	ok
 Refraction Railway Line 2	折射轨道2号线	27	27	27	26	0.963	ok
 Fanaticism	狂信	2	51	2	1	0.500	suspect
@@ -746,7 +746,7 @@ Entangled Curse Talisman	纠缠的咒符	26	26	24	24	1.000	ok
 SP Heal Efficiency	理智值恢复效率	24	28	24	24	1.000	ok
 Fabius	费边	22	30	30	30	1.000	ok
 Clear Rewards	通关奖励	21	31	25	14	0.560	suspect
-Whispers	低语	19	33	23	7	0.304	suspect
+Whispers	低语	19	33	23	13	0.565	suspect
 Antagonism	敌意	3	49	3	1	0.333	suspect
 Consultation Session	面谈	3	49	7	7	1.000	ok
 Family Hierarch Candidate	家主候选人	23	29	22	21	0.955	ok
@@ -755,13 +755,13 @@ Borrowed Time	时间租赁	25	26	21	18	0.857	ok
 Rhythm	旋律	22	29	50	6	0.120	suspect
 In the Past	过去状态	45	6	89	6	0.067	suspect
 Prediction	预期	11	40	27	1	0.037	suspect
-Gambler	赌徒	24	27	31	25	0.806	weak
+Gambler	赌徒	24	27	10	4	0.400	suspect
 Grudge	复仇决意	50	1	54	1	0.019	suspect
 Retribution	惩戒	32	19	36	3	0.083	suspect
 Ice Cream	冰淇淋	27	24	29	20	0.690	weak
 Non-self	无我	10	41	11	11	1.000	ok
 Reload	再次装填	33	17	81	17	0.210	suspect
-Desperation	迫切	23	27	30	4	0.133	suspect
+Desperation	迫切	23	27	30	7	0.233	suspect
 Rescue	解救	42	8	52	5	0.096	suspect
 Risk Levels	危险等级	23	27	22	18	0.818	weak
 Plus Coin Drop	加算硬币弱化	23	26	23	23	1.000	ok
@@ -781,8 +781,8 @@ Palette Vibrante	强烈色彩	23	25	19	19	1.000	ok
 Seeds	种子	26	22	24	17	0.708	weak
 Vengeance Mark	报复对象	27	21	21	20	0.952	ok
 Starbuck	斯达巴克	19	29	29	29	1.000	ok
-Shi Huazhen	史华贞	23	25	25	25	1.000	ok
-Takeoff Module - ID Uptie	跳跃成长模组 - 人格同步	0	48	49	48	0.980	ok
+Shi Huazhen	史华贞	23	25	6	6	1.000	ok
+Takeoff Module - ID Uptie	跳跃成长模组 - 人格同步	0	48	49	49	1.000	ok
 Projection Rate	投影度	20	28	22	22	1.000	ok
 Whistles	哨声	13	35	13	8	0.615	weak
 Captain of the Pequod	裴廓德号的船长	41	7	41	5	0.122	suspect
@@ -792,16 +792,16 @@ Spark of Inspiration	灵感	3	44	6	6	1.000	ok
 Charmed	魅惑	18	29	19	17	0.895	ok
 Photos	几张照片	36	11	34	11	0.324	suspect
 Defense Level +2	防御等级+2	0	47	57	43	0.754	weak
-S.Y.N.C.	折·脖	16	31	19	14	0.737	weak
+S.Y.N.C.	折·脖	16	31	19	15	0.789	weak
 Wayward Passenger	迷失的乘客	23	23	23	23	1.000	ok
 Kqe-1j-23	Kqe-1j-23	23	23	23	23	1.000	ok
 kqe-1j-23	Kqe-1j-23	23	23	23	23	1.000	ok
 Pallid Noise	苍白的噪音	23	23	23	23	1.000	ok
 Nervous Impairment	神经损伤	24	22	22	22	1.000	ok
 Trinkets Sack	装饰品包裹	26	20	19	19	1.000	ok
-Defense Level +1	防御等级+1	0	46	57	35	0.614	weak
+Defense Level +1	防御等级+1	0	46	57	44	0.772	weak
 Clean Up	善后	29	17	33	8	0.242	suspect
-Cannot Retreat	无法撤退	24	22	24	20	0.833	weak
+Cannot Retreat	无法撤退	24	22	24	24	1.000	ok
 Raid	突袭	14	32	133	1	0.008	suspect
 Overheat	过热	14	31	47	28	0.596	suspect
 Mark of the Prescript	指令的印记	17	28	28	28	1.000	ok
@@ -838,7 +838,7 @@ The Prescript's Target	指令对象	17	26	18	14	0.778	weak
 Captivity	拘束	10	33	12	4	0.333	suspect
 HP Healing Boost	体力恢复提升	18	25	24	23	0.958	ok
 Starter Buffs	开局增益	22	21	23	20	0.870	ok
-Drifter	漂泊	24	19	34	1	0.029	suspect
+Drifter	漂泊	24	19	33	1	0.030	suspect
 Saikai [再会]	再会	0	43	4	4	1.000	ok
 The Wild Hunt	狂猎	11	32	13	10	0.769	weak
 Pests	害虫	17	26	23	4	0.174	suspect
@@ -848,14 +848,14 @@ Peccatulum Invidiae	嫉妒罪种	13	29	17	16	0.941	ok
 Unlock - I	解放 - I	0	42	42	40	0.952	ok
 Fully Bloomed	盛放	10	32	12	10	0.833	weak
 Brutality	破坏力	21	21	22	14	0.636	weak
-Tingtang Boss	豆豆帮 帮主	20	22	21	20	0.952	ok
+Tingtang Boss	豆豆帮 帮主	20	22	13	12	0.923	ok
 Signpost	告示牌	5	37	6	2	0.333	suspect
 Civilian Recov. Pack	普通乘客复原包	25	17	17	17	1.000	ok
 Elite Encounter	精锐遭遇战	21	21	21	21	1.000	ok
-Simulation	模拟	18	24	23	20	0.870	ok
+Simulation	模拟	18	24	23	21	0.913	ok
 Full Bloom	盛放	10	32	12	5	0.417	suspect
 Intoxication	醉意	2	40	2	1	0.500	suspect
-Saru	猴儿	17	25	27	24	0.889	ok
+Saru	猴儿	17	25	24	21	0.875	ok
 Inquisition	审问异端	40	1	53	1	0.019	suspect
 Viewing the Tableau	眺望	8	33	8	8	1.000	ok
 Muga [無我]	无我	0	41	2	2	1.000	ok
@@ -870,7 +870,7 @@ Blunt DMG Up	打击伤害强化	19	21	18	17	0.944	ok
 Frenzy	狂暴	13	27	16	10	0.625	weak
 Reflux	逆流	16	24	11	11	1.000	ok
 Josephine	约瑟芬	18	22	21	20	0.952	ok
-Murder on the WARP Express	WARP快车谋杀案	0	40	41	37	0.902	ok
+Murder on the WARP Express	WARP快车谋杀案	0	40	41	38	0.927	ok
 Parallel S.	平行叠加	1	39	1	1	1.000	ok
 Overload	过载	15	25	24	20	0.833	weak
 The Safe	保险箱	5	35	38	4	0.105	suspect
@@ -910,7 +910,7 @@ Section 1	第1区段	20	17	13	3	0.231	suspect
 Skin Prophet	人皮预言者	18	18	18	18	1.000	ok
 Ambling Pearl	陆行珍珠	18	18	18	18	1.000	ok
 Dream-Devouring Siltcurrent	噬梦的浊流	18	18	18	18	1.000	ok
-Larva	幼虫	17	19	26	16	0.615	weak
+Larva	幼虫	17	19	26	25	0.962	ok
 Blooming Thorn	绽放荆棘	18	18	18	18	1.000	ok
 Eventide Glow (黃昏)	黄昏	0	36	2	2	1.000	ok
 Clash Power Down	拼点威力降低	17	19	17	17	1.000	ok
@@ -924,9 +924,9 @@ My Lord	主公啊	34	2	76	1	0.013	suspect
 Overloaded	过载	11	25	10	7	0.700	weak
 Vroom-vroom	布隆布隆	13	23	26	23	0.885	ok
 Seized	抢夺	28	8	124	2	0.016	suspect
-Canned Experience	经验罐头	16	20	36	18	0.500	suspect
+Canned Experience	经验罐头	16	20	36	30	0.833	weak
 Refraction Railway Line 4	折射轨道4号线	16	20	16	13	0.812	weak
-Nothing happened.	什么都没有发生	24	11	28	8	0.286	suspect
+Nothing happened.	什么都没有发生	24	11	28	9	0.321	suspect
 Effloresced E.G.O::GasHarpoon	绽放E.G.O::燃气捕鲸叉	0	35	35	35	1.000	ok
 The Knight of Despair	绝望骑士	13	22	15	15	1.000	ok
 Blunt Power Up	打击威力提升	14	21	14	14	1.000	ok
@@ -983,7 +983,7 @@ Purchased	已购买	28	6	27	5	0.185	suspect
 Defense Mechanism	防御机制	17	17	16	16	1.000	ok
 Tenacious	坚韧	14	20	16	3	0.188	suspect
 Deep Breath	深呼吸	18	16	24	10	0.417	suspect
-Bloodfiend Hunter	血魔猎人	14	20	21	20	0.952	ok
+Bloodfiend Hunter	血魔猎人	14	20	14	13	0.929	ok
 Borrow Time	时间租赁	8	26	8	8	1.000	ok
 Kidnappers	绑匪	7	27	9	8	0.889	ok
 The Diary	日记本	13	21	16	7	0.438	suspect
@@ -1030,20 +1030,20 @@ Omen Talisman	不祥符咒	14	16	16	16	1.000	ok
 K Corp Ampule	K公司的安瓿	9	21	8	8	1.000	ok
 Base Power Spurt	基础威力增强	2	28	2	2	1.000	ok
 Overwhelmed	无措	16	14	17	3	0.176	suspect
-Öufi Assoc. Director	Öufi协会收尾人 科长	0	30	30	30	1.000	ok
+Öufi Assoc. Director	Öufi协会收尾人 科长	0	30	1	1	1.000	ok
 Maw	大嘴	24	6	75	5	0.067	suspect
 Logs	记录阅览	29	1	42	1	0.024	suspect
 Hatching	孵化	2	28	3	2	0.667	weak
 Prosthetic Fixers	义体收尾人	3	27	3	1	0.333	suspect
 Hell’s Chicken	地狱鸡	0	30	22	22	1.000	ok
 Steam Transport Machine	蒸汽运输机	16	13	13	13	1.000	ok
-Fairy Queen	精灵女王	13	16	17	16	0.941	ok
+Fairy Queen	精灵女王	13	16	17	0	0.000	noise
 Assist Attack	援护攻击	16	13	17	13	0.765	weak
 Focused Attack	集中攻击	12	17	13	12	0.923	ok
 Corpus Theater	人体观剧	13	16	16	16	1.000	ok
 Pierce DMG Up	突刺伤害强化	13	16	13	13	1.000	ok
 Frailness	衰弱	10	19	10	10	1.000	ok
-Event Effect	事件效果	5	24	8	7	0.875	ok
+Event Effect	事件效果	5	24	8	8	1.000	ok
 Kkomi	可米	10	19	18	18	1.000	ok
 Mirror of Names and Spiders	名与蛛之镜	0	29	29	29	1.000	ok
 Select Sinner	选择罪人	6	23	8	5	0.625	weak
@@ -1066,7 +1066,7 @@ Amplitude Conversion	振幅转换	11	17	11	9	0.818	weak
 Time Moratorium	时间延付	15	13	13	12	0.923	ok
 Unrelenting Storm	迫近	3	25	3	2	0.667	weak
 Shattermark	破碎痕	15	13	13	13	1.000	ok
-The Knight of the White Moon	白月骑士	0	28	26	24	0.923	ok
+The Knight of the White Moon	白月骑士	0	28	25	23	0.920	ok
 Xue Pan	薛蟠	10	18	13	12	0.923	ok
 The Roach Emperor	蜚蠊皇帝	4	24	6	6	1.000	ok
 Mirror of Mirrors	镜中之镜	14	14	14	14	1.000	ok
@@ -1076,10 +1076,10 @@ Unobservable	无法观测	15	12	15	11	0.733	weak
 The Weak	弱者	14	13	29	9	0.310	suspect
 Attachment	依恋	21	6	27	6	0.222	suspect
 Onus	压迫感	7	20	457	6	0.013	suspect
-The Yellow Harpoon	蜜黄标枪	13	14	14	12	0.857	ok
+The Yellow Harpoon	蜜黄标枪	13	14	14	13	0.929	ok
 Trussed	捕缚	16	11	10	10	1.000	ok
 Remembrance	追悼	13	14	13	2	0.154	suspect
-Regroup	重整旗鼓	16	11	19	6	0.316	suspect
+Regroup	重整旗鼓	16	11	19	9	0.474	suspect
 Firepower	火力	9	18	10	7	0.700	weak
 In the Future	未来状态	21	6	40	6	0.150	suspect
 Downpour	暴雨	11	16	14	5	0.357	suspect
@@ -1144,7 +1144,7 @@ Mounting Trials	追加的苦难	16	8	18	8	0.444	suspect
 Shelter	避难所	22	2	33	2	0.061	suspect
 Dodoru	多多鲁	8	16	17	16	0.941	ok
 Rufo	卢佛	11	13	14	13	0.929	ok
-Mariachi Alegre	阳光的流浪乐队成员	21	3	21	3	0.143	suspect
+Mariachi Alegre	阳光的流浪乐队成员	21	3	3	3	1.000	ok
 Inverted Scale	逆鳞	16	8	9	8	0.889	ok
 Featured	可出现	21	3	21	2	0.095	suspect
 NOTHING TO SEE HERE	不该出现的文本	6	18	6	6	1.000	ok
@@ -1198,22 +1198,22 @@ Red Plum Blossom	红梅	2	20	8	8	1.000	ok
 Refracted Rupture	折射的破裂	11	11	11	11	1.000	ok
 Ritual Square	仪式广场	11	11	11	11	1.000	ok
 Exquisite Artwork	杰作	1	21	2	2	1.000	ok
-Number-nuts Hooligan	不识数的流氓	11	11	11	11	1.000	ok
+Number-nuts Hooligan	不识数的流氓	11	11	9	9	1.000	ok
 Classified Data	机密文件	12	10	8	7	0.875	ok
 Chachihu [揷翅虎]	插翅虎	0	22	3	3	1.000	ok
 It's Not Over Yet	还没结束	1	21	3	1	0.333	suspect
 Grueling Battle	苦战	7	15	7	1	0.143	suspect
 NOT FOR DISPLAY	不该出现的文本	4	18	6	2	0.333	suspect
 For Everyone	为了所有人	19	3	27	3	0.111	suspect
-Affection and Resentment	爱憎	10	11	11	10	0.909	ok
+Affection and Resentment	爱憎	10	11	11	11	1.000	ok
 Swordplay of the Homeland [Sal]	本国剑术[肉]	0	21	21	21	1.000	ok
 Compulsion	自残	16	5	18	5	0.278	suspect
 Eyes and Teeth for an Eye	加倍奉还	0	21	2	2	1.000	ok
 Kumo no Ito · otI on akA	蛛丝赤	0	21	11	9	0.818	weak
 Right Heart Atrium	右心房	5	16	10	10	1.000	ok
 A Drop	落坠的一滴	20	1	29	1	0.034	suspect
-Leafy Gnome	绿色小矮人	10	11	10	10	1.000	ok
-Cherry Gnome	红色小矮人	10	11	10	10	1.000	ok
+Leafy Gnome	绿色小矮人	10	11	1	1	1.000	ok
+Cherry Gnome	红色小矮人	10	11	1	1	1.000	ok
 The Last Knight	最后的骑士	10	11	10	10	1.000	noise
 Doomsday Clay Doll	终末土偶	8	13	8	8	1.000	ok
 Confirmation Bias	验证偏差	10	11	10	10	1.000	ok
@@ -1222,7 +1222,7 @@ Clear Turns	通关回合数	6	15	7	6	0.857	ok
 Enemy Buffs	敌方BUFF	9	12	9	2	0.222	suspect
 Clear Info	通关信息	11	10	11	10	0.909	ok
 There's no TIME	没时间了	11	10	12	2	0.167	suspect
-New Hires	新员工	10	11	15	7	0.467	suspect
+New Hires	新员工	10	11	14	6	0.429	suspect
 Hide-and-Seek	捉迷藏	11	10	13	8	0.615	weak
 The Negotiation	谈判	2	19	5	1	0.200	suspect
 X Corp.	X公司	8	13	13	13	1.000	ok
@@ -1254,7 +1254,7 @@ Final Power Boost	最终威力增幅	10	10	10	2	0.200	suspect
 Hemorrhaging Dimension	血流成河的次元	10	10	10	10	1.000	ok
 Tremoring Dimension	震颤不止的次元	10	10	10	10	1.000	ok
 Electrifying Dimension	电流涌动的次元	10	10	10	10	1.000	ok
-Seasonal	赛季任务	19	1	17	1	0.059	suspect
+Seasonal	赛季任务	19	1	17	2	0.118	suspect
 Black Ledger	黑色账簿	10	10	10	10	1.000	ok
 Rusted Hilt	锈蚀的刀柄	10	10	10	10	1.000	ok
 Gondola	座舱	10	10	10	10	1.000	ok
@@ -1269,7 +1269,7 @@ Active Effects	生效的效果	10	10	10	3	0.300	suspect
 Decay Ampules	崩解安瓿	3	17	4	4	1.000	ok
 Capo IIII	指挥官IIII	10	10	10	10	1.000	ok
 Peccatulum Pigritiae	怠惰罪种	10	9	10	9	0.900	ok
-You Want To Get Beat? Hurtily?	你想挨打吗？很想？	0	19	19	19	1.000	ok
+You Want To Get Beat? Hurtily?	你想挨打吗？很想？	0	19	11	11	1.000	ok
 Will You Play?	玩吗？	0	19	17	16	0.941	ok
 Deception	暗算	14	5	17	5	0.294	suspect
 Way of the Blade	剑道	8	11	12	10	0.833	weak
@@ -1286,8 +1286,8 @@ Equalizer	平等	1	18	1	1	1.000	ok
 Chains of Loyalty	忠义锁链	9	10	9	9	1.000	ok
 Lightning Rod	避雷针	11	8	12	8	0.667	weak
 Right Hand	右手	8	11	10	7	0.700	weak
-Mariachi Vivaz	轻快的流浪乐队成员	15	4	15	3	0.200	suspect
-Level Boost Ticket V	人格等级直升券V	7	12	14	12	0.857	ok
+Mariachi Vivaz	轻快的流浪乐队成员	15	4	3	3	1.000	ok
+Level Boost Ticket V	人格等级直升券V	7	12	14	14	1.000	ok
 LCB Regular Check-up BokGak	LCB定期体检 复刻	10	9	10	9	0.900	ok
 Purchase E.G.O Gifts	购买E.G.O饰品	7	12	7	7	1.000	ok
 E.G.O Gift Enhance Cost -7.5%	[休息点]	0	19	17	17	1.000	ok
@@ -1340,7 +1340,7 @@ Artistic Sense	美感	3	15	3	3	1.000	ok
 Reverberation	残响	9	9	12	9	0.750	weak
 Golden Hour	黄金时间	1	17	2	1	0.500	suspect
 Ohra Bond	捕绳	4	14	11	11	1.000	ok
-Famished Hooligan	饥肠辘辘的流氓	9	9	9	9	1.000	ok
+Famished Hooligan	饥肠辘辘的流氓	9	9	8	8	1.000	ok
 Flower-burying Wedge	葬花楔	9	9	9	9	1.000	ok
 Pocket Watch Bundle	成捆怀表	11	7	7	7	1.000	ok
 Fixer Recov. Pack	收尾人乘客复原包	11	7	7	7	1.000	ok
@@ -1373,8 +1373,8 @@ In the Present	现在状态	11	6	14	6	0.429	suspect
 Heal All	全体恢复	16	1	23	1	0.043	suspect
 Santata	桑塔塔	7	10	11	10	0.909	ok
 Left Leg	左腿	8	9	9	8	0.889	ok
-Bean-hating Tingtanger	讨厌豆子的豆豆帮成员	8	9	8	8	1.000	ok
-King Trash Crab	帝王废料蟹	8	9	9	9	1.000	ok
+Bean-hating Tingtanger	讨厌豆子的豆豆帮成员	8	9	1	1	1.000	ok
+King Trash Crab	帝王废料蟹	8	9	7	7	1.000	ok
 Level Boost Ticket I	人格等级直升券I	2	15	15	15	1.000	ok
 Ritornello	Ritornello	8	9	9	9	1.000	ok
 Pack Search	主题卡包观测	7	10	7	7	1.000	ok
@@ -1394,7 +1394,7 @@ The Second Smoke War	第二次烟霾战争	7	10	9	9	1.000	noise
 Tiansha Star	天杀星	1	16	16	16	1.000	ok
 False Apple	假苹果	8	8	8	8	1.000	ok
 Headchicken a.k.a. Bongy	猎头鸡 a.k.a. 小凤	8	8	8	8	1.000	ok
-Dongrang, Who Denies All	否定一切的东朗	0	16	16	16	1.000	ok
+Dongrang, Who Denies All	否定一切的东朗	0	16	4	4	1.000	ok
 Shin (心) - Tiantui Star [天退星]	心-天退星	0	16	16	16	1.000	ok
 Heart of Evil	邪心	6	10	6	5	0.833	weak
 Propellant Ammo	推进弹	6	10	7	7	1.000	ok
@@ -1427,8 +1427,8 @@ Bloomed Rose	绽放的玫瑰	8	8	8	8	1.000	ok
 Grand Welcome	盛情款待	8	8	9	8	0.889	ok
 Homeward	归途	11	5	11	4	0.364	suspect
 Left Hand	左手	8	8	9	7	0.778	weak
-Sharp Hooligan	敏锐的流氓	8	8	8	8	1.000	ok
-Crooked Veteran	卑鄙的残兵	8	8	8	8	1.000	ok
+Sharp Hooligan	敏锐的流氓	8	8	7	7	1.000	ok
+Crooked Veteran	卑鄙的残兵	8	8	2	2	1.000	ok
 Thread Crate	纺锤箱	2	14	14	14	1.000	ok
 [Sweeper Fuel Cylinder]	清道夫液态燃料罐	0	16	15	15	1.000	ok
 Timekilling Time BokGak	时间杀人时间 复刻	7	9	7	7	1.000	ok
@@ -1447,7 +1447,7 @@ The Winner	胜利者	9	7	14	1	0.071	suspect
 Le Regole	纪律	5	10	5	5	1.000	ok
 Happiness, Joy	喜、乐	0	15	15	15	1.000	ok
 Inherited Will of Hongyuan	传承的鸿园之意	5	10	5	5	1.000	ok
-E.G.O Resource Amp	E.G.O资源获取量提升	8	7	8	7	0.875	ok
+E.G.O Resource Amp	E.G.O资源获取量提升	8	7	8	8	1.000	ok
 L'Hommage	敬意	4	11	4	4	1.000	ok
 Inhaling	吸血	2	13	4	1	0.250	suspect
 Fractured Blade	破碎的刀刃	4	11	7	7	1.000	ok
@@ -1489,7 +1489,7 @@ Finifugality	留恋	1	13	1	1	1.000	ok
 Wang Qingshan	王清山	6	8	8	8	1.000	ok
 Mirror of the Lake	湖之镜	6	8	8	8	1.000	ok
 Participant	已参战	13	1	35	1	0.029	suspect
-Thunder	霹雳	13	1	84	1	0.012	suspect
+Thunder	霹雳	13	1	82	1	0.012	suspect
 Gain +50 Starting Cost	[通用]	0	14	5	4	0.800	weak
 Gain +50 Starting Cost	[通用]	0	14	5	4	0.800	weak
 Starlight Cost	消耗星芒	1	13	1	1	1.000	ok
@@ -1504,7 +1504,7 @@ The Northern Fixer	北部收尾人	1	13	1	1	1.000	ok
 Stinging	刺痛不已	11	3	11	2	0.182	suspect
 Memory Wipe Procedure	记忆消除	7	7	7	5	0.714	weak
 Heishou Pack - Wu Branch	黑兽 - 午	0	14	9	9	1.000	ok
-Heathcliff, The Heartbroken	心被撕碎的希斯克利夫	0	13	6	5	0.833	weak
+Heathcliff, The Heartbroken	心被撕碎的希斯克利夫	0	13	5	4	0.800	weak
 Peccatulum Luxuriae	色欲罪种	7	6	7	6	0.857	ok
 Black Ledger Choice	黑色账簿 选项	8	5	8	5	0.625	weak
 Queequeg's Ego	魁魁格的自我	7	6	6	6	1.000	ok
@@ -1525,9 +1525,9 @@ Battle Pass XP	通行证经验	4	9	4	4	1.000	ok
 Ragged Umbrella	破损的雨伞	8	5	10	5	0.500	suspect
 Bloodflame Sword	血炎刀	1	12	1	1	1.000	ok
 Giant Leaf	巨大的叶子	3	10	8	6	0.750	weak
-Vulgar Veteran	粗俗的残兵	11	2	11	2	0.182	suspect
+Vulgar Veteran	粗俗的残兵	11	2	2	2	1.000	ok
 Right Leg	右腿	7	6	7	6	0.857	ok
-Chest-puffing Tingtanger	表现欲强的豆豆帮成员	12	1	12	1	0.083	suspect
+Chest-puffing Tingtanger	表现欲强的豆豆帮成员	12	1	1	1	1.000	ok
 Flexing Tieqiu Crewman	正在热身的铁工会成员	3	10	3	3	1.000	ok
 Interrogative N Corp. Inquisitor	擅长审讯的N公司异端审判官	3	10	3	3	1.000	ok
 Hatred and Despair	憎恶与绝望	6	7	7	7	1.000	ok
@@ -1595,7 +1595,7 @@ Refracted Sinking	折射的沉沦	6	6	6	6	1.000	ok
 Life or Death	生死决断	6	6	6	6	1.000	ok
 Sunset Wayfarer's Sap	晚霞旅人的树液	6	6	6	6	1.000	ok
 Sunset Wayfarer's Moth	晚霞旅人的蛾	6	6	6	6	1.000	ok
-Level Boost Ticket VI	人格等级直升券VI	7	5	7	5	0.714	weak
+Level Boost Ticket VI	人格等级直升券VI	7	5	7	7	1.000	ok
 Librarian of History	历史层司书	6	6	7	6	0.857	ok
 Right Heart Ventricle	右心室	4	8	4	4	1.000	ok
 Red Tassel	红色流苏	6	6	6	6	1.000	ok
@@ -1606,7 +1606,7 @@ Glimpse of Flames	炎鳞	6	6	6	6	1.000	ok
 Material Interference Force Field	物理屏蔽力场	3	9	3	3	1.000	ok
 Uncapped Defibrilator	解除限制的除颤仪	6	6	6	6	1.000	ok
 Right Eye	右眼	6	6	6	6	1.000	ok
-Blinded Pequod Town Villager	被蒙住双眼的裴廓德镇居民	6	6	6	6	1.000	ok
+Blinded Pequod Town Villager	被蒙住双眼的裴廓德镇居民	6	6	4	4	1.000	ok
 Shi Sijing	史思静	6	6	6	6	1.000	ok
 Grant Us Love	请给我们爱	6	6	6	6	1.000	ok
 BunBun [Juicy Squeezer - Orange]	吱扭扭[橙子味榨汁机]	0	12	12	12	1.000	ok
@@ -1652,7 +1652,7 @@ Districts	地区特征	11	1	15	1	0.067	suspect
 Limbus Kindergarten	边狱幼儿园	6	6	6	6	1.000	ok
 Effloresced E.G.O::Farmwatch	绽放E.G.O::司田	0	11	11	11	1.000	ok
 Faint Memories	模糊的记忆	3	8	3	2	0.667	weak
-Angst	郁愤	6	5	15	5	0.333	suspect
+Angst	郁愤	6	5	10	5	0.500	suspect
 Keen Observation	观察力	3	8	3	2	0.667	weak
 Mad Rampage	狂怒	5	6	5	5	1.000	ok
 Snake Venom	蛇毒	5	6	5	5	1.000	ok
@@ -1669,7 +1669,7 @@ Torture Chamber	拷问室	5	6	5	5	1.000	ok
 Kaleidoscope	万花筒	9	2	9	2	0.222	suspect
 Crown of Thorns	荆棘头冠	10	1	10	1	0.100	suspect
 Memories of the Adventure	冒险记忆	2	9	2	2	1.000	ok
-Shadowy Gnome	黑色小矮人	5	6	5	5	1.000	ok
+Shadowy Gnome	黑色小矮人	5	6	1	1	1.000	ok
 Threatening Tieqiu Crewman	咄咄逼人的铁工会成员	3	8	3	3	1.000	ok
 Huge Trinkets Sack	巨大装饰品包裹	6	5	5	5	1.000	ok
 Mirror of the Wuthering	呼啸之镜	5	6	6	6	1.000	ok
@@ -1687,7 +1687,7 @@ Self-doubt	自我怀疑	5	6	5	5	1.000	ok
 Blood Coagulation	血液硬化	6	5	6	5	0.833	weak
 Ragged Umbrella	磨损殆尽的伞	8	3	10	3	0.300	suspect
 Bitter Smile	苦笑	1	10	3	3	1.000	ok
-Fugitive	逃亡者	9	2	15	2	0.133	suspect
+Fugitive	逃亡者	9	2	13	2	0.154	suspect
 Bloody Point	血点	1	10	1	1	1.000	ok
 ool...	礼…	1	10	16	3	0.188	suspect
 Augmented Body	强化肉体	3	8	3	1	0.333	suspect
@@ -1786,10 +1786,10 @@ Voodoo Doll	巫毒娃娃	5	5	5	5	1.000	ok
 Old Wooden Doll	陈旧的木雕人偶	5	5	5	5	1.000	ok
 Ruptured Blood Sac	撕裂的血囊	5	5	5	5	1.000	ok
 Wine Barrel	酒桶	3	7	3	3	1.000	ok
-Gagged Pequod Town Villager	被堵上嘴的裴廓德镇居民	5	5	5	5	1.000	ok
+Gagged Pequod Town Villager	被堵上嘴的裴廓德镇居民	5	5	4	4	1.000	ok
 The Thumb Apprentice - Lucio	拇指 子辈 - 卢西奥	0	10	10	10	1.000	ok
 Aggressive Gear Fanatic	好斗的齿轮狂信徒	5	5	5	5	1.000	ok
-Head Hooligan	流氓头头	5	5	5	5	1.000	ok
+Head Hooligan	流氓头头	5	5	3	3	1.000	ok
 Casino Security Chief	赌场警卫队 队长	2	8	2	2	1.000	ok
 Level Boost Ticket II	人格等级直升券II	2	8	8	8	1.000	ok
 Luminous Sea Terror Sample	发光的恐鱼标本	6	4	4	4	1.000	ok
@@ -1853,14 +1853,14 @@ Heart-breaking Sword	毁心之剑	4	5	5	5	1.000	ok
 Heart-tearing Sword	裂心之剑	4	5	5	5	1.000	ok
 Heart-piercing Sword	穿心之剑	4	5	5	5	1.000	ok
 Lobotomy E.G.O::Red Sheet	脑叶公司E.G.O::朱符	0	9	8	7	0.875	ok
-3★ Guarantee Decaextraction Ticket	3★人格必得十连提取券	0	9	14	9	0.643	weak
+3★ Guarantee Decaextraction Ticket	3★人格必得十连提取券	0	9	14	10	0.714	weak
 Yisang [Ideality]	[理想]	0	9	5	5	1.000	ok
 Takeoff Module - E.G.O Spinning [HE] x1	跳跃成长模组 - E.G.O解析 [HE]	0	9	1	1	1.000	ok
 Burnt-in Lens	烧制的透镜	4	5	5	5	1.000	ok
 Melty Eyeball	融化的眼球	4	5	4	1	0.250	suspect
 The Unchanging	无改变者	4	5	4	3	0.750	weak
 Unrelenting Might	破竹之势	1	8	1	1	1.000	ok
-Murder on the WARP Express BokGak	WARP快车谋杀案 复刻	0	9	9	7	0.778	weak
+Murder on the WARP Express BokGak	WARP快车谋杀案 复刻	0	9	9	8	0.889	ok
 Perseverance	精雕细琢	8	1	8	1	0.125	suspect
 Engrave Stars	镌星	4	5	4	4	1.000	ok
 Featured E.G.O Gifts	出现E.G.O饰品	2	7	2	2	1.000	ok
@@ -1925,7 +1925,7 @@ Penitence - Periphery	忏悔-警戒	0	8	8	8	1.000	ok
 Penitence - Confession	忏悔-告解	0	8	8	8	1.000	ok
 Protecting Sword	守护之剑	4	4	4	4	1.000	ok
 Piercing Sword	穿刺之剑	4	4	11	4	0.364	suspect
-Stun	晕眩	1	7	33	1	0.030	suspect
+Stun	晕眩	1	7	32	1	0.031	suspect
 Gluttony DMG Up	暴食伤害强化	4	4	4	4	1.000	ok
 Photopia	眩目	2	6	2	2	1.000	ok
 Gluttony Power Up	暴食威力提升	4	4	4	4	1.000	ok
@@ -2015,7 +2015,7 @@ Jin Gang Bolus	金刚丸	7	1	7	1	0.143	suspect
 Shaoxing Wine	绍兴酒	4	4	4	4	1.000	ok
 Revived K Corp. Security	复活的K公司检查站安保人员	4	4	4	4	1.000	ok
 Heart of the Townsfolk	镇民之心	4	4	4	4	1.000	ok
-Urgent T Corp. Gangster	焦急的T公司黑帮成员	4	4	4	4	1.000	ok
+Urgent T Corp. Gangster	焦急的T公司黑帮成员	4	4	1	1	1.000	ok
 Veteran Edgar Family Butler	资深的埃德加家族管家	4	4	4	4	1.000	ok
 Coagulated Dream	凝结的梦	4	4	4	4	1.000	ok
 Gift Sack	礼物袋	4	4	6	4	0.667	weak
@@ -2090,7 +2090,7 @@ Tremor - Superposition	震颤-叠加	0	7	7	7	1.000	ok
 Microprecision Time Acceleration	超精密时间加速	3	4	3	3	1.000	ok
 Helpless Tears	无能为力之泪	3	4	5	4	0.800	weak
 Desperado	亡命之徒	3	4	5	3	0.600	weak
-Great Mountain	坚如泰山	5	2	5	2	0.400	suspect
+Great Mountain	坚如泰山	5	2	5	3	0.600	weak
 Umbrella Splinters	雨伞碎片	3	4	4	4	1.000	ok
 Dhyāna	禅那	0	7	7	7	1.000	ok
 Damage Taken Down	受到伤害降低	4	3	4	3	0.750	weak
@@ -2113,7 +2113,7 @@ N Corp. Seal	N公司印章	3	4	4	3	0.750	weak
 Shell Sea Runner	壳海狂奔者	3	4	4	4	1.000	ok
 Bongybug	小凤虫	3	4	4	4	1.000	ok
 Pink Shoes Enchantee	粉红鞋魅惑之人	3	4	3	3	1.000	ok
-Rustic-sounding Tingtanger	土里土气的豆豆帮成员	6	1	6	1	0.167	suspect
+Rustic-sounding Tingtanger	土里土气的豆豆帮成员	6	1	1	1	1.000	ok
 Lobotomy E.G.O::Sloshing	脑叶公司E.G.O::荡漾	0	7	6	5	0.833	weak
 Refracted Fairy Wine	折射的精灵酒	4	3	3	3	1.000	ok
 The Unloving	无法去爱	3	4	3	3	1.000	ok
@@ -2176,7 +2176,7 @@ Kromer the Attempted Protoplast	欲成原初的克罗默	3	3	3	3	1.000	ok
 S-08-04-01	S-08-04-01	3	3	3	3	1.000	ok
 Brazen Bull - Tearful	黄铜公牛 - 流泪	0	6	6	6	1.000	ok
 An Ampule to Use	使用再生安瓿。	3	3	3	2	0.667	weak
-Factory Laborer	工厂的工人	3	3	4	3	0.750	weak
+Factory Laborer	工厂的工人	3	3	3	2	0.667	weak
 Recurring Faith and Promise	循环的信念与承诺	3	3	3	3	1.000	ok
 Shade of Reflection [Rouge]	映射[红色]	0	6	6	6	1.000	ok
 Shade of Reflection [Bleu]	映射[蓝色]	0	6	6	6	1.000	ok
@@ -2378,7 +2378,7 @@ Pallidified Thing-Shield	苍白之物-盾	3	3	3	3	1.000	ok
 Pallidified Thing-Club	苍白之物-棍	3	3	3	3	1.000	ok
 Pallidified Thing-Pirate	苍白之物-海盗	3	3	3	3	1.000	ok
 Pallidified Thing-Hook	苍白之物-钩	3	3	3	3	1.000	ok
-Scared T Corp. Gangster	胆怯的T公司黑帮成员	3	3	3	3	1.000	ok
+Scared T Corp. Gangster	胆怯的T公司黑帮成员	3	3	1	1	1.000	ok
 Disgraced Bloodbag	堕落的血袋	3	3	3	3	1.000	ok
 Despairing Bloodbag	绝望的血袋	3	3	3	3	1.000	ok
 Impaling Spear	贯穿之枪	3	3	3	3	1.000	ok
@@ -2417,8 +2417,8 @@ Projection Rewards	投影度奖励	3	3	3	3	1.000	ok
 Selected Adversities	选择制约	1	5	1	1	1.000	noise
 Swordplay of the Homeland [Sal] - Shift Battleform	本国剑术[肉]-姿态变化	0	6	6	6	1.000	ok
 Tigermark Round Reload	虎标弹装填	3	3	3	3	1.000	ok
-Great Mountain	安若泰山	5	1	5	1	0.200	suspect
-Stubbornness	固执己见	3	3	3	1	0.333	suspect
+Great Mountain	安若泰山	5	1	5	0	0.000	noise
+Stubbornness	固执己见	3	3	3	0	0.000	noise
 Joy of Execution	处刑的欢喜	3	3	3	3	1.000	ok
 Cornering	无处可逃	2	4	2	1	0.500	suspect
 Dueling Request	决斗委托	2	4	3	2	0.667	weak
@@ -2591,7 +2591,7 @@ Cannot Enhance	无法强化	2	3	2	1	0.500	suspect
 Before Entry	探索前	3	2	3	1	0.333	suspect
 Biting Wind	刺骨寒风	3	2	3	1	0.333	suspect
 Tier 3 + Tier 3 => Tier 3	3级 + 3级 => 3级	0	5	5	5	1.000	ok
-99%	99%	0	5	6	5	0.833	weak
+99%	99%	0	5	6	6	1.000	ok
 Clear Canto VI	通过第6章	2	3	5	2	0.400	suspect
 Converted to Cost	兑换为经费	2	3	2	1	0.500	suspect
 Refraction Railway Theme Pack	折射轨道主题卡包	1	4	3	3	1.000	ok
@@ -2599,7 +2599,7 @@ Weekly Projection Cap	每周可获得的投影度	2	3	2	2	1.000	ok
 Current Theme Pack-Exclusive	当前主题卡包限定	3	2	3	2	0.667	noise
 Brutal Stab	剜出	1	4	1	1	1.000	ok
 Brainwave Focus	脑波集束	2	3	2	2	1.000	ok
-Broken Spirit	万念俱灰	2	3	2	1	0.500	suspect
+Broken Spirit	万念俱灰	2	3	2	0	0.000	noise
 Hustle	推波助澜	3	2	5	1	0.200	suspect
 Gambit	胜负手	4	1	10	1	0.100	suspect
 Dimensional Demon Edge	次元魔刃	2	3	3	3	1.000	ok
@@ -2977,7 +2977,7 @@ Mental Psychosis II	精神错乱II	2	2	2	2	1.000	ok
 Nerve Acceleration II	神经加速II	2	2	2	2	1.000	ok
 SP Fatigue II	理智枯竭II	2	2	2	2	1.000	ok
 Hunger-Rage	饥饿-暴怒	2	2	2	2	1.000	ok
-Curio	探究对象	2	2	214	2	0.009	suspect
+Curio	探究对象	2	2	210	2	0.010	suspect
 Glimpse of Precognition	瞬间的预知	2	2	2	2	1.000	ok
 Force Redistribution	战力的再分配	2	2	2	2	1.000	ok
 Psychological Elation	精神昂扬	2	2	2	2	1.000	ok
@@ -3137,8 +3137,8 @@ Tense Kurokumo Henchman	紧张的黑云会成员	2	2	2	2	1.000	ok
 Adept Kurokumo Henchwoman	娴熟的黑云会成员	2	2	2	2	1.000	ok
 Tired Kurokumo Henchwoman	昏昏欲睡的黑云会成员	2	2	2	2	1.000	ok
 Kurokumo Clan Captain Jun	黑云会 副会长 俊	2	2	2	2	1.000	ok
-Fiery Veteran	暴躁的残兵	3	1	3	1	0.333	suspect
-Puzzled Veteran	惊讶的残兵	2	2	2	2	1.000	ok
+Fiery Veteran	暴躁的残兵	3	1	1	1	1.000	ok
+Puzzled Veteran	惊讶的残兵	2	2	1	1	1.000	ok
 Razor-sharp Veteran	锋利的残兵	2	2	2	2	1.000	ok
 Hardened Veteran	变强的残兵	2	2	2	2	1.000	ok
 Embittered Veteran	残忍的残兵	2	2	2	2	1.000	ok
@@ -3227,7 +3227,7 @@ Self-charging	自行充能	2	2	2	2	1.000	ok
 Ressentiment	无名怨愤	2	2	2	2	1.000	ok
 Raring to Graze	准备吃草	2	2	2	2	1.000	ok
 Breach Defense	突破防线	1	3	1	1	1.000	ok
-Taciturn	默默行事	3	1	3	1	0.333	suspect
+Taciturn	默默行事	3	1	3	0	0.000	noise
 Highest Honor	无上荣光	2	2	2	1	0.500	suspect
 Cantillation	诵经	1	3	1	1	1.000	ok
 Grasping Vulnerabilities	弱点洞悉	2	2	2	2	1.000	ok
@@ -3602,7 +3602,7 @@ Fusion Available	可合成	1	2	1	1	1.000	ok
 Tiantui Star's Blade - Overheat	天退星刀 过热	0	3	3	3	1.000	ok
 Stawchnesh	觉乌	1	2	1	1	1.000	ok
 Pwuckinesh	觉乌	1	2	1	1	1.000	ok
-Respiration	喘息未定	2	1	2	1	0.500	suspect
+Respiration	喘息未定	2	1	2	0	0.000	noise
 Radio Comms	无线通讯	1	2	1	1	1.000	ok
 Divide in Two	一刀两断	1	2	1	1	1.000	ok
 Military Mindset	军人精神	1	2	1	1	1.000	ok
@@ -4139,7 +4139,7 @@ Fragment of Allurement	魅惑残片	1	1	1	1	1.000	ok
 Bio-venom Vial+	生物剧毒药瓶+	0	2	2	2	1.000	ok
 Venomous Skin+	剧毒外皮+	0	2	2	2	1.000	ok
 Sour Liquor Aroma+	酸味的酒香+	0	2	2	2	1.000	ok
-Mirror Tactile Synaesthesia	镜触觉通感	1	1	1	1	1.000	ok
+Mirror Tactile Synaesthesia	镜触觉通感	1	1	1	0	0.000	noise
 Fragment of Inertia	惰性残片	1	1	1	1	1.000	ok
 Bone Stake	骨桩	1	1	1	1	1.000	ok
 Ragged Umbrella+	破损的雨伞+	0	2	2	2	1.000	ok
@@ -4322,7 +4322,7 @@ Harmonics+	泛音+	0	2	2	2	1.000	ok
 Walking Bass+	行进贝斯+	0	2	2	2	1.000	ok
 Pink Bouquet	粉红花束	1	1	1	1	1.000	ok
 Royal Jelly Perfume	蜂王浆香水	1	1	1	1	1.000	ok
-Whale of the Porous Hand Mermaid	穴掌鲸人鱼	0	2	3	2	0.667	weak
+Whale of the Porous Hand Mermaid	穴掌鲸人鱼	0	2	2	2	1.000	ok
 Whale of the Porous Hand Soldier Mermaid	穴掌鲸 士兵人鱼	0	2	2	2	1.000	ok
 Twinhook Pirates First Mate Smee	双钩海盗团大副 斯米	0	2	2	2	1.000	ok
 Terrified K Corp. Checkpoint Security	惊恐的K公司检查站安保人员	0	2	2	2	1.000	ok
@@ -4803,7 +4803,7 @@ Muscle in Charge	行动队长	1	1	1	1	1.000	ok
 Friction Point	砺火燃薪	1	1	1	1	1.000	ok
 Frivolous Jokes	无心戏言	1	1	1	1	1.000	ok
 Syndicate Payback	帮派清算	1	1	1	1	1.000	ok
-Self-neglect	不顾己身	1	1	1	1	1.000	ok
+Self-neglect	不顾己身	1	1	1	0	0.000	noise
 Determination to Survive	生存决意	1	1	1	1	1.000	ok
 By the Manual	照章办事	1	1	1	1	1.000	ok
 Dark Cloud Swordsmanship	黑云剑术	1	1	1	1	1.000	ok
@@ -4843,7 +4843,7 @@ Protection Request Received	受理保护委托	1	1	2	1	0.500	suspect
 Dimensional Refraction Edge - Type: Blade Mk7	次元折射刃- Type: Blade Mk7	0	2	2	2	1.000	ok
 Train Cleanup Manual	传递列车清扫手册	1	1	1	1	1.000	ok
 Before the Tea Cools...	在茶冷掉之前…	1	1	1	1	1.000	ok
-In Times Like These...	越战越勇…	1	1	1	1	1.000	ok
+In Times Like These...	越战越勇…	1	1	1	0	0.000	noise
 Drinking Boast	英勇事迹	1	1	1	1	1.000	ok
 Incandescent Enlightenment	开悟之光	1	1	1	1	1.000	ok
 Missionary of Knowledge	传道使命	1	1	1	1	1.000	ok
@@ -5193,7 +5193,7 @@ Lenient Rule Fulfillment	散漫的执行	1	1	1	1	1.000	ok
 Natural Style	本色	1	1	1	1	1.000	ok
 Threa...	威…	1	1	1	1	1.000	ok
 Opp... tta	机…了	1	1	1	1	1.000	ok
-Tou...	砰…	1	1	1	1	1.000	ok
+Tou...	砰…	1	1	1	0	0.000	noise
 Dir...	被指…	1	1	1	1	1.000	ok
 Pred...	捕…	1	1	1	1	1.000	ok
 Aggressive Hunting Techniques	激进的狩猎技巧	1	1	1	1	1.000	ok
@@ -6002,8 +6002,8 @@ Mirror of the Lake - Normal	湖之镜 - 普通	0	1	1	1	1.000	ok
 Mirror of the Lake - Hard	湖之镜 - 困难	0	1	1	1	1.000	ok
 Mirror of the Wuthering - Simulation	呼啸之镜 - 模拟	0	1	1	1	1.000	ok
 Mirror of the Wuthering - Ritornello	呼啸之镜 - Ritornello	0	1	1	1	1.000	ok
-Mirror of the Dreaming [NORMAL]	梦中之镜[普通]	0	1	1	1	1.000	ok
-Mirror of the Dreaming [HARD]	梦中之镜[困难]	0	1	1	1	1.000	ok
+Mirror of the Dreaming [NORMAL]	梦中之镜[普通]	0	1	1	0	0.000	noise
+Mirror of the Dreaming [HARD]	梦中之镜[困难]	0	1	1	0	0.000	noise
 Mirror of Immortality [NORMAL]	永生之镜 [NORMAL]	0	1	1	1	1.000	ok
 Mirror of Immortality [HARD]	永生之镜 [HARD]	0	1	1	1	1.000	ok
 Mirror of Names and Spiders [NORMAL]	名与蛛之镜 [NORMAL]	0	1	1	1	1.000	ok

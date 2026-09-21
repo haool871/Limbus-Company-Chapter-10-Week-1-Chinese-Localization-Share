@@ -8,24 +8,25 @@ ON	ON	13580	18	MirrorDungeonUI_5_InfinityFloor.json	R1 功能词
 ???	？？？	0	3157	Enemies-a1c5p3.json	R1 空/纯符号
 30	30	1213	1306	MirrorDungeonUI_5.json	R1 纯数字/数值
 15	15	1230	1122	MirrorDungeonUI_5.json	R1 纯数字/数值
-Offense Level Up	攻击等级强化	296	8	BattleKeywords_Mirror3.json	R4 同英多译劣势（正解 攻击等级提升 prec=0.94，本条 0.03）
-Normal	Normal	273	1	MirrorDungeonUI_5.json	R2 同形且中文语料不用（非术语/占位符）
+Offense Level Up	攻击等级强化	296	8	BattleKeywords_Mirror3.json	R4 同英多译劣势（正解 攻击等级提升 prec=0.95，本条 0.03）
 90%	90%	0	253	MirrorDungeonUI_4.json	R1 纯数字/数值
 Starlight	星芒奖励	145	34	MirrorDungeonUI_3.json	R4 同英多译劣势（正解 星芒 prec=0.98，本条 0.27）
 60%	60%	0	161	MirrorDungeonUI_4.json	R1 纯数字/数值
-Defense Level Up	防御等级强化	139	6	BattleKeywords_Mirror3.json	R4 同英多译劣势（正解 防御等级提升 prec=0.92，本条 0.04）
+Defense Level Up	防御等级强化	139	6	BattleKeywords_Mirror3.json	R4 同英多译劣势（正解 防御等级提升 prec=0.96，本条 0.04）
 EXTREME	EXTREME	37	1	MirrorDungeonUI_5.json	R2 同形且中文语料不用（非术语/占位符）
 Defense Power Up	守备威力强化	34	2	BattleKeywords_Mirror3.json	R4 同英多译劣势（正解 忍耐 prec=0.94，本条 0.06）
 Morale Boost	提振士气	28	3	Passives.json	R4 同英多译劣势（正解 昂扬 prec=0.96，本条 0.04）
+Fairy Queen	精灵女王	13	16	AbnormalityGuides.json	R3 零共现（英中出现、中文从不共现）
 REMINISCENCE	REMINISCENCE	25	2	SeasonTitle.json	R2 同形且中文语料不用（非术语/占位符）
 OBLIVION	OBLIVION	22	2	SeasonTitle.json	R2 同形且中文语料不用（非术语/占位符）
-Max Speed +1	[战斗]	0	23		R4 同英多译劣势（正解 最大速度值+1 prec=0.96，本条 0.04）
+Max Speed +1	[战斗]	0	23		R4 同英多译劣势（正解 最大速度值+1 prec=1.00，本条 0.04）
 ??-??-??-??	??-??-??-??	0	20	AbnormalityGuides-walpu4.json	R1 空/纯符号
-Simulation	难易度：模拟	18	2	MirrorDungeonUI_4.json	R4 同英多译劣势（正解 模拟 prec=0.87，本条 0.09）
+Simulation	难易度：模拟	18	2	MirrorDungeonUI_4.json	R4 同英多译劣势（正解 模拟 prec=0.91，本条 0.09）
 CLEAR ALL CATHY	CLEAR ALL CATHY	11	2	SeasonTitle.json	R2 同形且中文语料不用（非术语/占位符）
 infinity	infinity	11	1	MirrorDungeonUI_5_InfinityFloor.json	R2 同形且中文语料不用（非术语/占位符）
 BON VOYAGE	BON VOYAGE	10	2	SeasonTitle.json	R2 同形且中文语料不用（非术语/占位符）
 ORIENTATION	ORIENTATION	8	2	SeasonTitle.json	R2 同形且中文语料不用（非术语/占位符）
+Great Mountain	安若泰山	5	1	Passives.json	R3 零共现（英中出现、中文从不共现）
 부적_떼기	부적_떼기	0	5	ActionEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）
 99%	99%	0	5	MirrorDungeonUI_5.json	R1 纯数字/数值
 환_도박	환_도박	0	3	ActionEvents-a1c8p2.json	R2 韩文内部键（英中两侧均韩文）

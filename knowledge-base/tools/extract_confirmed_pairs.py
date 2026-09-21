@@ -77,6 +77,10 @@ def main() -> int:
             continue
         if e == c:
             continue
+        # ⚠️ en/cn 可能含真换行（多行文本）。若不转义，一条记录会横跨多行，
+        # 直接破坏 TSV 结构（实测曾产生 207 行无制表符的碎片行）。
+        e = e.replace("\r\n", "\\n").replace("\n", "\\n")
+        c = c.replace("\r\n", "\\n").replace("\n", "\\n")
         pairs[(e, c)] += 1
         src.setdefault((e, c), f)
 
