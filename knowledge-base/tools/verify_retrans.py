@@ -242,6 +242,69 @@ def check_one(rel, verbose=False):
             "first_person": first_person}, errs, warns
 
 
+def redline_check(rel):
+    """红线：补丁绝不能改写零协基础包里已有的非空原文。
+
+    背景：补丁与基础包同为「覆盖文件」时，同 id 记录的字段值理应一致；
+    若不一致，说明我们擅自改了零协的译文（历史上踩过）。
+    例外：零协该字段为空/缺失 → 那是我们在补缺口，允许。
+    """
+    bp = os.path.join(BASE, rel)
+    pp = os.path.join(PATCH, rel)
+    if not os.path.exists(bp):
+        return []                      # 零协没有这个文件 → 全是我们新增的
+    try:
+        B = load(bp)
+        A = load(pp)
+    except Exception as e:
+        return [f"读取失败：{e}"]
+    bl = B.get("dataList") if isinstance(B, dict) else B
+    al = A.get("dataList") if isinstance(A, dict) else A
+    if not isinstance(bl, list) or not isinstance(al, list):
+        return []
+
+    bmap = {}
+    for i, r in enumerate(bl):
+        if isinstance(r, dict):
+            bmap.setdefault(r.get("id") if r.get("id") is not None else r.get("key"), []).append((i, r))
+
+    out = []
+    for i, ra in enumerate(al):
+        if not isinstance(ra, dict):
+            continue
+        k = ra.get("id") if ra.get("id") is not None else ra.get("key")
+        cands = bmap.get(k) or []
+        rb = None
+        for pos, r in cands:
+            if pos == i:
+                rb = r
+                break
+        if rb is None and cands:
+            rb = cands[0][1]
+        if rb is None:
+            continue
+        _walk_redline(ra, rb, f"#{i} {k}", out)
+    return out
+
+
+def _walk_redline(pv, bv, path, out):
+    if isinstance(bv, str):
+        if bv.strip() and pv != bv:
+            out.append(f"{path} 零协原文被改写：\n         零协 {bv[:70]!r}\n         补丁 {str(pv)[:70]!r}")
+    elif isinstance(bv, dict) and isinstance(pv, dict):
+        for f, v in bv.items():
+            if f in pv:
+                _walk_redline(pv[f], v, f"{path}.{f}", out)
+    elif isinstance(bv, list) and isinstance(pv, list):
+        bi = {e.get("index"): e for e in bv if isinstance(e, dict) and "index" in e}
+        for i, e in enumerate(pv):
+            if not isinstance(e, dict):
+                continue
+            b = bi.get(e.get("index")) or (bv[i] if i < len(bv) and isinstance(bv[i], dict) else None)
+            if b:
+                _walk_redline(e, b, f"{path}[{e.get('index', i)}]", out)
+
+
 def collect(mode):
     if mode == "story":
         root = os.path.join(PATCH, "StoryData")
@@ -276,8 +339,13 @@ def main() -> int:
 
     total_err = total_warn = 0
     bad_files = []
+    redline = []
     for rel in targets:
         info, errs, warns = check_one(rel, args.verbose)
+        rl = redline_check(rel)
+        if rl:
+            errs = list(errs) + [f"🚨 红线：改写了零协原文（{len(rl)} 处）"] + rl[:5]
+            redline.append((rel, len(rl)))
         if info is None:
             print(f"❌ {errs[0]}")
             total_err += 1
@@ -297,6 +365,12 @@ def main() -> int:
             bad_files.append(rel)
 
     print(f"\n合计：错误 {total_err} / 警告 {total_warn}（{len(targets)} 个文件）")
+    if redline:
+        print(f"🚨 有 {len(redline)} 个文件改写了零协原文——这是绝对红线，必须回滚：")
+        for rel, n in redline:
+            print(f"  - {rel}（{n} 处）")
+    else:
+        print("✅ 红线：未改写零协任何已有原文")
     if bad_files:
         print("有错误的文件：")
         for f in bad_files:
