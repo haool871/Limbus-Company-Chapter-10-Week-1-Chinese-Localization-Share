@@ -24,7 +24,33 @@ _HERE = os.path.dirname(os.path.abspath(__file__))
 _KB = os.path.dirname(_HERE)
 WORKSPACE = os.path.dirname(_KB)
 
-BASE = os.path.join(WORKSPACE, "LimbusLocalize_latest", "LimbusCompany_Data", "Lang", "LLC_zh-CN")
+def _pick_base() -> str:
+    """零协基准包：取 version 最大的 LimbusLocalize_latest*。
+
+    ⚠️ 不要写死目录名。这里曾硬编码成 `LimbusLocalize_latest`（不带日期的那份 2026090501），
+    一旦旧包被清理，本脚本就会静默读到不存在的路径、口吻检查全部失去依据。
+    """
+    import glob
+    env = os.environ.get("LIMBUS_BASE_PACK")
+    if env:
+        return os.path.join(WORKSPACE, env, "LimbusCompany_Data", "Lang", "LLC_zh-CN")
+    best, best_v = None, -1
+    for d in sorted(glob.glob(os.path.join(WORKSPACE, "LimbusLocalize_latest*"))):
+        try:
+            with open(os.path.join(d, "LimbusCompany_Data", "Lang", "LLC_zh-CN",
+                                   "Info", "version.json"), encoding="utf-8-sig") as fh:
+                v = json.load(fh).get("version", 0)
+        except Exception:
+            v = 0
+        if v > best_v:
+            best, best_v = d, v
+    return os.path.join(best or WORKSPACE, "LimbusCompany_Data", "Lang", "LLC_zh-CN")
+
+
+BASE = _pick_base()
+# 基准包必须存在，否则「0 告警」是假通过
+if not os.path.isdir(BASE):
+    raise SystemExit(f"❌ 找不到零协基准包：{BASE}")
 PATCH = os.path.join(_KB, "patch_v2")
 
 # kr model 名 -> 中文名（判定说话人用 model，因为 teller 也会被本地化）
