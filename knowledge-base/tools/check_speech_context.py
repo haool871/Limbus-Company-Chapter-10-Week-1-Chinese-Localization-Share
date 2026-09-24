@@ -19,39 +19,14 @@ import collections
 import json
 import os
 import sys
+import localization_core as C
 
 _HERE = os.path.dirname(os.path.abspath(__file__))
 _KB = os.path.dirname(_HERE)
 WORKSPACE = os.path.dirname(_KB)
 
-def _pick_base() -> str:
-    """零协基准包：取 version 最大的 LimbusLocalize_latest*。
-
-    ⚠️ 不要写死目录名。这里曾硬编码成 `LimbusLocalize_latest`（不带日期的那份 2026090501），
-    一旦旧包被清理，本脚本就会静默读到不存在的路径、口吻检查全部失去依据。
-    """
-    import glob
-    env = os.environ.get("LIMBUS_BASE_PACK")
-    if env:
-        return os.path.join(WORKSPACE, env, "LimbusCompany_Data", "Lang", "LLC_zh-CN")
-    best, best_v = None, -1
-    for d in sorted(glob.glob(os.path.join(WORKSPACE, "LimbusLocalize_latest*"))):
-        try:
-            with open(os.path.join(d, "LimbusCompany_Data", "Lang", "LLC_zh-CN",
-                                   "Info", "version.json"), encoding="utf-8-sig") as fh:
-                v = json.load(fh).get("version", 0)
-        except Exception:
-            v = 0
-        if v > best_v:
-            best, best_v = d, v
-    return os.path.join(best or WORKSPACE, "LimbusCompany_Data", "Lang", "LLC_zh-CN")
-
-
-BASE = _pick_base()
-# 基准包必须存在，否则「0 告警」是假通过
-if not os.path.isdir(BASE):
-    raise SystemExit(f"❌ 找不到零协基准包：{BASE}")
-PATCH = os.path.join(_KB, "patch_v2")
+BASE = None
+PATCH = None
 
 # kr model 名 -> 中文名（判定说话人用 model，因为 teller 也会被本地化）
 MODELS = {
@@ -79,12 +54,8 @@ def load(path: str):
     try:
         with open(path, encoding="utf-8-sig") as fh:
             return json.load(fh).get("dataList") or []
-    except Exception:
-        return []
-
-
-def index(path: str) -> dict:
-    return {str(r.get("id")): r for r in load(path) if isinstance(r, dict)}
+    except Exception as exc:
+        raise C.DataError(f"无法读取 {path}: {exc}") from exc
 
 
 def mine_base() -> tuple[dict, dict]:
@@ -145,6 +116,8 @@ def check(files: list[str] | None, base_info: dict) -> int:
                 if name.endswith(".json"):
                     targets.append(os.path.join(dp, name))
 
+    if not targets:
+        raise C.DataError("没有待检查文件；未执行口吻检查")
     problems = []
     scanned = 0
     for path in targets:
@@ -172,7 +145,10 @@ def check(files: list[str] | None, base_info: dict) -> int:
                     if w in text:
                         problems.append((rel, rec.get("id"), who, w, text))
 
-    print(f"扫描台词 {scanned} 句，发现可疑 {len(problems)} 处")
+    if not scanned:
+        print("不适用：所选文件无可识别角色台词，未执行口吻判定")
+        return 0
+    print(f"扫描台词 {scanned} 句，发现可疑 {len(problems)} 处（线索，须人工判断）")
     for rel, rid, who, w, text in problems:
         print(f"  [{rel}#{rid}] {who} 用了不属其习惯的「{w}」")
         print(f"      {text[:110]}")
@@ -184,7 +160,18 @@ def main() -> int:
     ap.add_argument("--files", nargs="*", default=None)
     ap.add_argument("--table", action="store_true")
     ap.add_argument("--quiet", action="store_true")
+    ap.add_argument("--batch")
     args = ap.parse_args()
+    global BASE, PATCH
+    if args.table:
+        saved = C.state().get("baseline")
+        BASE = str((C.KB / saved / "base") if saved else C.resolve_base())
+    else:
+        batch = C.active_batch(args.batch)
+        import batch_ops as B
+        meta = B.load_batch(batch)
+        PATCH = str(batch / "patch")
+        BASE = str(__import__("pathlib").Path(meta["new_snapshot"]) / "base")
 
     dist, total = mine_base()
     if not total:
@@ -199,4 +186,7 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    try:
+        sys.exit(main())
+    except (C.DataError, OSError) as exc:
+        print(f"未执行：{exc}", file=sys.stderr); sys.exit(2)

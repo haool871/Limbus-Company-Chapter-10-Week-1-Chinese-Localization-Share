@@ -23,6 +23,8 @@ import os
 import re
 import sys
 from typing import Any, Iterable
+import collections
+import localization_core as C
 
 # ---------------------------------------------------------------- 路径配置
 
@@ -38,36 +40,8 @@ OFFICIAL_LOCALIZE = os.path.join(
 # 工作区根（汉化包来源），默认取本文件上溯两级
 _KB_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WORKSPACE = os.environ.get("LIMBUS_WORKSPACE", os.path.dirname(_KB_DIR))
-def _pick_base_pack() -> str:
-    """零协基础包目录名。
-
-    优先环境变量 LIMBUS_BASE_PACK；否则扫描工作区里所有
-    LimbusLocalize_latest*，按 Info/version.json 的 version 取最大的那个。
-
-    ⚠️ 不要写死版本号——零协每次更新都会换目录名，写死会导致
-       零协一升级、旧目录一删，全部工具就指向不存在的路径。
-    """
-    env = os.environ.get("LIMBUS_BASE_PACK")
-    if env:
-        return env
-    import glob
-    best, best_v = None, -1
-    for d in sorted(glob.glob(os.path.join(WORKSPACE, "LimbusLocalize_latest*"))):
-        vj = os.path.join(d, "LimbusCompany_Data", "Lang", "LLC_zh-CN",
-                          "Info", "version.json")
-        try:
-            with open(vj, encoding="utf-8-sig") as fh:
-                v = json.load(fh).get("version", 0)
-        except Exception:
-            v = 0
-        if v > best_v:
-            best, best_v = os.path.basename(d), v
-    return best or "LimbusLocalize_latest"
-
-
-CN_LOCALIZE = os.path.join(
-    WORKSPACE, _pick_base_pack(), "LimbusCompany_Data", "Lang", "LLC_zh-CN",
-)
+_snapshot = os.environ.get("LIMBUS_SNAPSHOT") or C.state().get("baseline")
+CN_LOCALIZE = str(C.KB / _snapshot / "base") if _snapshot else str(C.resolve_base())
 
 LANG_PREFIX = {"kr": "KR_", "en": "EN_", "jp": "JP_"}
 LANG_DIR = {
@@ -77,6 +51,15 @@ LANG_DIR = {
     "jp": os.path.join(OFFICIAL_LOCALIZE, "jp"),
 }
 LANGS = ("cn", "kr", "en", "jp")
+# Pin queries to a recorded baseline unless a snapshot is explicitly selected.
+_snapshot = os.environ.get("LIMBUS_SNAPSHOT") or C.state().get("baseline")
+if _snapshot:
+    from pathlib import Path
+    _root = Path(_snapshot)
+    if not _root.is_absolute():
+        _root = C.KB / _root
+    LANG_DIR = {"cn": str(_root / "base"), **{l: str(_root / l) for l in ("kr", "en", "jp")}}
+
 
 # 索引缓存位置
 INDEX_PATH = os.path.join(_KB_DIR, "data", "_file_index.json")
@@ -98,9 +81,19 @@ def logical_name(lang: str, relpath: str) -> str:
 
 def build_index(force: bool = False) -> dict[str, dict[str, str]]:
     """扫描四种语言目录，返回 {逻辑名: {lang: 实际相对路径}}。"""
-    if not force and os.path.exists(INDEX_PATH):
-        with open(INDEX_PATH, encoding="utf-8") as fh:
-            return json.load(fh)
+    for root in LANG_DIR.values():
+        if not os.path.isdir(root):
+            raise C.DataError(f"语料目录不存在: {root}")
+    signature = {lang: {"root": root, "files": sorted(
+        (os.path.relpath(os.path.join(dp,f),root), os.stat(os.path.join(dp,f)).st_size,
+         os.stat(os.path.join(dp,f)).st_mtime_ns)
+        for dp, _dirs, files in os.walk(root) for f in files if f.endswith(".json"))}
+        for lang,root in LANG_DIR.items()}
+    signature_hash = C.digest(__import__("json").dumps(signature,sort_keys=True).encode())
+    meta_path = INDEX_PATH + ".meta.json"
+    if not force and os.path.exists(INDEX_PATH) and os.path.exists(meta_path):
+        if C.load(meta_path).get("signature") == signature_hash:
+            return C.load(INDEX_PATH)
 
     index: dict[str, dict[str, str]] = {}
     for lang in LANGS:
@@ -119,6 +112,7 @@ def build_index(force: bool = False) -> dict[str, dict[str, str]]:
     os.makedirs(os.path.dirname(INDEX_PATH), exist_ok=True)
     with open(INDEX_PATH, "w", encoding="utf-8") as fh:
         json.dump(index, fh, ensure_ascii=False, indent=0, sort_keys=True)
+    C.save(meta_path, {"signature": signature_hash, "roots": LANG_DIR})
     return index
 
 
@@ -129,10 +123,10 @@ def load_file(lang: str, relpath: str) -> list[dict[str, Any]]:
     """读一个 json，统一返回记录列表。"""
     path = os.path.join(LANG_DIR[lang], relpath)
     try:
-        with open(path, encoding="utf-8") as fh:
+        with open(path, encoding="utf-8-sig") as fh:
             data = json.load(fh)
-    except Exception:
-        return []
+    except Exception as exc:
+        raise C.DataError(f"无法读取语料 {path}: {exc}") from exc
     if isinstance(data, dict):
         for key in ("dataList", "list", "data"):
             if isinstance(data.get(key), list):
@@ -156,28 +150,21 @@ def text_fields(rec: dict[str, Any], keep_meta: bool = False) -> dict[str, str]:
 
     keep_meta=True 时额外保留 model/teller 等"署名"字段（说话人分析需要）。
     """
-    skip = {"id", "key", "Id", "ID", "scene", "code", "type", "category"}
-    if not keep_meta:
-        skip |= {"model", "teller"}
-    out: dict[str, str] = {}
-    for k, v in rec.items():
-        if k in skip:
+    out = {}
+    # Keep exact nested field paths instead of flattening by traversal order.
+    for path, _logical, value, _ambiguous in C.text_leaves(rec):
+        if not keep_meta and any(k in ("model", "teller") for k in path):
             continue
-        if isinstance(v, str) and v.strip():
-            out[k] = v
-        elif isinstance(v, list):
-            # 例如 options / levelList：递归收集其中的字符串
-            stack = list(v)
-            i = 0
-            while stack:
-                item = stack.pop()
-                if isinstance(item, str) and item.strip():
-                    out[f"{k}[{i}]"] = item
-                    i += 1
-                elif isinstance(item, dict):
-                    stack.extend(item.values())
-                elif isinstance(item, list):
-                    stack.extend(item)
+        if not value.strip():
+            continue
+        key = ""
+        for item in path:
+            key += f"[{item}]" if isinstance(item,int) else ("." if key else "") + item
+        out[key] = value
+    if keep_meta:
+        for key in ("model", "teller"):
+            if isinstance(rec.get(key),str):
+                out[key] = rec[key]
     return out
 
 
@@ -199,16 +186,18 @@ def align(logical: str) -> dict[str, list[dict[str, Any]]]:
     out: dict[str, list[dict[str, Any]]] = {}
     for lang, rel in entry.items():
         recs = load_file(lang, rel)
-        merged: dict[str, dict[str, Any]] = {}
-        order: list[str] = []
+        seen = collections.Counter()
+        totals = collections.Counter(C.identity(rec) for rec in recs)
+        aligned = []
         for i, rec in enumerate(recs):
-            key = record_key(rec) or f"#{i}"
-            if key not in merged:
-                order.append(key)
-                merged[key] = {"_id": key}
-            for fk, fv in text_fields(rec, keep_meta=True).items():
-                merged[key].setdefault(fk, fv)
-        out[lang] = [merged[k] for k in order]
+            identity = C.identity(rec)
+            occurrence = seen[identity]; seen[identity] += 1
+            token = [*identity,occurrence]
+            if totals[identity] > 1 or identity[0] == "position":
+                token += ["ambiguous", lang]
+            key = json.dumps(token,ensure_ascii=False)
+            aligned.append({"_id":key, "_position":i, **text_fields(rec, keep_meta=True)})
+        out[lang] = aligned
     return out
 
 

@@ -13,6 +13,10 @@
 """
 from __future__ import annotations
 
+if __name__ == "__main__":
+    raise SystemExit("旧批次入口已退役。请读 workflow/版本更新流程.md，使用 snapshot / scope / batch；不会写入旧目录。")
+
+
 import collections
 import json
 import os

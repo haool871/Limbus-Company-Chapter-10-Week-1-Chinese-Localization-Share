@@ -13,3 +13,11 @@ knowledge-base/data/voice_samples.md
 
 # 合并审计报告（7 千余行，每次合并重新生成；工作区 _kb/terms/_review/ 里保留）
 knowledge-base/terms/_review/merge_zeroasso.tsv
+
+# 本机版本基线、批次状态与生成产物不进入源码分发
+knowledge-base/project.json
+knowledge-base/snapshots/
+knowledge-base/batches/
+knowledge-base/archives/
+knowledge-base/out/
+knowledge-base/data/*.meta.json

@@ -9,6 +9,10 @@
   {"T": {"D2002|0": "台词…"}, "S": {"D2002|0": "Heathcliff"}}
 未提供的行自动写 @KEEP@。
 """
+
+if __name__ == "__main__":
+    raise SystemExit("旧批次入口已退役。请读 workflow/版本更新流程.md，使用 snapshot / scope / batch；不会写入旧目录。")
+
 import json, os, re, sys
 
 KB = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))

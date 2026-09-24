@@ -15,6 +15,7 @@ import os
 import pickle
 import re
 import sys
+import localization_core as C
 
 KB = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CORPUS = os.path.join(KB, "data", "corpus.jsonl")
@@ -30,16 +31,23 @@ def build() -> dict:
                 r = json.loads(line)
             except Exception:
                 continue
-            key = (r["f"], r["id"], r["k"])
+            key = (r["f"], r.get("record", r["id"]), r["k"])
+            if r["l"] in idx.get(key, {}):
+                raise ValueError(f"重复语料定位键，拒绝覆盖: {key}；请重导新版 corpus.jsonl")
             idx.setdefault(key, {})[r["l"]] = r["t"]
     with open(CACHE, "wb") as fh:
         pickle.dump(idx, fh, protocol=4)
+    C.save(CACHE + ".meta.json", {"corpus_sha256": C.file_hash(CORPUS)})
     return idx
 
 
 def load() -> dict:
-    if not os.path.exists(CACHE):
+    meta = CACHE + ".meta.json"
+    if not os.path.exists(CACHE) or not os.path.exists(meta):
         return build()
+    if C.load(meta).get("corpus_sha256") != C.file_hash(CORPUS):
+        return build()
+
     with open(CACHE, "rb") as fh:
         return pickle.load(fh)
 
