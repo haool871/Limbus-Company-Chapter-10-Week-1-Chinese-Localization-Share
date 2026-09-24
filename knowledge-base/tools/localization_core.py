@@ -244,8 +244,18 @@ def text_errors(source, target, display_brackets=()):
     if bare_source.startswith('<') and bare_source.endswith('>'):
         if not (bare_target.startswith('<') and bare_target.endswith('>')):
             errors.append('但丁/引擎正文尖括号包裹丢失')
+    # 标签序列已在上面做过逐项相等校验，故嵌套合法性只需跟随原文：
+    # 官方原文本身存在 <color><mark><b><u>…</color></mark></b></u> 这类错序写法时，
+    # 译文原样保留才是对的，不能反过来判译文错误。
+    if not _nesting_errors(source):
+        errors.extend(_nesting_errors(target))
+    return errors
+
+
+def _nesting_errors(text):
+    errors = []
     stack = []
-    for m in TAG.finditer(target):
+    for m in TAG.finditer(text):
         closing, name = m.group(1), m.group(2).lower()
         if m.group().endswith('/>') or name in VOID_TAGS:
             continue
